@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-10T19:34:57.809015Z",
+  "event_creationDate": "2026-01-10T19:47:04.013737Z",
+  "event_endDate": "2026-01-24T17:30:00Z",
+  "event_id": "155806",
+  "event_startDate": "2026-01-10T19:47:04.013749Z",
+  "event_updatedAt": "2026-01-10T20:27:36.495695Z",
+  "folder_dt_utc": "2026-01-10T19:34:57.809015Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1154678",
+    "1154677",
+    "1154679"
+  ],
+  "markets_len": 3,
+  "series_ids": [
+    "10882"
+  ],
+  "series_len": 1,
+  "series_slug": "rugby-champions-cup"
+}

@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1142472",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-09T11:00:29.010338Z",
-  "market_createdAt": "2026-01-09T11:00:29.010338Z",
-  "market_updatedAt": "2026-01-10T14:46:32.128578Z",
-  "market_startDate": "2026-01-09T11:13:52.117086Z",
-  "market_endDate": "2026-01-11T12:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x81074bb6c5af4e302269a82d3dcb995878d646a68607a9809497f2ebecb571cd",
-  "slug": "highest-temperature-in-atlanta-on-january-11-45forbelow",
-  "question": "Will the highest temperature in Atlanta be 45°F or below on January 11?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-09T11:00:29.010338Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-09T11:00:29.010338Z",
+  "market_endDate": "2026-01-11T12:00:00Z",
+  "market_id": "1142472",
+  "market_startDate": "2026-01-09T11:13:52.117086Z",
+  "market_updatedAt": "2026-01-10T20:28:46.524552Z",
+  "question": "Will the highest temperature in Atlanta be 45°F or below on January 11?",
+  "slug": "highest-temperature-in-atlanta-on-january-11-45forbelow"
 }
