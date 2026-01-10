@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1105455",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-04T16:30:02.611173Z",
-  "market_createdAt": "2026-01-04T16:30:02.611173Z",
-  "market_updatedAt": "2026-01-06T14:42:52.527753Z",
-  "market_startDate": "2026-01-04T16:31:19.129109Z",
-  "market_endDate": "2026-01-10T14:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x68c08411a1770a4c9d1a5d639b8b32a096285a8b7041b0c054306c04eed223d3",
-  "slug": "khl-sev-tor-2026-01-10",
-  "question": "KHL: Severstal Cherepovets vs. Torpedo"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-04T16:30:02.611173Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-04T16:30:02.611173Z",
+  "market_endDate": "2026-01-10T14:00:00Z",
+  "market_id": "1105455",
+  "market_startDate": "2026-01-04T16:31:19.129109Z",
+  "market_updatedAt": "2026-01-10T17:10:42.449972Z",
+  "question": "KHL: Severstal Cherepovets vs. Torpedo",
+  "slug": "khl-sev-tor-2026-01-10"
 }

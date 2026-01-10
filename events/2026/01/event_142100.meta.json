@@ -1,22 +1,22 @@
 {
   "entity": "event",
-  "event_id": "142100",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-04T05:00:26.071950Z",
   "event_createdAt": "2026-01-04T05:00:26.07195Z",
   "event_creationDate": "2026-01-04T05:33:30.483029Z",
-  "event_startDate": "2026-01-04T05:33:30.483032Z",
   "event_endDate": "2026-01-17T11:00:00Z",
-  "event_updatedAt": "2026-01-10T14:41:08.360937Z",
-  "markets_len": 3,
+  "event_id": "142100",
+  "event_startDate": "2026-01-04T05:33:30.483032Z",
+  "event_updatedAt": "2026-01-10T17:07:04.474002Z",
+  "folder_dt_utc": "2026-01-04T05:00:26.071950Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1102205",
     "1102206",
     "1102207"
   ],
-  "series_len": 1,
+  "markets_len": 3,
   "series_ids": [
     "10753"
   ],
+  "series_len": 1,
   "series_slug": "cricket-south-africa"
 }

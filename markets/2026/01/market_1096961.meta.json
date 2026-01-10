@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1096961",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-03T15:00:14.592720Z",
-  "market_createdAt": "2026-01-03T15:00:14.59272Z",
-  "market_updatedAt": "2026-01-06T14:37:44.629995Z",
-  "market_startDate": "2026-01-03T15:01:24.589883Z",
-  "market_endDate": "2026-01-10T00:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x53bde3e6f1c2ceb007c9be15c16fa6e62bb33cf9c505a86dd96a03174bf56325",
-  "slug": "nba-nop-was-2026-01-09",
-  "question": "Pelicans vs. Wizards"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-03T15:00:14.592720Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-10 04:30:02+00",
+  "market_createdAt": "2026-01-03T15:00:14.59272Z",
+  "market_endDate": "2026-01-10T00:00:00Z",
+  "market_id": "1096961",
+  "market_startDate": "2026-01-03T15:01:24.589883Z",
+  "market_updatedAt": "2026-01-10T17:11:16.418747Z",
+  "question": "Pelicans vs. Wizards",
+  "slug": "nba-nop-was-2026-01-09"
 }

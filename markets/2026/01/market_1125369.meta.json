@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1125369",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T22:32:32.488952Z",
-  "market_createdAt": "2026-01-06T22:32:32.488952Z",
-  "market_updatedAt": "2026-01-10T14:44:47.5808Z",
-  "market_startDate": "2026-01-07T02:34:20.462025Z",
-  "market_endDate": "2026-01-31T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x42a43c8ff1a48dea74fffc1ef9f29a72f9acaf29af43bd949aa3b8ca0cf5ca58",
-  "slug": "spx-above-6900-jan-2026",
-  "question": "Will S&P 500 (SPX) close over $6,900 on the final trading day of January 2026?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T22:32:32.488952Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T22:32:32.488952Z",
+  "market_endDate": "2026-01-31T21:00:00Z",
+  "market_id": "1125369",
+  "market_startDate": "2026-01-07T02:34:20.462025Z",
+  "market_updatedAt": "2026-01-10T17:08:48.088331Z",
+  "question": "Will S&P 500 (SPX) close over $6,900 on the final trading day of January 2026?",
+  "slug": "spx-above-6900-jan-2026"
 }

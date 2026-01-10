@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1078731",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-01T05:00:06.456927Z",
-  "market_createdAt": "2026-01-01T05:00:06.456927Z",
-  "market_updatedAt": "2026-01-10T14:44:46.937115Z",
-  "market_startDate": "2026-01-01T05:11:15.601358Z",
-  "market_endDate": "2026-01-14T19:30:00Z",
-  "market_closedTime": null,
   "conditionId": "0x00f5a38dd455ee200fae3f825a35d291705ec21ddc5e855ba9c05bb19a33aca6",
-  "slug": "bun-hof-moe-2026-01-14-draw",
-  "question": "Will TSG 1899 Hoffenheim vs. Borussia Mönchengladbach end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-01T05:00:06.456927Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-01T05:00:06.456927Z",
+  "market_endDate": "2026-01-14T19:30:00Z",
+  "market_id": "1078731",
+  "market_startDate": "2026-01-01T05:11:15.601358Z",
+  "market_updatedAt": "2026-01-10T17:08:48.736087Z",
+  "question": "Will TSG 1899 Hoffenheim vs. Borussia Mönchengladbach end in a draw?",
+  "slug": "bun-hof-moe-2026-01-14-draw"
 }

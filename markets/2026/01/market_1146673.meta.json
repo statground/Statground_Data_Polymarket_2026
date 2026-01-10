@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1146673",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-09T23:00:14.826658Z",
-  "market_createdAt": "2026-01-09T23:00:14.826658Z",
-  "market_updatedAt": "2026-01-10T14:46:31.794386Z",
-  "market_startDate": "2026-01-09T23:26:09.070228Z",
-  "market_endDate": "2026-01-16T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x151c6c0286d1aaf7032ab7dabe0d6cc2f832d77bd77c87d8180c7e43f8081224",
-  "slug": "will-open-close-above-11-week-january-16-2026",
-  "question": "Will Opendoor (OPEN) close at >$11 on the final day of trading of the week of Jan 12 – Jan 16?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-09T23:00:14.826658Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-09T23:00:14.826658Z",
+  "market_endDate": "2026-01-16T21:00:00Z",
+  "market_id": "1146673",
+  "market_startDate": "2026-01-09T23:26:09.070228Z",
+  "market_updatedAt": "2026-01-10T17:10:42.474606Z",
+  "question": "Will Opendoor (OPEN) close at >$11 on the final day of trading of the week of Jan 12 – Jan 16?",
+  "slug": "will-open-close-above-11-week-january-16-2026"
 }

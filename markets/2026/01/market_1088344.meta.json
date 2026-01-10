@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1088344",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-02T17:21:20.897403Z",
-  "market_createdAt": "2026-01-02T17:21:20.897403Z",
-  "market_updatedAt": "2026-01-06T14:36:45.937708Z",
-  "market_startDate": "2026-01-02T17:22:29.717423Z",
-  "market_endDate": "2027-01-01T05:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xdc058561e320700e0d41143add9c2033c081a5f44452c4eaf415f58c3d417c28",
-  "slug": "fogo-fdv-above-500m-one-day-after-launch",
-  "question": "Fogo FDV above $500M one day after launch?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-02T17:21:20.897403Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-02T17:21:20.897403Z",
+  "market_endDate": "2027-01-01T05:00:00Z",
+  "market_id": "1088344",
+  "market_startDate": "2026-01-02T17:22:29.717423Z",
+  "market_updatedAt": "2026-01-10T17:11:01.296307Z",
+  "question": "Fogo FDV above $500M one day after launch?",
+  "slug": "fogo-fdv-above-500m-one-day-after-launch"
 }

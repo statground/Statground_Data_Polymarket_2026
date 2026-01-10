@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1125352",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T22:32:25.753777Z",
-  "market_createdAt": "2026-01-06T22:32:25.753777Z",
-  "market_updatedAt": "2026-01-10T14:44:47.198147Z",
-  "market_startDate": "2026-01-07T02:37:22.200668Z",
-  "market_endDate": "2026-01-31T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x83547249e61eaf92162353753801453d313daaed73b401b9edcc669251f578c0",
-  "slug": "spx-hit-7000-high-jan-2026",
-  "question": "Will S&P 500 (SPX) hit $7000 (HIGH) in January?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T22:32:25.753777Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T22:32:25.753777Z",
+  "market_endDate": "2026-01-31T21:00:00Z",
+  "market_id": "1125352",
+  "market_startDate": "2026-01-07T02:37:22.200668Z",
+  "market_updatedAt": "2026-01-10T17:08:48.188109Z",
+  "question": "Will S&P 500 (SPX) hit $7000 (HIGH) in January?",
+  "slug": "spx-hit-7000-high-jan-2026"
 }

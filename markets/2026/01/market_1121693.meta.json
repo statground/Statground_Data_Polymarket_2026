@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1121693",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T14:30:03.211109Z",
-  "market_createdAt": "2026-01-06T14:30:03.211109Z",
-  "market_updatedAt": "2026-01-06T14:46:59.871813Z",
-  "market_startDate": "2026-01-06T14:30:58.171216Z",
-  "market_endDate": "2026-01-10T15:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x0e7f5c7ffcff56931f4eb38b34ebb9f376d2bedc8e7fde08c49c1e131daedf81",
-  "slug": "cs2-777-futa-2026-01-10",
-  "question": "Counter-Strike: 777 vs FUT Academy (BO3)"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T14:30:03.211109Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-10 12:31:00+00",
+  "market_createdAt": "2026-01-06T14:30:03.211109Z",
+  "market_endDate": "2026-01-10T15:00:00Z",
+  "market_id": "1121693",
+  "market_startDate": "2026-01-06T14:30:58.171216Z",
+  "market_updatedAt": "2026-01-10T17:11:16.43714Z",
+  "question": "Counter-Strike: 777 vs FUT Academy (BO3)",
+  "slug": "cs2-777-futa-2026-01-10"
 }

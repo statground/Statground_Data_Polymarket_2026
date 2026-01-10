@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1116262",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T20:27:40.156089Z",
-  "market_createdAt": "2026-01-05T20:27:40.156089Z",
-  "market_updatedAt": "2026-01-10T14:44:47.480718Z",
-  "market_startDate": "2026-01-09T17:40:16.573139Z",
-  "market_endDate": "2026-01-17T00:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x61248fdd4a70f11ba81fc34d8be5b06247a7d939ee5c4b960f51677d60ed2926",
-  "slug": "will-trumps-approval-rating-be-at-least-43pt0-on-january-16-2026",
-  "question": "Will Trump's approval rating be at least 43.0 on January 16, 2026?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T20:27:40.156089Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T20:27:40.156089Z",
+  "market_endDate": "2026-01-17T00:00:00Z",
+  "market_id": "1116262",
+  "market_startDate": "2026-01-09T17:40:16.573139Z",
+  "market_updatedAt": "2026-01-10T17:08:47.775748Z",
+  "question": "Will Trump's approval rating be at least 43.0 on January 16, 2026?",
+  "slug": "will-trumps-approval-rating-be-at-least-43pt0-on-january-16-2026"
 }

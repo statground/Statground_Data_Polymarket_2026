@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1117566",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T23:47:08.363781Z",
-  "market_createdAt": "2026-01-05T23:47:08.363781Z",
-  "market_updatedAt": "2026-01-06T14:39:58.663152Z",
-  "market_startDate": "2026-01-05T23:49:33.698228Z",
-  "market_endDate": "2026-01-11T18:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xf782f6c1ba628e07bc2730d590bb4597f95a66336485a07a9d3021c26f53924e",
-  "slug": "nfl-buf-jax-2026-01-11-1h-total-24pt5",
-  "question": "Bills vs. Jaguars: 1H O/U 24.5"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T23:47:08.363781Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T23:47:08.363781Z",
+  "market_endDate": "2026-01-11T18:00:00Z",
+  "market_id": "1117566",
+  "market_startDate": "2026-01-05T23:49:33.698228Z",
+  "market_updatedAt": "2026-01-10T17:10:52.055148Z",
+  "question": "Bills vs. Jaguars: 1H O/U 24.5",
+  "slug": "nfl-buf-jax-2026-01-11-1h-total-24pt5"
 }

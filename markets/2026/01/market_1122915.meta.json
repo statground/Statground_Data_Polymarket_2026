@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1122915",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T17:03:03.027638Z",
-  "market_createdAt": "2026-01-06T17:03:03.027638Z",
-  "market_updatedAt": "2026-01-10T14:44:49.36456Z",
-  "market_startDate": "2026-01-06T19:33:17.706875Z",
-  "market_endDate": "2026-01-10T00:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x4fb700cd092417f898ed55f206fe653e79a64622e60e688cf930d53df4cec93b",
-  "slug": "will-the-total-number-of-tsa-passengers-for-january-10-be-between-2000000-and-2100000",
-  "question": "Will the total number of TSA passengers for January 10 be between 2,000,000 and 2,100,000?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T17:03:03.027638Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T17:03:03.027638Z",
+  "market_endDate": "2026-01-10T00:00:00Z",
+  "market_id": "1122915",
+  "market_startDate": "2026-01-06T19:33:17.706875Z",
+  "market_updatedAt": "2026-01-10T17:10:46.564319Z",
+  "question": "Will the total number of TSA passengers for January 10 be between 2,000,000 and 2,100,000?",
+  "slug": "will-the-total-number-of-tsa-passengers-for-january-10-be-between-2000000-and-2100000"
 }

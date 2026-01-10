@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1105453",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-04T16:30:02.266128Z",
-  "market_createdAt": "2026-01-04T16:30:02.266128Z",
-  "market_updatedAt": "2026-01-06T14:39:16.473436Z",
-  "market_startDate": "2026-01-04T16:31:18.099392Z",
-  "market_endDate": "2026-01-10T18:45:00Z",
-  "market_closedTime": null,
   "conditionId": "0x215b58c6d0099f6c95ed7b0ba4f52eaad6e3703bfb6c588d3221d926b71674fe",
-  "slug": "snhl-bie-ber-2026-01-10",
-  "question": "SNHL: Biel vs. Bern"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-04T16:30:02.266128Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-04T16:30:02.266128Z",
+  "market_endDate": "2026-01-10T18:45:00Z",
+  "market_id": "1105453",
+  "market_startDate": "2026-01-04T16:31:18.099392Z",
+  "market_updatedAt": "2026-01-10T17:10:52.780432Z",
+  "question": "SNHL: Biel vs. Bern",
+  "slug": "snhl-bie-ber-2026-01-10"
 }

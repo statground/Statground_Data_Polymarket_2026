@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1143138",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-09T13:00:01.081228Z",
-  "market_createdAt": "2026-01-09T13:00:01.081228Z",
-  "market_updatedAt": "2026-01-10T14:44:46.643835Z",
-  "market_startDate": "2026-01-09T13:01:14.331037Z",
-  "market_endDate": "2026-01-12T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x390cde827e356b50d6dffcad4b4ca2c51b43eefcbb2c181cd87bd483a84dfb26",
-  "slug": "spx-up-or-down-on-january-12-2026",
-  "question": "S&P 500 (SPX) Up or Down on January 12?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-09T13:00:01.081228Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-09T13:00:01.081228Z",
+  "market_endDate": "2026-01-12T21:00:00Z",
+  "market_id": "1143138",
+  "market_startDate": "2026-01-09T13:01:14.331037Z",
+  "market_updatedAt": "2026-01-10T17:08:49.572796Z",
+  "question": "S&P 500 (SPX) Up or Down on January 12?",
+  "slug": "spx-up-or-down-on-january-12-2026"
 }

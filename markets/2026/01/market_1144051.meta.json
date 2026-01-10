@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1144051",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-09T17:00:06.023929Z",
-  "market_createdAt": "2026-01-09T17:00:06.023929Z",
-  "market_updatedAt": "2026-01-10T14:44:45.662901Z",
-  "market_startDate": "2026-01-09T17:10:27.458137Z",
-  "market_endDate": "2026-01-16T17:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x4c9da1bb4cdc52ad1817131f6d9af0e4b37cdaa78e24e8ca591ff03f4792295d",
-  "slug": "will-the-price-of-ethereum-be-less-than-2700-on-january-16",
-  "question": "Will the price of Ethereum be less than $2,700 on January 16?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-09T17:00:06.023929Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-09T17:00:06.023929Z",
+  "market_endDate": "2026-01-16T17:00:00Z",
+  "market_id": "1144051",
+  "market_startDate": "2026-01-09T17:10:27.458137Z",
+  "market_updatedAt": "2026-01-10T17:11:03.411997Z",
+  "question": "Will the price of Ethereum be less than $2,700 on January 16?",
+  "slug": "will-the-price-of-ethereum-be-less-than-2700-on-january-16"
 }

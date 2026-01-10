@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1121203",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T12:00:21.949420Z",
-  "market_createdAt": "2026-01-06T12:00:21.94942Z",
-  "market_updatedAt": "2026-01-06T14:47:02.917696Z",
-  "market_startDate": "2026-01-06T12:02:30.592594Z",
-  "market_endDate": "2026-01-14T00:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x726f41e9ff7c3ba752a77f2dd6948c310b22cc3aff47d253ca72087cd33598aa",
-  "slug": "atp-hijikat-perrica-2026-01-06-set-totals-2pt5",
-  "question": "Hijikata vs. Perricard: Total Sets O/U 2.5"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T12:00:21.949420Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-10 11:53:22+00",
+  "market_createdAt": "2026-01-06T12:00:21.94942Z",
+  "market_endDate": "2026-01-14T00:00:00Z",
+  "market_id": "1121203",
+  "market_startDate": "2026-01-06T12:02:30.592594Z",
+  "market_updatedAt": "2026-01-10T17:11:16.383115Z",
+  "question": "Hijikata vs. Perricard: Total Sets O/U 2.5",
+  "slug": "atp-hijikat-perrica-2026-01-06-set-totals-2pt5"
 }

@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1123868",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T18:30:25.701004Z",
-  "market_createdAt": "2026-01-06T18:30:25.701004Z",
-  "market_updatedAt": "2026-01-10T14:44:51.940151Z",
-  "market_startDate": "2026-01-06T18:57:58.529559Z",
-  "market_endDate": "2026-02-02T00:30:00Z",
-  "market_closedTime": null,
   "conditionId": "0x509ec6a1b98e9b71ef09d2ae86561b30c361bbd216a38f7254486ab5acc7df04",
-  "slug": "arg-ros-riv-2026-02-01-draw",
-  "question": "Will CA Rosario Central vs. CA River Plate end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T18:30:25.701004Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T18:30:25.701004Z",
+  "market_endDate": "2026-02-02T00:30:00Z",
+  "market_id": "1123868",
+  "market_startDate": "2026-01-06T18:57:58.529559Z",
+  "market_updatedAt": "2026-01-10T17:10:54.775203Z",
+  "question": "Will CA Rosario Central vs. CA River Plate end in a draw?",
+  "slug": "arg-ros-riv-2026-02-01-draw"
 }

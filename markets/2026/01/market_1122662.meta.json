@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1122662",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T16:30:04.370281Z",
-  "market_createdAt": "2026-01-06T16:30:04.370281Z",
-  "market_updatedAt": "2026-01-10T14:44:50.962175Z",
-  "market_startDate": "2026-01-06T16:31:02.093282Z",
-  "market_endDate": "2026-01-12T16:40:00Z",
-  "market_closedTime": null,
   "conditionId": "0x0d2d6d82067d84a1e4ab9a7716535566d31965ca742de1fb0220eea23a686a8f",
-  "slug": "khl-din-adm-2026-01-12",
-  "question": "KHL: Dinamo Minsk vs. Admiral Vladivostok"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T16:30:04.370281Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T16:30:04.370281Z",
+  "market_endDate": "2026-01-12T16:40:00Z",
+  "market_id": "1122662",
+  "market_startDate": "2026-01-06T16:31:02.093282Z",
+  "market_updatedAt": "2026-01-10T17:10:47.324134Z",
+  "question": "KHL: Dinamo Minsk vs. Admiral Vladivostok",
+  "slug": "khl-din-adm-2026-01-12"
 }

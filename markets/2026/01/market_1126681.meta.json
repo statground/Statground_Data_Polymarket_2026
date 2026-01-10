@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1126681",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-07T02:27:56.386748Z",
-  "market_createdAt": "2026-01-07T02:27:56.386748Z",
-  "market_updatedAt": "2026-01-10T14:44:48.03595Z",
-  "market_startDate": "2026-01-07T02:32:55.76049Z",
-  "market_endDate": "2026-01-31T00:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xa30750cad351c847c75868bbf776640f02529767f44c145b0d33ea3e6747074c",
-  "slug": "spx-close-6900-7000-jan-2026",
-  "question": "Will S&P 500 (SPX) close at $6,900-$7,000 in January?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-07T02:27:56.386748Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-07T02:27:56.386748Z",
+  "market_endDate": "2026-01-31T00:00:00Z",
+  "market_id": "1126681",
+  "market_startDate": "2026-01-07T02:32:55.76049Z",
+  "market_updatedAt": "2026-01-10T17:10:43.600816Z",
+  "question": "Will S&P 500 (SPX) close at $6,900-$7,000 in January?",
+  "slug": "spx-close-6900-7000-jan-2026"
 }

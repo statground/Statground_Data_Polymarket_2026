@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1122768",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T17:00:01.384468Z",
-  "market_createdAt": "2026-01-06T17:00:01.384468Z",
-  "market_updatedAt": "2026-01-10T14:44:47.405902Z",
-  "market_startDate": "2026-01-06T17:10:33.495623Z",
-  "market_endDate": "2026-01-13T17:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x35181fb063ad33235e345ef1e89621baa1d314e866eb1a316ea127920034e159",
-  "slug": "will-the-price-of-bitcoin-be-less-than-84000-on-january-13",
-  "question": "Will the price of Bitcoin be less than $84,000 on January 13?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T17:00:01.384468Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T17:00:01.384468Z",
+  "market_endDate": "2026-01-13T17:00:00Z",
+  "market_id": "1122768",
+  "market_startDate": "2026-01-06T17:10:33.495623Z",
+  "market_updatedAt": "2026-01-10T17:08:47.642139Z",
+  "question": "Will the price of Bitcoin be less than $84,000 on January 13?",
+  "slug": "will-the-price-of-bitcoin-be-less-than-84000-on-january-13"
 }

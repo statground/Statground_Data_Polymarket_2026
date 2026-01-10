@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1122932",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T17:10:33.079582Z",
-  "market_createdAt": "2026-01-06T17:10:33.079582Z",
-  "market_updatedAt": "2026-01-10T14:44:46.075612Z",
-  "market_startDate": "2026-01-06T19:34:43.986702Z",
-  "market_endDate": "2026-01-11T00:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xfd53a739f85b86dc876d51749e9ecd1ba07cae2c146d81d0108c549e424ca483",
-  "slug": "will-the-total-number-of-tsa-passengers-for-january-11-be-less-than-1900000",
-  "question": "Will the total number of TSA passengers for January 11 be less than 1,900,000?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T17:10:33.079582Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T17:10:33.079582Z",
+  "market_endDate": "2026-01-11T00:00:00Z",
+  "market_id": "1122932",
+  "market_startDate": "2026-01-06T19:34:43.986702Z",
+  "market_updatedAt": "2026-01-10T17:11:10.188487Z",
+  "question": "Will the total number of TSA passengers for January 11 be less than 1,900,000?",
+  "slug": "will-the-total-number-of-tsa-passengers-for-january-11-be-less-than-1900000"
 }

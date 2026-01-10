@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1096983",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-03T15:00:19.277992Z",
-  "market_createdAt": "2026-01-03T15:00:19.277992Z",
-  "market_updatedAt": "2026-01-06T14:43:10.953517Z",
-  "market_startDate": "2026-01-03T15:01:32.880035Z",
-  "market_endDate": "2026-01-10T03:30:00Z",
-  "market_closedTime": null,
   "conditionId": "0xf05b12027fc9a7874ad432b11d16f8176f5f7f0e202186e545c6c672c439a0f6",
-  "slug": "nba-mil-lal-2026-01-09",
-  "question": "Bucks vs. Lakers"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-03T15:00:19.277992Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-10 08:20:36+00",
+  "market_createdAt": "2026-01-03T15:00:19.277992Z",
+  "market_endDate": "2026-01-10T03:30:00Z",
+  "market_id": "1096983",
+  "market_startDate": "2026-01-03T15:01:32.880035Z",
+  "market_updatedAt": "2026-01-10T17:08:51.776339Z",
+  "question": "Bucks vs. Lakers",
+  "slug": "nba-mil-lal-2026-01-09"
 }

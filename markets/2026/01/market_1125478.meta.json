@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1125478",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T22:34:01.962638Z",
-  "market_createdAt": "2026-01-06T22:34:01.962638Z",
-  "market_updatedAt": "2026-01-10T14:44:48.416707Z",
-  "market_startDate": "2026-01-07T02:41:23.963768Z",
-  "market_endDate": "2026-12-31T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xfe76f366b01cffc5f3c2551ca2fafd3626551f8e67c45e90bcb9980fadefb1d9",
-  "slug": "ndx-close-28500-30500-dec-2026",
-  "question": "Will Nasdaq 100 (NDX) close at $28,500-$30,500 in December?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T22:34:01.962638Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T22:34:01.962638Z",
+  "market_endDate": "2026-12-31T21:00:00Z",
+  "market_id": "1125478",
+  "market_startDate": "2026-01-07T02:41:23.963768Z",
+  "market_updatedAt": "2026-01-10T17:08:48.677125Z",
+  "question": "Will Nasdaq 100 (NDX) close at $28,500-$30,500 in December?",
+  "slug": "ndx-close-28500-30500-dec-2026"
 }

@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1114756",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T16:26:48.626077Z",
-  "market_createdAt": "2026-01-05T16:26:48.626077Z",
-  "market_updatedAt": "2026-01-10T14:46:37.89844Z",
-  "market_startDate": "2026-01-05T16:27:53.393051Z",
-  "market_endDate": "2026-01-25T04:59:59.999Z",
-  "market_closedTime": null,
   "conditionId": "0x9a338e92340dc5b63429ac9a30411b7489e67f8f45109466b8984235508d9c2d",
-  "slug": "ufc-son-sea1-2026-01-24-win-by-ko-tko",
-  "question": "Will the fight be won by KO or TKO?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T16:26:48.626077Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T16:26:48.626077Z",
+  "market_endDate": "2026-01-25T04:59:59.999Z",
+  "market_id": "1114756",
+  "market_startDate": "2026-01-05T16:27:53.393051Z",
+  "market_updatedAt": "2026-01-10T17:10:51.690619Z",
+  "question": "Will the fight be won by KO or TKO?",
+  "slug": "ufc-son-sea1-2026-01-24-win-by-ko-tko"
 }

@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1111900",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T05:00:10.361752Z",
-  "market_createdAt": "2026-01-05T05:00:10.361752Z",
-  "market_updatedAt": "2026-01-10T14:44:47.800278Z",
-  "market_startDate": "2026-01-05T05:18:21.907736Z",
-  "market_endDate": "2026-01-18T11:30:00Z",
-  "market_closedTime": null,
   "conditionId": "0x6280ff8ee0b8d0d009aed7beabdd072f1b70b9f3e7139f1a2913a46c5d55d261",
-  "slug": "sea-par-gen-2026-01-18-gen",
-  "question": "Will Genoa CFC win on 2026-01-18?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T05:00:10.361752Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T05:00:10.361752Z",
+  "market_endDate": "2026-01-18T11:30:00Z",
+  "market_id": "1111900",
+  "market_startDate": "2026-01-05T05:18:21.907736Z",
+  "market_updatedAt": "2026-01-10T17:08:49.581704Z",
+  "question": "Will Genoa CFC win on 2026-01-18?",
+  "slug": "sea-par-gen-2026-01-18-gen"
 }

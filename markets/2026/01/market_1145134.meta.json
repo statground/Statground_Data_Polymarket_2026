@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1145134",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-09T19:30:06.954641Z",
-  "market_createdAt": "2026-01-09T19:30:06.954641Z",
-  "market_updatedAt": "2026-01-10T14:46:26.163054Z",
-  "market_startDate": "2026-01-09T19:36:16.59163Z",
-  "market_endDate": "2026-01-22T20:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x6c403d3067e69d8d13f56440296c85bb08a23c46c434b27db6d874e4ac66eb1c",
-  "slug": "uel-scb-not-2026-01-22-draw",
-  "question": "Will SC Braga vs. Nottingham Forest FC end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-09T19:30:06.954641Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-09T19:30:06.954641Z",
+  "market_endDate": "2026-01-22T20:00:00Z",
+  "market_id": "1145134",
+  "market_startDate": "2026-01-09T19:36:16.59163Z",
+  "market_updatedAt": "2026-01-10T17:08:48.214182Z",
+  "question": "Will SC Braga vs. Nottingham Forest FC end in a draw?",
+  "slug": "uel-scb-not-2026-01-22-draw"
 }

@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1114963",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T17:00:02.754455Z",
-  "market_createdAt": "2026-01-05T17:00:02.754455Z",
-  "market_updatedAt": "2026-01-10T14:44:47.833868Z",
-  "market_startDate": "2026-01-05T17:07:49.081245Z",
-  "market_endDate": "2026-01-12T17:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xcf5ddcd54b5ef25f6771a27423bb73802da4e4e8a2453c28a7372ab787bc7e29",
-  "slug": "ethereum-above-3300-on-january-12",
-  "question": "Will the price of Ethereum be above $3,300 on January 12?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T17:00:02.754455Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T17:00:02.754455Z",
+  "market_endDate": "2026-01-12T17:00:00Z",
+  "market_id": "1114963",
+  "market_startDate": "2026-01-05T17:07:49.081245Z",
+  "market_updatedAt": "2026-01-10T17:08:48.059504Z",
+  "question": "Will the price of Ethereum be above $3,300 on January 12?",
+  "slug": "ethereum-above-3300-on-january-12"
 }

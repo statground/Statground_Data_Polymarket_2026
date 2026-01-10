@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1111856",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T05:00:02.041149Z",
-  "market_createdAt": "2026-01-05T05:00:02.041149Z",
-  "market_updatedAt": "2026-01-10T14:44:46.639957Z",
-  "market_startDate": "2026-01-05T05:01:35.521272Z",
-  "market_endDate": "2026-01-12T05:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x91409d407419b6efeba3ff04d034916c925a0c82d00ee1bb44cd8c1f58e0adf7",
-  "slug": "will-bitcoin-reach-96k-january-5-11",
-  "question": "Will Bitcoin reach $96,000 January 5-11?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T05:00:02.041149Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T05:00:02.041149Z",
+  "market_endDate": "2026-01-12T05:00:00Z",
+  "market_id": "1111856",
+  "market_startDate": "2026-01-05T05:01:35.521272Z",
+  "market_updatedAt": "2026-01-10T17:11:03.423101Z",
+  "question": "Will Bitcoin reach $96,000 January 5-11?",
+  "slug": "will-bitcoin-reach-96k-january-5-11"
 }

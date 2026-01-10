@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1123823",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T18:30:16.518545Z",
-  "market_createdAt": "2026-01-06T18:30:16.518545Z",
-  "market_updatedAt": "2026-01-10T14:44:54.652284Z",
-  "market_startDate": "2026-01-06T18:57:23.449174Z",
-  "market_endDate": "2026-01-28T20:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x015ce4d903a2c4238295f4ba28fe1a5638b8d1552e6bab14d10bdc773db4591e",
-  "slug": "arg-ald-bar-2026-01-28-draw",
-  "question": "Will CA Aldosivi vs. CA Barracas Central end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T18:30:16.518545Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T18:30:16.518545Z",
+  "market_endDate": "2026-01-28T20:00:00Z",
+  "market_id": "1123823",
+  "market_startDate": "2026-01-06T18:57:23.449174Z",
+  "market_updatedAt": "2026-01-10T17:10:51.505445Z",
+  "question": "Will CA Aldosivi vs. CA Barracas Central end in a draw?",
+  "slug": "arg-ald-bar-2026-01-28-draw"
 }

@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1139592",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-08T21:43:51.369599Z",
-  "market_createdAt": "2026-01-08T21:43:51.369599Z",
-  "market_updatedAt": "2026-01-10T14:44:45.49908Z",
-  "market_startDate": "2026-01-08T21:45:47.548806Z",
-  "market_endDate": "2027-01-01T05:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x5eaf7f11bd06bbaa2aed284ba8446d046772947ec560e08a291e63e61d5b9c44",
-  "slug": "over-25m-committed-to-the-trove-public-sale",
-  "question": "Over $25M committed to the Trove public sale?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-08T21:43:51.369599Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-08T21:43:51.369599Z",
+  "market_endDate": "2027-01-01T05:00:00Z",
+  "market_id": "1139592",
+  "market_startDate": "2026-01-08T21:45:47.548806Z",
+  "market_updatedAt": "2026-01-10T17:10:51.184287Z",
+  "question": "Over $25M committed to the Trove public sale?",
+  "slug": "over-25m-committed-to-the-trove-public-sale"
 }
