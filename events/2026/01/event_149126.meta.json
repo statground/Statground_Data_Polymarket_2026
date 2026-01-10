@@ -1,20 +1,20 @@
 {
   "entity": "event",
-  "event_id": "149126",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-07T13:00:09.590133Z",
   "event_createdAt": "2026-01-07T13:00:09.590133Z",
   "event_creationDate": "2026-01-08T14:30:00Z",
-  "event_startDate": "2026-01-07T13:03:49.071856Z",
   "event_endDate": "2026-01-08T21:00:00Z",
+  "event_id": "149126",
+  "event_startDate": "2026-01-07T13:03:49.071856Z",
   "event_updatedAt": "2026-01-09T16:21:39.651343Z",
-  "markets_len": 1,
+  "folder_dt_utc": "2026-01-07T13:00:09.590133Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1128767"
   ],
-  "series_len": 1,
+  "markets_len": 1,
   "series_ids": [
     "10387"
   ],
+  "series_len": 1,
   "series_slug": "hang-seng-daily-up-or-down"
 }

@@ -1,20 +1,20 @@
 {
   "entity": "event",
-  "event_id": "145411",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-05T16:30:04.969519Z",
   "event_createdAt": "2026-01-05T16:30:04.969519Z",
   "event_creationDate": "2026-01-11T18:00:00Z",
-  "event_startDate": "2026-01-05T16:36:30.209418Z",
   "event_endDate": "2026-01-11T18:00:00Z",
-  "event_updatedAt": "2026-01-10T14:41:09.82591Z",
-  "markets_len": 1,
+  "event_id": "145411",
+  "event_startDate": "2026-01-05T16:36:30.209418Z",
+  "event_updatedAt": "2026-01-10T15:45:23.158661Z",
+  "folder_dt_utc": "2026-01-05T16:30:04.969519Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1114870"
   ],
-  "series_len": 1,
+  "markets_len": 1,
   "series_ids": [
     "10701"
   ],
+  "series_len": 1,
   "series_slug": "dehl-2026"
 }

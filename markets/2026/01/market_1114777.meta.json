@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1114777",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T16:27:07.306531Z",
-  "market_createdAt": "2026-01-05T16:27:07.306531Z",
-  "market_updatedAt": "2026-01-06T14:44:54.367325Z",
-  "market_startDate": "2026-01-05T16:28:17.804973Z",
-  "market_endDate": "2026-01-25T04:59:59.999Z",
-  "market_closedTime": null,
   "conditionId": "0x7f8614f13c5c74a580cf120a5279c2623e69f0eeffdea71a16aae00812f8d1ec",
-  "slug": "ufc-arn-jea-2026-01-24-win-by-submission",
-  "question": "Will the fight be won by submission?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T16:27:07.306531Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T16:27:07.306531Z",
+  "market_endDate": "2026-01-25T04:59:59.999Z",
+  "market_id": "1114777",
+  "market_startDate": "2026-01-05T16:28:17.804973Z",
+  "market_updatedAt": "2026-01-10T15:51:32.715769Z",
+  "question": "Will the fight be won by submission?",
+  "slug": "ufc-arn-jea-2026-01-24-win-by-submission"
 }

@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1090925",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-02T23:00:06.991139Z",
-  "market_createdAt": "2026-01-02T23:00:06.991139Z",
-  "market_updatedAt": "2026-01-06T14:43:14.299273Z",
-  "market_startDate": "2026-01-02T23:23:37.458838Z",
-  "market_endDate": "2026-01-09T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x2190f7d08d1b6ca28b41e08d3e1df3288a65051930be8a08f832545e9b7d2961",
-  "slug": "googl-above-285-on-january-9-2026",
-  "question": "Will Google (GOOGL) finish week of January 5 above $285?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-02T23:00:06.991139Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-09 23:24:30+00",
+  "market_createdAt": "2026-01-02T23:00:06.991139Z",
+  "market_endDate": "2026-01-09T21:00:00Z",
+  "market_id": "1090925",
+  "market_startDate": "2026-01-02T23:23:37.458838Z",
+  "market_updatedAt": "2026-01-10T15:47:38.465584Z",
+  "question": "Will Google (GOOGL) finish week of January 5 above $285?",
+  "slug": "googl-above-285-on-january-9-2026"
 }

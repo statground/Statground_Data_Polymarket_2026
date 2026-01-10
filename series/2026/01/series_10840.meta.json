@@ -1,15 +1,15 @@
 {
   "entity": "series",
-  "series_id": "10840",
-  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "folder_dt_utc": "2026-01-04T00:21:02.855471Z",
-  "series_createdAt": "2026-01-04T00:21:02.855471Z",
-  "series_publishedAt": null,
-  "series_updatedAt": "2026-01-10T14:39:05.739315Z",
-  "slug": "rugby-premiership",
-  "ticker": "rugby-premiership",
-  "title": "Rugby Premiership",
-  "startDate": null,
+  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "recurrence": "daily",
-  "seriesType": "single"
+  "seriesType": "single",
+  "series_createdAt": "2026-01-04T00:21:02.855471Z",
+  "series_id": "10840",
+  "series_publishedAt": null,
+  "series_updatedAt": "2026-01-10T15:51:58.623764Z",
+  "slug": "rugby-premiership",
+  "startDate": null,
+  "ticker": "rugby-premiership",
+  "title": "Rugby Premiership"
 }

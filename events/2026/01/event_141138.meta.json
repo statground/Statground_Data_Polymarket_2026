@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "141138",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-03T17:00:05.476046Z",
   "event_createdAt": "2026-01-03T17:00:05.476046Z",
   "event_creationDate": "2026-01-04T05:30:00Z",
-  "event_startDate": "2026-01-03T17:06:15.060618Z",
   "event_endDate": "2026-01-11T05:30:00Z",
+  "event_id": "141138",
+  "event_startDate": "2026-01-03T17:06:15.060618Z",
   "event_updatedAt": "2026-01-05T16:36:35.998903Z",
-  "markets_len": 10,
+  "folder_dt_utc": "2026-01-03T17:00:05.476046Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1097846",
     "1098381",
@@ -21,9 +20,10 @@
     "1098387",
     "1098388"
   ],
-  "series_len": 1,
+  "markets_len": 10,
   "series_ids": [
     "10365"
   ],
+  "series_len": 1,
   "series_slug": "atp"
 }

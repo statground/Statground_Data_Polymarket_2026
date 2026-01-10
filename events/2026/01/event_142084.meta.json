@@ -1,22 +1,22 @@
 {
   "entity": "event",
-  "event_id": "142084",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-04T05:00:14.704937Z",
   "event_createdAt": "2026-01-04T05:00:14.704937Z",
   "event_creationDate": "2026-01-04T05:33:30.463529Z",
-  "event_startDate": "2026-01-04T05:33:30.463532Z",
   "event_endDate": "2026-01-31T15:00:00Z",
-  "event_updatedAt": "2026-01-06T13:28:28.528453Z",
-  "markets_len": 3,
+  "event_id": "142084",
+  "event_startDate": "2026-01-04T05:33:30.463532Z",
+  "event_updatedAt": "2026-01-10T15:47:40.803102Z",
+  "folder_dt_utc": "2026-01-04T05:00:14.704937Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1102157",
     "1102158",
     "1102159"
   ],
-  "series_len": 1,
+  "markets_len": 3,
   "series_ids": [
     "10355"
   ],
+  "series_len": 1,
   "series_slug": "efl-championship"
 }

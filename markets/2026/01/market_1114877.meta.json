@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1114877",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T16:30:07.922777Z",
-  "market_createdAt": "2026-01-05T16:30:07.922777Z",
-  "market_updatedAt": "2026-01-06T14:45:52.600516Z",
-  "market_startDate": "2026-01-05T16:31:10.019305Z",
-  "market_endDate": "2026-01-11T02:05:00Z",
-  "market_closedTime": null,
   "conditionId": "0x41ea0c73742150268d579da64f88bb0d29642e00a9f65ce13b90aea0db289b83",
-  "slug": "ahl-san1-col-2026-01-11",
-  "question": "AHL: San Diego Gulls vs. Colorado Eagles"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T16:30:07.922777Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T16:30:07.922777Z",
+  "market_endDate": "2026-01-11T02:05:00Z",
+  "market_id": "1114877",
+  "market_startDate": "2026-01-05T16:31:10.019305Z",
+  "market_updatedAt": "2026-01-10T15:51:30.638922Z",
+  "question": "AHL: San Diego Gulls vs. Colorado Eagles",
+  "slug": "ahl-san1-col-2026-01-11"
 }

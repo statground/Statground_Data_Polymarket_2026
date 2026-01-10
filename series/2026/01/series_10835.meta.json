@@ -1,15 +1,15 @@
 {
   "entity": "series",
-  "series_id": "10835",
-  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "folder_dt_utc": "2026-01-02T13:20:58.486600Z",
-  "series_createdAt": "2026-01-02T13:20:58.4866Z",
-  "series_publishedAt": null,
-  "series_updatedAt": "2026-01-10T14:43:14.765125Z",
-  "slug": "inflation-canada-annual",
-  "ticker": "inflation-canada-annual",
-  "title": "Inflation Canada - Annual",
-  "startDate": null,
+  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "recurrence": "daily",
-  "seriesType": "single"
+  "seriesType": "single",
+  "series_createdAt": "2026-01-02T13:20:58.4866Z",
+  "series_id": "10835",
+  "series_publishedAt": null,
+  "series_updatedAt": "2026-01-10T15:51:58.477409Z",
+  "slug": "inflation-canada-annual",
+  "startDate": null,
+  "ticker": "inflation-canada-annual",
+  "title": "Inflation Canada - Annual"
 }

@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "139458",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-02T20:53:55.763872Z",
   "event_createdAt": "2026-01-02T20:53:55.763872Z",
   "event_creationDate": "2026-01-02T22:30:12.399915Z",
-  "event_startDate": "2026-01-02T22:30:12.399924Z",
   "event_endDate": "2026-01-09T00:00:00Z",
-  "event_updatedAt": "2026-01-10T14:39:03.169424Z",
-  "markets_len": 22,
+  "event_id": "139458",
+  "event_startDate": "2026-01-02T22:30:12.399924Z",
+  "event_updatedAt": "2026-01-10T15:43:27.952285Z",
+  "folder_dt_utc": "2026-01-02T20:53:55.763872Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1089881",
     "1089884",
@@ -33,9 +32,10 @@
     "1089905",
     "1089919"
   ],
-  "series_len": 1,
+  "markets_len": 22,
   "series_ids": [
     "10710"
   ],
+  "series_len": 1,
   "series_slug": "1-spotify-song"
 }

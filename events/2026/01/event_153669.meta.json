@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "153669",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-09T17:28:16.878481Z",
   "event_createdAt": "2026-01-09T17:28:16.878481Z",
   "event_creationDate": "2026-01-09T19:27:13.264649Z",
-  "event_startDate": "2026-01-09T19:27:13.264656Z",
   "event_endDate": "2026-02-06T00:00:00Z",
-  "event_updatedAt": "2026-01-10T14:41:08.729519Z",
-  "markets_len": 6,
+  "event_id": "153669",
+  "event_startDate": "2026-01-09T19:27:13.264656Z",
+  "event_updatedAt": "2026-01-10T15:45:22.380076Z",
+  "folder_dt_utc": "2026-01-09T17:28:16.878481Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1144321",
     "1144323",
@@ -17,9 +16,10 @@
     "1144322",
     "1144325"
   ],
-  "series_len": 1,
+  "markets_len": 6,
   "series_ids": [
     "10044"
   ],
+  "series_len": 1,
   "series_slug": "unemployment"
 }

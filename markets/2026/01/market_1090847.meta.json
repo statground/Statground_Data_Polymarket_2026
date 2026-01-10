@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1090847",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-02T23:00:01.435010Z",
-  "market_createdAt": "2026-01-02T23:00:01.43501Z",
-  "market_updatedAt": "2026-01-10T14:43:05.000932Z",
-  "market_startDate": "2026-01-02T23:23:23.452475Z",
-  "market_endDate": "2026-01-09T21:00:00Z",
-  "market_closedTime": "2026-01-09 23:48:40+00",
   "conditionId": "0xaac64497748416ca6b7cbfe9d5eb35ad9d32a636896a89dd5c7319a03f1013be",
-  "slug": "aapl-above-270-on-january-9-2026",
-  "question": "Will Apple (AAPL) finish week of January 5 above $270?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-02T23:00:01.435010Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-09 23:48:40+00",
+  "market_createdAt": "2026-01-02T23:00:01.43501Z",
+  "market_endDate": "2026-01-09T21:00:00Z",
+  "market_id": "1090847",
+  "market_startDate": "2026-01-02T23:23:23.452475Z",
+  "market_updatedAt": "2026-01-10T15:47:38.307068Z",
+  "question": "Will Apple (AAPL) finish week of January 5 above $270?",
+  "slug": "aapl-above-270-on-january-9-2026"
 }

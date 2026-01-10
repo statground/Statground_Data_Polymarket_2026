@@ -1,22 +1,22 @@
 {
   "entity": "event",
-  "event_id": "154001",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-09T21:30:02.368540Z",
   "event_createdAt": "2026-01-09T21:30:02.36854Z",
   "event_creationDate": "2026-01-09T21:33:26.01788Z",
-  "event_startDate": "2026-01-09T21:33:26.017883Z",
   "event_endDate": "2026-02-06T06:00:00Z",
-  "event_updatedAt": "2026-01-10T14:41:05.393059Z",
-  "markets_len": 3,
+  "event_id": "154001",
+  "event_startDate": "2026-01-09T21:33:26.017883Z",
+  "event_updatedAt": "2026-01-10T15:47:41.731727Z",
+  "folder_dt_utc": "2026-01-09T21:30:02.368540Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1145960",
     "1145961",
     "1145962"
   ],
-  "series_len": 1,
+  "markets_len": 3,
   "series_ids": [
     "10438"
   ],
+  "series_len": 1,
   "series_slug": "a-league-soccer"
 }

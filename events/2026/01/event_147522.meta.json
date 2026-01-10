@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "147522",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-06T17:10:31.547216Z",
   "event_createdAt": "2026-01-06T17:10:31.547216Z",
   "event_creationDate": "2026-01-06T19:39:39.785367Z",
-  "event_startDate": "2026-01-06T19:39:39.785373Z",
   "event_endDate": "2026-01-11T00:00:00Z",
-  "event_updatedAt": "2026-01-10T14:41:09.493236Z",
-  "markets_len": 7,
+  "event_id": "147522",
+  "event_startDate": "2026-01-06T19:39:39.785373Z",
+  "event_updatedAt": "2026-01-10T15:45:24.564064Z",
+  "folder_dt_utc": "2026-01-06T17:10:31.547216Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1122933",
     "1122934",
@@ -18,9 +17,10 @@
     "1122936",
     "1122938"
   ],
-  "series_len": 1,
+  "markets_len": 7,
   "series_ids": [
     "10779"
   ],
+  "series_len": 1,
   "series_slug": "tsa-daily"
 }

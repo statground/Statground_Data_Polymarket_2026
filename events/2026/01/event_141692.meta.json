@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "141692",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-04T00:00:03.532052Z",
   "event_createdAt": "2026-01-04T00:00:03.532052Z",
   "event_creationDate": "2026-01-04T00:01:30.210352Z",
-  "event_startDate": "2026-01-04T00:01:30.210356Z",
   "event_endDate": "2026-01-17T17:30:00Z",
-  "event_updatedAt": "2026-01-10T14:41:04.776334Z",
-  "markets_len": 5,
+  "event_id": "141692",
+  "event_startDate": "2026-01-04T00:01:30.210356Z",
+  "event_updatedAt": "2026-01-10T15:47:42.034123Z",
+  "folder_dt_utc": "2026-01-04T00:00:03.532052Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1100718",
     "1100719",
@@ -16,9 +15,10 @@
     "1100722",
     "1100723"
   ],
-  "series_len": 1,
+  "markets_len": 5,
   "series_ids": [
     "10361"
   ],
+  "series_len": 1,
   "series_slug": "saudi-professional-league"
 }

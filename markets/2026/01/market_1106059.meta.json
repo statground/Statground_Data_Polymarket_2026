@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1106059",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-04T18:05:40.534326Z",
-  "market_createdAt": "2026-01-04T18:05:40.534326Z",
-  "market_updatedAt": "2026-01-10T14:46:33.990225Z",
-  "market_startDate": "2026-01-05T17:39:32.523715Z",
-  "market_endDate": "2027-01-01T05:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x1eaa3169b6a2ff38e91b07e7306edcec6982b6ceb616d737f244423902f5774f",
-  "slug": "over-1b-raised-on-coinbase-in-2026",
-  "question": "Over $1B raised on Coinbase in 2026?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-04T18:05:40.534326Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-04T18:05:40.534326Z",
+  "market_endDate": "2027-01-01T05:00:00Z",
+  "market_id": "1106059",
+  "market_startDate": "2026-01-05T17:39:32.523715Z",
+  "market_updatedAt": "2026-01-10T15:51:29.881226Z",
+  "question": "Over $1B raised on Coinbase in 2026?",
+  "slug": "over-1b-raised-on-coinbase-in-2026"
 }

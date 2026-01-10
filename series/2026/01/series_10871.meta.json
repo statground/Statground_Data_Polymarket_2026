@@ -1,15 +1,15 @@
 {
   "entity": "series",
-  "series_id": "10871",
-  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "folder_dt_utc": "2026-01-08T01:06:13.448404Z",
-  "series_createdAt": "2026-01-08T01:06:13.448404Z",
-  "series_publishedAt": null,
-  "series_updatedAt": "2026-01-10T14:43:14.972267Z",
-  "slug": "reserve-bank-of-india-decision",
-  "ticker": "reserve-bank-of-india-decision",
-  "title": "Reserve Bank of India Decision",
-  "startDate": null,
+  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "recurrence": "monthly",
-  "seriesType": "single"
+  "seriesType": "single",
+  "series_createdAt": "2026-01-08T01:06:13.448404Z",
+  "series_id": "10871",
+  "series_publishedAt": null,
+  "series_updatedAt": "2026-01-10T15:53:42.754785Z",
+  "slug": "reserve-bank-of-india-decision",
+  "startDate": null,
+  "ticker": "reserve-bank-of-india-decision",
+  "title": "Reserve Bank of India Decision"
 }

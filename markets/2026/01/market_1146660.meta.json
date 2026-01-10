@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1146660",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-09T23:00:14.662179Z",
-  "market_createdAt": "2026-01-09T23:00:14.662179Z",
-  "market_updatedAt": "2026-01-10T14:44:53.515116Z",
-  "market_startDate": "2026-01-09T23:25:54.700718Z",
-  "market_endDate": "2026-01-16T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xc34de676b996f08a2f129407b79ac7864c2cb0f9544a0c9a1f9330567f0941a4",
-  "slug": "will-open-close-between-2-and-3-week-january-16-2026",
-  "question": "Will Opendoor (OPEN) close at $2.00-$3.00 on the final day of trading of the week of Jan 12 – Jan 16?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-09T23:00:14.662179Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-09T23:00:14.662179Z",
+  "market_endDate": "2026-01-16T21:00:00Z",
+  "market_id": "1146660",
+  "market_startDate": "2026-01-09T23:25:54.700718Z",
+  "market_updatedAt": "2026-01-10T15:53:15.317855Z",
+  "question": "Will Opendoor (OPEN) close at $2.00-$3.00 on the final day of trading of the week of Jan 12 – Jan 16?",
+  "slug": "will-open-close-between-2-and-3-week-january-16-2026"
 }

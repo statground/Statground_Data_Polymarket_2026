@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1088044",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-02T17:00:06.297397Z",
-  "market_createdAt": "2026-01-02T17:00:06.297397Z",
-  "market_updatedAt": "2026-01-06T14:36:50.61952Z",
-  "market_startDate": "2026-01-02T17:10:07.061304Z",
-  "market_endDate": "2026-01-09T17:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x13bf254bcf18f8dcafdee79503514f77e3253628d71aeed2c094c61d3e424257",
-  "slug": "solana-above-110-on-january-9",
-  "question": "Will the price of Solana be above $110 on January 9?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-02T17:00:06.297397Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-09 19:22:26+00",
+  "market_createdAt": "2026-01-02T17:00:06.297397Z",
+  "market_endDate": "2026-01-09T17:00:00Z",
+  "market_id": "1088044",
+  "market_startDate": "2026-01-02T17:10:07.061304Z",
+  "market_updatedAt": "2026-01-10T15:47:39.321074Z",
+  "question": "Will the price of Solana be above $110 on January 9?",
+  "slug": "solana-above-110-on-january-9"
 }

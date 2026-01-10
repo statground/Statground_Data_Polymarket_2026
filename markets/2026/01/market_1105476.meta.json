@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1105476",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-04T16:30:07.328507Z",
-  "market_createdAt": "2026-01-04T16:30:07.328507Z",
-  "market_updatedAt": "2026-01-06T14:45:41.099103Z",
-  "market_startDate": "2026-01-04T16:31:26.163364Z",
-  "market_endDate": "2026-01-10T00:05:00Z",
-  "market_closedTime": null,
   "conditionId": "0x9813ed03487be74048429a57d2a2df1a9c3ae57935cf40865ec06f7ccd6ea7d6",
-  "slug": "ahl-bri-pro-2026-01-10",
-  "question": "AHL: Bridgeport Islanders vs. Providence Bruins"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-04T16:30:07.328507Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-10 05:21:00+00",
+  "market_createdAt": "2026-01-04T16:30:07.328507Z",
+  "market_endDate": "2026-01-10T00:05:00Z",
+  "market_id": "1105476",
+  "market_startDate": "2026-01-04T16:31:26.163364Z",
+  "market_updatedAt": "2026-01-10T15:47:39.304596Z",
+  "question": "AHL: Bridgeport Islanders vs. Providence Bruins",
+  "slug": "ahl-bri-pro-2026-01-10"
 }

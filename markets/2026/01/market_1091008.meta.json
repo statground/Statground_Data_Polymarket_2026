@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1091008",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-02T23:00:11.265785Z",
-  "market_createdAt": "2026-01-02T23:00:11.265785Z",
-  "market_updatedAt": "2026-01-06T14:36:17.230439Z",
-  "market_startDate": "2026-01-02T23:23:58.759884Z",
-  "market_endDate": "2026-01-09T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x7b63347390eaa53b24fc9dbbf46e7e6cef4dac01fee56d305e994818c4f12da1",
-  "slug": "nvda-above-180-on-january-9-2026",
-  "question": "Will NVIDIA (NVDA) finish week of January 5 above $180?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-02T23:00:11.265785Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-09 23:57:42+00",
+  "market_createdAt": "2026-01-02T23:00:11.265785Z",
+  "market_endDate": "2026-01-09T21:00:00Z",
+  "market_id": "1091008",
+  "market_startDate": "2026-01-02T23:23:58.759884Z",
+  "market_updatedAt": "2026-01-10T15:47:38.640907Z",
+  "question": "Will NVIDIA (NVDA) finish week of January 5 above $180?",
+  "slug": "nvda-above-180-on-january-9-2026"
 }

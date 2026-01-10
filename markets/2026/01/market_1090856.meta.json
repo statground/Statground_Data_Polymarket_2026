@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1090856",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-02T23:00:02.126240Z",
-  "market_createdAt": "2026-01-02T23:00:02.12624Z",
-  "market_updatedAt": "2026-01-06T14:37:58.106111Z",
-  "market_startDate": "2026-01-02T23:24:28.588531Z",
-  "market_endDate": "2026-01-09T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x1176046e3b02a75780eb5801be66c8f218013a1029ee30d20fd67b2fd5546c6e",
-  "slug": "will-aapl-close-between-285-and-290-week-january-9-2026",
-  "question": "Will Apple (AAPL) close at $285-$290 on the final day of trading of the week of Jan 5 – Jan 9?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-02T23:00:02.126240Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-10 00:29:50+00",
+  "market_createdAt": "2026-01-02T23:00:02.12624Z",
+  "market_endDate": "2026-01-09T21:00:00Z",
+  "market_id": "1090856",
+  "market_startDate": "2026-01-02T23:24:28.588531Z",
+  "market_updatedAt": "2026-01-10T15:51:46.438162Z",
+  "question": "Will Apple (AAPL) close at $285-$290 on the final day of trading of the week of Jan 5 – Jan 9?",
+  "slug": "will-aapl-close-between-285-and-290-week-january-9-2026"
 }

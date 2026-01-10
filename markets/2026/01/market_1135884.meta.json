@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1135884",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-08T13:00:05.191746Z",
-  "market_createdAt": "2026-01-08T13:00:05.191746Z",
-  "market_updatedAt": "2026-01-10T14:43:03.965818Z",
-  "market_startDate": "2026-01-08T13:01:04.895863Z",
-  "market_endDate": "2026-01-09T21:00:00Z",
-  "market_closedTime": "2026-01-10 00:25:42+00",
   "conditionId": "0x5af037981b4ec6cdd83a93fc3690826bf18e9a0ad7307137655ecf73e7aaef7b",
-  "slug": "msft-up-or-down-on-january-9-2026",
-  "question": "Microsoft (MSFT) Up or Down on January 9?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-08T13:00:05.191746Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-10 00:25:42+00",
+  "market_createdAt": "2026-01-08T13:00:05.191746Z",
+  "market_endDate": "2026-01-09T21:00:00Z",
+  "market_id": "1135884",
+  "market_startDate": "2026-01-08T13:01:04.895863Z",
+  "market_updatedAt": "2026-01-10T15:51:46.42393Z",
+  "question": "Microsoft (MSFT) Up or Down on January 9?",
+  "slug": "msft-up-or-down-on-january-9-2026"
 }

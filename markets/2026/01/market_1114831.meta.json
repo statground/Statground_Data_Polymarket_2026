@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1114831",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T16:27:55.939048Z",
-  "market_createdAt": "2026-01-05T16:27:55.939048Z",
-  "market_updatedAt": "2026-01-10T14:46:31.972501Z",
-  "market_startDate": "2026-01-05T16:29:11.867768Z",
-  "market_endDate": "2026-01-25T04:59:59.999Z",
-  "market_closedTime": null,
   "conditionId": "0x5e4e007cd9b0125b8d35f72378da5f1ac19516b67601a4986f1fb7a564f94615",
-  "slug": "ufc-ale7-cha15-2026-01-24-win-by-submission",
-  "question": "Will the fight be won by submission?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T16:27:55.939048Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T16:27:55.939048Z",
+  "market_endDate": "2026-01-25T04:59:59.999Z",
+  "market_id": "1114831",
+  "market_startDate": "2026-01-05T16:29:11.867768Z",
+  "market_updatedAt": "2026-01-10T15:51:29.017286Z",
+  "question": "Will the fight be won by submission?",
+  "slug": "ufc-ale7-cha15-2026-01-24-win-by-submission"
 }

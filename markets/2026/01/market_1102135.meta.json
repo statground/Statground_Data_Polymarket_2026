@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1102135",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-04T05:00:12.193311Z",
-  "market_createdAt": "2026-01-04T05:00:12.193311Z",
-  "market_updatedAt": "2026-01-10T14:46:36.353683Z",
-  "market_startDate": "2026-01-04T05:28:45.419184Z",
-  "market_endDate": "2026-01-17T14:30:00Z",
-  "market_closedTime": null,
   "conditionId": "0x892ea663a7d491c6afe9a975d5764b164ecd8a5b2905607633e3f954611555ee",
-  "slug": "bun-dor-pau-2026-01-17-draw",
-  "question": "Will BV Borussia 09 Dortmund vs. FC St. Pauli 1910 end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-04T05:00:12.193311Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-04T05:00:12.193311Z",
+  "market_endDate": "2026-01-17T14:30:00Z",
+  "market_id": "1102135",
+  "market_startDate": "2026-01-04T05:28:45.419184Z",
+  "market_updatedAt": "2026-01-10T15:51:31.420517Z",
+  "question": "Will BV Borussia 09 Dortmund vs. FC St. Pauli 1910 end in a draw?",
+  "slug": "bun-dor-pau-2026-01-17-draw"
 }

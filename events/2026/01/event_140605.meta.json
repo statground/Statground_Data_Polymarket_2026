@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "140605",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-03T11:00:28.277159Z",
   "event_createdAt": "2026-01-03T11:00:28.277159Z",
   "event_creationDate": "2026-01-03T11:13:43.753947Z",
-  "event_startDate": "2026-01-03T11:13:43.753952Z",
   "event_endDate": "2026-01-05T12:00:00Z",
+  "event_id": "140605",
+  "event_startDate": "2026-01-03T11:13:43.753952Z",
   "event_updatedAt": "2026-01-06T16:33:30.039382Z",
-  "markets_len": 7,
+  "folder_dt_utc": "2026-01-03T11:00:28.277159Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1095635",
     "1095636",
@@ -18,9 +17,10 @@
     "1095640",
     "1095641"
   ],
-  "series_len": 1,
+  "markets_len": 7,
   "series_ids": [
     "10727"
   ],
+  "series_len": 1,
   "series_slug": "dallas-daily-weather"
 }

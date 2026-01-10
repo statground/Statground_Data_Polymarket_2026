@@ -1,15 +1,15 @@
 {
   "entity": "series",
-  "series_id": "10864",
-  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "folder_dt_utc": "2026-01-07T16:52:54.907583Z",
-  "series_createdAt": "2026-01-07T16:52:54.907583Z",
-  "series_publishedAt": null,
-  "series_updatedAt": "2026-01-10T14:43:14.546191Z",
-  "slug": "billboard-1-song",
-  "ticker": "billboard-1-song",
-  "title": "Billboard #1 Song",
-  "startDate": null,
+  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "recurrence": "weekly",
-  "seriesType": "single"
+  "seriesType": "single",
+  "series_createdAt": "2026-01-07T16:52:54.907583Z",
+  "series_id": "10864",
+  "series_publishedAt": null,
+  "series_updatedAt": "2026-01-10T15:53:42.50788Z",
+  "slug": "billboard-1-song",
+  "startDate": null,
+  "ticker": "billboard-1-song",
+  "title": "Billboard #1 Song"
 }

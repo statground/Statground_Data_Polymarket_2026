@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1138293",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-08T19:00:13.368047Z",
-  "market_createdAt": "2026-01-08T19:00:13.368047Z",
-  "market_updatedAt": "2026-01-10T14:46:32.365805Z",
-  "market_startDate": "2026-01-08T19:05:36.096422Z",
-  "market_endDate": "2026-01-21T20:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x5222547e14cd221e1aaeb01dbd9eda4cd2c17162ae97c8ee359e1cc796ce2f02",
-  "slug": "ucl-bay-usg1-2026-01-21-draw",
-  "question": "Will FC Bayern München vs. RU Saint-Gilloise end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-08T19:00:13.368047Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-08T19:00:13.368047Z",
+  "market_endDate": "2026-01-21T20:00:00Z",
+  "market_id": "1138293",
+  "market_startDate": "2026-01-08T19:05:36.096422Z",
+  "market_updatedAt": "2026-01-10T15:51:28.690698Z",
+  "question": "Will FC Bayern München vs. RU Saint-Gilloise end in a draw?",
+  "slug": "ucl-bay-usg1-2026-01-21-draw"
 }

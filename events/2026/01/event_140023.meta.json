@@ -1,20 +1,20 @@
 {
   "entity": "event",
-  "event_id": "140023",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-03T04:16:47.166017Z",
   "event_createdAt": "2026-01-03T04:16:47.166017Z",
   "event_creationDate": "2026-01-03T04:17:08.23691Z",
-  "event_startDate": "2026-01-03T04:17:08.236912Z",
   "event_endDate": "2026-01-04T04:15:00Z",
+  "event_id": "140023",
+  "event_startDate": "2026-01-03T04:17:08.236912Z",
   "event_updatedAt": "2026-01-04T04:20:45.861938Z",
-  "markets_len": 1,
+  "folder_dt_utc": "2026-01-03T04:16:47.166017Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1093029"
   ],
-  "series_len": 1,
+  "markets_len": 1,
   "series_ids": [
     "10683"
   ],
+  "series_len": 1,
   "series_slug": "eth-up-or-down-5m"
 }

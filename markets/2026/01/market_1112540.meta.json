@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1112540",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T07:00:08.994626Z",
-  "market_createdAt": "2026-01-05T07:00:08.994626Z",
-  "market_updatedAt": "2026-01-10T14:46:35.612707Z",
-  "market_startDate": "2026-01-05T07:07:02.83769Z",
-  "market_endDate": "2026-01-18T20:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x83c432a46d4ffef34a7e4cb0d9c4b09ced230bb41b866126df5dadcf825ce226",
-  "slug": "es2-cor-mal-2026-01-18-draw",
-  "question": "Will Córdoba CF vs. Málaga CF end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T07:00:08.994626Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T07:00:08.994626Z",
+  "market_endDate": "2026-01-18T20:00:00Z",
+  "market_id": "1112540",
+  "market_startDate": "2026-01-05T07:07:02.83769Z",
+  "market_updatedAt": "2026-01-10T15:53:15.549113Z",
+  "question": "Will Córdoba CF vs. Málaga CF end in a draw?",
+  "slug": "es2-cor-mal-2026-01-18-draw"
 }

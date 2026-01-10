@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1089806",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-02T20:30:02.724113Z",
-  "market_createdAt": "2026-01-02T20:30:02.724113Z",
-  "market_updatedAt": "2026-01-06T14:35:20.835944Z",
-  "market_startDate": "2026-01-02T20:43:01.287277Z",
-  "market_endDate": "2026-01-30T15:50:00Z",
-  "market_closedTime": null,
   "conditionId": "0xeed067aa12d66391a8aa5ffe9b8256e443652ef84228d5a78aa552ba1565e1fe",
-  "slug": "spl-neo-dam-2026-01-30-draw",
-  "question": "Will NEOM SC vs. Damac Saudi Club end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-02T20:30:02.724113Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-02T20:30:02.724113Z",
+  "market_endDate": "2026-01-30T15:50:00Z",
+  "market_id": "1089806",
+  "market_startDate": "2026-01-02T20:43:01.287277Z",
+  "market_updatedAt": "2026-01-10T15:53:15.28566Z",
+  "question": "Will NEOM SC vs. Damac Saudi Club end in a draw?",
+  "slug": "spl-neo-dam-2026-01-30-draw"
 }

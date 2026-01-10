@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1115930",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T19:46:20.077012Z",
-  "market_createdAt": "2026-01-05T19:46:20.077012Z",
-  "market_updatedAt": "2026-01-10T14:46:34.794386Z",
-  "market_startDate": "2026-01-05T23:09:04.015475Z",
-  "market_endDate": "2027-12-31T00:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x14933f8d6071a74b7f0547bdb3bc19eb7080b1064c39bd60f6202be03669c8e0",
-  "slug": "will-perplexitys-market-cap-be-between-20b-and-40b-at-market-close-on-ipo-day",
-  "question": "Will Perplexity’s market cap be between $20B and $30B at market close on IPO day?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T19:46:20.077012Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T19:46:20.077012Z",
+  "market_endDate": "2027-12-31T00:00:00Z",
+  "market_id": "1115930",
+  "market_startDate": "2026-01-05T23:09:04.015475Z",
+  "market_updatedAt": "2026-01-10T15:51:30.405097Z",
+  "question": "Will Perplexity’s market cap be between $20B and $30B at market close on IPO day?",
+  "slug": "will-perplexitys-market-cap-be-between-20b-and-40b-at-market-close-on-ipo-day"
 }

@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1097740",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-03T16:30:03.371870Z",
-  "market_createdAt": "2026-01-03T16:30:03.37187Z",
-  "market_updatedAt": "2026-01-06T14:40:06.6151Z",
-  "market_startDate": "2026-01-03T16:31:10.679146Z",
-  "market_endDate": "2026-01-09T14:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xb198521aaccd2948ecaaa8279f5d29093ef585d5d16b1afdc01872af0484f94a",
-  "slug": "khl-csk-sha-2026-01-09",
-  "question": "KHL: CSKA Moscow vs. Shanghai Dragons"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-03T16:30:03.371870Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-09 18:22:14+00",
+  "market_createdAt": "2026-01-03T16:30:03.37187Z",
+  "market_endDate": "2026-01-09T14:00:00Z",
+  "market_id": "1097740",
+  "market_startDate": "2026-01-03T16:31:10.679146Z",
+  "market_updatedAt": "2026-01-10T15:51:48.008233Z",
+  "question": "KHL: CSKA Moscow vs. Shanghai Dragons",
+  "slug": "khl-csk-sha-2026-01-09"
 }

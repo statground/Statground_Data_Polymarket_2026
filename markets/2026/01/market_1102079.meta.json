@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1102079",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-04T05:00:08.957610Z",
-  "market_createdAt": "2026-01-04T05:00:08.95761Z",
-  "market_updatedAt": "2026-01-10T14:46:38.772579Z",
-  "market_startDate": "2026-01-04T05:27:13.552095Z",
-  "market_endDate": "2026-01-17T12:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xb589181e6ed2d8b58c95120b9c58efc5ae771bf38bdf46ae637d18bb057dddc5",
-  "slug": "bl2-fcn-elv-2026-01-17-draw",
-  "question": "Will 1. FC Nürnberg vs. SV 07 Elversberg end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-04T05:00:08.957610Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-04T05:00:08.95761Z",
+  "market_endDate": "2026-01-17T12:00:00Z",
+  "market_id": "1102079",
+  "market_startDate": "2026-01-04T05:27:13.552095Z",
+  "market_updatedAt": "2026-01-10T15:51:32.594014Z",
+  "question": "Will 1. FC Nürnberg vs. SV 07 Elversberg end in a draw?",
+  "slug": "bl2-fcn-elv-2026-01-17-draw"
 }

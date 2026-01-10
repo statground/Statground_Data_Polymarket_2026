@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1112291",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T06:00:11.152940Z",
-  "market_createdAt": "2026-01-05T06:00:11.15294Z",
-  "market_updatedAt": "2026-01-06T14:39:48.903952Z",
-  "market_startDate": "2026-01-05T06:02:31.297051Z",
-  "market_endDate": "2026-01-18T14:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x8fe7fcee62365dd3f90329dbf834af50419ff3e49ff48ac6e6786eabdece7510",
-  "slug": "fl1-str-met-2026-01-18-spread-home-1pt5",
-  "question": "Spread: RC Strasbourg Alsace (-1.5)"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T06:00:11.152940Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T06:00:11.15294Z",
+  "market_endDate": "2026-01-18T14:00:00Z",
+  "market_id": "1112291",
+  "market_startDate": "2026-01-05T06:02:31.297051Z",
+  "market_updatedAt": "2026-01-10T15:51:34.360333Z",
+  "question": "Spread: RC Strasbourg Alsace (-1.5)",
+  "slug": "fl1-str-met-2026-01-18-spread-home-1pt5"
 }

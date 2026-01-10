@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1114961",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T17:00:02.657567Z",
-  "market_createdAt": "2026-01-05T17:00:02.657567Z",
-  "market_updatedAt": "2026-01-06T14:42:55.094037Z",
-  "market_startDate": "2026-01-05T17:12:43.598945Z",
-  "market_endDate": "2026-01-10T17:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x157c31bee49287a388ea918cf10d24f00e6d63fcad508b33f8348af2b624c677",
-  "slug": "elon-musk-tweets-january-8-january-10-65-89",
-  "question": "Will Elon Musk post 65-89 tweets from January 8 to January 10, 2026?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T17:00:02.657567Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-09 20:12:30+00",
+  "market_createdAt": "2026-01-05T17:00:02.657567Z",
+  "market_endDate": "2026-01-10T17:00:00Z",
+  "market_id": "1114961",
+  "market_startDate": "2026-01-05T17:12:43.598945Z",
+  "market_updatedAt": "2026-01-10T15:43:19.742874Z",
+  "question": "Will Elon Musk post 65-89 tweets from January 8 to January 10, 2026?",
+  "slug": "elon-musk-tweets-january-8-january-10-65-89"
 }

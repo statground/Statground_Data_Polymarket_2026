@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "147785",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-06T19:44:47.281379Z",
   "event_createdAt": "2026-01-06T19:44:47.281379Z",
   "event_creationDate": "2026-01-06T23:13:04.806902Z",
-  "event_startDate": "2026-01-06T23:13:04.806923Z",
   "event_endDate": "2026-01-13T00:00:00Z",
-  "event_updatedAt": "2026-01-10T14:41:09.536947Z",
-  "markets_len": 22,
+  "event_id": "147785",
+  "event_startDate": "2026-01-06T23:13:04.806923Z",
+  "event_updatedAt": "2026-01-10T15:45:22.997255Z",
+  "folder_dt_utc": "2026-01-06T19:44:47.281379Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1124223",
     "1124225",
@@ -33,9 +32,10 @@
     "1124242",
     "1124244"
   ],
-  "series_len": 1,
+  "markets_len": 22,
   "series_ids": [
     "10772"
   ],
+  "series_len": 1,
   "series_slug": "1-us-netflix-show"
 }

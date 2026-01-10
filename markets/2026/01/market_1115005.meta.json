@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1115005",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T17:00:08.235936Z",
-  "market_createdAt": "2026-01-05T17:00:08.235936Z",
-  "market_updatedAt": "2026-01-06T14:45:52.263114Z",
-  "market_startDate": "2026-01-05T17:07:53.088993Z",
-  "market_endDate": "2026-01-12T17:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xa74d8d15b1e8ce4757aa6a81553272e8fa61b68204d5f05bdf0066412afaff41",
-  "slug": "bitcoin-above-92k-on-january-12",
-  "question": "Will the price of Bitcoin be above $92,000 on January 12?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T17:00:08.235936Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T17:00:08.235936Z",
+  "market_endDate": "2026-01-12T17:00:00Z",
+  "market_id": "1115005",
+  "market_startDate": "2026-01-05T17:07:53.088993Z",
+  "market_updatedAt": "2026-01-10T15:51:38.305453Z",
+  "question": "Will the price of Bitcoin be above $92,000 on January 12?",
+  "slug": "bitcoin-above-92k-on-january-12"
 }

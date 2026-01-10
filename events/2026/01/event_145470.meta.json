@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "145470",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-05T17:00:02.271550Z",
   "event_createdAt": "2026-01-05T17:00:02.27155Z",
   "event_creationDate": "2026-01-05T17:19:46.355796Z",
-  "event_startDate": "2026-01-05T17:19:46.355801Z",
   "event_endDate": "2026-01-10T17:00:00Z",
-  "event_updatedAt": "2026-01-10T14:39:02.720541Z",
-  "markets_len": 10,
+  "event_id": "145470",
+  "event_startDate": "2026-01-05T17:19:46.355801Z",
+  "event_updatedAt": "2026-01-10T15:45:25.060079Z",
+  "folder_dt_utc": "2026-01-05T17:00:02.271550Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1114961",
     "1114965",
@@ -21,9 +20,10 @@
     "1114977",
     "1114979"
   ],
-  "series_len": 1,
+  "markets_len": 10,
   "series_ids": [
     "10816"
   ],
+  "series_len": 1,
   "series_slug": "elon-tweets-48h"
 }

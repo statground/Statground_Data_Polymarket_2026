@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1102100",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-04T05:00:10.141302Z",
-  "market_createdAt": "2026-01-04T05:00:10.141302Z",
-  "market_updatedAt": "2026-01-10T14:44:54.868012Z",
-  "market_startDate": "2026-01-04T05:27:32.770491Z",
-  "market_endDate": "2026-01-31T12:30:00Z",
-  "market_closedTime": null,
   "conditionId": "0x7e468df4b2f7766a6c7cdb397e3154e3beafeaf6306af11b12aa01c72f1b5cde",
-  "slug": "elc-swe-wre-2026-01-31-draw",
-  "question": "Will Sheffield Wednesday FC vs. Wrexham AFC end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-04T05:00:10.141302Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-04T05:00:10.141302Z",
+  "market_endDate": "2026-01-31T12:30:00Z",
+  "market_id": "1102100",
+  "market_startDate": "2026-01-04T05:27:32.770491Z",
+  "market_updatedAt": "2026-01-10T15:53:12.996071Z",
+  "question": "Will Sheffield Wednesday FC vs. Wrexham AFC end in a draw?",
+  "slug": "elc-swe-wre-2026-01-31-draw"
 }

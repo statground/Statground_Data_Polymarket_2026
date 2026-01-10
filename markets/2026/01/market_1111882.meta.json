@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1111882",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T05:00:08.066681Z",
-  "market_createdAt": "2026-01-05T05:00:08.066681Z",
-  "market_updatedAt": "2026-01-10T14:44:46.072237Z",
-  "market_startDate": "2026-01-05T05:11:11.720799Z",
-  "market_endDate": "2026-01-12T05:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x9a863fb83bf254fd2f10f53c48aeb4fac3553ed1ef7f7e383134cc833101bf99",
-  "slug": "will-ethereum-reach-3900-january-5-11",
-  "question": "Will Ethereum reach $3,900 January 5-11?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T05:00:08.066681Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T05:00:08.066681Z",
+  "market_endDate": "2026-01-12T05:00:00Z",
+  "market_id": "1111882",
+  "market_startDate": "2026-01-05T05:11:11.720799Z",
+  "market_updatedAt": "2026-01-10T15:51:40.178136Z",
+  "question": "Will Ethereum reach $3,900 January 5-11?",
+  "slug": "will-ethereum-reach-3900-january-5-11"
 }

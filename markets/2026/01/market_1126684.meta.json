@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1126684",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-07T02:27:57.899046Z",
-  "market_createdAt": "2026-01-07T02:27:57.899046Z",
-  "market_updatedAt": "2026-01-10T14:44:52.955947Z",
-  "market_startDate": "2026-01-07T02:33:01.976806Z",
-  "market_endDate": "2026-01-31T00:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xcdb3694a36ac461a7234ceedfdbb5fa2ce1d27a4c8cde96926bc6254612f17e2",
-  "slug": "spx-close-above-7200-jan-2026",
-  "question": "Will S&P 500 (SPX) close at >$7,200 in January?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-07T02:27:57.899046Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-07T02:27:57.899046Z",
+  "market_endDate": "2026-01-31T00:00:00Z",
+  "market_id": "1126684",
+  "market_startDate": "2026-01-07T02:33:01.976806Z",
+  "market_updatedAt": "2026-01-10T15:53:11.683567Z",
+  "question": "Will S&P 500 (SPX) close at >$7,200 in January?",
+  "slug": "spx-close-above-7200-jan-2026"
 }

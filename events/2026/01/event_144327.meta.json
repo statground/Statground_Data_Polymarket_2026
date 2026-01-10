@@ -1,21 +1,21 @@
 {
   "entity": "event",
-  "event_id": "144327",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-05T05:00:06.971415Z",
   "event_createdAt": "2026-01-05T05:00:06.971415Z",
   "event_creationDate": "2026-01-11T08:00:00Z",
-  "event_startDate": "2026-01-05T05:13:31.146769Z",
   "event_endDate": "2026-01-18T08:00:00Z",
-  "event_updatedAt": "2026-01-10T14:41:05.889904Z",
-  "markets_len": 2,
+  "event_id": "144327",
+  "event_startDate": "2026-01-05T05:13:31.146769Z",
+  "event_updatedAt": "2026-01-10T15:47:41.763582Z",
+  "folder_dt_utc": "2026-01-05T05:00:06.971415Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1111879",
     "1111877"
   ],
-  "series_len": 1,
+  "markets_len": 2,
   "series_ids": [
     "10528"
   ],
+  "series_len": 1,
   "series_slug": "international-cricket"
 }

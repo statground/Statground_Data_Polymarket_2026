@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1093328",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-03T05:00:33.540188Z",
-  "market_createdAt": "2026-01-03T05:00:33.540188Z",
-  "market_updatedAt": "2026-01-06T14:39:09.042898Z",
-  "market_startDate": "2026-01-03T05:18:24.362963Z",
-  "market_endDate": "2026-01-17T05:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x8b548a7cffe055e129bb5ad005709cd964c8b2cb99ea343514b275553a5951a5",
-  "slug": "craus-bri-syd2-2026-01-10-toss-match-double-syd2",
-  "question": "Big Bash League: Brisbane Heat vs Sydney Thunder (Game 1) - Toss Match Double Sydney Thunder Winner"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-03T05:00:33.540188Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-10 11:19:58+00",
+  "market_createdAt": "2026-01-03T05:00:33.540188Z",
+  "market_endDate": "2026-01-17T05:00:00Z",
+  "market_id": "1093328",
+  "market_startDate": "2026-01-03T05:18:24.362963Z",
+  "market_updatedAt": "2026-01-10T15:51:46.473219Z",
+  "question": "Big Bash League: Brisbane Heat vs Sydney Thunder (Game 1) - Toss Match Double Sydney Thunder Winner",
+  "slug": "craus-bri-syd2-2026-01-10-toss-match-double-syd2"
 }

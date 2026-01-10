@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1114856",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T16:30:01.952152Z",
-  "market_createdAt": "2026-01-05T16:30:01.952152Z",
-  "market_updatedAt": "2026-01-06T14:40:02.981298Z",
-  "market_startDate": "2026-01-05T16:31:19.637868Z",
-  "market_endDate": "2026-01-11T15:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x4dfaa6d47977a53765ed0a0b04050f0590146df27aaeb072d1968842b86930c1",
-  "slug": "khl-csk-spa-2026-01-11",
-  "question": "KHL: CSKA Moscow vs. Spartak Moscow"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T16:30:01.952152Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T16:30:01.952152Z",
+  "market_endDate": "2026-01-11T15:00:00Z",
+  "market_id": "1114856",
+  "market_startDate": "2026-01-05T16:31:19.637868Z",
+  "market_updatedAt": "2026-01-10T15:51:28.110837Z",
+  "question": "KHL: CSKA Moscow vs. Spartak Moscow",
+  "slug": "khl-csk-spa-2026-01-11"
 }

@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1082017",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-01T16:30:04.892657Z",
-  "market_createdAt": "2026-01-01T16:30:04.892657Z",
-  "market_updatedAt": "2026-01-10T14:44:49.330191Z",
-  "market_startDate": "2026-01-01T16:31:03.622792Z",
-  "market_endDate": "2026-01-06T17:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x2a7dc906e96ac3b2c3b2bba7d4b64541bcd6ae7fd10e5b9af2da27778329319c",
-  "slug": "cehl-lib-mot-2026-01-06",
-  "question": "CEHL: Liberec vs. Motor Ceske Budejovice"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-01T16:30:04.892657Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-01T16:30:04.892657Z",
+  "market_endDate": "2026-01-06T17:00:00Z",
+  "market_id": "1082017",
+  "market_startDate": "2026-01-01T16:31:03.622792Z",
+  "market_updatedAt": "2026-01-10T15:53:08.976742Z",
+  "question": "CEHL: Liberec vs. Motor Ceske Budejovice",
+  "slug": "cehl-lib-mot-2026-01-06"
 }

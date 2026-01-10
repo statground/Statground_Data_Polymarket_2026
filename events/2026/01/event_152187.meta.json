@@ -1,20 +1,20 @@
 {
   "entity": "event",
-  "event_id": "152187",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-09T01:27:40.268235Z",
   "event_createdAt": "2026-01-09T01:27:40.268235Z",
   "event_creationDate": "2026-01-10T19:00:00Z",
-  "event_startDate": "2026-01-09T01:31:01.660293Z",
   "event_endDate": "2026-01-17T19:00:00Z",
-  "event_updatedAt": "2026-01-10T14:41:07.238766Z",
-  "markets_len": 1,
+  "event_id": "152187",
+  "event_startDate": "2026-01-09T01:31:01.660293Z",
+  "event_updatedAt": "2026-01-10T15:45:21.362326Z",
+  "folder_dt_utc": "2026-01-09T01:27:40.268235Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1140916"
   ],
-  "series_len": 1,
+  "markets_len": 1,
   "series_ids": [
     "10877"
   ],
+  "series_len": 1,
   "series_slug": "basketball-series-a"
 }

@@ -1,20 +1,20 @@
 {
   "entity": "event",
-  "event_id": "151035",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-08T13:00:10.607316Z",
   "event_createdAt": "2026-01-08T13:00:10.607316Z",
   "event_creationDate": "2026-01-09T14:30:00Z",
-  "event_startDate": "2026-01-08T13:03:28.717012Z",
   "event_endDate": "2026-01-09T21:00:00Z",
-  "event_updatedAt": "2026-01-10T14:39:02.871163Z",
-  "markets_len": 1,
+  "event_id": "151035",
+  "event_startDate": "2026-01-08T13:03:28.717012Z",
+  "event_updatedAt": "2026-01-10T15:43:27.672768Z",
+  "folder_dt_utc": "2026-01-08T13:00:10.607316Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1135911"
   ],
-  "series_len": 1,
+  "markets_len": 1,
   "series_ids": [
     "10388"
   ],
+  "series_len": 1,
   "series_slug": "russell-2000-daily-up-or-down"
 }

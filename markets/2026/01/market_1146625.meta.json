@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1146625",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-09T23:00:12.769464Z",
-  "market_createdAt": "2026-01-09T23:00:12.769464Z",
-  "market_updatedAt": "2026-01-10T14:46:33.780866Z",
-  "market_startDate": "2026-01-09T23:25:27.896001Z",
-  "market_endDate": "2026-01-16T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xac3fcca46120916ca3d5b631bc1ff97277e19d3a940ed6dd53bb10871ee77b70",
-  "slug": "will-nflx-close-between-50-and-60-week-january-16-2026",
-  "question": "Will Netflix (NFLX) close at $50-$60 on the final day of trading of the week of Jan 12 – Jan 16?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-09T23:00:12.769464Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-09T23:00:12.769464Z",
+  "market_endDate": "2026-01-16T21:00:00Z",
+  "market_id": "1146625",
+  "market_startDate": "2026-01-09T23:25:27.896001Z",
+  "market_updatedAt": "2026-01-10T15:51:29.334516Z",
+  "question": "Will Netflix (NFLX) close at $50-$60 on the final day of trading of the week of Jan 12 – Jan 16?",
+  "slug": "will-nflx-close-between-50-and-60-week-january-16-2026"
 }

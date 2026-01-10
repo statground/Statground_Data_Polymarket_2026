@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1111204",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T02:11:00.112105Z",
-  "market_createdAt": "2026-01-05T02:11:00.112105Z",
-  "market_updatedAt": "2026-01-06T14:40:18.494302Z",
-  "market_startDate": "2026-01-05T23:01:56.149097Z",
-  "market_endDate": "2026-01-09T00:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x93e3e5d35259d9ee3de62155a629c8c8bafc39f0c10ba033f1f7f776918d3cf2",
-  "slug": "will-the-sp-500-have-the-best-performance-for-the-week-of-january-5",
-  "question": "Will the S&P 500 have the best performance for the week of January 5?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T02:11:00.112105Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-10 04:57:24+00",
+  "market_createdAt": "2026-01-05T02:11:00.112105Z",
+  "market_endDate": "2026-01-09T00:00:00Z",
+  "market_id": "1111204",
+  "market_startDate": "2026-01-05T23:01:56.149097Z",
+  "market_updatedAt": "2026-01-10T15:47:38.240984Z",
+  "question": "Will the S&P 500 have the best performance for the week of January 5?",
+  "slug": "will-the-sp-500-have-the-best-performance-for-the-week-of-january-5"
 }

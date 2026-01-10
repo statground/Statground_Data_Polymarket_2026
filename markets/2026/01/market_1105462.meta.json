@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1105462",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-04T16:30:03.298864Z",
-  "market_createdAt": "2026-01-04T16:30:03.298864Z",
-  "market_updatedAt": "2026-01-06T14:45:01.125819Z",
-  "market_startDate": "2026-01-04T16:31:22.149778Z",
-  "market_endDate": "2026-01-10T18:45:00Z",
-  "market_closedTime": null,
   "conditionId": "0x1153104be384c63730b5fcb6e7058e2ce022fd99bc17887540d437017220a180",
-  "slug": "snhl-lau-fri-2026-01-10",
-  "question": "SNHL: Lausanne vs. Fribourg-Gotteron"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-04T16:30:03.298864Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-04T16:30:03.298864Z",
+  "market_endDate": "2026-01-10T18:45:00Z",
+  "market_id": "1105462",
+  "market_startDate": "2026-01-04T16:31:22.149778Z",
+  "market_updatedAt": "2026-01-10T15:51:27.968613Z",
+  "question": "SNHL: Lausanne vs. Fribourg-Gotteron",
+  "slug": "snhl-lau-fri-2026-01-10"
 }

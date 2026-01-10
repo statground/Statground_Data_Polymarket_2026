@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1090904",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-02T23:00:05.344517Z",
-  "market_createdAt": "2026-01-02T23:00:05.344517Z",
-  "market_updatedAt": "2026-01-06T14:35:52.301185Z",
-  "market_startDate": "2026-01-02T23:23:33.627353Z",
-  "market_endDate": "2026-01-09T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xcbb94eeaecab1d73c2c08ad9b2483171761fe0eff66677019472ccaa776a3d18",
-  "slug": "amzn-above-205-on-january-9-2026",
-  "question": "Will Amazon (AMZN) finish week of January 5 above $205?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-02T23:00:05.344517Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-09 23:24:40+00",
+  "market_createdAt": "2026-01-02T23:00:05.344517Z",
+  "market_endDate": "2026-01-09T21:00:00Z",
+  "market_id": "1090904",
+  "market_startDate": "2026-01-02T23:23:33.627353Z",
+  "market_updatedAt": "2026-01-10T15:47:39.240835Z",
+  "question": "Will Amazon (AMZN) finish week of January 5 above $205?",
+  "slug": "amzn-above-205-on-january-9-2026"
 }

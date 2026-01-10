@@ -1,15 +1,15 @@
 {
   "entity": "series",
-  "series_id": "10843",
-  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "folder_dt_utc": "2026-01-05T15:05:56.341637Z",
-  "series_createdAt": "2026-01-05T15:05:56.341637Z",
-  "series_publishedAt": null,
-  "series_updatedAt": "2026-01-10T14:43:14.717188Z",
-  "slug": "new-album",
-  "ticker": "new-album",
-  "title": "new album",
-  "startDate": null,
+  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "recurrence": "annual",
-  "seriesType": "single"
+  "seriesType": "single",
+  "series_createdAt": "2026-01-05T15:05:56.341637Z",
+  "series_id": "10843",
+  "series_publishedAt": null,
+  "series_updatedAt": "2026-01-10T15:53:42.621229Z",
+  "slug": "new-album",
+  "startDate": null,
+  "ticker": "new-album",
+  "title": "new album"
 }

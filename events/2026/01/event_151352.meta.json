@@ -1,22 +1,22 @@
 {
   "entity": "event",
-  "event_id": "151352",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-08T15:37:19.476663Z",
   "event_createdAt": "2026-01-08T15:37:19.476663Z",
   "event_creationDate": "2026-01-08T21:31:19.87948Z",
-  "event_startDate": "2026-01-08T21:31:19.87949Z",
   "event_endDate": "2026-01-11T00:00:00Z",
-  "event_updatedAt": "2026-01-10T14:41:08.830364Z",
-  "markets_len": 3,
+  "event_id": "151352",
+  "event_startDate": "2026-01-08T21:31:19.87949Z",
+  "event_updatedAt": "2026-01-10T15:45:22.467967Z",
+  "folder_dt_utc": "2026-01-08T15:37:19.476663Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1136717",
     "1136719",
     "1136718"
   ],
-  "series_len": 1,
+  "markets_len": 3,
   "series_ids": [
     "46"
   ],
+  "series_len": 1,
   "series_slug": "box-office-openings"
 }

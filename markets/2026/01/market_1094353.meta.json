@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1094353",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-03T07:00:04.387476Z",
-  "market_createdAt": "2026-01-03T07:00:04.387476Z",
-  "market_updatedAt": "2026-01-06T14:38:42.846333Z",
-  "market_startDate": "2026-01-03T07:02:45.277939Z",
-  "market_endDate": "2026-01-16T19:30:00Z",
-  "market_closedTime": null,
   "conditionId": "0xbbcb6e434b62893479dd91c71d87becb54bba9bb93b5bd0d0cf667f86638a7de",
-  "slug": "es2-cas-leg-2026-01-16-draw",
-  "question": "Will CD Castellón vs. CD Leganés end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-03T07:00:04.387476Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-03T07:00:04.387476Z",
+  "market_endDate": "2026-01-16T19:30:00Z",
+  "market_id": "1094353",
+  "market_startDate": "2026-01-03T07:02:45.277939Z",
+  "market_updatedAt": "2026-01-10T15:51:28.552856Z",
+  "question": "Will CD Castellón vs. CD Leganés end in a draw?",
+  "slug": "es2-cas-leg-2026-01-16-draw"
 }

@@ -1,20 +1,20 @@
 {
   "entity": "event",
-  "event_id": "151429",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-08T16:30:05.637492Z",
   "event_createdAt": "2026-01-08T16:30:05.637492Z",
   "event_creationDate": "2026-01-14T02:05:00Z",
-  "event_startDate": "2026-01-08T16:31:54.682405Z",
   "event_endDate": "2026-01-14T02:05:00Z",
-  "event_updatedAt": "2026-01-10T14:41:09.335566Z",
-  "markets_len": 1,
+  "event_id": "151429",
+  "event_startDate": "2026-01-08T16:31:54.682405Z",
+  "event_updatedAt": "2026-01-10T15:47:41.553244Z",
+  "folder_dt_utc": "2026-01-08T16:30:05.637492Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1137059"
   ],
-  "series_len": 1,
+  "markets_len": 1,
   "series_ids": [
     "10699"
   ],
+  "series_len": 1,
   "series_slug": "ahl-2026"
 }

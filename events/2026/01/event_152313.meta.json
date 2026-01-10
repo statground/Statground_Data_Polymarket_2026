@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "152313",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-09T02:30:02.971432Z",
   "event_createdAt": "2026-01-09T02:30:02.971432Z",
   "event_creationDate": "2026-01-09T02:32:03.448411Z",
-  "event_startDate": "2026-01-09T02:32:03.448426Z",
   "event_endDate": "2026-01-16T11:00:00Z",
-  "event_updatedAt": "2026-01-10T14:41:06.478882Z",
-  "markets_len": 9,
+  "event_id": "152313",
+  "event_startDate": "2026-01-09T02:32:03.448426Z",
+  "event_updatedAt": "2026-01-10T15:47:41.377744Z",
+  "folder_dt_utc": "2026-01-09T02:30:02.971432Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1141148",
     "1141149",
@@ -20,9 +19,10 @@
     "1141146",
     "1141147"
   ],
-  "series_len": 1,
+  "markets_len": 9,
   "series_ids": [
     "10311"
   ],
+  "series_len": 1,
   "series_slug": "league-of-legends"
 }

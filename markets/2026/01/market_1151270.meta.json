@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1151270",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-10T11:00:10.112333Z",
-  "market_createdAt": "2026-01-10T11:00:10.112333Z",
-  "market_updatedAt": "2026-01-10T14:46:33.618189Z",
-  "market_startDate": "2026-01-10T11:12:53.377832Z",
-  "market_endDate": "2026-01-12T12:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x5fd8f58b83abda5625d4a920664210a07baadea69c8a149f4c98fd5b79fc1122",
-  "slug": "highest-temperature-in-buenos-aires-on-january-12-40c",
-  "question": "Will the highest temperature in Buenos Aires be 40°C on January 12?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-10T11:00:10.112333Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-10T11:00:10.112333Z",
+  "market_endDate": "2026-01-12T12:00:00Z",
+  "market_id": "1151270",
+  "market_startDate": "2026-01-10T11:12:53.377832Z",
+  "market_updatedAt": "2026-01-10T15:53:14.526723Z",
+  "question": "Will the highest temperature in Buenos Aires be 40°C on January 12?",
+  "slug": "highest-temperature-in-buenos-aires-on-january-12-40c"
 }

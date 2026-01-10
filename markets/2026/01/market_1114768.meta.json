@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1114768",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T16:26:58.315079Z",
-  "market_createdAt": "2026-01-05T16:26:58.315079Z",
-  "market_updatedAt": "2026-01-10T14:44:52.17921Z",
-  "market_startDate": "2026-01-05T16:28:18.313694Z",
-  "market_endDate": "2026-01-25T04:59:59.999Z",
-  "market_closedTime": null,
   "conditionId": "0x0f1b1b35201961c952702fc0627d5594abc0072aa75e659ac1583a69d8ee9057",
-  "slug": "ufc-der-wal2-2026-01-24-win-by-submission",
-  "question": "Will the fight be won by submission?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T16:26:58.315079Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T16:26:58.315079Z",
+  "market_endDate": "2026-01-25T04:59:59.999Z",
+  "market_id": "1114768",
+  "market_startDate": "2026-01-05T16:28:18.313694Z",
+  "market_updatedAt": "2026-01-10T15:53:11.352616Z",
+  "question": "Will the fight be won by submission?",
+  "slug": "ufc-der-wal2-2026-01-24-win-by-submission"
 }

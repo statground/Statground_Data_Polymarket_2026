@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1116642",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T21:54:22.886984Z",
-  "market_createdAt": "2026-01-05T21:54:22.886984Z",
-  "market_updatedAt": "2026-01-10T14:46:33.523505Z",
-  "market_startDate": "2026-01-05T22:04:03.890074Z",
-  "market_endDate": "2027-01-01T05:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xa5a84ff8ff07843fe094977727aaaf14dc505cb1606480e324f3cce8e905ce3e",
-  "slug": "over-6m-committed-to-the-trove-public-sale",
-  "question": "Over $6M committed to the Trove public sale?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T21:54:22.886984Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T21:54:22.886984Z",
+  "market_endDate": "2027-01-01T05:00:00Z",
+  "market_id": "1116642",
+  "market_startDate": "2026-01-05T22:04:03.890074Z",
+  "market_updatedAt": "2026-01-10T15:51:29.387866Z",
+  "question": "Over $6M committed to the Trove public sale?",
+  "slug": "over-6m-committed-to-the-trove-public-sale"
 }

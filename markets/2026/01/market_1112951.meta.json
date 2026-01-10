@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1112951",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T09:00:09.866373Z",
-  "market_createdAt": "2026-01-05T09:00:09.866373Z",
-  "market_updatedAt": "2026-01-10T14:43:04.990664Z",
-  "market_startDate": "2026-01-05T09:01:51.867314Z",
-  "market_endDate": "2026-01-09T20:00:00Z",
-  "market_closedTime": "2026-01-09 18:26:30+00",
   "conditionId": "0x8431be1865179d72d39c4ee8da7f48074440cac2e24d3301d70d5f848ceb7b7d",
-  "slug": "dota2-aur1-4p-2026-01-09-total-games-2pt5",
-  "question": "Games Total: O/U 2.5"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T09:00:09.866373Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-09 18:26:30+00",
+  "market_createdAt": "2026-01-05T09:00:09.866373Z",
+  "market_endDate": "2026-01-09T20:00:00Z",
+  "market_id": "1112951",
+  "market_startDate": "2026-01-05T09:01:51.867314Z",
+  "market_updatedAt": "2026-01-10T15:47:38.285907Z",
+  "question": "Games Total: O/U 2.5",
+  "slug": "dota2-aur1-4p-2026-01-09-total-games-2pt5"
 }

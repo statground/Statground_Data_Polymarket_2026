@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1120901",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T11:00:15.952245Z",
-  "market_createdAt": "2026-01-06T11:00:15.952245Z",
-  "market_updatedAt": "2026-01-06T14:46:03.894902Z",
-  "market_startDate": "2026-01-06T11:06:30.569557Z",
-  "market_endDate": "2026-01-17T23:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xc54e68cb1353a49de8e03fce77d15dd73c1f82e90a0c47cec5af2c8ea2d69853",
-  "slug": "val-galion-cal1-2026-01-17-total-games-2pt5",
-  "question": "Games Total: O/U 2.5"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T11:00:15.952245Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T11:00:15.952245Z",
+  "market_endDate": "2026-01-17T23:00:00Z",
+  "market_id": "1120901",
+  "market_startDate": "2026-01-06T11:06:30.569557Z",
+  "market_updatedAt": "2026-01-10T15:51:34.977916Z",
+  "question": "Games Total: O/U 2.5",
+  "slug": "val-galion-cal1-2026-01-17-total-games-2pt5"
 }

@@ -1,15 +1,15 @@
 {
   "entity": "series",
-  "series_id": "10847",
-  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "folder_dt_utc": "2026-01-05T20:29:37.900039Z",
-  "series_createdAt": "2026-01-05T20:29:37.900039Z",
-  "series_publishedAt": null,
-  "series_updatedAt": "2026-01-10T14:43:14.971138Z",
-  "slug": "counter-strike-doppler-index-multi-strike-monthly",
-  "ticker": "counter-strike-doppler-index-multi-strike-monthly",
-  "title": "Counter Strike Doppler Index Multi Strike Monthly",
-  "startDate": null,
+  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "recurrence": "monthly",
-  "seriesType": "single"
+  "seriesType": "single",
+  "series_createdAt": "2026-01-05T20:29:37.900039Z",
+  "series_id": "10847",
+  "series_publishedAt": null,
+  "series_updatedAt": "2026-01-10T15:53:42.753664Z",
+  "slug": "counter-strike-doppler-index-multi-strike-monthly",
+  "startDate": null,
+  "ticker": "counter-strike-doppler-index-multi-strike-monthly",
+  "title": "Counter Strike Doppler Index Multi Strike Monthly"
 }

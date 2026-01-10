@@ -1,15 +1,15 @@
 {
   "entity": "series",
-  "series_id": "10839",
-  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "folder_dt_utc": "2026-01-03T14:22:29.398403Z",
-  "series_createdAt": "2026-01-03T14:22:29.398403Z",
-  "series_publishedAt": null,
-  "series_updatedAt": "2026-01-10T14:43:15.310467Z",
-  "slug": "us-x-venezuela-military-engagement",
-  "ticker": "us-x-venezuela-military-engagement",
-  "title": "US x Venezuela military engagement",
-  "startDate": null,
+  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "recurrence": "daily",
-  "seriesType": "single"
+  "seriesType": "single",
+  "series_createdAt": "2026-01-03T14:22:29.398403Z",
+  "series_id": "10839",
+  "series_publishedAt": null,
+  "series_updatedAt": "2026-01-10T15:53:43.056551Z",
+  "slug": "us-x-venezuela-military-engagement",
+  "startDate": null,
+  "ticker": "us-x-venezuela-military-engagement",
+  "title": "US x Venezuela military engagement"
 }

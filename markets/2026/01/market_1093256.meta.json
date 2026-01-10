@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1093256",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-03T05:00:06.527574Z",
-  "market_createdAt": "2026-01-03T05:00:06.527574Z",
-  "market_updatedAt": "2026-01-06T14:42:54.226826Z",
-  "market_startDate": "2026-01-03T05:14:23.872385Z",
-  "market_endDate": "2026-01-16T20:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x79d378000c7271fd43e67c0bb6c76a671038d48fb2221ebbc5ed92d87b72f60a",
-  "slug": "fl1-psg-lil-2026-01-16-draw",
-  "question": "Will Paris Saint-Germain FC vs. Lille OSC end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-03T05:00:06.527574Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-03T05:00:06.527574Z",
+  "market_endDate": "2026-01-16T20:00:00Z",
+  "market_id": "1093256",
+  "market_startDate": "2026-01-03T05:14:23.872385Z",
+  "market_updatedAt": "2026-01-10T15:51:26.998436Z",
+  "question": "Will Paris Saint-Germain FC vs. Lille OSC end in a draw?",
+  "slug": "fl1-psg-lil-2026-01-16-draw"
 }

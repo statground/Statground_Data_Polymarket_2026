@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1105485",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-04T16:30:18.558298Z",
-  "market_createdAt": "2026-01-04T16:30:18.558298Z",
-  "market_updatedAt": "2026-01-10T14:46:38.043359Z",
-  "market_startDate": "2026-01-04T16:31:29.318168Z",
-  "market_endDate": "2026-01-31T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x32fa08a79335b530a504dfdcf66766e89cb22811a29e59af8a61cb8f0a4b43b3",
-  "slug": "nhl-wpg-fla-2026-01-31",
-  "question": "Jets vs. Panthers"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-04T16:30:18.558298Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-04T16:30:18.558298Z",
+  "market_endDate": "2026-01-31T21:00:00Z",
+  "market_id": "1105485",
+  "market_startDate": "2026-01-04T16:31:29.318168Z",
+  "market_updatedAt": "2026-01-10T15:53:12.476852Z",
+  "question": "Jets vs. Panthers",
+  "slug": "nhl-wpg-fla-2026-01-31"
 }

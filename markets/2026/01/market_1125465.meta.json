@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1125465",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T22:33:56.394493Z",
-  "market_createdAt": "2026-01-06T22:33:56.394493Z",
-  "market_updatedAt": "2026-01-10T14:44:52.433318Z",
-  "market_startDate": "2026-01-07T02:41:43.439083Z",
-  "market_endDate": "2026-12-31T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x5ec6e73fe9af7a9949082677c64589f01261ffdb480d249c0aa2de3ea84b06f8",
-  "slug": "ndx-hit-32000-high-dec-2026",
-  "question": "Will Nasdaq 100 (NDX) hit $32,000 (HIGH) in December?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T22:33:56.394493Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T22:33:56.394493Z",
+  "market_endDate": "2026-12-31T21:00:00Z",
+  "market_id": "1125465",
+  "market_startDate": "2026-01-07T02:41:43.439083Z",
+  "market_updatedAt": "2026-01-10T15:53:11.741452Z",
+  "question": "Will Nasdaq 100 (NDX) hit $32,000 (HIGH) in December?",
+  "slug": "ndx-hit-32000-high-dec-2026"
 }

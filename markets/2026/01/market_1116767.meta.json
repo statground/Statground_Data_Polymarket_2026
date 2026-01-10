@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1116767",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T22:15:36.172331Z",
-  "market_createdAt": "2026-01-05T22:15:36.172331Z",
-  "market_updatedAt": "2026-01-10T14:46:34.597479Z",
-  "market_startDate": "2026-01-05T22:16:34.22821Z",
-  "market_endDate": "2026-01-11T18:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xc365c2f93c7f417425030f4638044620af1f9f1ed7feb849a8fb91217656ac8d",
-  "slug": "nfl-buf-jax-2026-01-11-spread-away-2pt5",
-  "question": "Spread: Bills (-2.5)"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T22:15:36.172331Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T22:15:36.172331Z",
+  "market_endDate": "2026-01-11T18:00:00Z",
+  "market_id": "1116767",
+  "market_startDate": "2026-01-05T22:16:34.22821Z",
+  "market_updatedAt": "2026-01-10T15:51:30.417526Z",
+  "question": "Spread: Bills (-2.5)",
+  "slug": "nfl-buf-jax-2026-01-11-spread-away-2pt5"
 }

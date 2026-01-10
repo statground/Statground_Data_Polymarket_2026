@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1146668",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-09T23:00:14.783644Z",
-  "market_createdAt": "2026-01-09T23:00:14.783644Z",
-  "market_updatedAt": "2026-01-10T14:44:51.334069Z",
-  "market_startDate": "2026-01-09T23:23:20.771793Z",
-  "market_endDate": "2026-01-16T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x68bc50815aa056ccdbd7f7a5bbace08a93537cc59e9466e9b8ded344e724be23",
-  "slug": "nflx-above-40-on-january-16-2026",
-  "question": "Will Netflix (NFLX) finish week of January 12 above $40?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-09T23:00:14.783644Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-09T23:00:14.783644Z",
+  "market_endDate": "2026-01-16T21:00:00Z",
+  "market_id": "1146668",
+  "market_startDate": "2026-01-09T23:23:20.771793Z",
+  "market_updatedAt": "2026-01-10T15:51:15.170419Z",
+  "question": "Will Netflix (NFLX) finish week of January 12 above $40?",
+  "slug": "nflx-above-40-on-january-16-2026"
 }

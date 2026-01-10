@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1097736",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-03T16:30:02.230777Z",
-  "market_createdAt": "2026-01-03T16:30:02.230777Z",
-  "market_updatedAt": "2026-01-06T14:39:40.389637Z",
-  "market_startDate": "2026-01-03T16:31:06.721565Z",
-  "market_endDate": "2026-01-09T18:45:00Z",
-  "market_closedTime": null,
   "conditionId": "0xbbef2fbd436a956db4d24789593d2bd01f2f8e18e32a34c159e375f703f42e5e",
-  "slug": "snhl-ber-amb-2026-01-09",
-  "question": "SNHL: Bern vs. Ambri-Piotta"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-03T16:30:02.230777Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-09 23:34:36+00",
+  "market_createdAt": "2026-01-03T16:30:02.230777Z",
+  "market_endDate": "2026-01-09T18:45:00Z",
+  "market_id": "1097736",
+  "market_startDate": "2026-01-03T16:31:06.721565Z",
+  "market_updatedAt": "2026-01-10T15:47:38.735177Z",
+  "question": "SNHL: Bern vs. Ambri-Piotta",
+  "slug": "snhl-ber-amb-2026-01-09"
 }

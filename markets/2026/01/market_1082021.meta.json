@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1082021",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-01T16:30:12.385879Z",
-  "market_createdAt": "2026-01-01T16:30:12.385879Z",
-  "market_updatedAt": "2026-01-10T14:44:55.45853Z",
-  "market_startDate": "2026-01-01T16:31:22.215287Z",
-  "market_endDate": "2026-01-29T00:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x514091b6e238b67eecc216f8b4036a93f2165dd7585a1ee71e2e34850bf797a3",
-  "slug": "nhl-nyr-nyi-2026-01-28",
-  "question": "Rangers vs. Islanders"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-01T16:30:12.385879Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-01T16:30:12.385879Z",
+  "market_endDate": "2026-01-29T00:00:00Z",
+  "market_id": "1082021",
+  "market_startDate": "2026-01-01T16:31:22.215287Z",
+  "market_updatedAt": "2026-01-10T15:53:13.111743Z",
+  "question": "Rangers vs. Islanders",
+  "slug": "nhl-nyr-nyi-2026-01-28"
 }

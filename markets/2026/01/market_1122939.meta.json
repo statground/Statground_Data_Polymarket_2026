@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1122939",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T17:11:28.856478Z",
-  "market_createdAt": "2026-01-06T17:11:28.856478Z",
-  "market_updatedAt": "2026-01-10T14:44:50.659855Z",
-  "market_startDate": "2026-01-06T17:14:18.401017Z",
-  "market_endDate": "2027-01-01T05:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x943283872abab5fa855914aeb4bcac6cb06c0c5d003563789e74b045b31c0c39",
-  "slug": "space-fdv-above-40m-one-day-after-launch",
-  "question": "Space FDV above $40M one day after launch?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T17:11:28.856478Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T17:11:28.856478Z",
+  "market_endDate": "2027-01-01T05:00:00Z",
+  "market_id": "1122939",
+  "market_startDate": "2026-01-06T17:14:18.401017Z",
+  "market_updatedAt": "2026-01-10T15:53:10.044806Z",
+  "question": "Space FDV above $40M one day after launch?",
+  "slug": "space-fdv-above-40m-one-day-after-launch"
 }

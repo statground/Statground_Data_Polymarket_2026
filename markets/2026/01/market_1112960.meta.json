@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1112960",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T09:00:11.200166Z",
-  "market_createdAt": "2026-01-05T09:00:11.200166Z",
-  "market_updatedAt": "2026-01-06T14:39:50.343321Z",
-  "market_startDate": "2026-01-05T09:02:28.868008Z",
-  "market_endDate": "2026-01-09T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xaddb023bf84324a61289de0c33abded15826ee12f485893751c5d21700f490cf",
-  "slug": "dota2-liquid-ngx-2026-01-09-total-games-2pt5",
-  "question": "Games Total: O/U 2.5"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T09:00:11.200166Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-09 19:03:18+00",
+  "market_createdAt": "2026-01-05T09:00:11.200166Z",
+  "market_endDate": "2026-01-09T21:00:00Z",
+  "market_id": "1112960",
+  "market_startDate": "2026-01-05T09:02:28.868008Z",
+  "market_updatedAt": "2026-01-10T15:47:38.758701Z",
+  "question": "Games Total: O/U 2.5",
+  "slug": "dota2-liquid-ngx-2026-01-09-total-games-2pt5"
 }

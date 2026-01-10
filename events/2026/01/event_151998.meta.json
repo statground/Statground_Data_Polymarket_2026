@@ -1,20 +1,20 @@
 {
   "entity": "event",
-  "event_id": "151998",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-08T23:11:48.967271Z",
   "event_createdAt": "2026-01-08T23:11:48.967271Z",
   "event_creationDate": "2026-01-08T23:13:25.782389Z",
-  "event_startDate": "2026-01-08T23:13:25.782393Z",
   "event_endDate": "2026-01-09T23:10:00Z",
+  "event_id": "151998",
+  "event_startDate": "2026-01-08T23:13:25.782393Z",
   "event_updatedAt": "2026-01-09T23:15:51.646246Z",
-  "markets_len": 1,
+  "folder_dt_utc": "2026-01-08T23:11:48.967271Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1140020"
   ],
-  "series_len": 1,
+  "markets_len": 1,
   "series_ids": [
     "10685"
   ],
+  "series_len": 1,
   "series_slug": "xrp-up-or-down-5m"
 }

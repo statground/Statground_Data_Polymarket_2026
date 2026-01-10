@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1128364",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-07T11:00:27.054071Z",
-  "market_createdAt": "2026-01-07T11:00:27.054071Z",
-  "market_updatedAt": "2026-01-10T14:44:59.149633Z",
-  "market_startDate": "2026-01-07T11:13:05.73447Z",
-  "market_endDate": "2026-01-09T12:00:00Z",
-  "market_closedTime": "2026-01-09 20:16:32+00",
   "conditionId": "0x223d7532f3d4f322c976cae5130d3b3601ad440aa42fbdade56a6cc74de574d7",
-  "slug": "highest-temperature-in-atlanta-on-january-9-66-67f",
-  "question": "Will the highest temperature in Atlanta be between 66-67°F on January 9?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-07T11:00:27.054071Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-09 20:16:32+00",
+  "market_createdAt": "2026-01-07T11:00:27.054071Z",
+  "market_endDate": "2026-01-09T12:00:00Z",
+  "market_id": "1128364",
+  "market_startDate": "2026-01-07T11:13:05.73447Z",
+  "market_updatedAt": "2026-01-10T15:43:19.628325Z",
+  "question": "Will the highest temperature in Atlanta be between 66-67°F on January 9?",
+  "slug": "highest-temperature-in-atlanta-on-january-9-66-67f"
 }

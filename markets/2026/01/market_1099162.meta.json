@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1099162",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-03T20:00:02.939385Z",
-  "market_createdAt": "2026-01-03T20:00:02.939385Z",
-  "market_updatedAt": "2026-01-10T14:44:50.132438Z",
-  "market_startDate": "2026-01-03T20:01:06.344764Z",
-  "market_endDate": "2026-01-16T19:30:00Z",
-  "market_closedTime": null,
   "conditionId": "0x78452cbb0fc3e3b58746c8072c0bc5b785c49c933bcf8ffc103874494d333589",
-  "slug": "es2-cas-leg-2026-01-16-total-3pt5",
-  "question": "CD Castellón vs. CD Leganés: O/U 3.5"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-03T20:00:02.939385Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-03T20:00:02.939385Z",
+  "market_endDate": "2026-01-16T19:30:00Z",
+  "market_id": "1099162",
+  "market_startDate": "2026-01-03T20:01:06.344764Z",
+  "market_updatedAt": "2026-01-10T15:51:35.360426Z",
+  "question": "CD Castellón vs. CD Leganés: O/U 3.5",
+  "slug": "es2-cas-leg-2026-01-16-total-3pt5"
 }

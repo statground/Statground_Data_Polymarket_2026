@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1102817",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-04T07:00:06.042272Z",
-  "market_createdAt": "2026-01-04T07:00:06.042272Z",
-  "market_updatedAt": "2026-01-06T14:38:49.697889Z",
-  "market_startDate": "2026-01-04T07:01:34.466346Z",
-  "market_endDate": "2026-01-17T20:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x1c6c0e91182315a11c10a04e1f1b51f7ae1322ea3a30412efd4b6fc5b9a066e6",
-  "slug": "ere-nac-nec-2026-01-17-total-4pt5",
-  "question": "NAC Breda vs. NEC: O/U 4.5"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-04T07:00:06.042272Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-04T07:00:06.042272Z",
+  "market_endDate": "2026-01-17T20:00:00Z",
+  "market_id": "1102817",
+  "market_startDate": "2026-01-04T07:01:34.466346Z",
+  "market_updatedAt": "2026-01-10T15:51:35.523544Z",
+  "question": "NAC Breda vs. NEC: O/U 4.5",
+  "slug": "ere-nac-nec-2026-01-17-total-4pt5"
 }

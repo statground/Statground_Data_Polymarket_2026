@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1146564",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-09T23:00:09.775391Z",
-  "market_createdAt": "2026-01-09T23:00:09.775391Z",
-  "market_updatedAt": "2026-01-10T14:46:37.419448Z",
-  "market_startDate": "2026-01-09T23:24:40.331184Z",
-  "market_endDate": "2026-01-16T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x66c17bd3613187efd9a288c5c65c9b9eaaad272991b5e4d3e565ac28237063d0",
-  "slug": "will-meta-close-between-600-and-610-week-january-16-2026",
-  "question": "Will Meta (META) close at $600-$610 on the final day of trading of the week of Jan 12 – Jan 16?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-09T23:00:09.775391Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-09T23:00:09.775391Z",
+  "market_endDate": "2026-01-16T21:00:00Z",
+  "market_id": "1146564",
+  "market_startDate": "2026-01-09T23:24:40.331184Z",
+  "market_updatedAt": "2026-01-10T15:53:15.030422Z",
+  "question": "Will Meta (META) close at $600-$610 on the final day of trading of the week of Jan 12 – Jan 16?",
+  "slug": "will-meta-close-between-600-and-610-week-january-16-2026"
 }

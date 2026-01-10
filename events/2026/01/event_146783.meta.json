@@ -1,20 +1,20 @@
 {
   "entity": "event",
-  "event_id": "146783",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-06T13:00:02.110871Z",
   "event_createdAt": "2026-01-06T13:00:02.110871Z",
   "event_creationDate": "2026-01-08T14:00:00Z",
-  "event_startDate": "2026-01-06T13:04:58.505258Z",
   "event_endDate": "2026-01-08T23:00:00Z",
+  "event_id": "146783",
+  "event_startDate": "2026-01-06T13:04:58.505258Z",
   "event_updatedAt": "2026-01-10T08:21:25.035583Z",
-  "markets_len": 1,
+  "folder_dt_utc": "2026-01-06T13:00:02.110871Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1121360"
   ],
-  "series_len": 1,
+  "markets_len": 1,
   "series_ids": [
     "10412"
   ],
+  "series_len": 1,
   "series_slug": "ethereum-etf-flows-daily"
 }

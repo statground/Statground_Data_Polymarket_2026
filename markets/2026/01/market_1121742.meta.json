@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1121742",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T15:00:23.173349Z",
-  "market_createdAt": "2026-01-06T15:00:23.173349Z",
-  "market_updatedAt": "2026-01-10T14:44:52.356539Z",
-  "market_startDate": "2026-01-06T15:01:36.032484Z",
-  "market_endDate": "2026-01-13T03:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x47c221b41684f2c56bbb9613cf2fccaf4975772d06397022528d99a8d3b90913",
-  "slug": "nba-lal-sac-2026-01-12",
-  "question": "Lakers vs. Kings"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T15:00:23.173349Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T15:00:23.173349Z",
+  "market_endDate": "2026-01-13T03:00:00Z",
+  "market_id": "1121742",
+  "market_startDate": "2026-01-06T15:01:36.032484Z",
+  "market_updatedAt": "2026-01-10T15:51:14.306401Z",
+  "question": "Lakers vs. Kings",
+  "slug": "nba-lal-sac-2026-01-12"
 }

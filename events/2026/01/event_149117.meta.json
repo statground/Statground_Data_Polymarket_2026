@@ -1,20 +1,20 @@
 {
   "entity": "event",
-  "event_id": "149117",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-07T13:00:04.424583Z",
   "event_createdAt": "2026-01-07T13:00:04.424583Z",
   "event_creationDate": "2026-01-07T13:03:49.070167Z",
-  "event_startDate": "2026-01-07T13:03:49.070169Z",
   "event_endDate": "2026-01-09T14:00:00Z",
-  "event_updatedAt": "2026-01-10T14:39:03.173889Z",
-  "markets_len": 1,
+  "event_id": "149117",
+  "event_startDate": "2026-01-07T13:03:49.070169Z",
+  "event_updatedAt": "2026-01-10T15:43:27.933668Z",
+  "folder_dt_utc": "2026-01-07T13:00:04.424583Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1128758"
   ],
-  "series_len": 1,
+  "markets_len": 1,
   "series_ids": [
     "10122"
   ],
+  "series_len": 1,
   "series_slug": "solana-up-or-down-hourly"
 }

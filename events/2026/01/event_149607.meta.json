@@ -1,22 +1,22 @@
 {
   "entity": "event",
-  "event_id": "149607",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-07T18:15:00.591653Z",
   "event_createdAt": "2026-01-07T18:15:00.591653Z",
   "event_creationDate": "2026-01-07T18:17:50.909139Z",
-  "event_startDate": "2026-01-07T18:17:50.909146Z",
   "event_endDate": "2026-02-03T19:45:00Z",
-  "event_updatedAt": "2026-01-10T14:41:05.395597Z",
-  "markets_len": 3,
+  "event_id": "149607",
+  "event_startDate": "2026-01-07T18:17:50.909146Z",
+  "event_updatedAt": "2026-01-10T15:45:24.002108Z",
+  "folder_dt_utc": "2026-01-07T18:15:00.591653Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1130070",
     "1130071",
     "1130072"
   ],
-  "series_len": 1,
+  "markets_len": 3,
   "series_ids": [
     "10317"
   ],
+  "series_len": 1,
   "series_slug": "dfb-pokal"
 }

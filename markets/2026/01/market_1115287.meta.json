@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1115287",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T17:30:02.017659Z",
-  "market_createdAt": "2026-01-05T17:30:02.017659Z",
-  "market_updatedAt": "2026-01-06T14:44:31.565937Z",
-  "market_startDate": "2026-01-05T17:31:09.019577Z",
-  "market_endDate": "2026-01-19T23:30:00Z",
-  "market_closedTime": null,
   "conditionId": "0x1f7eb6319c89a5461552fde3b9c9b8260e7cdcb8b2d3246d9276bd359afb4139",
-  "slug": "lol-th-gx-2026-01-19",
-  "question": "LoL: Team Heretics vs GIANTX (BO1)"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T17:30:02.017659Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T17:30:02.017659Z",
+  "market_endDate": "2026-01-19T23:30:00Z",
+  "market_id": "1115287",
+  "market_startDate": "2026-01-05T17:31:09.019577Z",
+  "market_updatedAt": "2026-01-10T15:51:37.959815Z",
+  "question": "LoL: Team Heretics vs GIANTX (BO1)",
+  "slug": "lol-th-gx-2026-01-19"
 }

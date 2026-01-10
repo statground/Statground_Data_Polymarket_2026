@@ -1,15 +1,15 @@
 {
   "entity": "series",
-  "series_id": "10849",
-  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "folder_dt_utc": "2026-01-05T20:29:44.513917Z",
-  "series_createdAt": "2026-01-05T20:29:44.513917Z",
-  "series_publishedAt": null,
-  "series_updatedAt": "2026-01-10T14:43:15.266117Z",
-  "slug": "counter-strike-case-index-multi-strike-monthly",
-  "ticker": "counter-strike-case-index-multi-strike-monthly",
-  "title": "Counter Strike Case Index Multi Strike Monthly",
-  "startDate": null,
+  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "recurrence": "monthly",
-  "seriesType": "single"
+  "seriesType": "single",
+  "series_createdAt": "2026-01-05T20:29:44.513917Z",
+  "series_id": "10849",
+  "series_publishedAt": null,
+  "series_updatedAt": "2026-01-10T15:53:43.020743Z",
+  "slug": "counter-strike-case-index-multi-strike-monthly",
+  "startDate": null,
+  "ticker": "counter-strike-case-index-multi-strike-monthly",
+  "title": "Counter Strike Case Index Multi Strike Monthly"
 }

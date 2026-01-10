@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1114890",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T16:30:45.416496Z",
-  "market_createdAt": "2026-01-05T16:30:45.416496Z",
-  "market_updatedAt": "2026-01-10T14:44:54.250933Z",
-  "market_startDate": "2026-01-05T19:16:14.10755Z",
-  "market_endDate": "2026-01-11T00:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x113c0cc236c04b03f9eafeba933c5923607921db15752db45cb8b5f8088cf698",
-  "slug": "will-there-be-exactly-5-earthquakes-of-magnitude-6pt5-or-higher-worldwide-by-january-11-369",
-  "question": "Will there be exactly 5 earthquakes of magnitude 6.5 or higher worldwide by January 11?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T16:30:45.416496Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T16:30:45.416496Z",
+  "market_endDate": "2026-01-11T00:00:00Z",
+  "market_id": "1114890",
+  "market_startDate": "2026-01-05T19:16:14.10755Z",
+  "market_updatedAt": "2026-01-10T15:53:12.501654Z",
+  "question": "Will there be exactly 5 earthquakes of magnitude 6.5 or higher worldwide by January 11?",
+  "slug": "will-there-be-exactly-5-earthquakes-of-magnitude-6pt5-or-higher-worldwide-by-january-11-369"
 }

@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "141150",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-03T17:00:06.743609Z",
   "event_createdAt": "2026-01-03T17:00:06.743609Z",
   "event_creationDate": "2026-01-03T17:20:12.465075Z",
-  "event_startDate": "2026-01-03T17:20:12.465078Z",
   "event_endDate": "2026-01-10T17:00:00Z",
-  "event_updatedAt": "2026-01-10T14:41:07.958422Z",
-  "markets_len": 11,
+  "event_id": "141150",
+  "event_startDate": "2026-01-03T17:20:12.465078Z",
+  "event_updatedAt": "2026-01-10T15:47:41.533983Z",
+  "folder_dt_utc": "2026-01-03T17:00:06.743609Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1097895",
     "1097896",
@@ -22,9 +21,10 @@
     "1097914",
     "1097918"
   ],
-  "series_len": 1,
+  "markets_len": 11,
   "series_ids": [
     "10107"
   ],
+  "series_len": 1,
   "series_slug": "solana-neg-risk-weekly"
 }

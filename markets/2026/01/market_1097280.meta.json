@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1097280",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-03T15:30:03.367831Z",
-  "market_createdAt": "2026-01-03T15:30:03.367831Z",
-  "market_updatedAt": "2026-01-10T14:44:55.151761Z",
-  "market_startDate": "2026-01-03T15:32:33.492981Z",
-  "market_endDate": "2026-01-31T15:30:00Z",
-  "market_closedTime": null,
   "conditionId": "0xcd5712020a09bfbce9c668b51ce282c60a1657243f678d127cf962b75571752a",
-  "slug": "ere-az-nec-2026-01-31-draw",
-  "question": "Will AZ vs. NEC end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-03T15:30:03.367831Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-03T15:30:03.367831Z",
+  "market_endDate": "2026-01-31T15:30:00Z",
+  "market_id": "1097280",
+  "market_startDate": "2026-01-03T15:32:33.492981Z",
+  "market_updatedAt": "2026-01-10T15:53:12.910102Z",
+  "question": "Will AZ vs. NEC end in a draw?",
+  "slug": "ere-az-nec-2026-01-31-draw"
 }

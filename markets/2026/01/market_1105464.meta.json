@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1105464",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-04T16:30:04.026714Z",
-  "market_createdAt": "2026-01-04T16:30:04.026714Z",
-  "market_updatedAt": "2026-01-10T14:43:04.872534Z",
-  "market_startDate": "2026-01-04T16:31:21.863774Z",
-  "market_endDate": "2026-01-09T18:30:00Z",
-  "market_closedTime": "2026-01-09 23:47:44+00",
   "conditionId": "0x71f8ab04c885d09b1805d095fab5a1e49e8f88467e97fb3cdc759796856abc0a",
-  "slug": "dehl-loe-adl-2026-01-09",
-  "question": "DEL: Loewen Frankfurt vs. Adler Mannheim"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-04T16:30:04.026714Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-09 23:47:44+00",
+  "market_createdAt": "2026-01-04T16:30:04.026714Z",
+  "market_endDate": "2026-01-09T18:30:00Z",
+  "market_id": "1105464",
+  "market_startDate": "2026-01-04T16:31:21.863774Z",
+  "market_updatedAt": "2026-01-10T15:47:39.424733Z",
+  "question": "DEL: Loewen Frankfurt vs. Adler Mannheim",
+  "slug": "dehl-loe-adl-2026-01-09"
 }

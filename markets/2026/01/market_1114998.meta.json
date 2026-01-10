@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1114998",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T17:00:08.018510Z",
-  "market_createdAt": "2026-01-05T17:00:08.01851Z",
-  "market_updatedAt": "2026-01-10T14:44:49.882133Z",
-  "market_startDate": "2026-01-05T17:12:58.044025Z",
-  "market_endDate": "2026-01-12T17:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xc65b262ea969a2e1494e9aea5c64a45ebb52fbdbbc038f6e021d02ada473e871",
-  "slug": "will-the-price-of-ethereum-be-between-3400-3500-on-january-12",
-  "question": "Will the price of Ethereum be between $3,400 and $3,500 on January 12?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T17:00:08.018510Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T17:00:08.01851Z",
+  "market_endDate": "2026-01-12T17:00:00Z",
+  "market_id": "1114998",
+  "market_startDate": "2026-01-05T17:12:58.044025Z",
+  "market_updatedAt": "2026-01-10T15:51:13.843859Z",
+  "question": "Will the price of Ethereum be between $3,400 and $3,500 on January 12?",
+  "slug": "will-the-price-of-ethereum-be-between-3400-3500-on-january-12"
 }

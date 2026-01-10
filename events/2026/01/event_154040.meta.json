@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "154040",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-09T22:00:01.000042Z",
   "event_createdAt": "2026-01-09T22:00:01.000042Z",
   "event_creationDate": "2026-01-09T22:01:28.289021Z",
-  "event_startDate": "2026-01-09T22:01:28.289063Z",
   "event_endDate": "2026-01-10T03:00:00Z",
-  "event_updatedAt": "2026-01-10T14:39:02.794204Z",
-  "markets_len": 9,
+  "event_id": "154040",
+  "event_startDate": "2026-01-09T22:01:28.289063Z",
+  "event_updatedAt": "2026-01-10T15:43:27.63803Z",
+  "folder_dt_utc": "2026-01-09T22:00:01.000042Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1146118",
     "1146119",
@@ -20,9 +19,10 @@
     "1146130",
     "1146133"
   ],
-  "series_len": 1,
+  "markets_len": 9,
   "series_ids": [
     "10432"
   ],
+  "series_len": 1,
   "series_slug": "rainbow-six-siege"
 }

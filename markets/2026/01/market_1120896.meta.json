@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1120896",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T11:00:15.286512Z",
-  "market_createdAt": "2026-01-06T11:00:15.286512Z",
-  "market_updatedAt": "2026-01-10T14:46:33.504098Z",
-  "market_startDate": "2026-01-06T11:06:24.95256Z",
-  "market_endDate": "2026-01-17T20:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x8656ff3c9adfb4efc951900fa322109b094694a187a238afa7fa4544d4bdf813",
-  "slug": "val-es2-wip-2026-01-17-total-games-2pt5",
-  "question": "Games Total: O/U 2.5"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T11:00:15.286512Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T11:00:15.286512Z",
+  "market_endDate": "2026-01-17T20:00:00Z",
+  "market_id": "1120896",
+  "market_startDate": "2026-01-06T11:06:24.95256Z",
+  "market_updatedAt": "2026-01-10T15:51:29.263095Z",
+  "question": "Games Total: O/U 2.5",
+  "slug": "val-es2-wip-2026-01-17-total-games-2pt5"
 }

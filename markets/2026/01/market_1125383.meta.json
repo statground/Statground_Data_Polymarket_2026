@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1125383",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T22:32:37.112384Z",
-  "market_createdAt": "2026-01-06T22:32:37.112384Z",
-  "market_updatedAt": "2026-01-10T14:44:48.331157Z",
-  "market_startDate": "2026-01-07T02:33:28.736035Z",
-  "market_endDate": "2026-06-30T20:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x4da3a5e2a18e682f7b6407ef1c853adf09de0a3e1a5637879827ac11792f5166",
-  "slug": "spx-hit-6000-low-jun-2026",
-  "question": "Will S&P 500 (SPX) hit $6,000 (LOW) in June?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T22:32:37.112384Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T22:32:37.112384Z",
+  "market_endDate": "2026-06-30T20:00:00Z",
+  "market_id": "1125383",
+  "market_startDate": "2026-01-07T02:33:28.736035Z",
+  "market_updatedAt": "2026-01-10T15:53:08.023018Z",
+  "question": "Will S&P 500 (SPX) hit $6,000 (LOW) in June?",
+  "slug": "spx-hit-6000-low-jun-2026"
 }

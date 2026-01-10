@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1114828",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T16:27:54.111218Z",
-  "market_createdAt": "2026-01-05T16:27:54.111218Z",
-  "market_updatedAt": "2026-01-10T14:44:50.326586Z",
-  "market_startDate": "2026-01-05T16:29:09.094494Z",
-  "market_endDate": "2026-01-25T04:59:59.999Z",
-  "market_closedTime": null,
   "conditionId": "0x1b60ceb5bd4fee6970a68a0122a6768ad57cfe4be5a6249264516e41dd2e44e8",
-  "slug": "ufc-ale7-cha15-2026-01-24-win-by-ko-tko",
-  "question": "Will the fight be won by KO or TKO?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T16:27:54.111218Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T16:27:54.111218Z",
+  "market_endDate": "2026-01-25T04:59:59.999Z",
+  "market_id": "1114828",
+  "market_startDate": "2026-01-05T16:29:09.094494Z",
+  "market_updatedAt": "2026-01-10T15:51:14.336047Z",
+  "question": "Will the fight be won by KO or TKO?",
+  "slug": "ufc-ale7-cha15-2026-01-24-win-by-ko-tko"
 }

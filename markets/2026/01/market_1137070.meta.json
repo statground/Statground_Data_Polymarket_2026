@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1137070",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-08T16:30:20.926442Z",
-  "market_createdAt": "2026-01-08T16:30:20.926442Z",
-  "market_updatedAt": "2026-01-10T14:46:33.388557Z",
-  "market_startDate": "2026-01-08T16:31:37.210905Z",
-  "market_endDate": "2026-02-05T03:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x8cdd21b2d9e70f603662e84c520055225c9695ea965e18aa6ab3d9745d836569",
-  "slug": "nhl-edm-cal-2026-02-04",
-  "question": "Oilers vs. Flames"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-08T16:30:20.926442Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-08T16:30:20.926442Z",
+  "market_endDate": "2026-02-05T03:00:00Z",
+  "market_id": "1137070",
+  "market_startDate": "2026-01-08T16:31:37.210905Z",
+  "market_updatedAt": "2026-01-10T15:51:29.437011Z",
+  "question": "Oilers vs. Flames",
+  "slug": "nhl-edm-cal-2026-02-04"
 }

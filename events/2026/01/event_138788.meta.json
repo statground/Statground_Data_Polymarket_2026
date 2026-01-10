@@ -1,20 +1,20 @@
 {
   "entity": "event",
-  "event_id": "138788",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-02T15:00:04.308478Z",
   "event_createdAt": "2026-01-02T15:00:04.308478Z",
   "event_creationDate": "2026-01-08T19:15:00Z",
-  "event_startDate": "2026-01-02T15:06:23.167308Z",
   "event_endDate": "2026-01-08T19:15:00Z",
+  "event_id": "138788",
+  "event_startDate": "2026-01-02T15:06:23.167308Z",
   "event_updatedAt": "2026-01-10T00:21:19.028489Z",
-  "markets_len": 1,
+  "folder_dt_utc": "2026-01-02T15:00:04.308478Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1087118"
   ],
-  "series_len": 1,
+  "markets_len": 1,
   "series_ids": [
     "10371"
   ],
+  "series_len": 1,
   "series_slug": "euroleague-basketball"
 }

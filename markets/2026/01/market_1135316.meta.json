@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1135316",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-08T11:00:07.650356Z",
-  "market_createdAt": "2026-01-08T11:00:07.650356Z",
-  "market_updatedAt": "2026-01-10T14:44:53.546921Z",
-  "market_startDate": "2026-01-08T11:12:25.513171Z",
-  "market_endDate": "2026-01-10T12:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xa29b518ac57e56392b296d3072978ea78cd68d7c547cf4be58e2c3febd5cba13",
-  "slug": "highest-temperature-in-buenos-aires-on-january-10-26corbelow",
-  "question": "Will the highest temperature in Buenos Aires be 26°C or below on January 10?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-08T11:00:07.650356Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-08T11:00:07.650356Z",
+  "market_endDate": "2026-01-10T12:00:00Z",
+  "market_id": "1135316",
+  "market_startDate": "2026-01-08T11:12:25.513171Z",
+  "market_updatedAt": "2026-01-10T15:53:14.554Z",
+  "question": "Will the highest temperature in Buenos Aires be 26°C or below on January 10?",
+  "slug": "highest-temperature-in-buenos-aires-on-january-10-26corbelow"
 }

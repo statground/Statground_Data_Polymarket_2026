@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1099770",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-03T21:30:01.703928Z",
-  "market_createdAt": "2026-01-03T21:30:01.703928Z",
-  "market_updatedAt": "2026-01-10T14:46:33.90642Z",
-  "market_startDate": "2026-01-03T21:32:59.285675Z",
-  "market_endDate": "2026-01-31T08:35:00Z",
-  "market_closedTime": null,
   "conditionId": "0x729522fea569009546006b40ad253948400d6297bccf527734493fdfa7e4553a",
-  "slug": "aus-syd-wsw-2026-01-31-syd",
-  "question": "Will Sydney FC win on 2026-01-31?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-03T21:30:01.703928Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-03T21:30:01.703928Z",
+  "market_endDate": "2026-01-31T08:35:00Z",
+  "market_id": "1099770",
+  "market_startDate": "2026-01-03T21:32:59.285675Z",
+  "market_updatedAt": "2026-01-10T15:51:29.857608Z",
+  "question": "Will Sydney FC win on 2026-01-31?",
+  "slug": "aus-syd-wsw-2026-01-31-syd"
 }

@@ -1,20 +1,20 @@
 {
   "entity": "event",
-  "event_id": "149934",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-07T22:21:45.024077Z",
   "event_createdAt": "2026-01-07T22:21:45.024077Z",
   "event_creationDate": "2026-01-07T22:24:52.660246Z",
-  "event_startDate": "2026-01-07T22:24:52.660251Z",
   "event_endDate": "2026-01-31T00:00:00Z",
-  "event_updatedAt": "2026-01-10T14:41:09.069023Z",
-  "markets_len": 1,
+  "event_id": "149934",
+  "event_startDate": "2026-01-07T22:24:52.660251Z",
+  "event_updatedAt": "2026-01-10T15:45:22.648829Z",
+  "folder_dt_utc": "2026-01-07T22:21:45.024077Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1131693"
   ],
-  "series_len": 1,
+  "markets_len": 1,
   "series_ids": [
     "10650"
   ],
+  "series_len": 1,
   "series_slug": "israel-x-lebanon-ground-offense"
 }

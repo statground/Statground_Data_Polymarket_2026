@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "145824",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-05T21:21:22.665136Z",
   "event_createdAt": "2026-01-05T21:21:22.665136Z",
   "event_creationDate": "2026-01-11T21:30:00Z",
-  "event_startDate": "2026-01-05T21:29:55.707313Z",
   "event_endDate": "2026-01-11T21:30:00Z",
-  "event_updatedAt": "2026-01-10T14:41:04.934805Z",
-  "markets_len": 52,
+  "event_id": "145824",
+  "event_startDate": "2026-01-05T21:29:55.707313Z",
+  "event_updatedAt": "2026-01-10T15:45:24.776018Z",
+  "folder_dt_utc": "2026-01-05T21:21:22.665136Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1116452",
     "1116908",
@@ -63,9 +62,10 @@
     "1117719",
     "1118701"
   ],
-  "series_len": 1,
+  "markets_len": 52,
   "series_ids": [
     "10187"
   ],
+  "series_len": 1,
   "series_slug": "nfl-2025"
 }

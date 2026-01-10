@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1118175",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T01:09:14.532377Z",
-  "market_createdAt": "2026-01-06T01:09:14.532377Z",
-  "market_updatedAt": "2026-01-06T14:46:59.270011Z",
-  "market_startDate": "2026-01-06T06:00:58.943666Z",
-  "market_endDate": "2026-02-22T23:55:00Z",
-  "market_closedTime": null,
   "conditionId": "0x272869d7f184a1a1c0dd6c04e06b1fc305f50baa348dec6a052ea521f18a3e07",
-  "slug": "will-denver-beat-seattle-in-super-bowl-lx",
-  "question": "Will Denver beat Seattle in Super Bowl LX?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T01:09:14.532377Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T01:09:14.532377Z",
+  "market_endDate": "2026-02-22T23:55:00Z",
+  "market_id": "1118175",
+  "market_startDate": "2026-01-06T06:00:58.943666Z",
+  "market_updatedAt": "2026-01-10T15:51:36.065122Z",
+  "question": "Will Denver beat Seattle in Super Bowl LX?",
+  "slug": "will-denver-beat-seattle-in-super-bowl-lx"
 }

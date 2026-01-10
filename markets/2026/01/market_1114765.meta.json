@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1114765",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T16:26:56.624284Z",
-  "market_createdAt": "2026-01-05T16:26:56.624284Z",
-  "market_updatedAt": "2026-01-10T14:46:35.547025Z",
-  "market_startDate": "2026-01-05T16:28:15.837426Z",
-  "market_endDate": "2026-01-25T04:59:59.999Z",
-  "market_closedTime": null,
   "conditionId": "0x613bd41546eccd327c77d86790d5dcb6a8def1f3d2e6208057dec0481566ef23",
-  "slug": "ufc-der-wal2-2026-01-24-win-by-ko-tko",
-  "question": "Will the fight be won by KO or TKO?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T16:26:56.624284Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T16:26:56.624284Z",
+  "market_endDate": "2026-01-25T04:59:59.999Z",
+  "market_id": "1114765",
+  "market_startDate": "2026-01-05T16:28:15.837426Z",
+  "market_updatedAt": "2026-01-10T15:51:30.808736Z",
+  "question": "Will the fight be won by KO or TKO?",
+  "slug": "ufc-der-wal2-2026-01-24-win-by-ko-tko"
 }

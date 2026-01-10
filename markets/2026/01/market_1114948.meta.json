@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1114948",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T17:00:01.582573Z",
-  "market_createdAt": "2026-01-05T17:00:01.582573Z",
-  "market_updatedAt": "2026-01-06T14:44:08.904375Z",
-  "market_startDate": "2026-01-05T17:07:42.405566Z",
-  "market_endDate": "2026-01-12T17:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x25fbb19a4679d8f662f89d31628d9d8032c84116c609adeebdafe06455547568",
-  "slug": "ethereum-above-2700-on-january-12",
-  "question": "Will the price of Ethereum be above $2,700 on January 12?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T17:00:01.582573Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T17:00:01.582573Z",
+  "market_endDate": "2026-01-12T17:00:00Z",
+  "market_id": "1114948",
+  "market_startDate": "2026-01-05T17:07:42.405566Z",
+  "market_updatedAt": "2026-01-10T15:51:35.757625Z",
+  "question": "Will the price of Ethereum be above $2,700 on January 12?",
+  "slug": "ethereum-above-2700-on-january-12"
 }

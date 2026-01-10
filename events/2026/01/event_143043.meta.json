@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "143043",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-04T15:00:45.630515Z",
   "event_createdAt": "2026-01-04T15:00:45.630515Z",
   "event_creationDate": "2026-01-10T19:00:00Z",
-  "event_startDate": "2026-01-04T15:09:49.968548Z",
   "event_endDate": "2026-01-10T19:00:00Z",
-  "event_updatedAt": "2026-01-10T14:41:10.570084Z",
-  "markets_len": 5,
+  "event_id": "143043",
+  "event_startDate": "2026-01-04T15:09:49.968548Z",
+  "event_updatedAt": "2026-01-10T15:45:23.675617Z",
+  "folder_dt_utc": "2026-01-04T15:00:45.630515Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1149143",
     "1149144",
@@ -16,9 +15,10 @@
     "1152522",
     "1152523"
   ],
-  "series_len": 1,
+  "markets_len": 5,
   "series_ids": [
     "10470"
   ],
+  "series_len": 1,
   "series_slug": "ncaa-cbb"
 }

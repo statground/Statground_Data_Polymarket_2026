@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "143401",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-04T17:00:06.415553Z",
   "event_createdAt": "2026-01-04T17:00:06.415553Z",
   "event_creationDate": "2026-01-04T17:15:58.630767Z",
-  "event_startDate": "2026-01-04T17:15:58.630772Z",
   "event_endDate": "2026-01-11T17:00:00Z",
-  "event_updatedAt": "2026-01-10T14:41:09.177802Z",
-  "markets_len": 11,
+  "event_id": "143401",
+  "event_startDate": "2026-01-04T17:15:58.630772Z",
+  "event_updatedAt": "2026-01-10T15:45:22.755207Z",
+  "folder_dt_utc": "2026-01-04T17:00:06.415553Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1105563",
     "1105564",
@@ -22,9 +21,10 @@
     "1105572",
     "1105575"
   ],
-  "series_len": 1,
+  "markets_len": 11,
   "series_ids": [
     "10065"
   ],
+  "series_len": 1,
   "series_slug": "ethereum-neg-risk-weekly"
 }

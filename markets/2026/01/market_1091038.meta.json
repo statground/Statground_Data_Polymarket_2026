@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1091038",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-02T23:00:12.173333Z",
-  "market_createdAt": "2026-01-02T23:00:12.173333Z",
-  "market_updatedAt": "2026-01-06T14:35:23.653671Z",
-  "market_startDate": "2026-01-02T23:24:37.556548Z",
-  "market_endDate": "2026-01-09T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xf3ffb9d4e34f98a012023c8a74c1bfc22f719ecb534c6c11f3e8b2ca01c26618",
-  "slug": "will-pltr-close-between-184-and-186-week-january-9-2026",
-  "question": "Will Palantir (PLTR) close at $184-$186 on the final day of trading of the week of Jan 5 – Jan 9?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-02T23:00:12.173333Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-10 00:39:08+00",
+  "market_createdAt": "2026-01-02T23:00:12.173333Z",
+  "market_endDate": "2026-01-09T21:00:00Z",
+  "market_id": "1091038",
+  "market_startDate": "2026-01-02T23:24:37.556548Z",
+  "market_updatedAt": "2026-01-10T15:51:46.418238Z",
+  "question": "Will Palantir (PLTR) close at $184-$186 on the final day of trading of the week of Jan 5 – Jan 9?",
+  "slug": "will-pltr-close-between-184-and-186-week-january-9-2026"
 }

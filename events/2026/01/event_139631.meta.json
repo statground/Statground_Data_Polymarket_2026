@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "139631",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-02T23:00:03.016722Z",
   "event_createdAt": "2026-01-02T23:00:03.016722Z",
   "event_creationDate": "2026-01-02T23:35:43.002634Z",
-  "event_startDate": "2026-01-02T23:35:43.00266Z",
   "event_endDate": "2026-01-09T21:00:00Z",
-  "event_updatedAt": "2026-01-10T14:39:03.029142Z",
-  "markets_len": 11,
+  "event_id": "139631",
+  "event_startDate": "2026-01-02T23:35:43.00266Z",
+  "event_updatedAt": "2026-01-10T15:43:27.792723Z",
+  "folder_dt_utc": "2026-01-02T23:00:03.016722Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1090866",
     "1090868",
@@ -22,9 +21,10 @@
     "1090878",
     "1090879"
   ],
-  "series_len": 1,
+  "markets_len": 11,
   "series_ids": [
     "10633"
   ],
+  "series_len": 1,
   "series_slug": "msft-neg-risk-weekly"
 }

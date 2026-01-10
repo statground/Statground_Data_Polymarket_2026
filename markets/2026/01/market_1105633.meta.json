@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1105633",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-04T17:00:09.692990Z",
-  "market_createdAt": "2026-01-04T17:00:09.69299Z",
-  "market_updatedAt": "2026-01-06T14:39:52.004025Z",
-  "market_startDate": "2026-01-04T17:01:58.668599Z",
-  "market_endDate": "2026-01-11T17:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xe01a7261a61d50010a51e56d1febfe37a4ecec1f829b711c26ab32e8647cd4ac",
-  "slug": "xrp-above-1pt6-on-january-11",
-  "question": "Will the price of XRP be above $1.60 on January 11?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-04T17:00:09.692990Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-04T17:00:09.69299Z",
+  "market_endDate": "2026-01-11T17:00:00Z",
+  "market_id": "1105633",
+  "market_startDate": "2026-01-04T17:01:58.668599Z",
+  "market_updatedAt": "2026-01-10T15:51:36.66711Z",
+  "question": "Will the price of XRP be above $1.60 on January 11?",
+  "slug": "xrp-above-1pt6-on-january-11"
 }

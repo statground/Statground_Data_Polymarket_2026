@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1093248",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-03T05:00:05.630250Z",
-  "market_createdAt": "2026-01-03T05:00:05.63025Z",
-  "market_updatedAt": "2026-01-06T14:37:18.540546Z",
-  "market_startDate": "2026-01-03T05:14:24.637005Z",
-  "market_endDate": "2026-01-16T17:30:00Z",
-  "market_closedTime": null,
   "conditionId": "0x4a925fae9fe0f15778a24f94a7cb791fe732701ea97e3a42a34558dffcc76484",
-  "slug": "bl2-dus-bie-2026-01-16-draw",
-  "question": "Will TSV Fortuna 95 Düsseldorf vs. DSC Arminia Bielefeld end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-03T05:00:05.630250Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-03T05:00:05.63025Z",
+  "market_endDate": "2026-01-16T17:30:00Z",
+  "market_id": "1093248",
+  "market_startDate": "2026-01-03T05:14:24.637005Z",
+  "market_updatedAt": "2026-01-10T15:51:28.432118Z",
+  "question": "Will TSV Fortuna 95 Düsseldorf vs. DSC Arminia Bielefeld end in a draw?",
+  "slug": "bl2-dus-bie-2026-01-16-draw"
 }

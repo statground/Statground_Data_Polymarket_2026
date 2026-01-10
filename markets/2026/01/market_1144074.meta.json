@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1144074",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-09T17:00:08.650173Z",
-  "market_createdAt": "2026-01-09T17:00:08.650173Z",
-  "market_updatedAt": "2026-01-10T14:44:51.874803Z",
-  "market_startDate": "2026-01-09T17:10:15.677722Z",
-  "market_endDate": "2026-01-16T17:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x4850b94e469cba467fca63e5c8fff8a9fdf565e3f1badfbb2a187a90bf2c9528",
-  "slug": "bitcoin-above-100k-on-january-16",
-  "question": "Will the price of Bitcoin be above $100,000 on January 16?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-09T17:00:08.650173Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-09T17:00:08.650173Z",
+  "market_endDate": "2026-01-16T17:00:00Z",
+  "market_id": "1144074",
+  "market_startDate": "2026-01-09T17:10:15.677722Z",
+  "market_updatedAt": "2026-01-10T15:53:11.078692Z",
+  "question": "Will the price of Bitcoin be above $100,000 on January 16?",
+  "slug": "bitcoin-above-100k-on-january-16"
 }

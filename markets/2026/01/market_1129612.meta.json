@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1129612",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-07T17:00:08.484601Z",
-  "market_createdAt": "2026-01-07T17:00:08.484601Z",
-  "market_updatedAt": "2026-01-10T14:44:52.183149Z",
-  "market_startDate": "2026-01-07T17:10:42.374298Z",
-  "market_endDate": "2026-01-14T17:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x52a2f4551218c4b144450c6bd5c3eb16825e236cb5ade0c9a93815a82c07154a",
-  "slug": "will-the-price-of-ethereum-be-greater-than-3600-on-january-14",
-  "question": "Will the price of Ethereum be greater than $3,600 on January 14?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-07T17:00:08.484601Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-07T17:00:08.484601Z",
+  "market_endDate": "2026-01-14T17:00:00Z",
+  "market_id": "1129612",
+  "market_startDate": "2026-01-07T17:10:42.374298Z",
+  "market_updatedAt": "2026-01-10T15:53:11.154819Z",
+  "question": "Will the price of Ethereum be greater than $3,600 on January 14?",
+  "slug": "will-the-price-of-ethereum-be-greater-than-3600-on-january-14"
 }

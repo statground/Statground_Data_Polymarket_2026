@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1120948",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T11:00:22.438316Z",
-  "market_createdAt": "2026-01-06T11:00:22.438316Z",
-  "market_updatedAt": "2026-01-06T14:46:59.610078Z",
-  "market_startDate": "2026-01-06T11:13:17.061912Z",
-  "market_endDate": "2026-01-08T12:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x3f04448fb71a57fe5313014121fd601f8f571e18b947a53415bc0e88f04e8a20",
-  "slug": "highest-temperature-in-nyc-on-january-8-52forhigher",
-  "question": "Will the highest temperature in New York City be 52°F or higher on January 8?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T11:00:22.438316Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-09 09:04:58+00",
+  "market_createdAt": "2026-01-06T11:00:22.438316Z",
+  "market_endDate": "2026-01-08T12:00:00Z",
+  "market_id": "1120948",
+  "market_startDate": "2026-01-06T11:13:17.061912Z",
+  "market_updatedAt": "2026-01-10T15:43:18.877893Z",
+  "question": "Will the highest temperature in New York City be 52°F or higher on January 8?",
+  "slug": "highest-temperature-in-nyc-on-january-8-52forhigher"
 }

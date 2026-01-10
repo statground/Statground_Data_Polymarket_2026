@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1127207",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-07T05:00:17.272124Z",
-  "market_createdAt": "2026-01-07T05:00:17.272124Z",
-  "market_updatedAt": "2026-01-10T14:46:31.74184Z",
-  "market_startDate": "2026-01-07T05:04:19.112751Z",
-  "market_endDate": "2026-01-23T17:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x40f59f803e6b7a0815c98c03506364100a66be82c4d755d8cd93177f9069c5a0",
-  "slug": "val-jdg-tec-2026-01-23-total-rounds-over-under-51pt5",
-  "question": "Total Rounds Over/Under 51.5"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-07T05:00:17.272124Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-07T05:00:17.272124Z",
+  "market_endDate": "2026-01-23T17:00:00Z",
+  "market_id": "1127207",
+  "market_startDate": "2026-01-07T05:04:19.112751Z",
+  "market_updatedAt": "2026-01-10T15:51:28.395897Z",
+  "question": "Total Rounds Over/Under 51.5",
+  "slug": "val-jdg-tec-2026-01-23-total-rounds-over-under-51pt5"
 }

@@ -1,22 +1,22 @@
 {
   "entity": "event",
-  "event_id": "145869",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-05T21:51:50.824076Z",
   "event_createdAt": "2026-01-05T21:51:50.824076Z",
   "event_creationDate": "2026-01-05T21:59:59.352885Z",
-  "event_startDate": "2026-01-05T21:59:59.352888Z",
   "event_endDate": "2026-01-30T19:45:00Z",
-  "event_updatedAt": "2026-01-10T14:41:04.427955Z",
-  "markets_len": 3,
+  "event_id": "145869",
+  "event_startDate": "2026-01-05T21:59:59.352888Z",
+  "event_updatedAt": "2026-01-10T15:47:40.437734Z",
+  "folder_dt_utc": "2026-01-05T21:51:50.824076Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1116586",
     "1116587",
     "1116588"
   ],
-  "series_len": 1,
+  "markets_len": 3,
   "series_ids": [
     "10840"
   ],
+  "series_len": 1,
   "series_slug": "rugby-premiership"
 }

@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1102070",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-04T05:00:08.125968Z",
-  "market_createdAt": "2026-01-04T05:00:08.125968Z",
-  "market_updatedAt": "2026-01-10T14:44:51.852002Z",
-  "market_startDate": "2026-01-04T05:27:28.613481Z",
-  "market_endDate": "2026-01-17T14:30:00Z",
-  "market_closedTime": null,
   "conditionId": "0x135aeeb66bfb00fae5b2b5ef4dd0971d61b1597f9d127993b87e8adcb5b59fd4",
-  "slug": "bun-hsv-moe-2026-01-17-draw",
-  "question": "Will Hamburger SV vs. Borussia Mönchengladbach end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-04T05:00:08.125968Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-04T05:00:08.125968Z",
+  "market_endDate": "2026-01-17T14:30:00Z",
+  "market_id": "1102070",
+  "market_startDate": "2026-01-04T05:27:28.613481Z",
+  "market_updatedAt": "2026-01-10T15:53:10.936789Z",
+  "question": "Will Hamburger SV vs. Borussia Mönchengladbach end in a draw?",
+  "slug": "bun-hsv-moe-2026-01-17-draw"
 }

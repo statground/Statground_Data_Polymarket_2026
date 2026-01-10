@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1102142",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-04T05:00:12.783485Z",
-  "market_createdAt": "2026-01-04T05:00:12.783485Z",
-  "market_updatedAt": "2026-01-10T14:44:50.709462Z",
-  "market_startDate": "2026-01-04T05:29:06.379206Z",
-  "market_endDate": "2026-01-31T15:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x2b661f26e16807270854012abd74f0f15106690324f6161cab2399c3e354cf30",
-  "slug": "elc-por-wba-2026-01-31-draw",
-  "question": "Will Portsmouth FC vs. West Bromwich Albion FC end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-04T05:00:12.783485Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-04T05:00:12.783485Z",
+  "market_endDate": "2026-01-31T15:00:00Z",
+  "market_id": "1102142",
+  "market_startDate": "2026-01-04T05:29:06.379206Z",
+  "market_updatedAt": "2026-01-10T15:53:10.029815Z",
+  "question": "Will Portsmouth FC vs. West Bromwich Albion FC end in a draw?",
+  "slug": "elc-por-wba-2026-01-31-draw"
 }

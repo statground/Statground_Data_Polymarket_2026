@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1102091",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-04T05:00:09.816106Z",
-  "market_createdAt": "2026-01-04T05:00:09.816106Z",
-  "market_updatedAt": "2026-01-06T14:45:06.175029Z",
-  "market_startDate": "2026-01-04T05:27:52.849814Z",
-  "market_endDate": "2026-01-17T15:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x75a8542ef004ec7626345e94b24cadfe347d8441198d0c4acc70c54a97394cfc",
-  "slug": "epl-liv-bur-2026-01-17-draw",
-  "question": "Will Liverpool FC vs. Burnley FC end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-04T05:00:09.816106Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-04T05:00:09.816106Z",
+  "market_endDate": "2026-01-17T15:00:00Z",
+  "market_id": "1102091",
+  "market_startDate": "2026-01-04T05:27:52.849814Z",
+  "market_updatedAt": "2026-01-10T15:51:35.120097Z",
+  "question": "Will Liverpool FC vs. Burnley FC end in a draw?",
+  "slug": "epl-liv-bur-2026-01-17-draw"
 }

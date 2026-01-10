@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1091082",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-02T23:00:13.983800Z",
-  "market_createdAt": "2026-01-02T23:00:13.9838Z",
-  "market_updatedAt": "2026-01-06T14:37:44.66951Z",
-  "market_startDate": "2026-01-02T23:24:23.901657Z",
-  "market_endDate": "2026-01-09T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xb426be57418569edd4662bbc380595fed710a84c45cb04443fedb9cf034dcbf4",
-  "slug": "open-above-8pt5-on-january-9-2026",
-  "question": "Will Opendoor (OPEN) finish week of January 5 above $8.50?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-02T23:00:13.983800Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-09 23:25:50+00",
+  "market_createdAt": "2026-01-02T23:00:13.9838Z",
+  "market_endDate": "2026-01-09T21:00:00Z",
+  "market_id": "1091082",
+  "market_startDate": "2026-01-02T23:24:23.901657Z",
+  "market_updatedAt": "2026-01-10T15:47:39.270019Z",
+  "question": "Will Opendoor (OPEN) finish week of January 5 above $8.50?",
+  "slug": "open-above-8pt5-on-january-9-2026"
 }

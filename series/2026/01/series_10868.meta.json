@@ -1,15 +1,15 @@
 {
   "entity": "series",
-  "series_id": "10868",
-  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "folder_dt_utc": "2026-01-07T21:56:52.117343Z",
-  "series_createdAt": "2026-01-07T21:56:52.117343Z",
-  "series_publishedAt": null,
-  "series_updatedAt": "2026-01-10T14:43:14.315464Z",
-  "slug": "brics-add-a-new-member",
-  "ticker": "brics-add-a-new-member",
-  "title": "BRICS add a new member",
-  "startDate": null,
+  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "recurrence": "annual",
-  "seriesType": "single"
+  "seriesType": "single",
+  "series_createdAt": "2026-01-07T21:56:52.117343Z",
+  "series_id": "10868",
+  "series_publishedAt": null,
+  "series_updatedAt": "2026-01-10T15:51:58.629277Z",
+  "slug": "brics-add-a-new-member",
+  "startDate": null,
+  "ticker": "brics-add-a-new-member",
+  "title": "BRICS add a new member"
 }

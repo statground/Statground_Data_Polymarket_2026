@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1120923",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T11:00:17.937584Z",
-  "market_createdAt": "2026-01-06T11:00:17.937584Z",
-  "market_updatedAt": "2026-01-06T14:43:45.707794Z",
-  "market_startDate": "2026-01-06T11:06:32.826965Z",
-  "market_endDate": "2026-01-18T23:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xfd8797a31131aafbb832b3322ba7d0e0ce8a476656222b4819a8a69dc084e989",
-  "slug": "val-mdr-f9-2026-01-18-total-games-2pt5",
-  "question": "Games Total: O/U 2.5"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T11:00:17.937584Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T11:00:17.937584Z",
+  "market_endDate": "2026-01-18T23:00:00Z",
+  "market_id": "1120923",
+  "market_startDate": "2026-01-06T11:06:32.826965Z",
+  "market_updatedAt": "2026-01-10T15:53:15.263162Z",
+  "question": "Games Total: O/U 2.5",
+  "slug": "val-mdr-f9-2026-01-18-total-games-2pt5"
 }

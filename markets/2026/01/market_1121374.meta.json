@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1121374",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T13:00:05.912012Z",
-  "market_createdAt": "2026-01-06T13:00:05.912012Z",
-  "market_updatedAt": "2026-01-06T14:43:49.916986Z",
-  "market_startDate": "2026-01-06T13:01:29.010171Z",
-  "market_endDate": "2026-01-10T15:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xe817f7207b0124ede3b1e3ad1cf8d1037e80afbe4d7e584ad3d3628a335a43f2",
-  "slug": "cs2-msc-chicke-2026-01-10-total-games-2pt5",
-  "question": "Games Total: O/U 2.5"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T13:00:05.912012Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-10 12:44:04+00",
+  "market_createdAt": "2026-01-06T13:00:05.912012Z",
+  "market_endDate": "2026-01-10T15:00:00Z",
+  "market_id": "1121374",
+  "market_startDate": "2026-01-06T13:01:29.010171Z",
+  "market_updatedAt": "2026-01-10T15:47:38.731209Z",
+  "question": "Games Total: O/U 2.5",
+  "slug": "cs2-msc-chicke-2026-01-10-total-games-2pt5"
 }

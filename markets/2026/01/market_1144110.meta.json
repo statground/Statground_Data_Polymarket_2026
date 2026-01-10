@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1144110",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-09T17:00:10.616476Z",
-  "market_createdAt": "2026-01-09T17:00:10.616476Z",
-  "market_updatedAt": "2026-01-10T14:44:48.835811Z",
-  "market_startDate": "2026-01-09T17:11:04.764092Z",
-  "market_endDate": "2026-01-16T17:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xe5b68344b251d0dce5a911e594ca3656ae62112b649e6f6493ccbb9411bc6cb6",
-  "slug": "will-the-price-of-xrp-be-greater-than-2pt60-on-january-16",
-  "question": "Will the price of XRP be greater than $2.60 on January 16?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-09T17:00:10.616476Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-09T17:00:10.616476Z",
+  "market_endDate": "2026-01-16T17:00:00Z",
+  "market_id": "1144110",
+  "market_startDate": "2026-01-09T17:11:04.764092Z",
+  "market_updatedAt": "2026-01-10T15:51:13.741563Z",
+  "question": "Will the price of XRP be greater than $2.60 on January 16?",
+  "slug": "will-the-price-of-xrp-be-greater-than-2pt60-on-january-16"
 }

@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1080098",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-01T10:00:02.633970Z",
-  "market_createdAt": "2026-01-01T10:00:02.63397Z",
-  "market_updatedAt": "2026-01-10T14:46:35.560506Z",
-  "market_startDate": "2026-01-01T10:02:13.45189Z",
-  "market_endDate": "2026-01-14T19:45:00Z",
-  "market_closedTime": null,
   "conditionId": "0xb8b0eb6c1fa58ac29a6a5810464b1d9055d35edc89809b0a6688bfa791cb602a",
-  "slug": "scop-hmi-stm-2026-01-14-hmi",
-  "question": "Will Heart of Midlothian FC win on 2026-01-14?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-01T10:00:02.633970Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-01T10:00:02.63397Z",
+  "market_endDate": "2026-01-14T19:45:00Z",
+  "market_id": "1080098",
+  "market_startDate": "2026-01-01T10:02:13.45189Z",
+  "market_updatedAt": "2026-01-10T15:51:30.516847Z",
+  "question": "Will Heart of Midlothian FC win on 2026-01-14?",
+  "slug": "scop-hmi-stm-2026-01-14-hmi"
 }

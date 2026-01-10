@@ -1,22 +1,22 @@
 {
   "entity": "event",
-  "event_id": "146434",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-06T05:00:49.499138Z",
   "event_createdAt": "2026-01-06T05:00:49.499138Z",
   "event_creationDate": "2026-01-06T05:20:19.113495Z",
-  "event_startDate": "2026-01-06T05:20:19.113497Z",
   "event_endDate": "2026-01-19T12:00:00Z",
-  "event_updatedAt": "2026-01-10T14:41:09.71369Z",
-  "markets_len": 3,
+  "event_id": "146434",
+  "event_startDate": "2026-01-06T05:20:19.113497Z",
+  "event_updatedAt": "2026-01-10T15:45:23.079108Z",
+  "folder_dt_utc": "2026-01-06T05:00:49.499138Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1119454",
     "1119455",
     "1119456"
   ],
-  "series_len": 1,
+  "markets_len": 3,
   "series_ids": [
     "10799"
   ],
+  "series_len": 1,
   "series_slug": "cricket-bangladesh"
 }

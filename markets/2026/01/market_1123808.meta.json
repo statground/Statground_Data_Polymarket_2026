@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1123808",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T18:30:13.179957Z",
-  "market_createdAt": "2026-01-06T18:30:13.179957Z",
-  "market_updatedAt": "2026-01-10T14:44:52.994018Z",
-  "market_startDate": "2026-01-06T18:57:13.685301Z",
-  "market_endDate": "2026-01-27T20:45:00Z",
-  "market_closedTime": null,
   "conditionId": "0xd6b76a8c8494d21528fd85ec8ffdb0433a23a467528fe7c2559fb51ff30efa6f",
-  "slug": "arg-vel-tal-2026-01-27-draw",
-  "question": "Will CA Vélez Sarsfield vs. CA Talleres end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T18:30:13.179957Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T18:30:13.179957Z",
+  "market_endDate": "2026-01-27T20:45:00Z",
+  "market_id": "1123808",
+  "market_startDate": "2026-01-06T18:57:13.685301Z",
+  "market_updatedAt": "2026-01-10T15:51:28.483817Z",
+  "question": "Will CA Vélez Sarsfield vs. CA Talleres end in a draw?",
+  "slug": "arg-vel-tal-2026-01-27-draw"
 }

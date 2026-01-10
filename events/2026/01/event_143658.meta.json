@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "143658",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-04T20:00:06.075956Z",
   "event_createdAt": "2026-01-04T20:00:06.075956Z",
   "event_creationDate": "2026-01-04T20:05:17.892027Z",
-  "event_startDate": "2026-01-04T20:05:17.89203Z",
   "event_endDate": "2026-01-17T17:30:00Z",
-  "event_updatedAt": "2026-01-06T13:28:22.305106Z",
-  "markets_len": 5,
+  "event_id": "143658",
+  "event_startDate": "2026-01-04T20:05:17.89203Z",
+  "event_updatedAt": "2026-01-10T15:45:24.879139Z",
+  "folder_dt_utc": "2026-01-04T20:00:06.075956Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1107477",
     "1107478",
@@ -16,9 +15,10 @@
     "1107480",
     "1107481"
   ],
-  "series_len": 1,
+  "markets_len": 5,
   "series_ids": [
     "10672"
   ],
+  "series_len": 1,
   "series_slug": "la-liga-2"
 }

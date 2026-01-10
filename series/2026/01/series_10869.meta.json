@@ -1,15 +1,15 @@
 {
   "entity": "series",
-  "series_id": "10869",
-  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "folder_dt_utc": "2026-01-07T21:59:20.788904Z",
-  "series_createdAt": "2026-01-07T21:59:20.788904Z",
-  "series_publishedAt": null,
-  "series_updatedAt": "2026-01-10T14:43:15.952918Z",
-  "slug": "country-leave-brics",
-  "ticker": "country-leave-brics",
-  "title": "country leave BRICS",
-  "startDate": null,
+  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "recurrence": "annual",
-  "seriesType": "single"
+  "seriesType": "single",
+  "series_createdAt": "2026-01-07T21:59:20.788904Z",
+  "series_id": "10869",
+  "series_publishedAt": null,
+  "series_updatedAt": "2026-01-10T15:51:57.075998Z",
+  "slug": "country-leave-brics",
+  "startDate": null,
+  "ticker": "country-leave-brics",
+  "title": "country leave BRICS"
 }

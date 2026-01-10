@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "151563",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-08T17:54:46.273021Z",
   "event_createdAt": "2026-01-08T17:54:46.273021Z",
   "event_creationDate": "2026-01-09T18:05:44.97677Z",
-  "event_startDate": "2026-01-09T18:05:44.97678Z",
   "event_endDate": "2026-01-18T00:00:00Z",
-  "event_updatedAt": "2026-01-10T14:41:08.821465Z",
-  "markets_len": 7,
+  "event_id": "151563",
+  "event_startDate": "2026-01-09T18:05:44.97678Z",
+  "event_updatedAt": "2026-01-10T15:45:22.459781Z",
+  "folder_dt_utc": "2026-01-08T17:54:46.273021Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1137730",
     "1137729",
@@ -18,9 +17,10 @@
     "1137728",
     "1137731"
   ],
-  "series_len": 1,
+  "markets_len": 7,
   "series_ids": [
     "10716"
   ],
+  "series_len": 1,
   "series_slug": "tsa-passengers"
 }

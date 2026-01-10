@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1090884",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-02T23:00:04.483658Z",
-  "market_createdAt": "2026-01-02T23:00:04.483658Z",
-  "market_updatedAt": "2026-01-06T14:39:08.916162Z",
-  "market_startDate": "2026-01-02T23:23:27.335712Z",
-  "market_endDate": "2026-01-09T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xa129c64836840cb8c602cdce3497a5610eb096488e1fe5ef77303a53672029c4",
-  "slug": "msft-above-480-on-january-9-2026",
-  "question": "Will Microsoft (MSFT) finish week of January 5 above $480?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-02T23:00:04.483658Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-10 00:01:44+00",
+  "market_createdAt": "2026-01-02T23:00:04.483658Z",
+  "market_endDate": "2026-01-09T21:00:00Z",
+  "market_id": "1090884",
+  "market_startDate": "2026-01-02T23:23:27.335712Z",
+  "market_updatedAt": "2026-01-10T15:47:39.379969Z",
+  "question": "Will Microsoft (MSFT) finish week of January 5 above $480?",
+  "slug": "msft-above-480-on-january-9-2026"
 }

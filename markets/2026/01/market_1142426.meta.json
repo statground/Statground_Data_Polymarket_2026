@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1142426",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-09T11:00:13.737529Z",
-  "market_createdAt": "2026-01-09T11:00:13.737529Z",
-  "market_updatedAt": "2026-01-10T14:46:32.436811Z",
-  "market_startDate": "2026-01-09T11:13:28.622296Z",
-  "market_endDate": "2026-01-11T12:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x8139a753327ef70e2bbcfb7814dd8b89babc92cb0b7f43a358a5acdbc6295741",
-  "slug": "highest-temperature-in-seoul-on-january-11-neg-1corhigher",
-  "question": "Will the highest temperature in Seoul be -1°C or higher on January 11?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-09T11:00:13.737529Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-09T11:00:13.737529Z",
+  "market_endDate": "2026-01-11T12:00:00Z",
+  "market_id": "1142426",
+  "market_startDate": "2026-01-09T11:13:28.622296Z",
+  "market_updatedAt": "2026-01-10T15:51:28.582358Z",
+  "question": "Will the highest temperature in Seoul be -1°C or higher on January 11?",
+  "slug": "highest-temperature-in-seoul-on-january-11-neg-1corhigher"
 }

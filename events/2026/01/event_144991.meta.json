@@ -1,20 +1,20 @@
 {
   "entity": "event",
-  "event_id": "144991",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-05T13:00:02.573170Z",
   "event_createdAt": "2026-01-05T13:00:02.57317Z",
   "event_creationDate": "2026-01-06T14:30:00Z",
-  "event_startDate": "2026-01-05T13:02:25.046042Z",
   "event_endDate": "2026-01-06T21:00:00Z",
+  "event_id": "144991",
+  "event_startDate": "2026-01-05T13:02:25.046042Z",
   "event_updatedAt": "2026-01-08T00:21:22.474746Z",
-  "markets_len": 1,
+  "folder_dt_utc": "2026-01-05T13:00:02.573170Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1113755"
   ],
-  "series_len": 1,
+  "markets_len": 1,
   "series_ids": [
     "10379"
   ],
+  "series_len": 1,
   "series_slug": "msft-daily-up-down"
 }

@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1097737",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-03T16:30:02.584256Z",
-  "market_createdAt": "2026-01-03T16:30:02.584256Z",
-  "market_updatedAt": "2026-01-06T14:43:11.046198Z",
-  "market_startDate": "2026-01-03T16:31:09.045122Z",
-  "market_endDate": "2026-01-09T14:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x73f0d20a8f5d31b013d69cc670393a3b0ab181c7d9cde3bce606733cdfa976a1",
-  "slug": "khl-hcs-lad-2026-01-09",
-  "question": "KHL: HC Sochi vs. Lada Togliatti"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-03T16:30:02.584256Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-09 18:24:24+00",
+  "market_createdAt": "2026-01-03T16:30:02.584256Z",
+  "market_endDate": "2026-01-09T14:00:00Z",
+  "market_id": "1097737",
+  "market_startDate": "2026-01-03T16:31:09.045122Z",
+  "market_updatedAt": "2026-01-10T15:47:39.301506Z",
+  "question": "KHL: HC Sochi vs. Lada Togliatti",
+  "slug": "khl-hcs-lad-2026-01-09"
 }

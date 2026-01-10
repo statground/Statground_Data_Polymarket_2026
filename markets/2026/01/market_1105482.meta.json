@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1105482",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-04T16:30:16.362780Z",
-  "market_createdAt": "2026-01-04T16:30:16.36278Z",
-  "market_updatedAt": "2026-01-10T14:44:53.84433Z",
-  "market_startDate": "2026-01-04T16:31:27.951743Z",
-  "market_endDate": "2026-01-31T17:30:00Z",
-  "market_closedTime": null,
   "conditionId": "0x480048122ec2756e13e83d7351fbc2d6486225c690270a94a39f44f5b0deecbf",
-  "slug": "nhl-lak-phi-2026-01-31",
-  "question": "Kings vs. Flyers"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-04T16:30:16.362780Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-04T16:30:16.36278Z",
+  "market_endDate": "2026-01-31T17:30:00Z",
+  "market_id": "1105482",
+  "market_startDate": "2026-01-04T16:31:27.951743Z",
+  "market_updatedAt": "2026-01-10T15:53:12.188052Z",
+  "question": "Kings vs. Flyers",
+  "slug": "nhl-lak-phi-2026-01-31"
 }

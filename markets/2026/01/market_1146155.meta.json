@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1146155",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-09T22:01:51.423289Z",
-  "market_createdAt": "2026-01-09T22:01:51.423289Z",
-  "market_updatedAt": "2026-01-10T14:46:29.013309Z",
-  "market_startDate": "2026-01-09T22:03:18.636109Z",
-  "market_endDate": "2026-01-10T22:15:00Z",
-  "market_closedTime": null,
   "conditionId": "0xfe83c7c5cb155ed39a9bb3d71ec4595f1f8ddceb7c23c637a95c8e3686b9cca0",
-  "slug": "sol-updown-15m-1768082400",
-  "question": "Solana Up or Down - January 10, 5:00PM-5:15PM ET"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-09T22:01:51.423289Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-09T22:01:51.423289Z",
+  "market_endDate": "2026-01-10T22:15:00Z",
+  "market_id": "1146155",
+  "market_startDate": "2026-01-09T22:03:18.636109Z",
+  "market_updatedAt": "2026-01-10T15:51:27.010014Z",
+  "question": "Solana Up or Down - January 10, 5:00PM-5:15PM ET",
+  "slug": "sol-updown-15m-1768082400"
 }

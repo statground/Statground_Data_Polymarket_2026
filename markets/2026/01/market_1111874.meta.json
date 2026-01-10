@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1111874",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T05:00:07.167362Z",
-  "market_createdAt": "2026-01-05T05:00:07.167362Z",
-  "market_updatedAt": "2026-01-10T14:44:53.590887Z",
-  "market_startDate": "2026-01-05T05:18:07.366819Z",
-  "market_endDate": "2026-01-18T14:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xcb8ad70100788966bd7f265d27995d16b94132e5a8ec7017b18fffe3d1f56f5f",
-  "slug": "fl1-str-met-2026-01-18-met",
-  "question": "Will FC Metz win on 2026-01-18?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T05:00:07.167362Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T05:00:07.167362Z",
+  "market_endDate": "2026-01-18T14:00:00Z",
+  "market_id": "1111874",
+  "market_startDate": "2026-01-05T05:18:07.366819Z",
+  "market_updatedAt": "2026-01-10T15:53:12.100498Z",
+  "question": "Will FC Metz win on 2026-01-18?",
+  "slug": "fl1-str-met-2026-01-18-met"
 }

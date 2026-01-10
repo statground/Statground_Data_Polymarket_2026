@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1104950",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-04T15:01:00.708058Z",
-  "market_createdAt": "2026-01-04T15:01:00.708058Z",
-  "market_updatedAt": "2026-01-10T14:46:37.507284Z",
-  "market_startDate": "2026-01-04T15:05:17.023296Z",
-  "market_endDate": "2026-01-10T19:15:00Z",
-  "market_closedTime": null,
   "conditionId": "0x550c22be5e223154d049382f27758dd171ebe3714d7e53cf3cd8feafdf627e80",
-  "slug": "cbb-stan-vir-2026-01-10",
-  "question": "Stanford Cardinal vs. Virginia Cavaliers"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-04T15:01:00.708058Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-04T15:01:00.708058Z",
+  "market_endDate": "2026-01-10T19:15:00Z",
+  "market_id": "1104950",
+  "market_startDate": "2026-01-04T15:05:17.023296Z",
+  "market_updatedAt": "2026-01-10T15:51:31.991131Z",
+  "question": "Stanford Cardinal vs. Virginia Cavaliers",
+  "slug": "cbb-stan-vir-2026-01-10"
 }

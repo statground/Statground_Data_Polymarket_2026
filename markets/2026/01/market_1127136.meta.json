@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1127136",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-07T05:00:12.383591Z",
-  "market_createdAt": "2026-01-07T05:00:12.383591Z",
-  "market_updatedAt": "2026-01-10T14:46:36.392324Z",
-  "market_startDate": "2026-01-07T05:03:41.085895Z",
-  "market_endDate": "2026-01-22T17:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x874cfccb5b22d3d54fd646e2ef7ecbc8e1ebbae1b68d85799822cd981a425ca6",
-  "slug": "val-fpx-tyloo-2026-01-22-total-rounds-over-under-53pt5",
-  "question": "Total Rounds Over/Under 53.5"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-07T05:00:12.383591Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-07T05:00:12.383591Z",
+  "market_endDate": "2026-01-22T17:00:00Z",
+  "market_id": "1127136",
+  "market_startDate": "2026-01-07T05:03:41.085895Z",
+  "market_updatedAt": "2026-01-10T15:51:31.109244Z",
+  "question": "Total Rounds Over/Under 53.5",
+  "slug": "val-fpx-tyloo-2026-01-22-total-rounds-over-under-53pt5"
 }

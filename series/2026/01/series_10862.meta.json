@@ -1,15 +1,15 @@
 {
   "entity": "series",
-  "series_id": "10862",
-  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "folder_dt_utc": "2026-01-06T18:52:32.282911Z",
-  "series_createdAt": "2026-01-06T18:52:32.282911Z",
-  "series_publishedAt": null,
-  "series_updatedAt": "2026-01-10T14:43:15.267201Z",
-  "slug": "dji-monthly-close-negrisk",
-  "ticker": "dji-monthly-close-negrisk",
-  "title": "DJI monthly close negrisk",
-  "startDate": null,
+  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "recurrence": "monthly",
-  "seriesType": "single"
+  "seriesType": "single",
+  "series_createdAt": "2026-01-06T18:52:32.282911Z",
+  "series_id": "10862",
+  "series_publishedAt": null,
+  "series_updatedAt": "2026-01-10T15:53:43.021936Z",
+  "slug": "dji-monthly-close-negrisk",
+  "startDate": null,
+  "ticker": "dji-monthly-close-negrisk",
+  "title": "DJI monthly close negrisk"
 }

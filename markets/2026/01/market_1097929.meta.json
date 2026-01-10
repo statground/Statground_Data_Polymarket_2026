@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1097929",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-03T17:00:10.470663Z",
-  "market_createdAt": "2026-01-03T17:00:10.470663Z",
-  "market_updatedAt": "2026-01-06T14:36:54.325881Z",
-  "market_startDate": "2026-01-03T17:13:53.534403Z",
-  "market_endDate": "2026-01-10T17:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xab4b2b13226760464c65c3dffca000dd48066af02d74e639c6f6af77b2210b0a",
-  "slug": "will-the-price-of-xrp-be-between-2pt00-2pt10-on-january-10",
-  "question": "Will the price of XRP be between $2.00 and $2.10 on January 10?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-03T17:00:10.470663Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-03T17:00:10.470663Z",
+  "market_endDate": "2026-01-10T17:00:00Z",
+  "market_id": "1097929",
+  "market_startDate": "2026-01-03T17:13:53.534403Z",
+  "market_updatedAt": "2026-01-10T15:51:36.708294Z",
+  "question": "Will the price of XRP be between $2.00 and $2.10 on January 10?",
+  "slug": "will-the-price-of-xrp-be-between-2pt00-2pt10-on-january-10"
 }

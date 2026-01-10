@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1146530",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-09T23:00:08.048689Z",
-  "market_createdAt": "2026-01-09T23:00:08.048689Z",
-  "market_updatedAt": "2026-01-10T14:44:45.603218Z",
-  "market_startDate": "2026-01-09T23:16:58.249254Z",
-  "market_endDate": "2026-01-16T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xa4070e93ad6bba8ac2a5f64170aaaf389643a3a8e45f8b85d9497e6ecc13823f",
-  "slug": "amzn-above-225-on-january-16-2026",
-  "question": "Will Amazon (AMZN) finish week of January 12 above $225?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-09T23:00:08.048689Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-09T23:00:08.048689Z",
+  "market_endDate": "2026-01-16T21:00:00Z",
+  "market_id": "1146530",
+  "market_startDate": "2026-01-09T23:16:58.249254Z",
+  "market_updatedAt": "2026-01-10T15:51:40.271895Z",
+  "question": "Will Amazon (AMZN) finish week of January 12 above $225?",
+  "slug": "amzn-above-225-on-january-16-2026"
 }

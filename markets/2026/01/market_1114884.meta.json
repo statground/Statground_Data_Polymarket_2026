@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1114884",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T16:30:20.841011Z",
-  "market_createdAt": "2026-01-05T16:30:20.841011Z",
-  "market_updatedAt": "2026-01-06T14:42:57.198525Z",
-  "market_startDate": "2026-01-05T16:31:28.845948Z",
-  "market_endDate": "2026-02-02T02:30:00Z",
-  "market_closedTime": null,
   "conditionId": "0x257d301829b498f07e61890a59d1ce9aca7ba1ba3b8035917c6a26ea4dcb111e",
-  "slug": "nhl-las-ana-2026-02-01",
-  "question": "Golden Knights vs. Ducks"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T16:30:20.841011Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T16:30:20.841011Z",
+  "market_endDate": "2026-02-02T02:30:00Z",
+  "market_id": "1114884",
+  "market_startDate": "2026-01-05T16:31:28.845948Z",
+  "market_updatedAt": "2026-01-10T15:51:28.829199Z",
+  "question": "Golden Knights vs. Ducks",
+  "slug": "nhl-las-ana-2026-02-01"
 }

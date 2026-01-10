@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1135912",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-08T13:00:11.206060Z",
-  "market_createdAt": "2026-01-08T13:00:11.20606Z",
-  "market_updatedAt": "2026-01-10T14:43:03.951195Z",
-  "market_startDate": "2026-01-08T13:01:27.573846Z",
-  "market_endDate": "2026-01-09T21:00:00Z",
-  "market_closedTime": "2026-01-10 00:25:42+00",
   "conditionId": "0x6001e404528059dec75e34ec8d0cf6bc23810a8b00b073e36fb36e57ff10f1cf",
-  "slug": "nvda-up-or-down-on-january-9-2026",
-  "question": "NVIDIA (NVDA) Up or Down on January 9?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-08T13:00:11.206060Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-10 00:25:42+00",
+  "market_createdAt": "2026-01-08T13:00:11.20606Z",
+  "market_endDate": "2026-01-09T21:00:00Z",
+  "market_id": "1135912",
+  "market_startDate": "2026-01-08T13:01:27.573846Z",
+  "market_updatedAt": "2026-01-10T15:51:46.462975Z",
+  "question": "NVIDIA (NVDA) Up or Down on January 9?",
+  "slug": "nvda-up-or-down-on-january-9-2026"
 }

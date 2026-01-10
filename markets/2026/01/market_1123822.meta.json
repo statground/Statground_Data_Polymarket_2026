@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1123822",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T18:30:16.507609Z",
-  "market_createdAt": "2026-01-06T18:30:16.507609Z",
-  "market_updatedAt": "2026-01-10T14:46:36.435407Z",
-  "market_startDate": "2026-01-06T18:57:22.473109Z",
-  "market_endDate": "2026-01-28T20:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x5abfbf60f665ad8c6953528358d82e8cf3000d5857b1fd5cac9b045235116b35",
-  "slug": "arg-ald-bar-2026-01-28-ald",
-  "question": "Will CA Aldosivi win on 2026-01-28?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T18:30:16.507609Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T18:30:16.507609Z",
+  "market_endDate": "2026-01-28T20:00:00Z",
+  "market_id": "1123822",
+  "market_startDate": "2026-01-06T18:57:22.473109Z",
+  "market_updatedAt": "2026-01-10T15:51:31.409786Z",
+  "question": "Will CA Aldosivi win on 2026-01-28?",
+  "slug": "arg-ald-bar-2026-01-28-ald"
 }

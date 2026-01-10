@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1150084",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-10T07:00:06.544891Z",
-  "market_createdAt": "2026-01-10T07:00:06.544891Z",
-  "market_updatedAt": "2026-01-10T14:46:35.355441Z",
-  "market_startDate": "2026-01-10T07:02:54.348304Z",
-  "market_endDate": "2026-01-23T19:30:00Z",
-  "market_closedTime": null,
   "conditionId": "0x6d97ada519e57720d5b4f42833234db8e4b8d53bb6440e6d2c9b887feef2236a",
-  "slug": "es2-mal-bur-2026-01-23-draw",
-  "question": "Will Málaga CF vs. Burgos CF end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-10T07:00:06.544891Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-10T07:00:06.544891Z",
+  "market_endDate": "2026-01-23T19:30:00Z",
+  "market_id": "1150084",
+  "market_startDate": "2026-01-10T07:02:54.348304Z",
+  "market_updatedAt": "2026-01-10T15:51:30.64851Z",
+  "question": "Will Málaga CF vs. Burgos CF end in a draw?",
+  "slug": "es2-mal-bur-2026-01-23-draw"
 }

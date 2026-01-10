@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1142455",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-09T11:00:22.824145Z",
-  "market_createdAt": "2026-01-09T11:00:22.824145Z",
-  "market_updatedAt": "2026-01-10T14:44:53.499552Z",
-  "market_startDate": "2026-01-09T11:13:41.155252Z",
-  "market_endDate": "2026-01-11T12:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x876c064fdc370d3ed4d154debdf6535c3c19863da010a2ffacd2b145f6955a89",
-  "slug": "highest-temperature-in-nyc-on-january-11-44-45f",
-  "question": "Will the highest temperature in New York City be between 44-45°F on January 11?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-09T11:00:22.824145Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-09T11:00:22.824145Z",
+  "market_endDate": "2026-01-11T12:00:00Z",
+  "market_id": "1142455",
+  "market_startDate": "2026-01-09T11:13:41.155252Z",
+  "market_updatedAt": "2026-01-10T15:53:12.176515Z",
+  "question": "Will the highest temperature in New York City be between 44-45°F on January 11?",
+  "slug": "highest-temperature-in-nyc-on-january-11-44-45f"
 }

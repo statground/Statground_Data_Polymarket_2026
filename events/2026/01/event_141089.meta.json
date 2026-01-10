@@ -1,20 +1,20 @@
 {
   "entity": "event",
-  "event_id": "141089",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-03T16:30:04.235372Z",
   "event_createdAt": "2026-01-03T16:30:04.235372Z",
   "event_creationDate": "2026-01-09T17:00:00Z",
-  "event_startDate": "2026-01-03T16:33:20.640731Z",
   "event_endDate": "2026-01-09T17:00:00Z",
-  "event_updatedAt": "2026-01-10T14:39:02.933092Z",
-  "markets_len": 1,
+  "event_id": "141089",
+  "event_startDate": "2026-01-03T16:33:20.640731Z",
+  "event_updatedAt": "2026-01-10T15:43:27.553465Z",
+  "folder_dt_utc": "2026-01-03T16:30:04.235372Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1097750"
   ],
-  "series_len": 1,
+  "markets_len": 1,
   "series_ids": [
     "10702"
   ],
+  "series_len": 1,
   "series_slug": "cehl-2026"
 }

@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1129493",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-07T16:30:18.079449Z",
-  "market_createdAt": "2026-01-07T16:30:18.079449Z",
-  "market_updatedAt": "2026-01-10T14:44:53.72807Z",
-  "market_startDate": "2026-01-07T16:31:27.553213Z",
-  "market_endDate": "2026-02-04T00:30:00Z",
-  "market_closedTime": null,
   "conditionId": "0x6e73820711124f100067e9c55a6198df51d629eada45aa48ba32ab6b68e12293",
-  "slug": "nhl-buf-tb-2026-02-03",
-  "question": "Sabres vs. Lightning"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-07T16:30:18.079449Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-07T16:30:18.079449Z",
+  "market_endDate": "2026-02-04T00:30:00Z",
+  "market_id": "1129493",
+  "market_startDate": "2026-01-07T16:31:27.553213Z",
+  "market_updatedAt": "2026-01-10T15:53:12.111322Z",
+  "question": "Sabres vs. Lightning",
+  "slug": "nhl-buf-tb-2026-02-03"
 }

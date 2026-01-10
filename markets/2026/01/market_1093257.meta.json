@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1093257",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-03T05:00:06.528989Z",
-  "market_createdAt": "2026-01-03T05:00:06.528989Z",
-  "market_updatedAt": "2026-01-06T14:39:50.418549Z",
-  "market_startDate": "2026-01-03T05:14:37.750402Z",
-  "market_endDate": "2026-01-13T17:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x86a8cf2f7c76679fc88d0fd6c0af8f2c3e7f8647c3dcba16cdc0e157f61d1350",
-  "slug": "elon-musk-of-tweets-january-6-january-13-260-279",
-  "question": "Will Elon Musk post 260-279 tweets from January 6 to January 13, 2026?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-03T05:00:06.528989Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-10 00:39:06+00",
+  "market_createdAt": "2026-01-03T05:00:06.528989Z",
+  "market_endDate": "2026-01-13T17:00:00Z",
+  "market_id": "1093257",
+  "market_startDate": "2026-01-03T05:14:37.750402Z",
+  "market_updatedAt": "2026-01-10T15:43:19.68113Z",
+  "question": "Will Elon Musk post 260-279 tweets from January 6 to January 13, 2026?",
+  "slug": "elon-musk-of-tweets-january-6-january-13-260-279"
 }

@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1123851",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T18:30:21.968428Z",
-  "market_createdAt": "2026-01-06T18:30:21.968428Z",
-  "market_updatedAt": "2026-01-10T14:46:33.302089Z",
-  "market_startDate": "2026-01-06T18:57:40.768719Z",
-  "market_endDate": "2026-01-31T20:30:00Z",
-  "market_closedTime": null,
   "conditionId": "0x0342ed446415b91776fc2d191f0a0dd1371884457e3bdd8ddde93b7b5827dde0",
-  "slug": "arg-slo-cac-2026-01-31-cac",
-  "question": "Will CA Central Córdoba win on 2026-01-31?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T18:30:21.968428Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T18:30:21.968428Z",
+  "market_endDate": "2026-01-31T20:30:00Z",
+  "market_id": "1123851",
+  "market_startDate": "2026-01-06T18:57:40.768719Z",
+  "market_updatedAt": "2026-01-10T15:51:29.456776Z",
+  "question": "Will CA Central Córdoba win on 2026-01-31?",
+  "slug": "arg-slo-cac-2026-01-31-cac"
 }

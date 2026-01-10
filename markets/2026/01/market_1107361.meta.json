@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1107361",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-04T19:49:25.825511Z",
-  "market_createdAt": "2026-01-04T19:49:25.825511Z",
-  "market_updatedAt": "2026-01-10T14:44:56.365748Z",
-  "market_startDate": "2026-01-04T19:56:12.98624Z",
-  "market_endDate": "2026-12-31T00:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x386c1da56d757c6920fc73535aba510300e9cd666c0312d11b4cc03f097fb487",
-  "slug": "us-strike-on-mexico-by-january-31",
-  "question": "US strike on Mexico by January 31?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-04T19:49:25.825511Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-04T19:49:25.825511Z",
+  "market_endDate": "2026-12-31T00:00:00Z",
+  "market_id": "1107361",
+  "market_startDate": "2026-01-04T19:56:12.98624Z",
+  "market_updatedAt": "2026-01-10T15:53:14.041064Z",
+  "question": "US strike on Mexico by January 31?",
+  "slug": "us-strike-on-mexico-by-january-31"
 }

@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1114730",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T16:26:28.681088Z",
-  "market_createdAt": "2026-01-05T16:26:28.681088Z",
-  "market_updatedAt": "2026-01-10T14:44:55.144851Z",
-  "market_startDate": "2026-01-05T16:27:33.781284Z",
-  "market_endDate": "2026-01-25T04:59:59.999Z",
-  "market_closedTime": null,
   "conditionId": "0xf9947d1c7a0be53c974b092497294892c52f87e54a924089c5d9f54e0a62093a",
-  "slug": "ufc-jus3-pad-2026-01-24-win-by-ko-tko",
-  "question": "Will the fight be won by KO or TKO?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T16:26:28.681088Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T16:26:28.681088Z",
+  "market_endDate": "2026-01-25T04:59:59.999Z",
+  "market_id": "1114730",
+  "market_startDate": "2026-01-05T16:27:33.781284Z",
+  "market_updatedAt": "2026-01-10T15:53:12.795078Z",
+  "question": "Will the fight be won by KO or TKO?",
+  "slug": "ufc-jus3-pad-2026-01-24-win-by-ko-tko"
 }

@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1112918",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T09:00:03.873014Z",
-  "market_createdAt": "2026-01-05T09:00:03.873014Z",
-  "market_updatedAt": "2026-01-06T14:45:07.217595Z",
-  "market_startDate": "2026-01-05T09:01:45.398598Z",
-  "market_endDate": "2026-01-09T16:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x40a5dc54907b42489501cdb09bb27bc48aaa046aa9728f311db6f6ea849a6931",
-  "slug": "dota2-1win-avl-2026-01-09",
-  "question": "Dota 2: 1win vs AVULUS (BO3)"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T09:00:03.873014Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-09 14:23:32+00",
+  "market_createdAt": "2026-01-05T09:00:03.873014Z",
+  "market_endDate": "2026-01-09T16:00:00Z",
+  "market_id": "1112918",
+  "market_startDate": "2026-01-05T09:01:45.398598Z",
+  "market_updatedAt": "2026-01-10T15:47:38.564775Z",
+  "question": "Dota 2: 1win vs AVULUS (BO3)",
+  "slug": "dota2-1win-avl-2026-01-09"
 }

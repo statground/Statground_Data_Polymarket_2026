@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "142929",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-04T15:00:15.845692Z",
   "event_createdAt": "2026-01-04T15:00:15.845692Z",
   "event_creationDate": "2026-01-11T02:30:00Z",
-  "event_startDate": "2026-01-04T15:03:34.707657Z",
   "event_endDate": "2026-01-11T02:30:00Z",
-  "event_updatedAt": "2026-01-10T14:41:05.528565Z",
-  "markets_len": 47,
+  "event_id": "142929",
+  "event_startDate": "2026-01-04T15:03:34.707657Z",
+  "event_updatedAt": "2026-01-10T15:47:41.768764Z",
+  "folder_dt_utc": "2026-01-04T15:00:15.845692Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1147596",
     "1147597",
@@ -58,9 +57,10 @@
     "1145618",
     "1152552"
   ],
-  "series_len": 1,
+  "markets_len": 47,
   "series_ids": [
     "10345"
   ],
+  "series_len": 1,
   "series_slug": "nba-2026"
 }

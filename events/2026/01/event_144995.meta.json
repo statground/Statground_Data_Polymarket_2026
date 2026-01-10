@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "144995",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-05T13:00:04.360332Z",
   "event_createdAt": "2026-01-05T13:00:04.360332Z",
   "event_creationDate": "2026-01-05T13:02:25.126403Z",
-  "event_startDate": "2026-01-05T13:02:25.126423Z",
   "event_endDate": "2026-01-06T17:00:00Z",
+  "event_id": "144995",
+  "event_startDate": "2026-01-05T13:02:25.126423Z",
   "event_updatedAt": "2026-01-07T16:23:19.79086Z",
-  "markets_len": 6,
+  "folder_dt_utc": "2026-01-05T13:00:04.360332Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1113759",
     "1113760",
@@ -17,9 +16,10 @@
     "1113764",
     "1113765"
   ],
-  "series_len": 1,
+  "markets_len": 6,
   "series_ids": [
     "10426"
   ],
+  "series_len": 1,
   "series_slug": "mobile-legends-bang-bang"
 }

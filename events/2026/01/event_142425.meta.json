@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "142425",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-04T09:00:06.601540Z",
   "event_createdAt": "2026-01-04T09:00:06.60154Z",
   "event_creationDate": "2026-01-04T09:05:22.326027Z",
-  "event_startDate": "2026-01-04T09:05:22.326032Z",
   "event_endDate": "2026-01-18T03:00:00Z",
-  "event_updatedAt": "2026-01-10T14:41:05.345915Z",
-  "markets_len": 5,
+  "event_id": "142425",
+  "event_startDate": "2026-01-04T09:05:22.326032Z",
+  "event_updatedAt": "2026-01-10T15:45:23.993669Z",
+  "folder_dt_utc": "2026-01-04T09:00:06.601540Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1103357",
     "1103358",
@@ -16,9 +15,10 @@
     "1103361",
     "1103363"
   ],
-  "series_len": 1,
+  "markets_len": 5,
   "series_ids": [
     "10290"
   ],
+  "series_len": 1,
   "series_slug": "mex-2025"
 }

@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "149794",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-07T20:30:16.356964Z",
   "event_createdAt": "2026-01-07T20:30:16.356964Z",
   "event_creationDate": "2026-01-07T21:05:11.719544Z",
-  "event_startDate": "2026-01-07T21:05:11.719549Z",
   "event_endDate": "2026-01-31T00:00:00Z",
-  "event_updatedAt": "2026-01-10T14:41:08.127287Z",
-  "markets_len": 5,
+  "event_id": "149794",
+  "event_startDate": "2026-01-07T21:05:11.719549Z",
+  "event_updatedAt": "2026-01-10T15:47:41.977264Z",
+  "folder_dt_utc": "2026-01-07T20:30:16.356964Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1131152",
     "1131151",
@@ -16,9 +15,10 @@
     "1144408",
     "1144409"
   ],
-  "series_len": 1,
+  "markets_len": 5,
   "series_ids": [
     "10112"
   ],
+  "series_len": 1,
   "series_slug": "measles"
 }

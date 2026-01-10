@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1113920",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T13:50:27.340029Z",
-  "market_createdAt": "2026-01-05T13:50:27.340029Z",
-  "market_updatedAt": "2026-01-10T14:46:35.742006Z",
-  "market_startDate": "2026-01-05T13:52:07.624625Z",
-  "market_endDate": "2027-01-01T05:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x1295f32dd594927e3a46dcf6f041233d2e762b5e3eb6d900235ce0a5ebf2364c",
-  "slug": "ostium-fdv-above-300m-one-day-after-launch",
-  "question": "Ostium FDV above $300M one day after launch?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T13:50:27.340029Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T13:50:27.340029Z",
+  "market_endDate": "2027-01-01T05:00:00Z",
+  "market_id": "1113920",
+  "market_startDate": "2026-01-05T13:52:07.624625Z",
+  "market_updatedAt": "2026-01-10T15:51:31.08784Z",
+  "question": "Ostium FDV above $300M one day after launch?",
+  "slug": "ostium-fdv-above-300m-one-day-after-launch"
 }

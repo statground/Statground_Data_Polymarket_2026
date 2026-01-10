@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1083016",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-01T19:46:25.338742Z",
-  "market_createdAt": "2026-01-01T19:46:25.338742Z",
-  "market_updatedAt": "2026-01-06T14:36:11.922568Z",
-  "market_startDate": "2026-01-05T12:58:49.644483Z",
-  "market_endDate": "2026-02-01T00:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xca53818ca8f5bf5608946c8088f29f90af637a16d5ab942705456a569417cf63",
-  "slug": "will-the-median-home-value-in-the-us-be-less-than-410000-by-february-1",
-  "question": "Will the median home value in the US be less than $410,000 by February 1?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-01T19:46:25.338742Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-01T19:46:25.338742Z",
+  "market_endDate": "2026-02-01T00:00:00Z",
+  "market_id": "1083016",
+  "market_startDate": "2026-01-05T12:58:49.644483Z",
+  "market_updatedAt": "2026-01-10T15:51:39.276274Z",
+  "question": "Will the median home value in the US be less than $410,000 by February 1?",
+  "slug": "will-the-median-home-value-in-the-us-be-less-than-410000-by-february-1"
 }

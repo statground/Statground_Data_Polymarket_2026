@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "145121",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-05T14:30:01.553579Z",
   "event_createdAt": "2026-01-05T14:30:01.553579Z",
   "event_creationDate": "2026-01-05T14:36:50.287806Z",
-  "event_startDate": "2026-01-05T14:36:50.28781Z",
   "event_endDate": "2026-01-18T12:30:00Z",
-  "event_updatedAt": "2026-01-10T14:41:04.604092Z",
-  "markets_len": 5,
+  "event_id": "145121",
+  "event_startDate": "2026-01-05T14:36:50.28781Z",
+  "event_updatedAt": "2026-01-10T15:47:40.911661Z",
+  "folder_dt_utc": "2026-01-05T14:30:01.553579Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1114124",
     "1114125",
@@ -16,9 +15,10 @@
     "1114127",
     "1114128"
   ],
-  "series_len": 1,
+  "markets_len": 5,
   "series_ids": [
     "10670"
   ],
+  "series_len": 1,
   "series_slug": "bundesliga-2"
 }

@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1091059",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-02T23:00:13.028324Z",
-  "market_createdAt": "2026-01-02T23:00:13.028324Z",
-  "market_updatedAt": "2026-01-06T14:36:50.966734Z",
-  "market_startDate": "2026-01-02T23:24:13.805133Z",
-  "market_endDate": "2026-01-09T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x9ce34bc480846a84715bd1739c3b1d0a3cd36856ae35cfd3e9f3749d33c64f17",
-  "slug": "pltr-above-173-on-january-9-2026",
-  "question": "Will Palantir (PLTR) finish week of January 5 above $173?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-02T23:00:13.028324Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-09 23:28:28+00",
+  "market_createdAt": "2026-01-02T23:00:13.028324Z",
+  "market_endDate": "2026-01-09T21:00:00Z",
+  "market_id": "1091059",
+  "market_startDate": "2026-01-02T23:24:13.805133Z",
+  "market_updatedAt": "2026-01-10T15:47:38.52692Z",
+  "question": "Will Palantir (PLTR) finish week of January 5 above $173?",
+  "slug": "pltr-above-173-on-january-9-2026"
 }

@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1147025",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-09T23:50:05.576554Z",
-  "market_createdAt": "2026-01-09T23:50:05.576554Z",
-  "market_updatedAt": "2026-01-10T14:46:26.101207Z",
-  "market_startDate": "2026-01-09T23:51:07.510008Z",
-  "market_endDate": "2026-01-11T01:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x92106160fcaa4192f5ba7ad80e433bd84b69d3a14169cdd5249ac5b1f5b119f7",
-  "slug": "dota2-liquid-z10-2026-01-10-most-kill",
-  "question": "Series: Most kills?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-09T23:50:05.576554Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-09T23:50:05.576554Z",
+  "market_endDate": "2026-01-11T01:00:00Z",
+  "market_id": "1147025",
+  "market_startDate": "2026-01-09T23:51:07.510008Z",
+  "market_updatedAt": "2026-01-10T15:53:14.921033Z",
+  "question": "Series: Most kills?",
+  "slug": "dota2-liquid-z10-2026-01-10-most-kill"
 }

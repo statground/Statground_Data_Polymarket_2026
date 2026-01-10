@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1145526",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-09T20:42:24.362481Z",
-  "market_createdAt": "2026-01-09T20:42:24.362481Z",
-  "market_updatedAt": "2026-01-10T14:44:50.886228Z",
-  "market_startDate": "2026-01-09T20:43:41.221562Z",
-  "market_endDate": "2027-01-01T05:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x17042d6d8d03c10c2efe95c52fe248066fe5d90e902ee6251ac6024b312e6bcb",
-  "slug": "immunefi-fdv-above-1pt2b-one-day-after-launch",
-  "question": "Immunefi FDV above $1.2B one day after launch?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-09T20:42:24.362481Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-09T20:42:24.362481Z",
+  "market_endDate": "2027-01-01T05:00:00Z",
+  "market_id": "1145526",
+  "market_startDate": "2026-01-09T20:43:41.221562Z",
+  "market_updatedAt": "2026-01-10T15:53:10.061009Z",
+  "question": "Immunefi FDV above $1.2B one day after launch?",
+  "slug": "immunefi-fdv-above-1pt2b-one-day-after-launch"
 }

@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1104701",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-04T14:30:03.951469Z",
-  "market_createdAt": "2026-01-04T14:30:03.951469Z",
-  "market_updatedAt": "2026-01-06T14:43:45.715085Z",
-  "market_startDate": "2026-01-04T14:31:17.734118Z",
-  "market_endDate": "2026-01-17T12:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x0acf39e500aa572bc2d1c2d71221995e4c3ad5362c7c87a4535eded4b52fcf59",
-  "slug": "bl2-fcn-elv-2026-01-17-total-4pt5",
-  "question": "1. FC Nürnberg vs. SV 07 Elversberg: O/U 4.5"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-04T14:30:03.951469Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-04T14:30:03.951469Z",
+  "market_endDate": "2026-01-17T12:00:00Z",
+  "market_id": "1104701",
+  "market_startDate": "2026-01-04T14:31:17.734118Z",
+  "market_updatedAt": "2026-01-10T15:51:36.108925Z",
+  "question": "1. FC Nürnberg vs. SV 07 Elversberg: O/U 4.5",
+  "slug": "bl2-fcn-elv-2026-01-17-total-4pt5"
 }

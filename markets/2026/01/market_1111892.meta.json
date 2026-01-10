@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1111892",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T05:00:08.962323Z",
-  "market_createdAt": "2026-01-05T05:00:08.962323Z",
-  "market_updatedAt": "2026-01-10T14:44:55.282256Z",
-  "market_startDate": "2026-01-05T05:18:37.768339Z",
-  "market_endDate": "2026-01-18T16:15:00Z",
-  "market_closedTime": null,
   "conditionId": "0x3210e267b3baf5a4591f7e56a4085d82bb1bf3661102be4aa12b71bcaa5869e9",
-  "slug": "fl1-nan-pfc-2026-01-18-draw",
-  "question": "Will FC Nantes vs. Paris FC end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T05:00:08.962323Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T05:00:08.962323Z",
+  "market_endDate": "2026-01-18T16:15:00Z",
+  "market_id": "1111892",
+  "market_startDate": "2026-01-05T05:18:37.768339Z",
+  "market_updatedAt": "2026-01-10T15:53:12.81669Z",
+  "question": "Will FC Nantes vs. Paris FC end in a draw?",
+  "slug": "fl1-nan-pfc-2026-01-18-draw"
 }

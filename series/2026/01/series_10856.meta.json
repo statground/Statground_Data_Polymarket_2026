@@ -1,15 +1,15 @@
 {
   "entity": "series",
-  "series_id": "10856",
-  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "folder_dt_utc": "2026-01-06T17:54:00.584959Z",
-  "series_createdAt": "2026-01-06T17:54:00.584959Z",
-  "series_publishedAt": null,
-  "series_updatedAt": "2026-01-10T14:43:15.9437Z",
-  "slug": "sp-500-monthly-close-negrisk",
-  "ticker": "sp-500-monthly-close-negrisk",
-  "title": "S&P 500 monthly close negrisk",
-  "startDate": null,
+  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "recurrence": "monthly",
-  "seriesType": "single"
+  "seriesType": "single",
+  "series_createdAt": "2026-01-06T17:54:00.584959Z",
+  "series_id": "10856",
+  "series_publishedAt": null,
+  "series_updatedAt": "2026-01-10T15:51:58.241493Z",
+  "slug": "sp-500-monthly-close-negrisk",
+  "startDate": null,
+  "ticker": "sp-500-monthly-close-negrisk",
+  "title": "S&P 500 monthly close negrisk"
 }

@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1116602",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T21:52:16.191394Z",
-  "market_createdAt": "2026-01-05T21:52:16.191394Z",
-  "market_updatedAt": "2026-01-10T14:46:36.470726Z",
-  "market_startDate": "2026-01-05T22:02:52.304975Z",
-  "market_endDate": "2026-01-31T15:35:00Z",
-  "market_closedTime": null,
   "conditionId": "0xa5730e44c187d4d735203d74a3bf76c3e4c0d30fb88f4b78d4cfcd3843eef5b7",
-  "slug": "rutopft-bay-cas-2026-01-24-draw",
-  "question": "Will the match end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T21:52:16.191394Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T21:52:16.191394Z",
+  "market_endDate": "2026-01-31T15:35:00Z",
+  "market_id": "1116602",
+  "market_startDate": "2026-01-05T22:02:52.304975Z",
+  "market_updatedAt": "2026-01-10T15:51:31.091878Z",
+  "question": "Will the match end in a draw?",
+  "slug": "rutopft-bay-cas-2026-01-24-draw"
 }

@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1091041",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-02T23:00:12.183291Z",
-  "market_createdAt": "2026-01-02T23:00:12.183291Z",
-  "market_updatedAt": "2026-01-10T14:44:59.172181Z",
-  "market_startDate": "2026-01-02T23:24:04.683872Z",
-  "market_endDate": "2026-01-09T21:00:00Z",
-  "market_closedTime": "2026-01-10 00:03:52+00",
   "conditionId": "0x141fe6f5a0db3dfe54993a3384ea0612b6a3de56063a6c12aefc9d7b0a5643a5",
-  "slug": "nflx-above-100-on-january-9-2026",
-  "question": "Will Netflix (NFLX) finish week of January 5 above $100?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-02T23:00:12.183291Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-10 00:03:52+00",
+  "market_createdAt": "2026-01-02T23:00:12.183291Z",
+  "market_endDate": "2026-01-09T21:00:00Z",
+  "market_id": "1091041",
+  "market_startDate": "2026-01-02T23:24:04.683872Z",
+  "market_updatedAt": "2026-01-10T15:51:47.890276Z",
+  "question": "Will Netflix (NFLX) finish week of January 5 above $100?",
+  "slug": "nflx-above-100-on-january-9-2026"
 }

@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1147853",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-10T02:00:45.148170Z",
-  "market_createdAt": "2026-01-10T02:00:45.14817Z",
-  "market_updatedAt": "2026-01-10T14:46:34.273657Z",
-  "market_startDate": "2026-01-10T02:01:42.00701Z",
-  "market_endDate": "2026-01-10T19:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x89c0b4b79844a17cf9e0f75b8c78cc0a114e2289e7afa5bd0c340ff45cec2213",
-  "slug": "cbb-woff-merc-2026-01-10-spread-home-5pt5",
-  "question": "Spread: Mercer Bears (-5.5)"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-10T02:00:45.148170Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-10T02:00:45.14817Z",
+  "market_endDate": "2026-01-10T19:00:00Z",
+  "market_id": "1147853",
+  "market_startDate": "2026-01-10T02:01:42.00701Z",
+  "market_updatedAt": "2026-01-10T15:51:30.186984Z",
+  "question": "Spread: Mercer Bears (-5.5)",
+  "slug": "cbb-woff-merc-2026-01-10-spread-home-5pt5"
 }

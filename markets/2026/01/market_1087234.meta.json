@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1087234",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-02T15:00:52.409061Z",
-  "market_createdAt": "2026-01-02T15:00:52.409061Z",
-  "market_updatedAt": "2026-01-06T14:42:47.18392Z",
-  "market_startDate": "2026-01-02T15:03:16.080222Z",
-  "market_endDate": "2026-01-09T04:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x0ae53885820433582971ac47d059438f6aba96f3148c5ffe804d8d1830093b9e",
-  "slug": "cbb-sf-loymry-2026-01-08",
-  "question": "San Francisco Dons vs. Loyola Marymount Lions"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-02T15:00:52.409061Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-09 10:30:16+00",
+  "market_createdAt": "2026-01-02T15:00:52.409061Z",
+  "market_endDate": "2026-01-09T04:00:00Z",
+  "market_id": "1087234",
+  "market_startDate": "2026-01-02T15:03:16.080222Z",
+  "market_updatedAt": "2026-01-10T15:51:48.014009Z",
+  "question": "San Francisco Dons vs. Loyola Marymount Lions",
+  "slug": "cbb-sf-loymry-2026-01-08"
 }

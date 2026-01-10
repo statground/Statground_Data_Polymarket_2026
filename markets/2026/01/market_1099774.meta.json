@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1099774",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-03T21:30:02.823352Z",
-  "market_createdAt": "2026-01-03T21:30:02.823352Z",
-  "market_updatedAt": "2026-01-06T14:43:31.042532Z",
-  "market_startDate": "2026-01-03T21:33:05.420953Z",
-  "market_endDate": "2026-01-31T10:45:00Z",
-  "market_closedTime": null,
   "conditionId": "0xd4780c061c3e6a52781af958ce8618c6e95f9925512ac599be365debd123c656",
-  "slug": "aus-per-auc-2026-01-31-draw",
-  "question": "Will Perth Glory FC vs. Auckland FC end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-03T21:30:02.823352Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-03T21:30:02.823352Z",
+  "market_endDate": "2026-01-31T10:45:00Z",
+  "market_id": "1099774",
+  "market_startDate": "2026-01-03T21:33:05.420953Z",
+  "market_updatedAt": "2026-01-10T15:51:32.979357Z",
+  "question": "Will Perth Glory FC vs. Auckland FC end in a draw?",
+  "slug": "aus-per-auc-2026-01-31-draw"
 }

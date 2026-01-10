@@ -1,22 +1,22 @@
 {
   "entity": "event",
-  "event_id": "148161",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-07T00:10:22.937793Z",
   "event_createdAt": "2026-01-07T00:10:22.937793Z",
   "event_creationDate": "2026-01-07T00:21:57.403591Z",
-  "event_startDate": "2026-01-07T00:21:57.403601Z",
   "event_endDate": "2026-01-10T16:00:00Z",
-  "event_updatedAt": "2026-01-10T14:41:04.723551Z",
-  "markets_len": 3,
+  "event_id": "148161",
+  "event_startDate": "2026-01-07T00:21:57.403601Z",
+  "event_updatedAt": "2026-01-10T15:45:24.516749Z",
+  "folder_dt_utc": "2026-01-07T00:10:22.937793Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1125978",
     "1125980",
     "1125979"
   ],
-  "series_len": 1,
+  "markets_len": 3,
   "series_ids": [
     "10786"
   ],
+  "series_len": 1,
   "series_slug": "africa-cup-of-nations"
 }

@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1111875",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T05:00:07.254932Z",
-  "market_createdAt": "2026-01-05T05:00:07.254932Z",
-  "market_updatedAt": "2026-01-10T14:46:38.690632Z",
-  "market_startDate": "2026-01-05T05:18:13.609018Z",
-  "market_endDate": "2026-01-18T12:30:00Z",
-  "market_closedTime": null,
   "conditionId": "0x7afaeb47dd8df9553deb7afee305fbaa4a469eeec8ae3785787a1ec6a9a18b2a",
-  "slug": "bl2-fck-h96-2026-01-18-h96",
-  "question": "Will Hannover 96 win on 2026-01-18?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T05:00:07.254932Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T05:00:07.254932Z",
+  "market_endDate": "2026-01-18T12:30:00Z",
+  "market_id": "1111875",
+  "market_startDate": "2026-01-05T05:18:13.609018Z",
+  "market_updatedAt": "2026-01-10T15:51:32.385321Z",
+  "question": "Will Hannover 96 win on 2026-01-18?",
+  "slug": "bl2-fck-h96-2026-01-18-h96"
 }

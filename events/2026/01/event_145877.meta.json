@@ -1,22 +1,22 @@
 {
   "entity": "event",
-  "event_id": "145877",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-05T21:52:25.478950Z",
   "event_createdAt": "2026-01-05T21:52:25.47895Z",
   "event_creationDate": "2026-01-05T22:08:11.708864Z",
-  "event_startDate": "2026-01-05T22:08:11.708866Z",
   "event_endDate": "2026-01-31T20:00:00Z",
-  "event_updatedAt": "2026-01-10T14:41:04.993077Z",
-  "markets_len": 3,
+  "event_id": "145877",
+  "event_startDate": "2026-01-05T22:08:11.708866Z",
+  "event_updatedAt": "2026-01-10T15:47:42.22674Z",
+  "folder_dt_utc": "2026-01-05T21:52:25.478950Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1116610",
     "1116612",
     "1116611"
   ],
-  "series_len": 1,
+  "markets_len": 3,
   "series_ids": [
     "10841"
   ],
+  "series_len": 1,
   "series_slug": "rugby-top-14"
 }

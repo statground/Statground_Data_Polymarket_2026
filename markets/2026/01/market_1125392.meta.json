@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1125392",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T22:33:21.377061Z",
-  "market_createdAt": "2026-01-06T22:33:21.377061Z",
-  "market_updatedAt": "2026-01-10T14:46:36.112106Z",
-  "market_startDate": "2026-01-07T02:33:12.679518Z",
-  "market_endDate": "2026-12-31T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xfce2cb6a4a64d03051b3e2f7699b8c8090ba8f556ad40a3db4086084168e7d26",
-  "slug": "spx-hit-6400-low-dec-2026",
-  "question": "Will S&P 500 (SPX) hit $6,400 (LOW) in December?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T22:33:21.377061Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T22:33:21.377061Z",
+  "market_endDate": "2026-12-31T21:00:00Z",
+  "market_id": "1125392",
+  "market_startDate": "2026-01-07T02:33:12.679518Z",
+  "market_updatedAt": "2026-01-10T15:51:30.963235Z",
+  "question": "Will S&P 500 (SPX) hit $6,400 (LOW) in December?",
+  "slug": "spx-hit-6400-low-dec-2026"
 }

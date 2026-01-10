@@ -1,15 +1,15 @@
 {
   "entity": "series",
-  "series_id": "10859",
-  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "folder_dt_utc": "2026-01-06T17:58:38.290254Z",
-  "series_createdAt": "2026-01-06T17:58:38.290254Z",
-  "series_publishedAt": null,
-  "series_updatedAt": "2026-01-10T14:43:14.83325Z",
-  "slug": "nasdaq-100-monthly-close-negrisk",
-  "ticker": "nasdaq-100-monthly-close-negrisk",
-  "title": "NASDAQ 100 monthly close negrisk",
-  "startDate": null,
+  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "recurrence": "monthly",
-  "seriesType": "single"
+  "seriesType": "single",
+  "series_createdAt": "2026-01-06T17:58:38.290254Z",
+  "series_id": "10859",
+  "series_publishedAt": null,
+  "series_updatedAt": "2026-01-10T15:53:42.690303Z",
+  "slug": "nasdaq-100-monthly-close-negrisk",
+  "startDate": null,
+  "ticker": "nasdaq-100-monthly-close-negrisk",
+  "title": "NASDAQ 100 monthly close negrisk"
 }

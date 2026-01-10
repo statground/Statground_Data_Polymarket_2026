@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1142431",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-09T11:00:16.711306Z",
-  "market_createdAt": "2026-01-09T11:00:16.711306Z",
-  "market_updatedAt": "2026-01-10T14:46:33.693393Z",
-  "market_startDate": "2026-01-09T11:13:28.368002Z",
-  "market_endDate": "2026-01-11T12:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x54fbefd1aa94a42411bcbbd08c5b5b6e3555c3c3370cbd73a608b005e0ec3c36",
-  "slug": "highest-temperature-in-toronto-on-january-11-neg-3corbelow",
-  "question": "Will the highest temperature in Toronto be -3°C or below on January 11?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-09T11:00:16.711306Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-09T11:00:16.711306Z",
+  "market_endDate": "2026-01-11T12:00:00Z",
+  "market_id": "1142431",
+  "market_startDate": "2026-01-09T11:13:28.368002Z",
+  "market_updatedAt": "2026-01-10T15:51:29.400208Z",
+  "question": "Will the highest temperature in Toronto be -3°C or below on January 11?",
+  "slug": "highest-temperature-in-toronto-on-january-11-neg-3corbelow"
 }

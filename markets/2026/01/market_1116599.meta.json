@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1116599",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T21:52:12.946778Z",
-  "market_createdAt": "2026-01-05T21:52:12.946778Z",
-  "market_updatedAt": "2026-01-10T14:46:34.357553Z",
-  "market_startDate": "2026-01-05T22:02:45.197274Z",
-  "market_endDate": "2026-02-01T20:05:00Z",
-  "market_closedTime": null,
   "conditionId": "0x5447314549fa8c5fa94db4332b752aee08a2fb454ea823a0d6ef956473ff7151",
-  "slug": "rutopft-asm-la-2026-01-25-draw",
-  "question": "Will the match end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T21:52:12.946778Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T21:52:12.946778Z",
+  "market_endDate": "2026-02-01T20:05:00Z",
+  "market_id": "1116599",
+  "market_startDate": "2026-01-05T22:02:45.197274Z",
+  "market_updatedAt": "2026-01-10T15:51:30.677314Z",
+  "question": "Will the match end in a draw?",
+  "slug": "rutopft-asm-la-2026-01-25-draw"
 }

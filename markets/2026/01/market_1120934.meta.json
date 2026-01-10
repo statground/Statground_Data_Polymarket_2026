@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1120934",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T11:00:19.461143Z",
-  "market_createdAt": "2026-01-06T11:00:19.461143Z",
-  "market_updatedAt": "2026-01-10T14:43:03.934632Z",
-  "market_startDate": "2026-01-06T11:13:23.145863Z",
-  "market_endDate": "2026-01-08T12:00:00Z",
-  "market_closedTime": "2026-01-09 11:45:46+00",
   "conditionId": "0x0a1b5aaf4133d12c9048cd1ec60dd09d8fb716c28fc8a09ed7f6084d52e6f73e",
-  "slug": "highest-temperature-in-seattle-on-january-8-44-45f",
-  "question": "Will the highest temperature in Seattle be between 44-45°F on January 8?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T11:00:19.461143Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-09 11:45:46+00",
+  "market_createdAt": "2026-01-06T11:00:19.461143Z",
+  "market_endDate": "2026-01-08T12:00:00Z",
+  "market_id": "1120934",
+  "market_startDate": "2026-01-06T11:13:23.145863Z",
+  "market_updatedAt": "2026-01-10T15:43:19.751908Z",
+  "question": "Will the highest temperature in Seattle be between 44-45°F on January 8?",
+  "slug": "highest-temperature-in-seattle-on-january-8-44-45f"
 }

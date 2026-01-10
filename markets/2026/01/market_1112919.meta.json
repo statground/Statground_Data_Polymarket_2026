@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1112919",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T09:00:04.056087Z",
-  "market_createdAt": "2026-01-05T09:00:04.056087Z",
-  "market_updatedAt": "2026-01-06T14:38:42.779384Z",
-  "market_startDate": "2026-01-05T09:01:45.127853Z",
-  "market_endDate": "2026-01-09T14:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x7d4f72a4509fc5b66f3150570a0744c50b8ea51f19388b78873b0b1a44c5c1fc",
-  "slug": "dota2-1win-avl-2026-01-09-game1",
-  "question": "Dota 2: 1win vs AVULUS - Game 1 Winner"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T09:00:04.056087Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-09 13:19:56+00",
+  "market_createdAt": "2026-01-05T09:00:04.056087Z",
+  "market_endDate": "2026-01-09T14:00:00Z",
+  "market_id": "1112919",
+  "market_startDate": "2026-01-05T09:01:45.127853Z",
+  "market_updatedAt": "2026-01-10T15:47:39.271149Z",
+  "question": "Dota 2: 1win vs AVULUS - Game 1 Winner",
+  "slug": "dota2-1win-avl-2026-01-09-game1"
 }

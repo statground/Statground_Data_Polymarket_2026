@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "142177",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-04T06:00:08.133896Z",
   "event_createdAt": "2026-01-04T06:00:08.133896Z",
   "event_creationDate": "2026-01-04T06:05:34.95509Z",
-  "event_startDate": "2026-01-04T06:05:34.955093Z",
   "event_endDate": "2026-01-17T17:30:00Z",
-  "event_updatedAt": "2026-01-10T14:41:05.35228Z",
-  "markets_len": 5,
+  "event_id": "142177",
+  "event_startDate": "2026-01-04T06:05:34.955093Z",
+  "event_updatedAt": "2026-01-10T15:47:40.745264Z",
+  "folder_dt_utc": "2026-01-04T06:00:08.133896Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1102500",
     "1102502",
@@ -16,9 +15,10 @@
     "1102507",
     "1102510"
   ],
-  "series_len": 1,
+  "markets_len": 5,
   "series_ids": [
     "10188"
   ],
+  "series_len": 1,
   "series_slug": "premier-league-2025"
 }

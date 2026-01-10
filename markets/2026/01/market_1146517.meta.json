@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1146517",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-09T23:00:07.359434Z",
-  "market_createdAt": "2026-01-09T23:00:07.359434Z",
-  "market_updatedAt": "2026-01-10T14:46:25.401328Z",
-  "market_startDate": "2026-01-09T23:25:13.137033Z",
-  "market_endDate": "2026-01-16T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x06445b17948e076ac93854a0f1e4527101e880f413ef5d7799ad18dcf88aa50c",
-  "slug": "will-amzn-close-below-225-week-january-16-2026",
-  "question": "Will Amazon (AMZN) close at <$225 on the final day of trading of the week of Jan 12 – Jan 16?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-09T23:00:07.359434Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-09T23:00:07.359434Z",
+  "market_endDate": "2026-01-16T21:00:00Z",
+  "market_id": "1146517",
+  "market_startDate": "2026-01-09T23:25:13.137033Z",
+  "market_updatedAt": "2026-01-10T15:53:14.821368Z",
+  "question": "Will Amazon (AMZN) close at <$225 on the final day of trading of the week of Jan 12 – Jan 16?",
+  "slug": "will-amzn-close-below-225-week-january-16-2026"
 }

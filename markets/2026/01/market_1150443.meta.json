@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1150443",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-10T08:00:09.807029Z",
-  "market_createdAt": "2026-01-10T08:00:09.807029Z",
-  "market_updatedAt": "2026-01-10T14:46:36.415538Z",
-  "market_startDate": "2026-01-10T08:04:22.177861Z",
-  "market_endDate": "2026-01-11T01:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x789e7bb67443940e7ae5b34cc752bb7534ca73c9651c902dfa1e7bdb7d2e583d",
-  "slug": "dota2-cat3-ggboom-2026-01-10-game1",
-  "question": "Dota 2: CatChamp vs GG Boom - Game 1 Winner"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-10T08:00:09.807029Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-10T08:00:09.807029Z",
+  "market_endDate": "2026-01-11T01:00:00Z",
+  "market_id": "1150443",
+  "market_startDate": "2026-01-10T08:04:22.177861Z",
+  "market_updatedAt": "2026-01-10T15:51:32.249505Z",
+  "question": "Dota 2: CatChamp vs GG Boom - Game 1 Winner",
+  "slug": "dota2-cat3-ggboom-2026-01-10-game1"
 }

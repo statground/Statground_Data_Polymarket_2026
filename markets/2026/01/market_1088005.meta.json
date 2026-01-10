@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1088005",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-02T17:00:04.758461Z",
-  "market_createdAt": "2026-01-02T17:00:04.758461Z",
-  "market_updatedAt": "2026-01-06T14:38:28.636566Z",
-  "market_startDate": "2026-01-02T17:10:39.845601Z",
-  "market_endDate": "2026-01-09T17:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xb6f5f5f2639f8179df4802df7fc4bac4575798a3c7d35b04bda2b7ecf48913cb",
-  "slug": "will-the-price-of-ethereum-be-between-2700-2800-on-january-9",
-  "question": "Will the price of Ethereum be between $2,700 and $2,800 on January 9?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-02T17:00:04.758461Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-09 20:33:52+00",
+  "market_createdAt": "2026-01-02T17:00:04.758461Z",
+  "market_endDate": "2026-01-09T17:00:00Z",
+  "market_id": "1088005",
+  "market_startDate": "2026-01-02T17:10:39.845601Z",
+  "market_updatedAt": "2026-01-10T15:47:38.591497Z",
+  "question": "Will the price of Ethereum be between $2,700 and $2,800 on January 9?",
+  "slug": "will-the-price-of-ethereum-be-between-2700-2800-on-january-9"
 }

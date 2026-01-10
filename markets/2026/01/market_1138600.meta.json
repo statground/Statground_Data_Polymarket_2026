@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1138600",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-08T19:30:05.054094Z",
-  "market_createdAt": "2026-01-08T19:30:05.054094Z",
-  "market_updatedAt": "2026-01-10T14:46:34.471363Z",
-  "market_startDate": "2026-01-08T19:36:30.430191Z",
-  "market_endDate": "2026-01-22T17:45:00Z",
-  "market_closedTime": null,
   "conditionId": "0x0c525ecf3c1db25ef2436baf1f13d942b425e5120099ae4386eddb2ae7c60d47",
-  "slug": "uel-scf-mta1-2026-01-22-draw",
-  "question": "Will SC Freiburg vs. MH Maccabi Tel Aviv end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-08T19:30:05.054094Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-08T19:30:05.054094Z",
+  "market_endDate": "2026-01-22T17:45:00Z",
+  "market_id": "1138600",
+  "market_startDate": "2026-01-08T19:36:30.430191Z",
+  "market_updatedAt": "2026-01-10T15:51:30.038424Z",
+  "question": "Will SC Freiburg vs. MH Maccabi Tel Aviv end in a draw?",
+  "slug": "uel-scf-mta1-2026-01-22-draw"
 }

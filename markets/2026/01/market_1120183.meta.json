@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1120183",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T07:30:04.316474Z",
-  "market_createdAt": "2026-01-06T07:30:04.316474Z",
-  "market_updatedAt": "2026-01-10T14:46:30.565866Z",
-  "market_startDate": "2026-01-06T07:31:19.612525Z",
-  "market_endDate": "2026-01-15T16:30:00Z",
-  "market_closedTime": null,
   "conditionId": "0xf74c405d9f998021c9fde09558ce90cfca78542dc7e37b9b9be175bb993dab00",
-  "slug": "lol-fox1-ns-2026-01-15-total-games-2pt5",
-  "question": "Games Total: O/U 2.5"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T07:30:04.316474Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T07:30:04.316474Z",
+  "market_endDate": "2026-01-15T16:30:00Z",
+  "market_id": "1120183",
+  "market_startDate": "2026-01-06T07:31:19.612525Z",
+  "market_updatedAt": "2026-01-10T15:51:27.903175Z",
+  "question": "Games Total: O/U 2.5",
+  "slug": "lol-fox1-ns-2026-01-15-total-games-2pt5"
 }

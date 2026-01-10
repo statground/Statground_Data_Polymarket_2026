@@ -1,20 +1,20 @@
 {
   "entity": "event",
-  "event_id": "149452",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-07T16:30:19.219618Z",
   "event_createdAt": "2026-01-07T16:30:19.219618Z",
   "event_creationDate": "2026-02-04T00:30:00Z",
-  "event_startDate": "2026-01-07T16:31:51.73162Z",
   "event_endDate": "2026-02-04T00:30:00Z",
-  "event_updatedAt": "2026-01-10T14:41:05.822257Z",
-  "markets_len": 1,
+  "event_id": "149452",
+  "event_startDate": "2026-01-07T16:31:51.73162Z",
+  "event_updatedAt": "2026-01-10T15:45:24.381684Z",
+  "folder_dt_utc": "2026-01-07T16:30:19.219618Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1129495"
   ],
-  "series_len": 1,
+  "markets_len": 1,
   "series_ids": [
     "10346"
   ],
+  "series_len": 1,
   "series_slug": "nhl-2026"
 }

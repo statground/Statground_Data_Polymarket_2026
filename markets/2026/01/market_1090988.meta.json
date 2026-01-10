@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1090988",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-02T23:00:10.345262Z",
-  "market_createdAt": "2026-01-02T23:00:10.345262Z",
-  "market_updatedAt": "2026-01-06T14:42:54.312784Z",
-  "market_startDate": "2026-01-02T23:23:53.550363Z",
-  "market_endDate": "2026-01-09T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xf90c87409c643cd516d3b402170b7c151c0f0f49be067a1d2e21481413e02a13",
-  "slug": "tsla-above-430-on-january-9-2026",
-  "question": "Will Tesla (TSLA) finish week of January 5 above $430?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-02T23:00:10.345262Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-10 00:05:48+00",
+  "market_createdAt": "2026-01-02T23:00:10.345262Z",
+  "market_endDate": "2026-01-09T21:00:00Z",
+  "market_id": "1090988",
+  "market_startDate": "2026-01-02T23:23:53.550363Z",
+  "market_updatedAt": "2026-01-10T15:47:38.682004Z",
+  "question": "Will Tesla (TSLA) finish week of January 5 above $430?",
+  "slug": "tsla-above-430-on-january-9-2026"
 }

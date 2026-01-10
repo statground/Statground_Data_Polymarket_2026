@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1116596",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T21:52:03.222758Z",
-  "market_createdAt": "2026-01-05T21:52:03.222758Z",
-  "market_updatedAt": "2026-01-06T14:39:30.654621Z",
-  "market_startDate": "2026-01-05T21:59:10.096833Z",
-  "market_endDate": "2026-01-31T17:30:00Z",
-  "market_closedTime": null,
   "conditionId": "0xc8bf25f508f933f24e75f7754701f091ddfc0102c8f0a962db863c8d87b34042",
-  "slug": "ruprem-sal-nor-2026-01-24-draw",
-  "question": "Will the match end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T21:52:03.222758Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T21:52:03.222758Z",
+  "market_endDate": "2026-01-31T17:30:00Z",
+  "market_id": "1116596",
+  "market_startDate": "2026-01-05T21:59:10.096833Z",
+  "market_updatedAt": "2026-01-10T15:51:28.033233Z",
+  "question": "Will the match end in a draw?",
+  "slug": "ruprem-sal-nor-2026-01-24-draw"
 }

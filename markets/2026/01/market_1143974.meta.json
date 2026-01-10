@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1143974",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-09T16:30:21.818402Z",
-  "market_createdAt": "2026-01-09T16:30:21.818402Z",
-  "market_updatedAt": "2026-01-10T14:46:37.297378Z",
-  "market_startDate": "2026-01-09T16:34:37.944664Z",
-  "market_endDate": "2026-02-06T00:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xb091331913c766490a5449176599e71fd08c754d5c4e9b5c4f9d1800004aae57",
-  "slug": "nhl-pit-buf-2026-02-05",
-  "question": "Penguins vs. Sabres"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-09T16:30:21.818402Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-09T16:30:21.818402Z",
+  "market_endDate": "2026-02-06T00:00:00Z",
+  "market_id": "1143974",
+  "market_startDate": "2026-01-09T16:34:37.944664Z",
+  "market_updatedAt": "2026-01-10T15:51:31.705428Z",
+  "question": "Penguins vs. Sabres",
+  "slug": "nhl-pit-buf-2026-02-05"
 }

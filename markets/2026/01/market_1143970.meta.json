@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1143970",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-09T16:30:19.393731Z",
-  "market_createdAt": "2026-01-09T16:30:19.393731Z",
-  "market_updatedAt": "2026-01-10T14:46:32.651734Z",
-  "market_startDate": "2026-01-09T16:34:36.645546Z",
-  "market_endDate": "2026-02-06T00:30:00Z",
-  "market_closedTime": null,
   "conditionId": "0x05de785ec34cbfceba4989225c39d8e940eea1f20cb62e4b3a7b80824241da29",
-  "slug": "nhl-fla-tb-2026-02-05",
-  "question": "Panthers vs. Lightning"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-09T16:30:19.393731Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-09T16:30:19.393731Z",
+  "market_endDate": "2026-02-06T00:30:00Z",
+  "market_id": "1143970",
+  "market_startDate": "2026-01-09T16:34:36.645546Z",
+  "market_updatedAt": "2026-01-10T15:51:28.626134Z",
+  "question": "Panthers vs. Lightning",
+  "slug": "nhl-fla-tb-2026-02-05"
 }

@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1105990",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-04T17:45:00.641788Z",
-  "market_createdAt": "2026-01-04T17:45:00.641788Z",
-  "market_updatedAt": "2026-01-06T14:39:30.340725Z",
-  "market_startDate": "2026-01-04T17:48:08.961568Z",
-  "market_endDate": "2026-01-31T23:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xccce823f44e5bc71ffef1f3a44d26daa96a6a8bfd1700f73a5512b9035c0a072",
-  "slug": "mex-atl-maz-2026-01-31-draw",
-  "question": "Will Atlas FC vs. Mazatlán FC end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-04T17:45:00.641788Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-04T17:45:00.641788Z",
+  "market_endDate": "2026-01-31T23:00:00Z",
+  "market_id": "1105990",
+  "market_startDate": "2026-01-04T17:48:08.961568Z",
+  "market_updatedAt": "2026-01-10T15:51:34.125452Z",
+  "question": "Will Atlas FC vs. Mazatlán FC end in a draw?",
+  "slug": "mex-atl-maz-2026-01-31-draw"
 }

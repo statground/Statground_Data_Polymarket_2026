@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1103335",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-04T09:00:04.534011Z",
-  "market_createdAt": "2026-01-04T09:00:04.534011Z",
-  "market_updatedAt": "2026-01-10T14:46:33.065506Z",
-  "market_startDate": "2026-01-04T09:05:43.909521Z",
-  "market_endDate": "2026-01-17T14:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x09a87966cc1d58f730063d85c57ec8b0f7914ea069b4776f9dfb43d9c5995253",
-  "slug": "itsb-mon-fro-2026-01-17-draw",
-  "question": "Will AC Monza vs. Frosinone Calcio end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-04T09:00:04.534011Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-04T09:00:04.534011Z",
+  "market_endDate": "2026-01-17T14:00:00Z",
+  "market_id": "1103335",
+  "market_startDate": "2026-01-04T09:05:43.909521Z",
+  "market_updatedAt": "2026-01-10T15:51:30.39562Z",
+  "question": "Will AC Monza vs. Frosinone Calcio end in a draw?",
+  "slug": "itsb-mon-fro-2026-01-17-draw"
 }

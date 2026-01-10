@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1097739",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-03T16:30:03.214856Z",
-  "market_createdAt": "2026-01-03T16:30:03.214856Z",
-  "market_updatedAt": "2026-01-06T14:43:37.955351Z",
-  "market_startDate": "2026-01-03T16:31:05.608121Z",
-  "market_endDate": "2026-01-09T18:45:00Z",
-  "market_closedTime": null,
   "conditionId": "0x58ddc97821a83cb964b253f51764836582a90924583e6f497e275521214d8f31",
-  "slug": "snhl-dav-lau-2026-01-09",
-  "question": "SNHL: Davos vs. Lausanne"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-03T16:30:03.214856Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-09 23:45:36+00",
+  "market_createdAt": "2026-01-03T16:30:03.214856Z",
+  "market_endDate": "2026-01-09T18:45:00Z",
+  "market_id": "1097739",
+  "market_startDate": "2026-01-03T16:31:05.608121Z",
+  "market_updatedAt": "2026-01-10T15:47:39.43068Z",
+  "question": "SNHL: Davos vs. Lausanne",
+  "slug": "snhl-dav-lau-2026-01-09"
 }

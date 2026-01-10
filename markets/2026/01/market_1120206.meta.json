@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1120206",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T07:30:08.578190Z",
-  "market_createdAt": "2026-01-06T07:30:08.57819Z",
-  "market_updatedAt": "2026-01-06T14:43:08.092667Z",
-  "market_startDate": "2026-01-06T07:31:35.641643Z",
-  "market_endDate": "2026-01-18T14:30:00Z",
-  "market_closedTime": null,
   "conditionId": "0xb1d1f542fb237a8b216c7d02d5710f3a2f227aff091c2f1f64e0667080603d2d",
-  "slug": "lol-drx-t1-2026-01-18-game2",
-  "question": "LoL: DRX vs T1 - Game 2 Winner"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T07:30:08.578190Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T07:30:08.57819Z",
+  "market_endDate": "2026-01-18T14:30:00Z",
+  "market_id": "1120206",
+  "market_startDate": "2026-01-06T07:31:35.641643Z",
+  "market_updatedAt": "2026-01-10T15:51:36.222215Z",
+  "question": "LoL: DRX vs T1 - Game 2 Winner",
+  "slug": "lol-drx-t1-2026-01-18-game2"
 }

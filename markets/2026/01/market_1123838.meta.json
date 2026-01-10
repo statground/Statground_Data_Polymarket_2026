@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1123838",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T18:30:19.538471Z",
-  "market_createdAt": "2026-01-06T18:30:19.538471Z",
-  "market_updatedAt": "2026-01-10T14:46:38.990747Z",
-  "market_startDate": "2026-01-06T18:57:32.445582Z",
-  "market_endDate": "2026-01-29T22:15:00Z",
-  "market_closedTime": null,
   "conditionId": "0x8e012514fa6c352a7425174090daa99cdf6474bafdfdf0d8346cad186891319a",
-  "slug": "arg-bel-tig-2026-01-29-draw",
-  "question": "Will CA Belgrano vs. CA Tigre end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T18:30:19.538471Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T18:30:19.538471Z",
+  "market_endDate": "2026-01-29T22:15:00Z",
+  "market_id": "1123838",
+  "market_startDate": "2026-01-06T18:57:32.445582Z",
+  "market_updatedAt": "2026-01-10T15:53:14.868856Z",
+  "question": "Will CA Belgrano vs. CA Tigre end in a draw?",
+  "slug": "arg-bel-tig-2026-01-29-draw"
 }

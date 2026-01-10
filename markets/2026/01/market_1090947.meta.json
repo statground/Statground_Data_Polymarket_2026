@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1090947",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-02T23:00:08.636195Z",
-  "market_createdAt": "2026-01-02T23:00:08.636195Z",
-  "market_updatedAt": "2026-01-10T14:43:03.91266Z",
-  "market_startDate": "2026-01-02T23:25:01.380329Z",
-  "market_endDate": "2026-01-09T21:00:00Z",
-  "market_closedTime": "2026-01-10 01:58:10+00",
   "conditionId": "0x183eabc000e5727006836fb3676fbe95f3f9165df575b9630c013df1ae28cb89",
-  "slug": "will-meta-close-between-680-and-690-week-january-9-2026",
-  "question": "Will Meta (META) close at $680-$690 on the final day of trading of the week of Jan 5 – Jan 9?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-02T23:00:08.636195Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-10 01:58:10+00",
+  "market_createdAt": "2026-01-02T23:00:08.636195Z",
+  "market_endDate": "2026-01-09T21:00:00Z",
+  "market_id": "1090947",
+  "market_startDate": "2026-01-02T23:25:01.380329Z",
+  "market_updatedAt": "2026-01-10T15:43:18.838384Z",
+  "question": "Will Meta (META) close at $680-$690 on the final day of trading of the week of Jan 5 – Jan 9?",
+  "slug": "will-meta-close-between-680-and-690-week-january-9-2026"
 }

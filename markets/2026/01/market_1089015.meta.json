@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1089015",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-02T18:27:53.099052Z",
-  "market_createdAt": "2026-01-02T18:27:53.099052Z",
-  "market_updatedAt": "2026-01-06T14:43:04.897681Z",
-  "market_startDate": "2026-01-02T20:37:30.436176Z",
-  "market_endDate": "2026-03-31T00:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x9cdd770cba6d1630eec53ae2bd2063ed2b18a879067002ce6573ea101a19c0f5",
-  "slug": "will-tesla-deliver-between-425000-and-450000-vehicles-in-q1-2026",
-  "question": "Will Tesla deliver between 425000 and 450000 vehicles in Q1 2026"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-02T18:27:53.099052Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-02T18:27:53.099052Z",
+  "market_endDate": "2026-03-31T00:00:00Z",
+  "market_id": "1089015",
+  "market_startDate": "2026-01-02T20:37:30.436176Z",
+  "market_updatedAt": "2026-01-10T15:51:35.418785Z",
+  "question": "Will Tesla deliver between 425000 and 450000 vehicles in Q1 2026",
+  "slug": "will-tesla-deliver-between-425000-and-450000-vehicles-in-q1-2026"
 }

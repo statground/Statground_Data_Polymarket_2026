@@ -1,20 +1,20 @@
 {
   "entity": "event",
-  "event_id": "153548",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-09T16:30:02.738121Z",
   "event_createdAt": "2026-01-09T16:30:02.738121Z",
   "event_creationDate": "2026-01-15T19:00:00Z",
-  "event_startDate": "2026-01-09T16:36:06.250897Z",
   "event_endDate": "2026-01-15T19:00:00Z",
-  "event_updatedAt": "2026-01-10T14:41:10.498825Z",
-  "markets_len": 1,
+  "event_id": "153548",
+  "event_startDate": "2026-01-09T16:36:06.250897Z",
+  "event_updatedAt": "2026-01-10T15:45:22.626266Z",
+  "folder_dt_utc": "2026-01-09T16:30:02.738121Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1143909"
   ],
-  "series_len": 1,
+  "markets_len": 1,
   "series_ids": [
     "10703"
   ],
+  "series_len": 1,
   "series_slug": "snhl-2026"
 }

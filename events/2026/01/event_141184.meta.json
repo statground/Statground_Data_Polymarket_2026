@@ -1,20 +1,20 @@
 {
   "entity": "event",
-  "event_id": "141184",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-03T17:16:48.267506Z",
   "event_createdAt": "2026-01-03T17:16:48.267506Z",
   "event_creationDate": "2026-01-03T17:20:12.503576Z",
-  "event_startDate": "2026-01-03T17:20:12.503578Z",
   "event_endDate": "2026-01-04T17:30:00Z",
+  "event_id": "141184",
+  "event_startDate": "2026-01-03T17:20:12.503578Z",
   "event_updatedAt": "2026-01-06T00:33:26.148195Z",
-  "markets_len": 1,
+  "folder_dt_utc": "2026-01-03T17:16:48.267506Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1098032"
   ],
-  "series_len": 1,
+  "markets_len": 1,
   "series_ids": [
     "10192"
   ],
+  "series_len": 1,
   "series_slug": "btc-up-or-down-15m"
 }

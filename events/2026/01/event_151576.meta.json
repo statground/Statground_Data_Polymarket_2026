@@ -1,22 +1,22 @@
 {
   "entity": "event",
-  "event_id": "151576",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-08T18:00:11.073056Z",
   "event_createdAt": "2026-01-08T18:00:11.073056Z",
   "event_creationDate": "2026-01-08T18:07:20.928295Z",
-  "event_startDate": "2026-01-08T18:07:20.928301Z",
   "event_endDate": "2026-01-15T20:00:00Z",
-  "event_updatedAt": "2026-01-10T14:41:05.00905Z",
-  "markets_len": 3,
+  "event_id": "151576",
+  "event_startDate": "2026-01-08T18:07:20.928301Z",
+  "event_updatedAt": "2026-01-10T15:47:41.229797Z",
+  "folder_dt_utc": "2026-01-08T18:00:11.073056Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1137870",
     "1137871",
     "1137872"
   ],
-  "series_len": 1,
+  "markets_len": 3,
   "series_ids": [
     "10316"
   ],
+  "series_len": 1,
   "series_slug": "copa-del-rey"
 }

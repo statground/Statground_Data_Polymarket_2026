@@ -1,15 +1,15 @@
 {
   "entity": "series",
-  "series_id": "10870",
-  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "folder_dt_utc": "2026-01-07T22:11:43.293657Z",
-  "series_createdAt": "2026-01-07T22:11:43.293657Z",
-  "series_publishedAt": null,
-  "series_updatedAt": "2026-01-10T14:43:15.539246Z",
-  "slug": "argentina-official-usd-exchange-rate",
-  "ticker": "argentina-official-usd-exchange-rate",
-  "title": "Argentina Official USD Exchange Rate",
-  "startDate": null,
+  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "recurrence": "monthly",
-  "seriesType": "single"
+  "seriesType": "single",
+  "series_createdAt": "2026-01-07T22:11:43.293657Z",
+  "series_id": "10870",
+  "series_publishedAt": null,
+  "series_updatedAt": "2026-01-10T15:53:43.073444Z",
+  "slug": "argentina-official-usd-exchange-rate",
+  "startDate": null,
+  "ticker": "argentina-official-usd-exchange-rate",
+  "title": "Argentina Official USD Exchange Rate"
 }

@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1120863",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T11:00:11.530968Z",
-  "market_createdAt": "2026-01-06T11:00:11.530968Z",
-  "market_updatedAt": "2026-01-06T14:43:50.218261Z",
-  "market_startDate": "2026-01-06T11:06:15.349797Z",
-  "market_endDate": "2026-01-11T20:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xb314dc950f27ad8db3aaffe14b229238f2620c13fb0fe6720415cdd14050934d",
-  "slug": "val-erah-wip-2026-01-11-total-games-2pt5",
-  "question": "Games Total: O/U 2.5"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T11:00:11.530968Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T11:00:11.530968Z",
+  "market_endDate": "2026-01-11T20:00:00Z",
+  "market_id": "1120863",
+  "market_startDate": "2026-01-06T11:06:15.349797Z",
+  "market_updatedAt": "2026-01-10T15:51:31.809179Z",
+  "question": "Games Total: O/U 2.5",
+  "slug": "val-erah-wip-2026-01-11-total-games-2pt5"
 }

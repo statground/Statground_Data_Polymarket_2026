@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1088070",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-02T17:00:07.403351Z",
-  "market_createdAt": "2026-01-02T17:00:07.403351Z",
-  "market_updatedAt": "2026-01-10T14:43:04.776998Z",
-  "market_startDate": "2026-01-02T17:10:18.215061Z",
-  "market_endDate": "2026-01-09T17:00:00Z",
-  "market_closedTime": "2026-01-09 19:21:26+00",
   "conditionId": "0xbf6d7d315dc0f99ff25a123242387760315a583106376375835a4edd27816262",
-  "slug": "xrp-above-2pt1-on-january-9",
-  "question": "Will the price of XRP be above $2.10 on January 9?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-02T17:00:07.403351Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-09 19:21:26+00",
+  "market_createdAt": "2026-01-02T17:00:07.403351Z",
+  "market_endDate": "2026-01-09T17:00:00Z",
+  "market_id": "1088070",
+  "market_startDate": "2026-01-02T17:10:18.215061Z",
+  "market_updatedAt": "2026-01-10T15:47:39.389701Z",
+  "question": "Will the price of XRP be above $2.10 on January 9?",
+  "slug": "xrp-above-2pt1-on-january-9"
 }

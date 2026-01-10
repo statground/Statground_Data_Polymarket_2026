@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "152978",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-09T11:00:29.003976Z",
   "event_createdAt": "2026-01-09T11:00:29.003976Z",
   "event_creationDate": "2026-01-09T11:15:12.916428Z",
-  "event_startDate": "2026-01-09T11:15:12.916435Z",
   "event_endDate": "2026-01-11T12:00:00Z",
-  "event_updatedAt": "2026-01-10T14:41:08.842409Z",
-  "markets_len": 7,
+  "event_id": "152978",
+  "event_startDate": "2026-01-09T11:15:12.916435Z",
+  "event_updatedAt": "2026-01-10T15:45:22.481033Z",
+  "folder_dt_utc": "2026-01-09T11:00:29.003976Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1142472",
     "1142473",
@@ -18,9 +17,10 @@
     "1142477",
     "1142478"
   ],
-  "series_len": 1,
+  "markets_len": 7,
   "series_ids": [
     "10739"
   ],
+  "series_len": 1,
   "series_slug": "atlanta-daily-weather"
 }

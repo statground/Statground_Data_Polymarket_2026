@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1122656",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T16:29:27.652565Z",
-  "market_createdAt": "2026-01-06T16:29:27.652565Z",
-  "market_updatedAt": "2026-01-10T14:46:38.801366Z",
-  "market_startDate": "2026-01-06T19:00:30.78751Z",
-  "market_endDate": "2026-12-31T00:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x99b179720a5e1625fad51e919d34b7948f409fa540795f6069285040b755a059",
-  "slug": "any-eu-nations-debt-downgraded-before-2027",
-  "question": "Any EU nation's debt downgraded before 2027?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T16:29:27.652565Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T16:29:27.652565Z",
+  "market_endDate": "2026-12-31T00:00:00Z",
+  "market_id": "1122656",
+  "market_startDate": "2026-01-06T19:00:30.78751Z",
+  "market_updatedAt": "2026-01-10T15:53:06.426239Z",
+  "question": "Any EU nation's debt downgraded before 2027?",
+  "slug": "any-eu-nations-debt-downgraded-before-2027"
 }

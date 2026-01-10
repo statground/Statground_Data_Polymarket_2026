@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1106055",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-04T18:05:38.707045Z",
-  "market_createdAt": "2026-01-04T18:05:38.707045Z",
-  "market_updatedAt": "2026-01-10T14:46:35.674334Z",
-  "market_startDate": "2026-01-05T17:39:32.777881Z",
-  "market_endDate": "2027-01-01T05:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xfc76ba149eb344e53b06707b5a4b89ab9df6de1263a6f5ecfa7f1a6722526e89",
-  "slug": "over-200m-raised-on-coinbase-in-2026",
-  "question": "Over $200M raised on Coinbase in 2026?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-04T18:05:38.707045Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-04T18:05:38.707045Z",
+  "market_endDate": "2027-01-01T05:00:00Z",
+  "market_id": "1106055",
+  "market_startDate": "2026-01-05T17:39:32.777881Z",
+  "market_updatedAt": "2026-01-10T15:53:10.092877Z",
+  "question": "Over $200M raised on Coinbase in 2026?",
+  "slug": "over-200m-raised-on-coinbase-in-2026"
 }

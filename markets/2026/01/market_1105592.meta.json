@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1105592",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-04T17:00:07.951766Z",
-  "market_createdAt": "2026-01-04T17:00:07.951766Z",
-  "market_updatedAt": "2026-01-06T14:45:28.49821Z",
-  "market_startDate": "2026-01-04T17:11:49.230372Z",
-  "market_endDate": "2026-01-11T17:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x8af575dbf8e3a7b19c10a9328e8801bcfda7954955a15a89351870fb326adba0",
-  "slug": "will-the-price-of-solana-be-between-120-130-on-january-11",
-  "question": "Will the price of Solana be between $120 and $130 on January 11?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-04T17:00:07.951766Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-04T17:00:07.951766Z",
+  "market_endDate": "2026-01-11T17:00:00Z",
+  "market_id": "1105592",
+  "market_startDate": "2026-01-04T17:11:49.230372Z",
+  "market_updatedAt": "2026-01-10T15:51:36.183032Z",
+  "question": "Will the price of Solana be between $120 and $130 on January 11?",
+  "slug": "will-the-price-of-solana-be-between-120-130-on-january-11"
 }

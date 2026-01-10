@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1114525",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T16:00:07.046126Z",
-  "market_createdAt": "2026-01-05T16:00:07.046126Z",
-  "market_updatedAt": "2026-01-10T14:46:33.704536Z",
-  "market_startDate": "2026-01-05T16:01:18.710776Z",
-  "market_endDate": "2026-01-17T14:30:00Z",
-  "market_closedTime": null,
   "conditionId": "0x774520b8ce291075a02b138e340237c4fc9f1a73ffaa79e7f4b0110fa2439b03",
-  "slug": "lol-dfm-mvk-2026-01-17-total-games-2pt5",
-  "question": "Games Total: O/U 2.5"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T16:00:07.046126Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T16:00:07.046126Z",
+  "market_endDate": "2026-01-17T14:30:00Z",
+  "market_id": "1114525",
+  "market_startDate": "2026-01-05T16:01:18.710776Z",
+  "market_updatedAt": "2026-01-10T15:51:29.616155Z",
+  "question": "Games Total: O/U 2.5",
+  "slug": "lol-dfm-mvk-2026-01-17-total-games-2pt5"
 }

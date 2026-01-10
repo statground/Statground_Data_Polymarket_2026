@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1090916",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-02T23:00:06.112184Z",
-  "market_createdAt": "2026-01-02T23:00:06.112184Z",
-  "market_updatedAt": "2026-01-06T14:35:47.752787Z",
-  "market_startDate": "2026-01-02T23:25:53.727137Z",
-  "market_endDate": "2026-01-09T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xaaef50057ce41faae9dd5ecb2a781a24fe9de6c0629c969f3344b3ddfd7ca206",
-  "slug": "will-googl-close-below-290-week-january-9-2026",
-  "question": "Will Google (GOOGL) close at <$290 on the final day of trading of the week of Jan 5 – Jan 9?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-02T23:00:06.112184Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-10 00:35:02+00",
+  "market_createdAt": "2026-01-02T23:00:06.112184Z",
+  "market_endDate": "2026-01-09T21:00:00Z",
+  "market_id": "1090916",
+  "market_startDate": "2026-01-02T23:25:53.727137Z",
+  "market_updatedAt": "2026-01-10T15:51:46.45975Z",
+  "question": "Will Google (GOOGL) close at <$290 on the final day of trading of the week of Jan 5 – Jan 9?",
+  "slug": "will-googl-close-below-290-week-january-9-2026"
 }

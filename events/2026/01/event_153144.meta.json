@@ -1,20 +1,20 @@
 {
   "entity": "event",
-  "event_id": "153144",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-09T13:00:08.576329Z",
   "event_createdAt": "2026-01-09T13:00:08.576329Z",
   "event_creationDate": "2026-01-12T14:30:00Z",
-  "event_startDate": "2026-01-09T13:03:24.979075Z",
   "event_endDate": "2026-01-12T21:00:00Z",
-  "event_updatedAt": "2026-01-10T14:41:09.135663Z",
-  "markets_len": 1,
+  "event_id": "153144",
+  "event_startDate": "2026-01-09T13:03:24.979075Z",
+  "event_updatedAt": "2026-01-10T15:47:41.551879Z",
+  "folder_dt_utc": "2026-01-09T13:00:08.576329Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1143178"
   ],
-  "series_len": 1,
+  "markets_len": 1,
   "series_ids": [
     "10390"
   ],
+  "series_len": 1,
   "series_slug": "nflx-daily-up-or-down"
 }

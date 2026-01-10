@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "143397",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-04T17:00:03.559229Z",
   "event_createdAt": "2026-01-04T17:00:03.559229Z",
   "event_creationDate": "2026-01-04T17:15:52.432821Z",
-  "event_startDate": "2026-01-04T17:15:52.432825Z",
   "event_endDate": "2026-01-14T12:00:00Z",
-  "event_updatedAt": "2026-01-10T14:41:05.827039Z",
-  "markets_len": 6,
+  "event_id": "143397",
+  "event_startDate": "2026-01-04T17:15:52.432825Z",
+  "event_updatedAt": "2026-01-10T15:45:24.388634Z",
+  "folder_dt_utc": "2026-01-04T17:00:03.559229Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1105554",
     "1105555",
@@ -17,9 +16,10 @@
     "1105558",
     "1105559"
   ],
-  "series_len": 1,
+  "markets_len": 6,
   "series_ids": [
     "10434"
   ],
+  "series_len": 1,
   "series_slug": "honor-of-kings"
 }

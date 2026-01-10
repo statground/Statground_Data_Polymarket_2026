@@ -1,20 +1,20 @@
 {
   "entity": "event",
-  "event_id": "152200",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-09T01:28:11.846696Z",
   "event_createdAt": "2026-01-09T01:28:11.846696Z",
   "event_creationDate": "2026-01-10T11:35:00Z",
-  "event_startDate": "2026-01-09T01:41:44.552506Z",
   "event_endDate": "2026-01-17T11:35:00Z",
-  "event_updatedAt": "2026-01-10T14:41:06.994446Z",
-  "markets_len": 1,
+  "event_id": "152200",
+  "event_startDate": "2026-01-09T01:41:44.552506Z",
+  "event_updatedAt": "2026-01-10T15:45:21.17469Z",
+  "folder_dt_utc": "2026-01-09T01:28:11.846696Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1140929"
   ],
-  "series_len": 1,
+  "markets_len": 1,
   "series_ids": [
     "10875"
   ],
+  "series_len": 1,
   "series_slug": "cba"
 }

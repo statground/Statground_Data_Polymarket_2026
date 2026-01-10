@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "145384",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-05T16:26:54.617240Z",
   "event_createdAt": "2026-01-05T16:26:54.61724Z",
   "event_creationDate": "2026-01-05T16:36:30.030844Z",
-  "event_startDate": "2026-01-05T16:36:30.030849Z",
   "event_endDate": "2026-01-25T04:59:59.999Z",
-  "event_updatedAt": "2026-01-10T14:41:07.176344Z",
-  "markets_len": 9,
+  "event_id": "145384",
+  "event_startDate": "2026-01-05T16:36:30.030849Z",
+  "event_updatedAt": "2026-01-10T15:45:24.144201Z",
+  "folder_dt_utc": "2026-01-05T16:26:54.617240Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1114764",
     "1114769",
@@ -20,9 +19,10 @@
     "1114766",
     "1114768"
   ],
-  "series_len": 1,
+  "markets_len": 9,
   "series_ids": [
     "38"
   ],
+  "series_len": 1,
   "series_slug": "ufc"
 }

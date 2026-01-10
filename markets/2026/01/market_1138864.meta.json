@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1138864",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-08T19:45:23.484915Z",
-  "market_createdAt": "2026-01-08T19:45:23.484915Z",
-  "market_updatedAt": "2026-01-10T14:46:33.747941Z",
-  "market_startDate": "2026-01-08T19:49:53.143131Z",
-  "market_endDate": "2026-01-17T07:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x234bfb9570db831979bccd5684943bf2783931574d069953f34f1f5a30b064f5",
-  "slug": "val-100t1-lev1-2026-01-17-total-rounds-over-under-54pt5",
-  "question": "Total Rounds Over/Under 54.5"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-08T19:45:23.484915Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-08T19:45:23.484915Z",
+  "market_endDate": "2026-01-17T07:00:00Z",
+  "market_id": "1138864",
+  "market_startDate": "2026-01-08T19:49:53.143131Z",
+  "market_updatedAt": "2026-01-10T15:51:29.201792Z",
+  "question": "Total Rounds Over/Under 54.5",
+  "slug": "val-100t1-lev1-2026-01-17-total-rounds-over-under-54pt5"
 }

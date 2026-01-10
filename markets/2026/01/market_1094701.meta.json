@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1094701",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-03T08:00:03.924945Z",
-  "market_createdAt": "2026-01-03T08:00:03.924945Z",
-  "market_updatedAt": "2026-01-10T14:44:48.644272Z",
-  "market_startDate": "2026-01-03T08:04:14.815951Z",
-  "market_endDate": "2026-01-16T19:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x9657b19523cb781f2b620bc31ca8fa5fbd525995325af2e1273504645857c326",
-  "slug": "fr2-usd-pau-2026-01-16-draw",
-  "question": "Will USL Dunkerque vs. Pau FC end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-03T08:00:03.924945Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-03T08:00:03.924945Z",
+  "market_endDate": "2026-01-16T19:00:00Z",
+  "market_id": "1094701",
+  "market_startDate": "2026-01-03T08:04:14.815951Z",
+  "market_updatedAt": "2026-01-10T15:53:08.043174Z",
+  "question": "Will USL Dunkerque vs. Pau FC end in a draw?",
+  "slug": "fr2-usd-pau-2026-01-16-draw"
 }

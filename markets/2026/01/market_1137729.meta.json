@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1137729",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-08T17:54:48.570341Z",
-  "market_createdAt": "2026-01-08T17:54:48.570341Z",
-  "market_updatedAt": "2026-01-10T14:44:52.067909Z",
-  "market_startDate": "2026-01-09T18:03:36.784982Z",
-  "market_endDate": "2026-01-18T00:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x9a4b70d49c610171ab3d1d86774bb328e05a3301c8d5969577795d98ddfe9c3e",
-  "slug": "will-the-total-number-of-tsa-passengers-for-january-12-january-18-be-between-14500000-and-14750000",
-  "question": "Will the total number of TSA passengers for January 12 - January 18 be between 14,500,000 and 14,750,000?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-08T17:54:48.570341Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-08T17:54:48.570341Z",
+  "market_endDate": "2026-01-18T00:00:00Z",
+  "market_id": "1137729",
+  "market_startDate": "2026-01-09T18:03:36.784982Z",
+  "market_updatedAt": "2026-01-10T15:51:13.812504Z",
+  "question": "Will the total number of TSA passengers for January 12 - January 18 be between 14,500,000 and 14,750,000?",
+  "slug": "will-the-total-number-of-tsa-passengers-for-january-12-january-18-be-between-14500000-and-14750000"
 }

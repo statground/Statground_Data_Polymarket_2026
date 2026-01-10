@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1099182",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-03T20:02:02.468593Z",
-  "market_createdAt": "2026-01-03T20:02:02.468593Z",
-  "market_updatedAt": "2026-01-10T14:46:33.8334Z",
-  "market_startDate": "2026-01-04T04:54:46.871546Z",
-  "market_endDate": "2026-01-16T14:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xc55b2174a644dbb32f555268a40f3fca76398b486640d4f66e0efe6256a019fd",
-  "slug": "pnc-quarterly-earnings-gaap-eps-01-16-2026-4pt16",
-  "question": "Will PNC Financial Services (PNC) beat quarterly earnings?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-03T20:02:02.468593Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-03T20:02:02.468593Z",
+  "market_endDate": "2026-01-16T14:00:00Z",
+  "market_id": "1099182",
+  "market_startDate": "2026-01-04T04:54:46.871546Z",
+  "market_updatedAt": "2026-01-10T15:51:30.245283Z",
+  "question": "Will PNC Financial Services (PNC) beat quarterly earnings?",
+  "slug": "pnc-quarterly-earnings-gaap-eps-01-16-2026-4pt16"
 }

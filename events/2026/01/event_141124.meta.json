@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "141124",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-03T17:00:00.545207Z",
   "event_createdAt": "2026-01-03T17:00:00.545207Z",
   "event_creationDate": "2026-01-03T17:06:07.910219Z",
-  "event_startDate": "2026-01-03T17:06:07.910224Z",
   "event_endDate": "2026-01-10T17:00:00Z",
-  "event_updatedAt": "2026-01-10T14:41:05.305567Z",
-  "markets_len": 10,
+  "event_id": "141124",
+  "event_startDate": "2026-01-03T17:06:07.910224Z",
+  "event_updatedAt": "2026-01-10T15:47:41.912944Z",
+  "folder_dt_utc": "2026-01-03T17:00:00.545207Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1097831",
     "1097795",
@@ -21,9 +20,10 @@
     "1097793",
     "1097808"
   ],
-  "series_len": 1,
+  "markets_len": 10,
   "series_ids": [
     "42"
   ],
+  "series_len": 1,
   "series_slug": "ethereum-multi-strikes-weekly"
 }

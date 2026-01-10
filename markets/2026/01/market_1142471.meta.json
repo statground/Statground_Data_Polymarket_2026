@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1142471",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-09T11:00:26.179961Z",
-  "market_createdAt": "2026-01-09T11:00:26.179961Z",
-  "market_updatedAt": "2026-01-10T14:44:54.621442Z",
-  "market_startDate": "2026-01-09T11:13:38.699933Z",
-  "market_endDate": "2026-01-11T12:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xb2273c6758f037067bf9f05c0be66aef747382564188855a1f8e1c0070ba05b2",
-  "slug": "highest-temperature-in-dallas-on-january-11-66forhigher",
-  "question": "Will the highest temperature in Dallas be 66°F or higher on January 11?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-09T11:00:26.179961Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-09T11:00:26.179961Z",
+  "market_endDate": "2026-01-11T12:00:00Z",
+  "market_id": "1142471",
+  "market_startDate": "2026-01-09T11:13:38.699933Z",
+  "market_updatedAt": "2026-01-10T15:53:12.076487Z",
+  "question": "Will the highest temperature in Dallas be 66°F or higher on January 11?",
+  "slug": "highest-temperature-in-dallas-on-january-11-66forhigher"
 }

@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1127172",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-07T05:00:14.858396Z",
-  "market_createdAt": "2026-01-07T05:00:14.858396Z",
-  "market_updatedAt": "2026-01-10T14:46:33.7119Z",
-  "market_startDate": "2026-01-07T05:04:03.134048Z",
-  "market_endDate": "2026-01-23T15:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x5ed4b63255c4f0f603daa0117ebcacf53518dc680b9b12630178aba61362f5de",
-  "slug": "val-ag1-nova-2026-01-23-total-rounds-over-under-52pt5",
-  "question": "Total Rounds Over/Under 52.5"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-07T05:00:14.858396Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-07T05:00:14.858396Z",
+  "market_endDate": "2026-01-23T15:00:00Z",
+  "market_id": "1127172",
+  "market_startDate": "2026-01-07T05:04:03.134048Z",
+  "market_updatedAt": "2026-01-10T15:51:40.718708Z",
+  "question": "Total Rounds Over/Under 52.5",
+  "slug": "val-ag1-nova-2026-01-23-total-rounds-over-under-52pt5"
 }

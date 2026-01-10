@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "139423",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-02T20:28:19.200057Z",
   "event_createdAt": "2026-01-02T20:28:19.200057Z",
   "event_creationDate": "2026-01-02T22:02:11.692833Z",
-  "event_startDate": "2026-01-02T22:02:11.692841Z",
   "event_endDate": "2026-01-09T00:00:00Z",
-  "event_updatedAt": "2026-01-10T14:39:02.871978Z",
-  "markets_len": 19,
+  "event_id": "139423",
+  "event_startDate": "2026-01-02T22:02:11.692841Z",
+  "event_updatedAt": "2026-01-10T15:43:27.673417Z",
+  "folder_dt_utc": "2026-01-02T20:28:19.200057Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1089784",
     "1089786",
@@ -30,9 +29,10 @@
     "1089799",
     "1089801"
   ],
-  "series_len": 1,
+  "markets_len": 19,
   "series_ids": [
     "10414"
   ],
+  "series_len": 1,
   "series_slug": "1-paid-app"
 }

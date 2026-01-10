@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1112935",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T09:00:07.135404Z",
-  "market_createdAt": "2026-01-05T09:00:07.135404Z",
-  "market_updatedAt": "2026-01-10T14:46:36.9253Z",
-  "market_startDate": "2026-01-05T09:01:47.154391Z",
-  "market_endDate": "2026-01-19T15:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x390fd82c3410c7c71c08e49105fdcec97fdf7cc298428456898c1f6b27ce3a12",
-  "slug": "lol-tes-wb-2026-01-19-total-games-2pt5",
-  "question": "Games Total: O/U 2.5"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T09:00:07.135404Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T09:00:07.135404Z",
+  "market_endDate": "2026-01-19T15:00:00Z",
+  "market_id": "1112935",
+  "market_startDate": "2026-01-05T09:01:47.154391Z",
+  "market_updatedAt": "2026-01-10T15:51:31.535167Z",
+  "question": "Games Total: O/U 2.5",
+  "slug": "lol-tes-wb-2026-01-19-total-games-2pt5"
 }

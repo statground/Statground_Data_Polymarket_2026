@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1117599",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T23:47:16.050674Z",
-  "market_createdAt": "2026-01-05T23:47:16.050674Z",
-  "market_updatedAt": "2026-01-10T14:46:39.07687Z",
-  "market_startDate": "2026-01-05T23:49:34.205507Z",
-  "market_endDate": "2026-01-11T18:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x45e8e241a57147691d726c040c63651a78909dee42c50119783a65b8d8db1219",
-  "slug": "nfl-buf-jax-2026-01-11-rec-dalton-kincaid-35pt5",
-  "question": "Dalton Kincaid: Receiving Yards O/U 35.5"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T23:47:16.050674Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T23:47:16.050674Z",
+  "market_endDate": "2026-01-11T18:00:00Z",
+  "market_id": "1117599",
+  "market_startDate": "2026-01-05T23:49:34.205507Z",
+  "market_updatedAt": "2026-01-10T15:51:32.901868Z",
+  "question": "Dalton Kincaid: Receiving Yards O/U 35.5",
+  "slug": "nfl-buf-jax-2026-01-11-rec-dalton-kincaid-35pt5"
 }

@@ -1,15 +1,15 @@
 {
   "entity": "series",
-  "series_id": "10845",
-  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "folder_dt_utc": "2026-01-05T19:45:42.771665Z",
-  "series_createdAt": "2026-01-05T19:45:42.771665Z",
-  "series_publishedAt": null,
-  "series_updatedAt": "2026-01-10T14:43:14.851482Z",
-  "slug": "lighter-hit-price-monthly",
-  "ticker": "lighter-hit-price-monthly",
-  "title": "Lighter Hit Price Monthly",
-  "startDate": null,
+  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "recurrence": "monthly",
-  "seriesType": "single"
+  "seriesType": "single",
+  "series_createdAt": "2026-01-05T19:45:42.771665Z",
+  "series_id": "10845",
+  "series_publishedAt": null,
+  "series_updatedAt": "2026-01-10T15:53:42.705815Z",
+  "slug": "lighter-hit-price-monthly",
+  "startDate": null,
+  "ticker": "lighter-hit-price-monthly",
+  "title": "Lighter Hit Price Monthly"
 }

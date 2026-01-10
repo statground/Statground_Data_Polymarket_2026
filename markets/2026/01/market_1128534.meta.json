@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1128534",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-07T12:00:10.783408Z",
-  "market_createdAt": "2026-01-07T12:00:10.783408Z",
-  "market_updatedAt": "2026-01-10T14:43:04.925317Z",
-  "market_startDate": "2026-01-07T12:01:59.693121Z",
-  "market_endDate": "2026-01-16T00:00:00Z",
-  "market_closedTime": "2026-01-09 10:59:46+00",
   "conditionId": "0x01de7cdf5335d358f15ab1128bc28759c621463ba28be1f9652cd166c4fe324c",
-  "slug": "atp-korda-michels-2026-01-08-set-handicap-home-1pt5",
-  "question": "Set Handicap: Korda (-1.5) vs Michelsen (+1.5)"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-07T12:00:10.783408Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-09 10:59:46+00",
+  "market_createdAt": "2026-01-07T12:00:10.783408Z",
+  "market_endDate": "2026-01-16T00:00:00Z",
+  "market_id": "1128534",
+  "market_startDate": "2026-01-07T12:01:59.693121Z",
+  "market_updatedAt": "2026-01-10T15:47:38.387168Z",
+  "question": "Set Handicap: Korda (-1.5) vs Michelsen (+1.5)",
+  "slug": "atp-korda-michels-2026-01-08-set-handicap-home-1pt5"
 }

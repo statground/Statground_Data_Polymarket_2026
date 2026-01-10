@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1144333",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-09T17:31:51.212595Z",
-  "market_createdAt": "2026-01-09T17:31:51.212595Z",
-  "market_updatedAt": "2026-01-10T14:46:34.257499Z",
-  "market_startDate": "2026-01-09T17:32:16.290966Z",
-  "market_endDate": "2026-01-10T17:45:00Z",
-  "market_closedTime": null,
   "conditionId": "0x7304c607e07d0f781fa3342ceef9dc5a8b5628ad9ebd3a619700869a686c601e",
-  "slug": "eth-updown-15m-1768066200",
-  "question": "Ethereum Up or Down - January 10, 12:30PM-12:45PM ET"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-09T17:31:51.212595Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-09T17:31:51.212595Z",
+  "market_endDate": "2026-01-10T17:45:00Z",
+  "market_id": "1144333",
+  "market_startDate": "2026-01-09T17:32:16.290966Z",
+  "market_updatedAt": "2026-01-10T15:53:13.40043Z",
+  "question": "Ethereum Up or Down - January 10, 12:30PM-12:45PM ET",
+  "slug": "eth-updown-15m-1768066200"
 }

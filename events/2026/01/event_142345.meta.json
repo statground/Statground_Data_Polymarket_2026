@@ -1,22 +1,22 @@
 {
   "entity": "event",
-  "event_id": "142345",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-04T08:00:03.224315Z",
   "event_createdAt": "2026-01-04T08:00:03.224315Z",
   "event_creationDate": "2026-01-04T08:09:22.94107Z",
-  "event_startDate": "2026-01-04T08:09:22.941071Z",
   "event_endDate": "2026-01-17T13:00:00Z",
-  "event_updatedAt": "2026-01-10T14:41:04.71946Z",
-  "markets_len": 3,
+  "event_id": "142345",
+  "event_startDate": "2026-01-04T08:09:22.941071Z",
+  "event_updatedAt": "2026-01-10T15:45:24.455265Z",
+  "folder_dt_utc": "2026-01-04T08:00:03.224315Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1103140",
     "1103141",
     "1103142"
   ],
-  "series_len": 1,
+  "markets_len": 3,
   "series_ids": [
     "10675"
   ],
+  "series_len": 1,
   "series_slug": "ligue-2"
 }

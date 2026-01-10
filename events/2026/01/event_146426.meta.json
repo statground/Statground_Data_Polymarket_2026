@@ -1,22 +1,22 @@
 {
   "entity": "event",
-  "event_id": "146426",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-06T05:00:40.889911Z",
   "event_createdAt": "2026-01-06T05:00:40.889911Z",
   "event_creationDate": "2026-01-06T05:20:19.108214Z",
-  "event_startDate": "2026-01-06T05:20:19.108217Z",
   "event_endDate": "2026-01-19T08:15:00Z",
-  "event_updatedAt": "2026-01-10T14:41:08.80626Z",
-  "markets_len": 3,
+  "event_id": "146426",
+  "event_startDate": "2026-01-06T05:20:19.108217Z",
+  "event_updatedAt": "2026-01-10T15:45:22.442942Z",
+  "folder_dt_utc": "2026-01-06T05:00:40.889911Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1119430",
     "1119431",
     "1119432"
   ],
-  "series_len": 1,
+  "markets_len": 3,
   "series_ids": [
     "10752"
   ],
+  "series_len": 1,
   "series_slug": "cricket-australia"
 }

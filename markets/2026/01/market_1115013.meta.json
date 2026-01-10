@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1115013",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T17:00:09.325035Z",
-  "market_createdAt": "2026-01-05T17:00:09.325035Z",
-  "market_updatedAt": "2026-01-06T14:39:54.996032Z",
-  "market_startDate": "2026-01-05T17:12:57.534409Z",
-  "market_endDate": "2026-01-12T17:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x4828d21c6c72dceb9bf7fba5bd0875abe349a59ba8599f0796c79fc66be843f7",
-  "slug": "will-the-price-of-solana-be-less-than-90-on-january-12",
-  "question": "Will the price of Solana be less than $90 on January 12?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T17:00:09.325035Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T17:00:09.325035Z",
+  "market_endDate": "2026-01-12T17:00:00Z",
+  "market_id": "1115013",
+  "market_startDate": "2026-01-05T17:12:57.534409Z",
+  "market_updatedAt": "2026-01-10T15:51:34.238121Z",
+  "question": "Will the price of Solana be less than $90 on January 12?",
+  "slug": "will-the-price-of-solana-be-less-than-90-on-january-12"
 }

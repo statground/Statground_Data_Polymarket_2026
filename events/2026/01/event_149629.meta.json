@@ -1,22 +1,22 @@
 {
   "entity": "event",
-  "event_id": "149629",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-07T18:30:04.678538Z",
   "event_createdAt": "2026-01-07T18:30:04.678538Z",
   "event_creationDate": "2026-01-07T18:33:45.165928Z",
-  "event_startDate": "2026-01-07T18:33:45.165933Z",
   "event_endDate": "2026-02-04T00:15:00Z",
-  "event_updatedAt": "2026-01-10T14:41:06.362935Z",
-  "markets_len": 3,
+  "event_id": "149629",
+  "event_startDate": "2026-01-07T18:33:45.165933Z",
+  "event_updatedAt": "2026-01-10T15:47:41.169369Z",
+  "folder_dt_utc": "2026-01-07T18:30:04.678538Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1130282",
     "1130283",
     "1130284"
   ],
-  "series_len": 1,
+  "markets_len": 3,
   "series_ids": [
     "10312"
   ],
+  "series_len": 1,
   "series_slug": "primera-divisin-argentina"
 }

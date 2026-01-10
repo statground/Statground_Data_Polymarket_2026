@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1150445",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-10T08:00:09.848619Z",
-  "market_createdAt": "2026-01-10T08:00:09.848619Z",
-  "market_updatedAt": "2026-01-10T14:46:32.510826Z",
-  "market_startDate": "2026-01-10T08:04:20.555072Z",
-  "market_endDate": "2026-01-11T03:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xecd717149bc566a41b0a922268a4fbb6af71e51ee872616eac4b0c2c3757875b",
-  "slug": "dota2-cat3-ggboom-2026-01-10-total-games-2pt5",
-  "question": "Games Total: O/U 2.5"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-10T08:00:09.848619Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-10T08:00:09.848619Z",
+  "market_endDate": "2026-01-11T03:00:00Z",
+  "market_id": "1150445",
+  "market_startDate": "2026-01-10T08:04:20.555072Z",
+  "market_updatedAt": "2026-01-10T15:51:28.842135Z",
+  "question": "Games Total: O/U 2.5",
+  "slug": "dota2-cat3-ggboom-2026-01-10-total-games-2pt5"
 }

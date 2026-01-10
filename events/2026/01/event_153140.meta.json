@@ -1,20 +1,20 @@
 {
   "entity": "event",
-  "event_id": "153140",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-09T13:00:07.123915Z",
   "event_createdAt": "2026-01-09T13:00:07.123915Z",
   "event_creationDate": "2026-01-12T14:30:00Z",
-  "event_startDate": "2026-01-09T13:03:21.362028Z",
   "event_endDate": "2026-01-12T21:00:00Z",
-  "event_updatedAt": "2026-01-10T14:41:06.739408Z",
-  "markets_len": 1,
+  "event_id": "153140",
+  "event_startDate": "2026-01-09T13:03:21.362028Z",
+  "event_updatedAt": "2026-01-10T15:47:42.248622Z",
+  "folder_dt_utc": "2026-01-09T13:00:07.123915Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1143174"
   ],
-  "series_len": 1,
+  "markets_len": 1,
   "series_ids": [
     "10375"
   ],
+  "series_len": 1,
   "series_slug": "tsla-daily-up-down"
 }

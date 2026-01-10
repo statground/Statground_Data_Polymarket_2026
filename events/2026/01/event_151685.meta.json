@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "151685",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-08T19:15:07.421556Z",
   "event_createdAt": "2026-01-08T19:15:07.421556Z",
   "event_creationDate": "2026-01-08T19:23:13.767683Z",
-  "event_startDate": "2026-01-08T19:23:13.767693Z",
   "event_endDate": "2026-01-21T20:00:00Z",
-  "event_updatedAt": "2026-01-10T14:41:05.170675Z",
-  "markets_len": 6,
+  "event_id": "151685",
+  "event_startDate": "2026-01-08T19:23:13.767693Z",
+  "event_updatedAt": "2026-01-10T15:47:40.820395Z",
+  "folder_dt_utc": "2026-01-08T19:15:07.421556Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1138371",
     "1138372",
@@ -17,9 +16,10 @@
     "1138375",
     "1138376"
   ],
-  "series_len": 1,
+  "markets_len": 6,
   "series_ids": [
     "10204"
   ],
+  "series_len": 1,
   "series_slug": "ucl-2025"
 }

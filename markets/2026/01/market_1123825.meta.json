@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1123825",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T18:30:17.103600Z",
-  "market_createdAt": "2026-01-06T18:30:17.1036Z",
-  "market_updatedAt": "2026-01-10T14:46:34.090244Z",
-  "market_startDate": "2026-01-06T18:57:19.815607Z",
-  "market_endDate": "2026-01-28T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x2e79eb2a33336865178116b22c23df2c557746391cb6e54c0855fc08ac759aaa",
-  "slug": "arg-rac-ros-2026-01-28-rac",
-  "question": "Will Racing Club win on 2026-01-28?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T18:30:17.103600Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T18:30:17.1036Z",
+  "market_endDate": "2026-01-28T21:00:00Z",
+  "market_id": "1123825",
+  "market_startDate": "2026-01-06T18:57:19.815607Z",
+  "market_updatedAt": "2026-01-10T15:53:13.440614Z",
+  "question": "Will Racing Club win on 2026-01-28?",
+  "slug": "arg-rac-ros-2026-01-28-rac"
 }

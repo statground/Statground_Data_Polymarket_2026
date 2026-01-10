@@ -1,22 +1,22 @@
 {
   "entity": "event",
-  "event_id": "144522",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-05T07:00:05.054836Z",
   "event_createdAt": "2026-01-05T07:00:05.054836Z",
   "event_creationDate": "2026-01-05T07:13:41.953081Z",
-  "event_startDate": "2026-01-05T07:13:41.953084Z",
   "event_endDate": "2026-01-18T15:15:00Z",
-  "event_updatedAt": "2026-01-10T14:41:06.935903Z",
-  "markets_len": 3,
+  "event_id": "144522",
+  "event_startDate": "2026-01-05T07:13:41.953084Z",
+  "event_updatedAt": "2026-01-10T15:47:41.755779Z",
+  "folder_dt_utc": "2026-01-05T07:00:05.054836Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1112496",
     "1112498",
     "1112500"
   ],
-  "series_len": 1,
+  "markets_len": 3,
   "series_ids": [
     "10193"
   ],
+  "series_len": 1,
   "series_slug": "la-liga-2025"
 }

@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1105472",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-04T16:30:05.282507Z",
-  "market_createdAt": "2026-01-04T16:30:05.282507Z",
-  "market_updatedAt": "2026-01-10T14:46:38.779291Z",
-  "market_startDate": "2026-01-04T16:31:18.355609Z",
-  "market_endDate": "2026-01-10T17:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x59e2bae13c86651ddb4ad84201d5fcb9b891d0786cc19ffa41ac9517abf81948",
-  "slug": "shl-oer-mal-2026-01-10",
-  "question": "SHL: Oerebro HK vs. Malmoe"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-04T16:30:05.282507Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-04T16:30:05.282507Z",
+  "market_endDate": "2026-01-10T17:00:00Z",
+  "market_id": "1105472",
+  "market_startDate": "2026-01-04T16:31:18.355609Z",
+  "market_updatedAt": "2026-01-10T15:51:32.191307Z",
+  "question": "SHL: Oerebro HK vs. Malmoe",
+  "slug": "shl-oer-mal-2026-01-10"
 }

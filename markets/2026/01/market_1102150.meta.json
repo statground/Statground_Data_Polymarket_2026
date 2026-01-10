@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1102150",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-04T05:00:13.429094Z",
-  "market_createdAt": "2026-01-04T05:00:13.429094Z",
-  "market_updatedAt": "2026-01-06T14:37:02.461282Z",
-  "market_startDate": "2026-01-04T05:29:11.210676Z",
-  "market_endDate": "2026-01-31T15:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xe5c4c76d97ed9de8e4e3205fb058667899d56bb38b1397c79ea54bbf696220a6",
-  "slug": "elc-bbr-hul-2026-01-31-draw",
-  "question": "Will Blackburn Rovers FC vs. Hull City AFC end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-04T05:00:13.429094Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-04T05:00:13.429094Z",
+  "market_endDate": "2026-01-31T15:00:00Z",
+  "market_id": "1102150",
+  "market_startDate": "2026-01-04T05:29:11.210676Z",
+  "market_updatedAt": "2026-01-10T15:51:33.171595Z",
+  "question": "Will Blackburn Rovers FC vs. Hull City AFC end in a draw?",
+  "slug": "elc-bbr-hul-2026-01-31-draw"
 }

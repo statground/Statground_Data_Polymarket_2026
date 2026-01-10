@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1114969",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T17:00:03.459578Z",
-  "market_createdAt": "2026-01-05T17:00:03.459578Z",
-  "market_updatedAt": "2026-01-06T14:45:18.016668Z",
-  "market_startDate": "2026-01-05T17:12:40.637917Z",
-  "market_endDate": "2026-01-12T17:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xcdcf9e760602fa04d4fba2603d5be9a60ed725359f189a1f2fcccba5628f1d81",
-  "slug": "will-the-price-of-bitcoin-be-between-94000-96000-on-january-12",
-  "question": "Will the price of Bitcoin be between $94,000 and $96,000 on January 12?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T17:00:03.459578Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T17:00:03.459578Z",
+  "market_endDate": "2026-01-12T17:00:00Z",
+  "market_id": "1114969",
+  "market_startDate": "2026-01-05T17:12:40.637917Z",
+  "market_updatedAt": "2026-01-10T15:51:36.317945Z",
+  "question": "Will the price of Bitcoin be between $94,000 and $96,000 on January 12?",
+  "slug": "will-the-price-of-bitcoin-be-between-94000-96000-on-january-12"
 }

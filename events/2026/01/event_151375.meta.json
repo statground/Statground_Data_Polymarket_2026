@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "151375",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2026-01-08T15:58:09.383484Z",
   "event_createdAt": "2026-01-08T15:58:09.383484Z",
   "event_creationDate": "2026-01-09T17:51:52.38874Z",
-  "event_startDate": "2026-01-09T17:51:52.38877Z",
   "event_endDate": "2026-01-16T00:00:00Z",
-  "event_updatedAt": "2026-01-10T14:41:09.721185Z",
-  "markets_len": 20,
+  "event_id": "151375",
+  "event_startDate": "2026-01-09T17:51:52.38877Z",
+  "event_updatedAt": "2026-01-10T15:45:23.086688Z",
+  "folder_dt_utc": "2026-01-08T15:58:09.383484Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1136761",
     "1136767",
@@ -31,9 +30,10 @@
     "1136778",
     "1136780"
   ],
-  "series_len": 1,
+  "markets_len": 20,
   "series_ids": [
     "10766"
   ],
+  "series_len": 1,
   "series_slug": "2-free-app"
 }

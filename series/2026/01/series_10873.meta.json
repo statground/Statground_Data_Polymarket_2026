@@ -1,15 +1,15 @@
 {
   "entity": "series",
-  "series_id": "10873",
-  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "folder_dt_utc": "2026-01-08T23:57:02.487941Z",
-  "series_createdAt": "2026-01-08T23:57:02.487941Z",
-  "series_publishedAt": null,
-  "series_updatedAt": "2026-01-10T14:43:15.329285Z",
-  "slug": "lnb",
-  "ticker": "lnb",
-  "title": "LNB",
-  "startDate": null,
+  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "recurrence": "daily",
-  "seriesType": "single"
+  "seriesType": "single",
+  "series_createdAt": "2026-01-08T23:57:02.487941Z",
+  "series_id": "10873",
+  "series_publishedAt": null,
+  "series_updatedAt": "2026-01-10T15:53:42.413733Z",
+  "slug": "lnb",
+  "startDate": null,
+  "ticker": "lnb",
+  "title": "LNB"
 }

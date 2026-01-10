@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1104761",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-04T15:00:13.249218Z",
-  "market_createdAt": "2026-01-04T15:00:13.249218Z",
-  "market_updatedAt": "2026-01-10T14:46:34.958362Z",
-  "market_startDate": "2026-01-04T15:03:08.085464Z",
-  "market_endDate": "2026-01-11T00:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x060f8adff46b30d3ba89accbbd6bdca82b0fe83879278742a88b4c6252630605",
-  "slug": "nba-mia-ind-2026-01-10",
-  "question": "Heat vs. Pacers"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-04T15:00:13.249218Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-04T15:00:13.249218Z",
+  "market_endDate": "2026-01-11T00:00:00Z",
+  "market_id": "1104761",
+  "market_startDate": "2026-01-04T15:03:08.085464Z",
+  "market_updatedAt": "2026-01-10T15:51:30.498943Z",
+  "question": "Heat vs. Pacers",
+  "slug": "nba-mia-ind-2026-01-10"
 }

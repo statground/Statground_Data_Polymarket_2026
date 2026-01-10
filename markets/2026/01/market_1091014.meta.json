@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1091014",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-02T23:00:11.293723Z",
-  "market_createdAt": "2026-01-02T23:00:11.293723Z",
-  "market_updatedAt": "2026-01-06T14:38:45.783759Z",
-  "market_startDate": "2026-01-02T23:24:49.490546Z",
-  "market_endDate": "2026-01-09T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x8e3396f7ce03ac8ab719250d67a87abe6f892ed59bb83a5658d5ceb274d6d818",
-  "slug": "will-nflx-close-between-110-and-120-week-january-9-2026",
-  "question": "Will Netflix (NFLX) close at $110-$120 on the final day of trading of the week of Jan 5 – Jan 9?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-02T23:00:11.293723Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-10 00:40:08+00",
+  "market_createdAt": "2026-01-02T23:00:11.293723Z",
+  "market_endDate": "2026-01-09T21:00:00Z",
+  "market_id": "1091014",
+  "market_startDate": "2026-01-02T23:24:49.490546Z",
+  "market_updatedAt": "2026-01-10T15:51:46.362619Z",
+  "question": "Will Netflix (NFLX) close at $110-$120 on the final day of trading of the week of Jan 5 – Jan 9?",
+  "slug": "will-nflx-close-between-110-and-120-week-january-9-2026"
 }
