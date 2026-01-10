@@ -1,0 +1,29 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-10T17:00:00.937911Z",
+  "event_creationDate": "2026-01-10T17:11:17.880371Z",
+  "event_endDate": "2026-01-17T17:00:00Z",
+  "event_id": "155587",
+  "event_startDate": "2026-01-10T17:11:17.880399Z",
+  "event_updatedAt": "2026-01-10T17:21:12.827929Z",
+  "folder_dt_utc": "2026-01-10T17:00:00.937911Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1153573",
+    "1153570",
+    "1153572",
+    "1153532",
+    "1153535",
+    "1153538",
+    "1153541",
+    "1153544",
+    "1153528",
+    "1153531"
+  ],
+  "markets_len": 10,
+  "series_ids": [
+    "42"
+  ],
+  "series_len": 1,
+  "series_slug": "ethereum-multi-strikes-weekly"
+}

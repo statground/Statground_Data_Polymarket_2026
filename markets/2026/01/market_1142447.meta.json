@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1142447",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-09T11:00:19.917231Z",
-  "market_createdAt": "2026-01-09T11:00:19.917231Z",
-  "market_updatedAt": "2026-01-10T14:46:28.50091Z",
-  "market_startDate": "2026-01-09T11:13:49.920093Z",
-  "market_endDate": "2026-01-11T12:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x2b04f00d315122ca69f49a1a0e9fdcb7ced4678e4f9678c409657ba71019758c",
-  "slug": "highest-temperature-in-seattle-on-january-11-52forhigher",
-  "question": "Will the highest temperature in Seattle be 52°F or higher on January 11?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-09T11:00:19.917231Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-09T11:00:19.917231Z",
+  "market_endDate": "2026-01-11T12:00:00Z",
+  "market_id": "1142447",
+  "market_startDate": "2026-01-09T11:13:49.920093Z",
+  "market_updatedAt": "2026-01-10T17:22:57.410407Z",
+  "question": "Will the highest temperature in Seattle be 52°F or higher on January 11?",
+  "slug": "highest-temperature-in-seattle-on-january-11-52forhigher"
 }

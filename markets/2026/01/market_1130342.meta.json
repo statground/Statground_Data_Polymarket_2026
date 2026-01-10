@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1130342",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-07T19:00:09.527261Z",
-  "market_createdAt": "2026-01-07T19:00:09.527261Z",
-  "market_updatedAt": "2026-01-10T14:44:53.490126Z",
-  "market_startDate": "2026-01-07T19:06:19.772262Z",
-  "market_endDate": "2026-01-20T20:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x43959922d5a158e4f746504d22ecb9182f77f9cc976f090898e4054817797e16",
-  "slug": "ucl-int-ars1-2026-01-20-ars1",
-  "question": "Will Arsenal FC win on 2026-01-20?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-07T19:00:09.527261Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-07T19:00:09.527261Z",
+  "market_endDate": "2026-01-20T20:00:00Z",
+  "market_id": "1130342",
+  "market_startDate": "2026-01-07T19:06:19.772262Z",
+  "market_updatedAt": "2026-01-10T17:22:44.537893Z",
+  "question": "Will Arsenal FC win on 2026-01-20?",
+  "slug": "ucl-int-ars1-2026-01-20-ars1"
 }

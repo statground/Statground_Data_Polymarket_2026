@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1105487",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-04T16:30:19.633910Z",
-  "market_createdAt": "2026-01-04T16:30:19.63391Z",
-  "market_updatedAt": "2026-01-06T14:38:49.274298Z",
-  "market_startDate": "2026-01-04T16:31:29.577381Z",
-  "market_endDate": "2026-01-31T22:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x189cafb43af7e1e6684ede47c5573031703c1de3f1888a535f28d399f3440a2a",
-  "slug": "nhl-car-wsh-2026-01-31",
-  "question": "Hurricanes vs. Capitals"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-04T16:30:19.633910Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-04T16:30:19.63391Z",
+  "market_endDate": "2026-01-31T22:00:00Z",
+  "market_id": "1105487",
+  "market_startDate": "2026-01-04T16:31:29.577381Z",
+  "market_updatedAt": "2026-01-10T17:22:33.621638Z",
+  "question": "Hurricanes vs. Capitals",
+  "slug": "nhl-car-wsh-2026-01-31"
 }

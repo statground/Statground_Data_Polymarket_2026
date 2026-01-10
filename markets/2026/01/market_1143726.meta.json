@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1143726",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-09T15:30:02.630929Z",
-  "market_createdAt": "2026-01-09T15:30:02.630929Z",
-  "market_updatedAt": "2026-01-10T14:44:54.891758Z",
-  "market_startDate": "2026-01-09T15:31:01.943705Z",
-  "market_endDate": "2026-01-10T17:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x45fec56c0a8c48c5f479d54718fe2d7c4986c8668a74a94695239754ba5430de",
-  "slug": "dota2-lynx-navi-2026-01-10-most-kill",
-  "question": "Series: Most kills?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-09T15:30:02.630929Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-09T15:30:02.630929Z",
+  "market_endDate": "2026-01-10T17:00:00Z",
+  "market_id": "1143726",
+  "market_startDate": "2026-01-09T15:31:01.943705Z",
+  "market_updatedAt": "2026-01-10T17:22:35.648748Z",
+  "question": "Series: Most kills?",
+  "slug": "dota2-lynx-navi-2026-01-10-most-kill"
 }

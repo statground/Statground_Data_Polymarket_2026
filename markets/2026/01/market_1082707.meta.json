@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1082707",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-01T19:06:01.018384Z",
-  "market_createdAt": "2026-01-01T19:06:01.018384Z",
-  "market_updatedAt": "2026-01-10T14:46:32.897896Z",
-  "market_startDate": "2026-01-02T20:42:44.791656Z",
-  "market_endDate": "2026-01-09T00:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x2474fea8345b414b9f1d9279b6a05b2dc0882d850c376a5efe885446576407da",
-  "slug": "will-trumps-approval-rating-be-less-than-41pt0-on-january-9-2026",
-  "question": "Will Trump's approval rating be less than 41.0 on January 9, 2026?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-01T19:06:01.018384Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-10 15:22:42+00",
+  "market_createdAt": "2026-01-01T19:06:01.018384Z",
+  "market_endDate": "2026-01-09T00:00:00Z",
+  "market_id": "1082707",
+  "market_startDate": "2026-01-02T20:42:44.791656Z",
+  "market_updatedAt": "2026-01-10T17:21:08.924868Z",
+  "question": "Will Trump's approval rating be less than 41.0 on January 9, 2026?",
+  "slug": "will-trumps-approval-rating-be-less-than-41pt0-on-january-9-2026"
 }

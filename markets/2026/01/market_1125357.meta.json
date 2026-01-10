@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1125357",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T22:32:27.260115Z",
-  "market_createdAt": "2026-01-06T22:32:27.260115Z",
-  "market_updatedAt": "2026-01-10T14:44:45.459016Z",
-  "market_startDate": "2026-01-07T02:37:22.755262Z",
-  "market_endDate": "2026-01-31T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xaef8cc72583c46308a4f61b93cce219831d4861af26c0ace983300183b5d6f77",
-  "slug": "spx-hit-6700-low-jan-2026-212",
-  "question": "Will S&P 500 (SPX) hit $6,700 (LOW) in January?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T22:32:27.260115Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T22:32:27.260115Z",
+  "market_endDate": "2026-01-31T21:00:00Z",
+  "market_id": "1125357",
+  "market_startDate": "2026-01-07T02:37:22.755262Z",
+  "market_updatedAt": "2026-01-10T17:22:55.089823Z",
+  "question": "Will S&P 500 (SPX) hit $6,700 (LOW) in January?",
+  "slug": "spx-hit-6700-low-jan-2026-212"
 }

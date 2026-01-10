@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1122764",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T16:59:34.579327Z",
-  "market_createdAt": "2026-01-06T16:59:34.579327Z",
-  "market_updatedAt": "2026-01-10T14:44:46.497953Z",
-  "market_startDate": "2026-01-06T19:31:45.528225Z",
-  "market_endDate": "2026-01-09T00:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xeed9890bad590e1531b4546386c8aca691ebd30b71d00cbadf7e2fc6f89b994b",
-  "slug": "will-the-total-number-of-tsa-passengers-for-january-9-be-greater-than-2200000",
-  "question": "Will the total number of TSA passengers for January 9 be greater than 2,200,000?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T16:59:34.579327Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T16:59:34.579327Z",
+  "market_endDate": "2026-01-09T00:00:00Z",
+  "market_id": "1122764",
+  "market_startDate": "2026-01-06T19:31:45.528225Z",
+  "market_updatedAt": "2026-01-10T17:22:56.006285Z",
+  "question": "Will the total number of TSA passengers for January 9 be greater than 2,200,000?",
+  "slug": "will-the-total-number-of-tsa-passengers-for-january-9-be-greater-than-2200000"
 }

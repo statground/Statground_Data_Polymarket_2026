@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1093323",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-03T05:00:32.815175Z",
-  "market_createdAt": "2026-01-03T05:00:32.815175Z",
-  "market_updatedAt": "2026-01-06T14:38:01.497337Z",
-  "market_startDate": "2026-01-03T05:14:09.054647Z",
-  "market_endDate": "2026-01-17T05:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x6febf32aead0fd410fa6f1350694b40d2c3d2e7a16c506842bde0059b910458b",
-  "slug": "craus-bri-syd2-2026-01-10",
-  "question": "Big Bash League: Brisbane Heat vs Sydney Thunder (Game 1)"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-03T05:00:32.815175Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-10 10:14:50+00",
+  "market_createdAt": "2026-01-03T05:00:32.815175Z",
+  "market_endDate": "2026-01-17T05:00:00Z",
+  "market_id": "1093323",
+  "market_startDate": "2026-01-03T05:14:09.054647Z",
+  "market_updatedAt": "2026-01-10T17:23:05.242686Z",
+  "question": "Big Bash League: Brisbane Heat vs Sydney Thunder (Game 1)",
+  "slug": "craus-bri-syd2-2026-01-10"
 }

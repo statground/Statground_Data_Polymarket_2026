@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1105993",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-04T17:45:01.453447Z",
-  "market_createdAt": "2026-01-04T17:45:01.453447Z",
-  "market_updatedAt": "2026-01-06T14:44:44.381029Z",
-  "market_startDate": "2026-01-04T17:48:17.012137Z",
-  "market_endDate": "2026-02-01T01:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x9c488599e8cdbf1587eddb2d15688f6d41a680f593dc31762ae3c6a7ce8d2638",
-  "slug": "mex-mon1-tij-2026-01-31-draw",
-  "question": "Will CF Monterrey vs. Club Tijuana end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-04T17:45:01.453447Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-04T17:45:01.453447Z",
+  "market_endDate": "2026-02-01T01:00:00Z",
+  "market_id": "1105993",
+  "market_startDate": "2026-01-04T17:48:17.012137Z",
+  "market_updatedAt": "2026-01-10T17:22:43.658129Z",
+  "question": "Will CF Monterrey vs. Club Tijuana end in a draw?",
+  "slug": "mex-mon1-tij-2026-01-31-draw"
 }

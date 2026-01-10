@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1130338",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-07T19:00:08.887521Z",
-  "market_createdAt": "2026-01-07T19:00:08.887521Z",
-  "market_updatedAt": "2026-01-10T14:44:49.931473Z",
-  "market_startDate": "2026-01-07T19:06:11.691165Z",
-  "market_endDate": "2026-01-20T20:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x5d215dd622967475f9490cf2b2b2daf9850641b54dffbe99e45c6911d88e3938",
-  "slug": "ucl-rma-asm1-2026-01-20-draw",
-  "question": "Will Real Madrid CF vs. AS Monaco FC end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-07T19:00:08.887521Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-07T19:00:08.887521Z",
+  "market_endDate": "2026-01-20T20:00:00Z",
+  "market_id": "1130338",
+  "market_startDate": "2026-01-07T19:06:11.691165Z",
+  "market_updatedAt": "2026-01-10T17:22:41.008317Z",
+  "question": "Will Real Madrid CF vs. AS Monaco FC end in a draw?",
+  "slug": "ucl-rma-asm1-2026-01-20-draw"
 }

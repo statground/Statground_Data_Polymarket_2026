@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1080095",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-01T10:00:01.719413Z",
-  "market_createdAt": "2026-01-01T10:00:01.719413Z",
-  "market_updatedAt": "2026-01-10T14:46:36.224306Z",
-  "market_startDate": "2026-01-01T10:02:13.70562Z",
-  "market_endDate": "2026-01-14T19:45:00Z",
-  "market_closedTime": null,
   "conditionId": "0xc77bd0edcd33c97a6ad8a6a3d0ef6f6e1d1a03e9dc12142a8352502451a2758d",
-  "slug": "scop-fal-cel-2026-01-14-draw",
-  "question": "Will Falkirk FC vs. Celtic FC end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-01T10:00:01.719413Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-01T10:00:01.719413Z",
+  "market_endDate": "2026-01-14T19:45:00Z",
+  "market_id": "1080095",
+  "market_startDate": "2026-01-01T10:02:13.70562Z",
+  "market_updatedAt": "2026-01-10T17:22:57.411691Z",
+  "question": "Will Falkirk FC vs. Celtic FC end in a draw?",
+  "slug": "scop-fal-cel-2026-01-14-draw"
 }

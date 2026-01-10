@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1148431",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-10T03:16:51.290589Z",
-  "market_createdAt": "2026-01-10T03:16:51.290589Z",
-  "market_updatedAt": "2026-01-10T14:44:55.771426Z",
-  "market_startDate": "2026-01-10T03:17:15.759848Z",
-  "market_endDate": "2026-01-11T03:30:00Z",
-  "market_closedTime": null,
   "conditionId": "0xdc2c2c12d1a149ff1917f97bc8c7343bf13861e8fa3b5805e5af6b769b97bd59",
-  "slug": "btc-updown-15m-1768101300",
-  "question": "Bitcoin Up or Down - January 10, 10:15PM-10:30PM ET"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-10T03:16:51.290589Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-10T03:16:51.290589Z",
+  "market_endDate": "2026-01-11T03:30:00Z",
+  "market_id": "1148431",
+  "market_startDate": "2026-01-10T03:17:15.759848Z",
+  "market_updatedAt": "2026-01-10T17:22:54.735364Z",
+  "question": "Bitcoin Up or Down - January 10, 10:15PM-10:30PM ET",
+  "slug": "btc-updown-15m-1768101300"
 }

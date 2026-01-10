@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1113910",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T13:44:56.415727Z",
-  "market_createdAt": "2026-01-05T13:44:56.415727Z",
-  "market_updatedAt": "2026-01-06T14:45:07.875408Z",
-  "market_startDate": "2026-01-05T13:46:23.56783Z",
-  "market_endDate": "2027-01-01T05:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xe1969336d8e12324b9a396aa974b1ecbfd9cdb0f25c1e264ed90d51cb29b4a78",
-  "slug": "over-7m-committed-to-the-infinex-public-sale",
-  "question": "Over $7M committed to the Infinex public sale?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T13:44:56.415727Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-10 08:23:30+00",
+  "market_createdAt": "2026-01-05T13:44:56.415727Z",
+  "market_endDate": "2027-01-01T05:00:00Z",
+  "market_id": "1113910",
+  "market_startDate": "2026-01-05T13:46:23.56783Z",
+  "market_updatedAt": "2026-01-10T17:23:05.224648Z",
+  "question": "Over $7M committed to the Infinex public sale?",
+  "slug": "over-7m-committed-to-the-infinex-public-sale"
 }

@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1129633",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-07T17:00:12.254372Z",
-  "market_createdAt": "2026-01-07T17:00:12.254372Z",
-  "market_updatedAt": "2026-01-10T14:44:45.338454Z",
-  "market_startDate": "2026-01-07T17:10:57.38405Z",
-  "market_endDate": "2026-01-14T17:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x5c4d551e5f80079df8246c7b1d40142e45529ffb021bc4623996db5c21cde1b9",
-  "slug": "will-the-price-of-solana-be-greater-than-180-on-january-14",
-  "question": "Will the price of Solana be greater than $180 on January 14?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-07T17:00:12.254372Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-07T17:00:12.254372Z",
+  "market_endDate": "2026-01-14T17:00:00Z",
+  "market_id": "1129633",
+  "market_startDate": "2026-01-07T17:10:57.38405Z",
+  "market_updatedAt": "2026-01-10T17:22:55.04948Z",
+  "question": "Will the price of Solana be greater than $180 on January 14?",
+  "slug": "will-the-price-of-solana-be-greater-than-180-on-january-14"
 }
