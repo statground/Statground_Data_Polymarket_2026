@@ -1,0 +1,23 @@
+{
+  "entity": "event",
+  "event_id": "147190",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-06T16:01:51.646754Z",
+  "event_createdAt": "2026-01-06T16:01:51.646754Z",
+  "event_creationDate": "2026-01-06T19:06:12.74809Z",
+  "event_startDate": "2026-01-06T19:06:12.748095Z",
+  "event_endDate": "2026-01-12T12:00:00Z",
+  "event_updatedAt": "2026-01-10T14:41:08.900464Z",
+  "markets_len": 4,
+  "market_ids": [
+    "1122255",
+    "1122253",
+    "1122256",
+    "1122254"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "46"
+  ],
+  "series_slug": "box-office-openings"
+}

@@ -1,0 +1,23 @@
+{
+  "entity": "event",
+  "event_id": "149711",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-07T19:16:59.703126Z",
+  "event_createdAt": "2026-01-07T19:16:59.703126Z",
+  "event_creationDate": "2026-01-07T21:09:07.48335Z",
+  "event_startDate": "2026-01-07T21:09:07.483355Z",
+  "event_endDate": "2026-01-31T00:00:00Z",
+  "event_updatedAt": "2026-01-10T14:41:07.809638Z",
+  "markets_len": 4,
+  "market_ids": [
+    "1130444",
+    "1130446",
+    "1130445",
+    "1130447"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10867"
+  ],
+  "series_slug": "release-any-more-epstein-related-files"
+}

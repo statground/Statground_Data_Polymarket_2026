@@ -1,0 +1,26 @@
+{
+  "entity": "event",
+  "event_id": "148947",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-07T11:00:01.935917Z",
+  "event_createdAt": "2026-01-07T11:00:01.935917Z",
+  "event_creationDate": "2026-01-07T11:13:44.314494Z",
+  "event_startDate": "2026-01-07T11:13:44.314501Z",
+  "event_endDate": "2026-01-09T12:00:00Z",
+  "event_updatedAt": "2026-01-10T08:21:25.142976Z",
+  "markets_len": 7,
+  "market_ids": [
+    "1128302",
+    "1128303",
+    "1128309",
+    "1128310",
+    "1128311",
+    "1128305",
+    "1128308"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10006"
+  ],
+  "series_slug": "london-daily-weather"
+}

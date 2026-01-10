@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_id": "149457",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-07T16:31:13.653250Z",
+  "event_createdAt": "2026-01-07T16:31:13.65325Z",
+  "event_creationDate": "2026-01-07T16:35:57.747103Z",
+  "event_startDate": "2026-01-07T16:35:57.74711Z",
+  "event_endDate": "2026-01-07T19:00:00Z",
+  "event_updatedAt": "2026-01-08T00:08:10.627424Z",
+  "markets_len": 3,
+  "market_ids": [
+    "1129501",
+    "1129500",
+    "1129502"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10863"
+  ],
+  "series_slug": "spanish-super-cup"
+}

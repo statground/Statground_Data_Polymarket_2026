@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_id": "147882",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-06T20:55:40.256253Z",
+  "event_createdAt": "2026-01-06T20:55:40.256253Z",
+  "event_creationDate": "2026-01-07T23:01:06.876602Z",
+  "event_startDate": "2026-01-07T23:01:06.876605Z",
+  "event_endDate": "2026-01-13T00:00:00Z",
+  "event_updatedAt": "2026-01-10T14:41:09.540351Z",
+  "markets_len": 1,
+  "market_ids": [
+    "1124802"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10328"
+  ],
+  "series_slug": "nfl-scorigami"
+}

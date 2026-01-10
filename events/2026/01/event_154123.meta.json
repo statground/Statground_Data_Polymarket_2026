@@ -1,0 +1,32 @@
+{
+  "entity": "event",
+  "event_id": "154123",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-09T23:00:06.022965Z",
+  "event_createdAt": "2026-01-09T23:00:06.022965Z",
+  "event_creationDate": "2026-01-09T23:00:06.011Z",
+  "event_startDate": "2026-01-09T23:00:06.011Z",
+  "event_endDate": "2026-01-16T21:00:00Z",
+  "event_updatedAt": "2026-01-10T14:41:09.011305Z",
+  "markets_len": 13,
+  "market_ids": [
+    "1146515",
+    "1146508",
+    "1146510",
+    "1146511",
+    "1146512",
+    "1146513",
+    "1146514",
+    "1146502",
+    "1146503",
+    "1146504",
+    "1146505",
+    "1146506",
+    "1146507"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10494"
+  ],
+  "series_slug": "microsoft-multi-strikes-weekly"
+}

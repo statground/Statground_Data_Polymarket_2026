@@ -1,0 +1,30 @@
+{
+  "entity": "event",
+  "event_id": "154132",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-09T23:00:10.300041Z",
+  "event_createdAt": "2026-01-09T23:00:10.300041Z",
+  "event_creationDate": "2026-01-09T23:25:02.386235Z",
+  "event_startDate": "2026-01-09T23:25:02.38625Z",
+  "event_endDate": "2026-01-16T21:00:00Z",
+  "event_updatedAt": "2026-01-10T14:41:08.654579Z",
+  "markets_len": 11,
+  "market_ids": [
+    "1146576",
+    "1146577",
+    "1146578",
+    "1146579",
+    "1146581",
+    "1146583",
+    "1146585",
+    "1146587",
+    "1146589",
+    "1146590",
+    "1146592"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10637"
+  ],
+  "series_slug": "tsla-neg-risk-weekly"
+}

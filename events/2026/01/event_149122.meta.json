@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_id": "149122",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-07T13:00:08.363580Z",
+  "event_createdAt": "2026-01-07T13:00:08.36358Z",
+  "event_creationDate": "2026-01-08T14:30:00Z",
+  "event_startDate": "2026-01-07T13:03:49.050292Z",
+  "event_endDate": "2026-01-08T21:00:00Z",
+  "event_updatedAt": "2026-01-10T00:21:19.258529Z",
+  "markets_len": 1,
+  "market_ids": [
+    "1128763"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10385"
+  ],
+  "series_slug": "ftse-100-daily-up-or-down"
+}

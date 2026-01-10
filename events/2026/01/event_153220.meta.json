@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_id": "153220",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-09T14:00:04.026055Z",
+  "event_createdAt": "2026-01-09T14:00:04.026055Z",
+  "event_creationDate": "2026-01-09T14:02:55.418907Z",
+  "event_startDate": "2026-01-09T14:02:55.418911Z",
+  "event_endDate": "2026-01-11T15:00:00Z",
+  "event_updatedAt": "2026-01-10T14:41:09.7117Z",
+  "markets_len": 1,
+  "market_ids": [
+    "1143300"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10122"
+  ],
+  "series_slug": "solana-up-or-down-hourly"
+}

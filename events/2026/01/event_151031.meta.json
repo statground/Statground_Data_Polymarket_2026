@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_id": "151031",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-08T13:00:09.067905Z",
+  "event_createdAt": "2026-01-08T13:00:09.067905Z",
+  "event_creationDate": "2026-01-09T14:30:00Z",
+  "event_startDate": "2026-01-08T13:03:24.888628Z",
+  "event_endDate": "2026-01-09T21:00:00Z",
+  "event_updatedAt": "2026-01-10T14:39:03.025375Z",
+  "markets_len": 1,
+  "market_ids": [
+    "1135907"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10386"
+  ],
+  "series_slug": "dax-daily-up-or-down"
+}

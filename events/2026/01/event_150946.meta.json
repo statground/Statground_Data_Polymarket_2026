@@ -1,0 +1,25 @@
+{
+  "entity": "event",
+  "event_id": "150946",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-08T12:00:06.899074Z",
+  "event_createdAt": "2026-01-08T12:00:06.899074Z",
+  "event_creationDate": "2026-01-08T12:03:06.132074Z",
+  "event_startDate": "2026-01-08T12:03:06.132078Z",
+  "event_endDate": "2026-01-21T19:45:00Z",
+  "event_updatedAt": "2026-01-10T14:39:02.70051Z",
+  "markets_len": 6,
+  "market_ids": [
+    "1135607",
+    "1135608",
+    "1135609",
+    "1135610",
+    "1135611",
+    "1135613"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10355"
+  ],
+  "series_slug": "efl-championship"
+}

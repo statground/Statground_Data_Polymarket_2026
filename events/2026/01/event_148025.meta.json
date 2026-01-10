@@ -1,0 +1,25 @@
+{
+  "entity": "event",
+  "event_id": "148025",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-06T22:34:03.450557Z",
+  "event_createdAt": "2026-01-06T22:34:03.450557Z",
+  "event_creationDate": "2026-01-07T02:41:48.680238Z",
+  "event_startDate": "2026-01-07T02:41:48.680242Z",
+  "event_endDate": "2026-12-31T21:00:00Z",
+  "event_updatedAt": "2026-01-10T14:41:09.608329Z",
+  "markets_len": 6,
+  "market_ids": [
+    "1125482",
+    "1125484",
+    "1125486",
+    "1125483",
+    "1125485",
+    "1125487"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10858"
+  ],
+  "series_slug": "nasdaq-100-monthly-ou"
+}

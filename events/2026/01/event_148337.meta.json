@@ -1,0 +1,26 @@
+{
+  "entity": "event",
+  "event_id": "148337",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-07T02:27:53.542577Z",
+  "event_createdAt": "2026-01-07T02:27:53.542577Z",
+  "event_creationDate": "2026-01-07T02:34:26.293754Z",
+  "event_startDate": "2026-01-07T02:34:26.293759Z",
+  "event_endDate": "2026-01-31T00:00:00Z",
+  "event_updatedAt": "2026-01-10T14:41:05.835467Z",
+  "markets_len": 7,
+  "market_ids": [
+    "1126678",
+    "1126679",
+    "1126680",
+    "1126682",
+    "1126683",
+    "1126681",
+    "1126684"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10856"
+  ],
+  "series_slug": "sp-500-monthly-close-negrisk"
+}

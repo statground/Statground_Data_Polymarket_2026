@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_id": "151026",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-08T13:00:06.284561Z",
+  "event_createdAt": "2026-01-08T13:00:06.284561Z",
+  "event_creationDate": "2026-01-09T14:30:00Z",
+  "event_startDate": "2026-01-08T13:01:20.797743Z",
+  "event_endDate": "2026-01-09T21:00:00Z",
+  "event_updatedAt": "2026-01-10T14:39:03.008097Z",
+  "markets_len": 1,
+  "market_ids": [
+    "1135902"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10384"
+  ],
+  "series_slug": "dow-jones-daily-up-or-down"
+}

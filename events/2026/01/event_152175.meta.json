@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_id": "152175",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-09T01:27:12.484908Z",
+  "event_createdAt": "2026-01-09T01:27:12.484908Z",
+  "event_creationDate": "2026-01-10T18:00:00Z",
+  "event_startDate": "2026-01-09T01:29:08.912203Z",
+  "event_endDate": "2026-01-17T18:00:00Z",
+  "event_updatedAt": "2026-01-10T14:41:05.879929Z",
+  "markets_len": 1,
+  "market_ids": [
+    "1140904"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10878"
+  ],
+  "series_slug": "liga-endesa"
+}

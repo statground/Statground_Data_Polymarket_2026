@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_id": "151027",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-08T13:00:06.287941Z",
+  "event_createdAt": "2026-01-08T13:00:06.287941Z",
+  "event_creationDate": "2026-01-09T14:30:00Z",
+  "event_startDate": "2026-01-08T13:01:20.795735Z",
+  "event_endDate": "2026-01-09T21:00:00Z",
+  "event_updatedAt": "2026-01-10T08:32:44.276118Z",
+  "markets_len": 1,
+  "market_ids": [
+    "1135903"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10460"
+  ],
+  "series_slug": "nymex-crude-oil-futures-wti-daily-up-or-down"
+}
