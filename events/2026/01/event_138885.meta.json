@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_id": "138885",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-02T15:00:45.803585Z",
+  "event_createdAt": "2026-01-02T15:00:45.803585Z",
+  "event_creationDate": "2026-01-09T01:00:00Z",
+  "event_startDate": "2026-01-02T15:06:23.485179Z",
+  "event_endDate": "2026-01-09T01:00:00Z",
+  "event_updatedAt": "2026-01-06T13:28:20.591279Z",
+  "markets_len": 1,
+  "market_ids": [
+    "1087215"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10470"
+  ],
+  "series_slug": "ncaa-cbb"
+}

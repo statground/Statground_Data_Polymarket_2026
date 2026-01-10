@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_id": "145879",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-05T21:52:30.909328Z",
+  "event_createdAt": "2026-01-05T21:52:30.909328Z",
+  "event_creationDate": "2026-01-05T22:08:11.702568Z",
+  "event_startDate": "2026-01-05T22:08:11.702572Z",
+  "event_endDate": "2026-01-31T15:35:00Z",
+  "event_updatedAt": "2026-01-06T13:28:21.715446Z",
+  "markets_len": 3,
+  "market_ids": [
+    "1116618",
+    "1116616",
+    "1116617"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10841"
+  ],
+  "series_slug": "rugby-top-14"
+}

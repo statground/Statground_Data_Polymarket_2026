@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_id": "141667",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-03T23:36:49.190330Z",
+  "event_createdAt": "2026-01-03T23:36:49.19033Z",
+  "event_creationDate": "2026-01-03T23:39:58.149897Z",
+  "event_startDate": "2026-01-03T23:39:58.149901Z",
+  "event_endDate": "2026-01-04T23:35:00Z",
+  "event_updatedAt": "2026-01-04T23:40:48.503472Z",
+  "markets_len": 1,
+  "market_ids": [
+    "1100655"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10684"
+  ],
+  "series_slug": "btc-up-or-down-5m"
+}

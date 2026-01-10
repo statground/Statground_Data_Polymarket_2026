@@ -1,0 +1,30 @@
+{
+  "entity": "event",
+  "event_id": "136874",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-01T14:48:34.424914Z",
+  "event_createdAt": "2026-01-01T14:48:34.424914Z",
+  "event_creationDate": "2026-01-01T15:03:23.06251Z",
+  "event_startDate": "2026-01-01T15:03:23.062515Z",
+  "event_endDate": "2026-02-01T05:00:00Z",
+  "event_updatedAt": "2026-01-06T13:28:01.139708Z",
+  "markets_len": 11,
+  "market_ids": [
+    "1081373",
+    "1081374",
+    "1081375",
+    "1081376",
+    "1081377",
+    "1081378",
+    "1081379",
+    "1081380",
+    "1081381",
+    "1081382",
+    "1081383"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10082"
+  ],
+  "series_slug": "hyperliquid-hit-price-monthly"
+}

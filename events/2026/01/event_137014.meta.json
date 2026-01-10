@@ -1,0 +1,29 @@
+{
+  "entity": "event",
+  "event_id": "137014",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-01T15:08:29.152151Z",
+  "event_createdAt": "2026-01-01T15:08:29.152151Z",
+  "event_creationDate": "2026-01-01T15:13:17.048746Z",
+  "event_startDate": "2026-01-01T15:13:17.048751Z",
+  "event_endDate": "2026-02-01T05:00:00Z",
+  "event_updatedAt": "2026-01-06T13:28:28.743524Z",
+  "markets_len": 10,
+  "market_ids": [
+    "1081548",
+    "1081549",
+    "1081542",
+    "1081543",
+    "1081544",
+    "1081545",
+    "1081546",
+    "1081547",
+    "1081550",
+    "1081551"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10696"
+  ],
+  "series_slug": "chainlink-hit-price-monthly"
+}

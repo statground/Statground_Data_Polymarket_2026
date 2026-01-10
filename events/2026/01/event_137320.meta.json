@@ -1,0 +1,25 @@
+{
+  "entity": "event",
+  "event_id": "137320",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-01T19:05:59.661370Z",
+  "event_createdAt": "2026-01-01T19:05:59.66137Z",
+  "event_creationDate": "2026-01-02T20:46:01.014778Z",
+  "event_startDate": "2026-01-02T20:46:01.014783Z",
+  "event_endDate": "2026-01-09T00:00:00Z",
+  "event_updatedAt": "2026-01-06T13:28:23.359004Z",
+  "markets_len": 6,
+  "market_ids": [
+    "1082708",
+    "1082710",
+    "1082712",
+    "1082707",
+    "1082709",
+    "1082711"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10040"
+  ],
+  "series_slug": "trump-538-approval"
+}

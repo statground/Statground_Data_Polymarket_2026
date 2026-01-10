@@ -1,0 +1,23 @@
+{
+  "entity": "event",
+  "event_id": "142259",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-04T07:00:03.124280Z",
+  "event_createdAt": "2026-01-04T07:00:03.12428Z",
+  "event_creationDate": "2026-01-04T07:05:33.942848Z",
+  "event_startDate": "2026-01-04T07:05:33.942853Z",
+  "event_endDate": "2026-01-05T08:00:00Z",
+  "event_updatedAt": "2026-01-06T13:28:29.710013Z",
+  "markets_len": 4,
+  "market_ids": [
+    "1102801",
+    "1102803",
+    "1102804",
+    "1102805"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10309"
+  ],
+  "series_slug": "dota-2"
+}

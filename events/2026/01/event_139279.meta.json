@@ -1,0 +1,27 @@
+{
+  "entity": "event",
+  "event_id": "139279",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-02T18:27:50.241776Z",
+  "event_createdAt": "2026-01-02T18:27:50.241776Z",
+  "event_creationDate": "2026-01-02T20:40:16.847959Z",
+  "event_startDate": "2026-01-02T20:40:16.847964Z",
+  "event_endDate": "2026-03-31T00:00:00Z",
+  "event_updatedAt": "2026-01-06T13:28:00.144983Z",
+  "markets_len": 8,
+  "market_ids": [
+    "1089018",
+    "1089012",
+    "1089014",
+    "1089017",
+    "1089011",
+    "1089013",
+    "1089015",
+    "1089016"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10413"
+  ],
+  "series_slug": "tesla-deliveries"
+}

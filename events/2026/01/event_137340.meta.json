@@ -1,0 +1,38 @@
+{
+  "entity": "event",
+  "event_id": "137340",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-01T19:17:38.291648Z",
+  "event_createdAt": "2026-01-01T19:17:38.291648Z",
+  "event_creationDate": "2026-01-01T19:46:27.146546Z",
+  "event_startDate": "2026-01-01T19:46:27.146554Z",
+  "event_endDate": "2026-02-01T05:00:00Z",
+  "event_updatedAt": "2026-01-06T13:28:02.001142Z",
+  "markets_len": 19,
+  "market_ids": [
+    "1082747",
+    "1082779",
+    "1082751",
+    "1082810",
+    "1082775",
+    "1082783",
+    "1082787",
+    "1082791",
+    "1082794",
+    "1082798",
+    "1082802",
+    "1082822",
+    "1082806",
+    "1082814",
+    "1082818",
+    "1082826",
+    "1082830",
+    "1082833",
+    "1082834"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10032"
+  ],
+  "series_slug": "solana-hit-price-monthly"
+}

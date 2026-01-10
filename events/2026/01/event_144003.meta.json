@@ -1,0 +1,24 @@
+{
+  "entity": "event",
+  "event_id": "144003",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-05T00:39:08.353583Z",
+  "event_createdAt": "2026-01-05T00:39:08.353583Z",
+  "event_creationDate": "2026-01-09T00:30:00Z",
+  "event_startDate": "2026-01-05T01:14:02.805427Z",
+  "event_endDate": "2026-01-09T00:30:00Z",
+  "event_updatedAt": "2026-01-06T13:28:02.15762Z",
+  "markets_len": 5,
+  "market_ids": [
+    "1110848",
+    "1110850",
+    "1111052",
+    "1118866",
+    "1110849"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10210"
+  ],
+  "series_slug": "cfb-2025"
+}

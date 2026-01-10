@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_id": "141083",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-03T16:30:03.057275Z",
+  "event_createdAt": "2026-01-03T16:30:03.057275Z",
+  "event_creationDate": "2026-01-09T17:00:00Z",
+  "event_startDate": "2026-01-03T16:33:20.654116Z",
+  "event_endDate": "2026-01-09T17:00:00Z",
+  "event_updatedAt": "2026-01-06T13:28:25.040073Z",
+  "markets_len": 1,
+  "market_ids": [
+    "1097738"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10702"
+  ],
+  "series_slug": "cehl-2026"
+}

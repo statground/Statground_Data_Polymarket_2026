@@ -1,0 +1,39 @@
+{
+  "entity": "event",
+  "event_id": "137338",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-01T19:17:38.281223Z",
+  "event_createdAt": "2026-01-01T19:17:38.281223Z",
+  "event_creationDate": "2026-01-01T19:27:03.457075Z",
+  "event_startDate": "2026-01-01T19:27:03.457105Z",
+  "event_endDate": "2026-02-01T05:00:00Z",
+  "event_updatedAt": "2026-01-06T13:28:26.846738Z",
+  "markets_len": 20,
+  "market_ids": [
+    "1082748",
+    "1082821",
+    "1082753",
+    "1082757",
+    "1082763",
+    "1082768",
+    "1082777",
+    "1082781",
+    "1082772",
+    "1082817",
+    "1082785",
+    "1082829",
+    "1082789",
+    "1082793",
+    "1082796",
+    "1082809",
+    "1082801",
+    "1082805",
+    "1082813",
+    "1082825"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10016"
+  ],
+  "series_slug": "bitcoin-hit-price-monthly"
+}

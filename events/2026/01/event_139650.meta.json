@@ -1,0 +1,32 @@
+{
+  "entity": "event",
+  "event_id": "139650",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-02T23:00:13.470524Z",
+  "event_createdAt": "2026-01-02T23:00:13.470524Z",
+  "event_creationDate": "2026-01-02T23:00:13.467Z",
+  "event_startDate": "2026-01-02T23:00:13.467Z",
+  "event_endDate": "2026-01-09T21:00:00Z",
+  "event_updatedAt": "2026-01-06T13:28:23.782235Z",
+  "markets_len": 13,
+  "market_ids": [
+    "1091071",
+    "1091072",
+    "1091073",
+    "1091074",
+    "1091075",
+    "1091076",
+    "1091077",
+    "1091078",
+    "1091079",
+    "1091080",
+    "1091081",
+    "1091082",
+    "1091083"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10502"
+  ],
+  "series_slug": "opendoor-multi-strikes-weekly"
+}

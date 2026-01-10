@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_id": "145870",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-05T21:51:55.448068Z",
+  "event_createdAt": "2026-01-05T21:51:55.448068Z",
+  "event_creationDate": "2026-01-05T21:59:59.359049Z",
+  "event_startDate": "2026-01-05T21:59:59.359052Z",
+  "event_endDate": "2026-01-31T15:00:00Z",
+  "event_updatedAt": "2026-01-06T13:28:27.792574Z",
+  "markets_len": 3,
+  "market_ids": [
+    "1116589",
+    "1116590",
+    "1116591"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10840"
+  ],
+  "series_slug": "rugby-premiership"
+}

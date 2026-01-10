@@ -1,0 +1,30 @@
+{
+  "entity": "event",
+  "event_id": "143411",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-04T17:00:09.133217Z",
+  "event_createdAt": "2026-01-04T17:00:09.133217Z",
+  "event_creationDate": "2026-01-04T17:09:36.38764Z",
+  "event_startDate": "2026-01-04T17:09:36.387645Z",
+  "event_endDate": "2026-01-11T17:00:00Z",
+  "event_updatedAt": "2026-01-06T13:28:10.44763Z",
+  "markets_len": 11,
+  "market_ids": [
+    "1105633",
+    "1105634",
+    "1105635",
+    "1105636",
+    "1105637",
+    "1105638",
+    "1105640",
+    "1105642",
+    "1105644",
+    "1105645",
+    "1105647"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10024"
+  ],
+  "series_slug": "xrp-multi-strikes-weekly"
+}

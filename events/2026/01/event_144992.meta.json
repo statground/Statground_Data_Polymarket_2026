@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_id": "144992",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-05T13:00:02.663575Z",
+  "event_createdAt": "2026-01-05T13:00:02.663575Z",
+  "event_creationDate": "2026-01-07T14:00:00Z",
+  "event_startDate": "2026-01-05T13:02:25.090917Z",
+  "event_endDate": "2026-01-07T23:00:00Z",
+  "event_updatedAt": "2026-01-06T13:28:01.187382Z",
+  "markets_len": 1,
+  "market_ids": [
+    "1113756"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10412"
+  ],
+  "series_slug": "ethereum-etf-flows-daily"
+}

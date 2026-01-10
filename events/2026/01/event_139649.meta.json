@@ -1,0 +1,32 @@
+{
+  "entity": "event",
+  "event_id": "139649",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-02T23:00:12.611296Z",
+  "event_createdAt": "2026-01-02T23:00:12.611296Z",
+  "event_creationDate": "2026-01-02T23:00:12.608Z",
+  "event_startDate": "2026-01-02T23:00:12.608Z",
+  "event_endDate": "2026-01-09T21:00:00Z",
+  "event_updatedAt": "2026-01-06T13:28:11.034285Z",
+  "markets_len": 13,
+  "market_ids": [
+    "1091058",
+    "1091059",
+    "1091060",
+    "1091061",
+    "1091062",
+    "1091063",
+    "1091064",
+    "1091065",
+    "1091066",
+    "1091067",
+    "1091068",
+    "1091069",
+    "1091070"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10501"
+  ],
+  "series_slug": "palantir-multi-strikes-weekly"
+}

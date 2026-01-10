@@ -1,0 +1,32 @@
+{
+  "entity": "event",
+  "event_id": "139638",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-02T23:00:06.486688Z",
+  "event_createdAt": "2026-01-02T23:00:06.486688Z",
+  "event_creationDate": "2026-01-02T23:00:06.483Z",
+  "event_startDate": "2026-01-02T23:00:06.483Z",
+  "event_endDate": "2026-01-09T21:00:00Z",
+  "event_updatedAt": "2026-01-06T13:28:12.603253Z",
+  "markets_len": 13,
+  "market_ids": [
+    "1090925",
+    "1090927",
+    "1090929",
+    "1090930",
+    "1090931",
+    "1090932",
+    "1090933",
+    "1090934",
+    "1090935",
+    "1090936",
+    "1090937",
+    "1090938",
+    "1090939"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10496"
+  ],
+  "series_slug": "google-multi-strikes-weekly"
+}

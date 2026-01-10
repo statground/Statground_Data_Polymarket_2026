@@ -1,0 +1,28 @@
+{
+  "entity": "event",
+  "event_id": "145393",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-05T16:28:08.792713Z",
+  "event_createdAt": "2026-01-05T16:28:08.792713Z",
+  "event_creationDate": "2026-01-05T16:36:30.072672Z",
+  "event_startDate": "2026-01-05T16:36:30.072676Z",
+  "event_endDate": "2026-01-25T04:59:59.999Z",
+  "event_updatedAt": "2026-01-06T13:28:07.901955Z",
+  "markets_len": 9,
+  "market_ids": [
+    "1114844",
+    "1114850",
+    "1114847",
+    "1114848",
+    "1114852",
+    "1114845",
+    "1114846",
+    "1114849",
+    "1114851"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "38"
+  ],
+  "series_slug": "ufc"
+}

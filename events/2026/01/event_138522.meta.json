@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_id": "138522",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-02T11:41:47.309810Z",
+  "event_createdAt": "2026-01-02T11:41:47.30981Z",
+  "event_creationDate": "2026-01-02T11:42:46.700576Z",
+  "event_startDate": "2026-01-02T11:42:46.70058Z",
+  "event_endDate": "2026-01-03T11:40:00Z",
+  "event_updatedAt": "2026-01-03T11:45:51.664035Z",
+  "markets_len": 1,
+  "market_ids": [
+    "1086460"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10683"
+  ],
+  "series_slug": "eth-up-or-down-5m"
+}

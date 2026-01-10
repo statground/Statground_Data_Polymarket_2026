@@ -1,0 +1,25 @@
+{
+  "entity": "event",
+  "event_id": "138108",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-02T06:00:03.840314Z",
+  "event_createdAt": "2026-01-02T06:00:03.840314Z",
+  "event_creationDate": "2026-01-02T06:09:50.979774Z",
+  "event_startDate": "2026-01-02T06:09:50.979781Z",
+  "event_endDate": "2026-01-15T19:30:00Z",
+  "event_updatedAt": "2026-01-06T13:28:20.700236Z",
+  "markets_len": 6,
+  "market_ids": [
+    "1085298",
+    "1085300",
+    "1085301",
+    "1085303",
+    "1085304",
+    "1085302"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10194"
+  ],
+  "series_slug": "bundesliga-2025"
+}

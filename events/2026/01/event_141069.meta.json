@@ -1,0 +1,24 @@
+{
+  "entity": "event",
+  "event_id": "141069",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-03T16:22:57.215491Z",
+  "event_createdAt": "2026-01-03T16:22:57.215491Z",
+  "event_creationDate": "2026-01-03T16:26:10.78045Z",
+  "event_startDate": "2026-01-03T16:26:10.780459Z",
+  "event_endDate": "2026-01-04T16:00:00Z",
+  "event_updatedAt": "2026-01-06T00:33:25.533399Z",
+  "markets_len": 5,
+  "market_ids": [
+    "1097718",
+    "1097716",
+    "1097720",
+    "1097717",
+    "1097719"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10786"
+  ],
+  "series_slug": "africa-cup-of-nations"
+}

@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_id": "145833",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2026-01-05T21:22:02.039346Z",
+  "event_createdAt": "2026-01-05T21:22:02.039346Z",
+  "event_creationDate": "2026-01-05T23:13:30.840865Z",
+  "event_startDate": "2026-01-05T23:13:30.840868Z",
+  "event_endDate": "2026-03-30T00:00:00Z",
+  "event_updatedAt": "2026-01-06T13:28:08.796422Z",
+  "markets_len": 3,
+  "market_ids": [
+    "1116538",
+    "1116539",
+    "1116540"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10851"
+  ],
+  "series_slug": "bank-of-israel-decision"
+}
