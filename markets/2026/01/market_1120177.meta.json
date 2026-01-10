@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1120177",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T07:30:03.652956Z",
-  "market_createdAt": "2026-01-06T07:30:03.652956Z",
-  "market_updatedAt": "2026-01-10T14:44:50.131106Z",
-  "market_startDate": "2026-01-06T07:31:18.241542Z",
-  "market_endDate": "2026-01-15T12:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x5acc823e7fe67324200ce0ea840a6bd204c03c07cdc552e665b9091606a7156e",
-  "slug": "lol-gen-drx-2026-01-15-game1",
-  "question": "LoL: Gen.G vs DRX - Game 1 Winner"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T07:30:03.652956Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T07:30:03.652956Z",
+  "market_endDate": "2026-01-15T12:00:00Z",
+  "market_id": "1120177",
+  "market_startDate": "2026-01-06T07:31:18.241542Z",
+  "market_updatedAt": "2026-01-10T19:22:32.927698Z",
+  "question": "LoL: Gen.G vs DRX - Game 1 Winner",
+  "slug": "lol-gen-drx-2026-01-15-game1"
 }
