@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1125406",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-06T22:33:30.407325Z",
-  "market_createdAt": "2026-01-06T22:33:30.407325Z",
-  "market_updatedAt": "2026-01-10T14:44:49.07751Z",
-  "market_startDate": "2026-01-07T02:03:54.759642Z",
-  "market_endDate": "2026-12-31T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xa05b44d6d604391b91a32589853b4442bfc2694a2b8f546201ab53758b40b910",
-  "slug": "spx-above-7500-dec-2026-717",
-  "question": "Will S&P 500 (SPX) close over $7,500 on the final trading day of December 2026?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-06T22:33:30.407325Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-06T22:33:30.407325Z",
+  "market_endDate": "2026-12-31T21:00:00Z",
+  "market_id": "1125406",
+  "market_startDate": "2026-01-07T02:03:54.759642Z",
+  "market_updatedAt": "2026-01-10T18:38:34.362947Z",
+  "question": "Will S&P 500 (SPX) close over $7,500 on the final trading day of December 2026?",
+  "slug": "spx-above-7500-dec-2026-717"
 }

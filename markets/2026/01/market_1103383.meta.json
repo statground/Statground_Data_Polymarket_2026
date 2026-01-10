@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1103383",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-04T09:00:12.035650Z",
-  "market_createdAt": "2026-01-04T09:00:12.03565Z",
-  "market_updatedAt": "2026-01-06T14:39:30.219258Z",
-  "market_startDate": "2026-01-04T09:05:51.819944Z",
-  "market_endDate": "2026-01-17T16:15:00Z",
-  "market_closedTime": null,
   "conditionId": "0x6b738b84e9eabd37aade6c064090a1b21d47f73dfd7f3236188ddff769128a91",
-  "slug": "itsb-reg-ces-2026-01-17-draw",
-  "question": "Will AC Reggiana 1919 vs. Cesena FC end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-04T09:00:12.035650Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-04T09:00:12.03565Z",
+  "market_endDate": "2026-01-17T16:15:00Z",
+  "market_id": "1103383",
+  "market_startDate": "2026-01-04T09:05:51.819944Z",
+  "market_updatedAt": "2026-01-10T18:38:33.611046Z",
+  "question": "Will AC Reggiana 1919 vs. Cesena FC end in a draw?",
+  "slug": "itsb-reg-ces-2026-01-17-draw"
 }

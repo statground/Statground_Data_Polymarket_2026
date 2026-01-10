@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1114851",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T16:28:14.296059Z",
-  "market_createdAt": "2026-01-05T16:28:14.296059Z",
-  "market_updatedAt": "2026-01-06T14:45:01.100946Z",
-  "market_startDate": "2026-01-05T16:29:30.438316Z",
-  "market_endDate": "2026-01-25T04:59:59.999Z",
-  "market_closedTime": null,
   "conditionId": "0x7a44c1df3d0ed971f6bca30e8f47ae2b26fd94673940aee6cd285f65ac98e856",
-  "slug": "ufc-ric12-cam6-2026-01-24-totals-1pt5",
-  "question": "O/U 1.5 Rounds"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T16:28:14.296059Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T16:28:14.296059Z",
+  "market_endDate": "2026-01-25T04:59:59.999Z",
+  "market_id": "1114851",
+  "market_startDate": "2026-01-05T16:29:30.438316Z",
+  "market_updatedAt": "2026-01-10T18:38:34.009474Z",
+  "question": "O/U 1.5 Rounds",
+  "slug": "ufc-ric12-cam6-2026-01-24-totals-1pt5"
 }

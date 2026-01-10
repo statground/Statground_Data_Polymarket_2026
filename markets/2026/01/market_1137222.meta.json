@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1137222",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-08T17:00:12.003822Z",
-  "market_createdAt": "2026-01-08T17:00:12.003822Z",
-  "market_updatedAt": "2026-01-10T14:44:48.115499Z",
-  "market_startDate": "2026-01-08T17:20:50.819821Z",
-  "market_endDate": "2026-01-15T17:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x6bd8e169c60c6430e00d2a5012be0ac50b93d7354cdab2358efdd62a36cd8ca3",
-  "slug": "will-the-price-of-xrp-be-less-than-1pt70-on-january-15",
-  "question": "Will the price of XRP be less than $1.70 on January 15?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-08T17:00:12.003822Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-08T17:00:12.003822Z",
+  "market_endDate": "2026-01-15T17:00:00Z",
+  "market_id": "1137222",
+  "market_startDate": "2026-01-08T17:20:50.819821Z",
+  "market_updatedAt": "2026-01-10T18:38:33.446609Z",
+  "question": "Will the price of XRP be less than $1.70 on January 15?",
+  "slug": "will-the-price-of-xrp-be-less-than-1pt70-on-january-15"
 }

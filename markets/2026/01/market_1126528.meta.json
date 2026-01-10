@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1126528",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-07T02:02:00.297495Z",
-  "market_createdAt": "2026-01-07T02:02:00.297495Z",
-  "market_updatedAt": "2026-01-10T14:44:48.866476Z",
-  "market_startDate": "2026-01-07T02:04:01.015007Z",
-  "market_endDate": "2026-12-31T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x0b7805a435ea519325ed3920b031acc7e18569a6463ae3d269b333548d229ff1",
-  "slug": "spx-above-10000-dec-2026-517",
-  "question": "Will S&P 500 (SPX) close over $10,000 on the final trading day of December 2026?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-07T02:02:00.297495Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-07T02:02:00.297495Z",
+  "market_endDate": "2026-12-31T21:00:00Z",
+  "market_id": "1126528",
+  "market_startDate": "2026-01-07T02:04:01.015007Z",
+  "market_updatedAt": "2026-01-10T18:38:34.289463Z",
+  "question": "Will S&P 500 (SPX) close over $10,000 on the final trading day of December 2026?",
+  "slug": "spx-above-10000-dec-2026-517"
 }

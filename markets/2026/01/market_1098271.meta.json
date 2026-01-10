@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1098271",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-03T17:45:02.634806Z",
-  "market_createdAt": "2026-01-03T17:45:02.634806Z",
-  "market_updatedAt": "2026-01-06T14:39:29.949437Z",
-  "market_startDate": "2026-01-03T17:48:01.162965Z",
-  "market_endDate": "2026-01-31T03:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x896ec34d3281a76c031b5913748098c6b83542ad7e348e0262c81c4630d84a71",
-  "slug": "mex-pum-san-2026-01-30-draw",
-  "question": "Will Pumas de la UNAM vs. Club Santos Laguna end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-03T17:45:02.634806Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-03T17:45:02.634806Z",
+  "market_endDate": "2026-01-31T03:00:00Z",
+  "market_id": "1098271",
+  "market_startDate": "2026-01-03T17:48:01.162965Z",
+  "market_updatedAt": "2026-01-10T18:38:32.898155Z",
+  "question": "Will Pumas de la UNAM vs. Club Santos Laguna end in a draw?",
+  "slug": "mex-pum-san-2026-01-30-draw"
 }

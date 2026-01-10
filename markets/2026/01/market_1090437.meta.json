@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1090437",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-02T21:30:01.628084Z",
-  "market_createdAt": "2026-01-02T21:30:01.628084Z",
-  "market_updatedAt": "2026-01-10T14:44:45.723054Z",
-  "market_startDate": "2026-01-02T21:32:17.354424Z",
-  "market_endDate": "2026-01-30T08:35:00Z",
-  "market_closedTime": null,
   "conditionId": "0x63c5d5496c9895373e0908ed7859477d370254231fdb971b14ec25678c8e8eb0",
-  "slug": "aus-ade-mac-2026-01-30-draw",
-  "question": "Will Adelaide United FC vs. Macarthur FC end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-02T21:30:01.628084Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-02T21:30:01.628084Z",
+  "market_endDate": "2026-01-30T08:35:00Z",
+  "market_id": "1090437",
+  "market_startDate": "2026-01-02T21:32:17.354424Z",
+  "market_updatedAt": "2026-01-10T18:36:50.910086Z",
+  "question": "Will Adelaide United FC vs. Macarthur FC end in a draw?",
+  "slug": "aus-ade-mac-2026-01-30-draw"
 }

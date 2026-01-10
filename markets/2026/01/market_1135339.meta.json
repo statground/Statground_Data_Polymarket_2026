@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1135339",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-08T11:00:17.596763Z",
-  "market_createdAt": "2026-01-08T11:00:17.596763Z",
-  "market_updatedAt": "2026-01-10T14:44:48.430576Z",
-  "market_startDate": "2026-01-08T11:12:13.44854Z",
-  "market_endDate": "2026-01-10T12:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xa0fc267cfe239d079f0a7f835b5ca0c64311c6809f2bbfce0acf8800c73058a1",
-  "slug": "highest-temperature-in-seattle-on-january-10-46-47f",
-  "question": "Will the highest temperature in Seattle be between 46-47°F on January 10?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-08T11:00:17.596763Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-08T11:00:17.596763Z",
+  "market_endDate": "2026-01-10T12:00:00Z",
+  "market_id": "1135339",
+  "market_startDate": "2026-01-08T11:12:13.44854Z",
+  "market_updatedAt": "2026-01-10T18:38:36.087434Z",
+  "question": "Will the highest temperature in Seattle be between 46-47°F on January 10?",
+  "slug": "highest-temperature-in-seattle-on-january-10-46-47f"
 }

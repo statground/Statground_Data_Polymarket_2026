@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-10T18:00:03.531255Z",
+  "event_creationDate": "2026-01-10T18:03:43.991009Z",
+  "event_endDate": "2026-01-13T20:00:00Z",
+  "event_id": "155684",
+  "event_startDate": "2026-01-10T18:03:43.991028Z",
+  "event_updatedAt": "2026-01-10T18:33:34.984825Z",
+  "folder_dt_utc": "2026-01-10T18:00:03.531255Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1154011",
+    "1154015",
+    "1154017"
+  ],
+  "markets_len": 3,
+  "series_ids": [
+    "10316"
+  ],
+  "series_len": 1,
+  "series_slug": "copa-del-rey"
+}

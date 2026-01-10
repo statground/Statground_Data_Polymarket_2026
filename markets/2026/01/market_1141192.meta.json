@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1141192",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-09T03:00:03.016008Z",
-  "market_createdAt": "2026-01-09T03:00:03.016008Z",
-  "market_updatedAt": "2026-01-10T14:46:34.718709Z",
-  "market_startDate": "2026-01-09T03:01:13.743935Z",
-  "market_endDate": "2026-01-10T17:30:00Z",
-  "market_closedTime": null,
   "conditionId": "0x50d61de52bb4e843ebb490bf7e2fc31ae1253caa4f5738bb3959528eb250d1de",
-  "slug": "cs2-csdiil-g1-2026-01-10",
-  "question": "Counter-Strike:  CSDIILIT vs GenOne (BO3)"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-09T03:00:03.016008Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-10 15:09:02+00",
+  "market_createdAt": "2026-01-09T03:00:03.016008Z",
+  "market_endDate": "2026-01-10T17:30:00Z",
+  "market_id": "1141192",
+  "market_startDate": "2026-01-09T03:01:13.743935Z",
+  "market_updatedAt": "2026-01-10T18:36:57.31002Z",
+  "question": "Counter-Strike:  CSDIILIT vs GenOne (BO3)",
+  "slug": "cs2-csdiil-g1-2026-01-10"
 }

@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1111907",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-05T05:00:10.464346Z",
-  "market_createdAt": "2026-01-05T05:00:10.464346Z",
-  "market_updatedAt": "2026-01-06T14:40:02.597496Z",
-  "market_startDate": "2026-01-05T05:18:19.346685Z",
-  "market_endDate": "2026-01-18T12:30:00Z",
-  "market_closedTime": null,
   "conditionId": "0xec7c9c2ceeabe4210bb72b5439c9d0dc35323f38a52299df0a827d2e9f1715f2",
-  "slug": "bl2-boc-svd-2026-01-18-svd",
-  "question": "Will SV Darmstadt 98 win on 2026-01-18?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-05T05:00:10.464346Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-05T05:00:10.464346Z",
+  "market_endDate": "2026-01-18T12:30:00Z",
+  "market_id": "1111907",
+  "market_startDate": "2026-01-05T05:18:19.346685Z",
+  "market_updatedAt": "2026-01-10T18:38:37.723965Z",
+  "question": "Will SV Darmstadt 98 win on 2026-01-18?",
+  "slug": "bl2-boc-svd-2026-01-18-svd"
 }

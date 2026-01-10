@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1146590",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-09T23:00:10.883274Z",
-  "market_createdAt": "2026-01-09T23:00:10.883274Z",
-  "market_updatedAt": "2026-01-10T14:46:34.178399Z",
-  "market_startDate": "2026-01-09T23:24:36.676756Z",
-  "market_endDate": "2026-01-16T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xae40b96a095e29ea4fc1e633c9c81bb455258d659ce23c0792fd8d96c7594c5c",
-  "slug": "will-tsla-close-between-455-and-460-week-january-16-2026",
-  "question": "Will Tesla (TSLA) close at $455-$460 on the final day of trading of the week of Jan 12 – Jan 16?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-09T23:00:10.883274Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-09T23:00:10.883274Z",
+  "market_endDate": "2026-01-16T21:00:00Z",
+  "market_id": "1146590",
+  "market_startDate": "2026-01-09T23:24:36.676756Z",
+  "market_updatedAt": "2026-01-10T18:38:32.003525Z",
+  "question": "Will Tesla (TSLA) close at $455-$460 on the final day of trading of the week of Jan 12 – Jan 16?",
+  "slug": "will-tsla-close-between-455-and-460-week-january-16-2026"
 }

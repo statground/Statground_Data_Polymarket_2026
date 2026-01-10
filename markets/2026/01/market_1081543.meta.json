@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1081543",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-01T15:08:30.280885Z",
-  "market_createdAt": "2026-01-01T15:08:30.280885Z",
-  "market_updatedAt": "2026-01-10T14:44:46.053331Z",
-  "market_startDate": "2026-01-01T15:10:17.915136Z",
-  "market_endDate": "2026-02-01T05:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xdc3fde8877bbf34875a81afd77bf27e1eae6a8ad8d759c786fb66c5f89f29dd8",
-  "slug": "will-chainlink-hit-21-in-january",
-  "question": "Will Chainlink hit $21 in January?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-01T15:08:30.280885Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-01T15:08:30.280885Z",
+  "market_endDate": "2026-02-01T05:00:00Z",
+  "market_id": "1081543",
+  "market_startDate": "2026-01-01T15:10:17.915136Z",
+  "market_updatedAt": "2026-01-10T18:36:51.916575Z",
+  "question": "Will Chainlink hit $21 in January?",
+  "slug": "will-chainlink-hit-21-in-january"
 }

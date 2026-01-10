@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1144032",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-09T17:00:02.429380Z",
-  "market_createdAt": "2026-01-09T17:00:02.42938Z",
-  "market_updatedAt": "2026-01-10T14:44:49.25356Z",
-  "market_startDate": "2026-01-09T17:10:50.194786Z",
-  "market_endDate": "2026-01-16T17:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x89e1386d0868e11953a76f41fce2253eb7e7377c94182502109da3ad3fc714e1",
-  "slug": "will-the-price-of-bitcoin-be-between-86000-88000-on-january-16",
-  "question": "Will the price of Bitcoin be between $86,000 and $88,000 on January 16?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-09T17:00:02.429380Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-09T17:00:02.42938Z",
+  "market_endDate": "2026-01-16T17:00:00Z",
+  "market_id": "1144032",
+  "market_startDate": "2026-01-09T17:10:50.194786Z",
+  "market_updatedAt": "2026-01-10T18:38:35.179579Z",
+  "question": "Will the price of Bitcoin be between $86,000 and $88,000 on January 16?",
+  "slug": "will-the-price-of-bitcoin-be-between-86000-88000-on-january-16"
 }

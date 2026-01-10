@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1102155",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-04T05:00:14.071707Z",
-  "market_createdAt": "2026-01-04T05:00:14.071707Z",
-  "market_updatedAt": "2026-01-06T14:39:52.023372Z",
-  "market_startDate": "2026-01-04T05:29:14.451921Z",
-  "market_endDate": "2026-01-31T15:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x0d4822eec00b5e5759a770fb3be8973267c4eb46d170daaac4adcea39cec91b6",
-  "slug": "elc-oxf-bir-2026-01-31-draw",
-  "question": "Will Oxford United FC vs. Birmingham City FC end in a draw?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-04T05:00:14.071707Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-04T05:00:14.071707Z",
+  "market_endDate": "2026-01-31T15:00:00Z",
+  "market_id": "1102155",
+  "market_startDate": "2026-01-04T05:29:14.451921Z",
+  "market_updatedAt": "2026-01-10T18:38:33.644096Z",
+  "question": "Will Oxford United FC vs. Birmingham City FC end in a draw?",
+  "slug": "elc-oxf-bir-2026-01-31-draw"
 }

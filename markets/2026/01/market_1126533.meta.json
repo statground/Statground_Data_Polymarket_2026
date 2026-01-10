@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1126533",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-07T02:09:02.057810Z",
-  "market_createdAt": "2026-01-07T02:09:02.05781Z",
-  "market_updatedAt": "2026-01-10T14:44:49.281396Z",
-  "market_startDate": "2026-01-07T02:24:13.051811Z",
-  "market_endDate": "2026-12-31T21:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x7988f38c0e67179d5d982b3ad7e7f04ef86d746ae94f6fca3bdc47101837d4a1",
-  "slug": "spx-close-7000-7500-dec-2026-723",
-  "question": "Will S&P 500 (SPX) close at $7,000-$7,500 in December?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-07T02:09:02.057810Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2026-01-07T02:09:02.05781Z",
+  "market_endDate": "2026-12-31T21:00:00Z",
+  "market_id": "1126533",
+  "market_startDate": "2026-01-07T02:24:13.051811Z",
+  "market_updatedAt": "2026-01-10T18:38:35.505062Z",
+  "question": "Will S&P 500 (SPX) close at $7,000-$7,500 in December?",
+  "slug": "spx-close-7000-7500-dec-2026-723"
 }
