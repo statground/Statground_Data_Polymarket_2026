@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-10T00:12:49.29615Z",
+  "event_creationDate": "2026-01-11T05:31:41.248133Z",
+  "event_endDate": "2026-01-11T00:00:00Z",
+  "event_id": "154225",
+  "event_startDate": "2026-01-11T05:31:41.248143Z",
+  "event_updatedAt": "2026-01-11T06:15:48.499135Z",
+  "folder_dt_utc": "2026-01-10T00:12:49.296150Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1147106"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "10108"
+  ],
+  "series_len": 1,
+  "series_slug": "israel-strike-iran"
+}
