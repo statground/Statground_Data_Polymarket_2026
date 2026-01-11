@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1089766",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-02T20:24:00.255891Z",
-  "market_createdAt": "2026-01-02T20:24:00.255891Z",
-  "market_updatedAt": "2026-01-10T14:44:47.691021Z",
-  "market_startDate": "2026-01-02T21:51:36.007Z",
-  "market_endDate": "2026-02-01T05:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x6c64501c07f84c85541df50d7b61b4a811a4c27c9803d807b4feb8f4349b47ab",
-  "slug": "over-200m-committed-to-the-ranger-public-sale-184-417-328-897-999",
-  "question": "Over $200M committed to the Ranger public sale?"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-02T20:24:00.255891Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-10 18:02:48+00",
+  "market_createdAt": "2026-01-02T20:24:00.255891Z",
+  "market_endDate": "2026-02-01T05:00:00Z",
+  "market_id": "1089766",
+  "market_startDate": "2026-01-02T21:51:36.007Z",
+  "market_updatedAt": "2026-01-11T02:21:08.320488Z",
+  "question": "Over $200M committed to the Ranger public sale?",
+  "slug": "over-200m-committed-to-the-ranger-public-sale-184-417-328-897-999"
 }

@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "1143195",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2026-01-09T13:07:00.280613Z",
-  "market_createdAt": "2026-01-09T13:07:00.280613Z",
-  "market_updatedAt": "2026-01-10T14:46:38.027914Z",
-  "market_startDate": "2026-01-09T13:07:26.327085Z",
-  "market_endDate": "2026-01-10T17:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0x1cd9c8c01057f54c006c6a5093fbb06b8118fa512767aef6102ef3045fd41298",
-  "slug": "xrp-updown-4h-1768050000",
-  "question": "XRP Up or Down - January 10, 8:00AM-12:00PM ET"
+  "entity": "market",
+  "folder_dt_utc": "2026-01-09T13:07:00.280613Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": "2026-01-10 17:05:28+00",
+  "market_createdAt": "2026-01-09T13:07:00.280613Z",
+  "market_endDate": "2026-01-10T17:00:00Z",
+  "market_id": "1143195",
+  "market_startDate": "2026-01-09T13:07:26.327085Z",
+  "market_updatedAt": "2026-01-11T02:21:07.342602Z",
+  "question": "XRP Up or Down - January 10, 8:00AM-12:00PM ET",
+  "slug": "xrp-updown-4h-1768050000"
 }
