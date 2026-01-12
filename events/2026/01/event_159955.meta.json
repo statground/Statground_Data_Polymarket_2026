@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-12T16:30:01.66249Z",
+  "event_creationDate": "2026-01-18T13:00:00Z",
+  "event_endDate": "2026-01-18T13:00:00Z",
+  "event_id": "159955",
+  "event_startDate": "2026-01-12T16:39:34.2459Z",
+  "event_updatedAt": "2026-01-12T18:21:15.498267Z",
+  "folder_dt_utc": "2026-01-12T16:30:01.662490Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1168145"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "10701"
+  ],
+  "series_len": 1,
+  "series_slug": "dehl-2026"
+}

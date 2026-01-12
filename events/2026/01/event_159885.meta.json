@@ -1,0 +1,24 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-12T15:37:12.248861Z",
+  "event_creationDate": "2026-01-12T15:40:56.522225Z",
+  "event_endDate": "2026-01-13T17:00:00Z",
+  "event_id": "159885",
+  "event_startDate": "2026-01-12T15:40:56.522235Z",
+  "event_updatedAt": "2026-01-12T18:21:15.262899Z",
+  "folder_dt_utc": "2026-01-12T15:37:12.248861Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1167834",
+    "1167835",
+    "1167836",
+    "1167837",
+    "1167838"
+  ],
+  "markets_len": 5,
+  "series_ids": [
+    "10426"
+  ],
+  "series_len": 1,
+  "series_slug": "mobile-legends-bang-bang"
+}
