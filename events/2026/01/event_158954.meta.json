@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-12T05:00:27.198274Z",
+  "event_creationDate": "2026-01-12T05:21:32.690643Z",
+  "event_endDate": "2026-01-25T13:30:00Z",
+  "event_id": "158954",
+  "event_startDate": "2026-01-12T05:21:32.690649Z",
+  "event_updatedAt": "2026-01-12T06:21:27.555528Z",
+  "folder_dt_utc": "2026-01-12T05:00:27.198274Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1164984",
+    "1164985",
+    "1164986"
+  ],
+  "markets_len": 3,
+  "series_ids": [
+    "10753"
+  ],
+  "series_len": 1,
+  "series_slug": "cricket-south-africa"
+}

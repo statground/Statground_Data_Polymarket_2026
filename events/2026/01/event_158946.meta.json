@@ -1,0 +1,33 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-12T05:00:17.296412Z",
+  "event_creationDate": "2026-01-12T05:17:13.191669Z",
+  "event_endDate": "2026-01-19T05:00:00Z",
+  "event_id": "158946",
+  "event_startDate": "2026-01-12T05:17:13.191687Z",
+  "event_updatedAt": "2026-01-12T06:23:38.592435Z",
+  "folder_dt_utc": "2026-01-12T05:00:17.296412Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1164949",
+    "1164950",
+    "1164951",
+    "1164952",
+    "1164953",
+    "1164954",
+    "1164955",
+    "1164956",
+    "1164957",
+    "1164958",
+    "1164959",
+    "1164960",
+    "1164961",
+    "1164962"
+  ],
+  "markets_len": 14,
+  "series_ids": [
+    "10239"
+  ],
+  "series_len": 1,
+  "series_slug": "xrp-hit-price-weekly"
+}

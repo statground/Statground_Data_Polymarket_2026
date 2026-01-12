@@ -1,0 +1,33 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-12T05:00:00.728703Z",
+  "event_creationDate": "2026-01-12T05:13:15.125169Z",
+  "event_endDate": "2026-01-19T05:00:00Z",
+  "event_id": "158907",
+  "event_startDate": "2026-01-12T05:13:15.125186Z",
+  "event_updatedAt": "2026-01-12T06:21:28.246541Z",
+  "folder_dt_utc": "2026-01-12T05:00:00.728703Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1164828",
+    "1164829",
+    "1164830",
+    "1164831",
+    "1164833",
+    "1164834",
+    "1164835",
+    "1164836",
+    "1164837",
+    "1164838",
+    "1164839",
+    "1164843",
+    "1164841",
+    "1164842"
+  ],
+  "markets_len": 14,
+  "series_ids": [
+    "10151"
+  ],
+  "series_len": 1,
+  "series_slug": "bitcoin-hit-price-weekly"
+}
