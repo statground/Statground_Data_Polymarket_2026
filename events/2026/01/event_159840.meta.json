@@ -5,7 +5,7 @@
   "event_endDate": "2026-01-31T00:00:00Z",
   "event_id": "159840",
   "event_startDate": "2026-01-12T17:53:22.314772Z",
-  "event_updatedAt": "2026-01-12T18:19:13.558523Z",
+  "event_updatedAt": "2026-01-13T00:57:02.501346Z",
   "folder_dt_utc": "2026-01-12T15:02:17.070934Z",
   "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
@@ -32,7 +32,9 @@
     "1167627"
   ],
   "markets_len": 21,
-  "series_ids": [],
-  "series_len": 0,
-  "series_slug": null
+  "series_ids": [
+    "10127"
+  ],
+  "series_len": 1,
+  "series_slug": "us-strikes-iran"
 }

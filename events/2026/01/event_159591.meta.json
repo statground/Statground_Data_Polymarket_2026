@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-12T13:00:00.493004Z",
+  "event_creationDate": "2026-01-13T14:30:00Z",
+  "event_endDate": "2026-01-13T21:00:00Z",
+  "event_id": "159591",
+  "event_startDate": "2026-01-12T13:01:30.633369Z",
+  "event_updatedAt": "2026-01-13T00:57:00.789124Z",
+  "folder_dt_utc": "2026-01-12T13:00:00.493004Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1167068"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "10380"
+  ],
+  "series_len": 1,
+  "series_slug": "aapl-daily-up-down"
+}
