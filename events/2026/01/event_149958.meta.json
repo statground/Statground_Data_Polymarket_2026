@@ -1,0 +1,25 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-07T22:41:44.214916Z",
+  "event_creationDate": "2026-01-14T00:11:59.619367Z",
+  "event_endDate": "2026-01-31T00:00:00Z",
+  "event_id": "149958",
+  "event_startDate": "2026-01-14T00:11:59.619372Z",
+  "event_updatedAt": "2026-01-14T00:59:47.8944Z",
+  "folder_dt_utc": "2026-01-07T22:41:44.214916Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1131827",
+    "1131835",
+    "1131826",
+    "1131829",
+    "1131833",
+    "1131832"
+  ],
+  "markets_len": 6,
+  "series_ids": [
+    "10870"
+  ],
+  "series_len": 1,
+  "series_slug": "argentina-official-usd-exchange-rate"
+}

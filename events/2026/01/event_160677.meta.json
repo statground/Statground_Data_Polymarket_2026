@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-13T00:58:55.958546Z",
+  "event_creationDate": "2026-01-13T19:13:28.309652Z",
+  "event_endDate": "2026-01-31T00:00:00Z",
+  "event_id": "160677",
+  "event_startDate": "2026-01-13T19:13:28.309673Z",
+  "event_updatedAt": "2026-01-14T01:03:29.457137Z",
+  "folder_dt_utc": "2026-01-13T00:58:55.958546Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1171586"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "10212"
+  ],
+  "series_len": 1,
+  "series_slug": "houthi-strike-israel"
+}

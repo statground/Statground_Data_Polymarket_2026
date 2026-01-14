@@ -1,0 +1,31 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-13T21:14:38.94715Z",
+  "event_creationDate": "2026-01-14T00:01:13.24914Z",
+  "event_endDate": "2026-12-31T00:00:00Z",
+  "event_id": "162167",
+  "event_startDate": "2026-01-14T00:01:13.249146Z",
+  "event_updatedAt": "2026-01-14T00:59:48.222097Z",
+  "folder_dt_utc": "2026-01-13T21:14:38.947150Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1178484",
+    "1178485",
+    "1178487",
+    "1178490",
+    "1178494",
+    "1178486",
+    "1178495",
+    "1178488",
+    "1178489",
+    "1178491",
+    "1178492",
+    "1178493"
+  ],
+  "markets_len": 12,
+  "series_ids": [
+    "10885"
+  ],
+  "series_len": 1,
+  "series_slug": "next-country-us-strike"
+}
