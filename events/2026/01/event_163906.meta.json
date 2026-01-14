@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-14T15:00:14.596101Z",
+  "event_creationDate": "2026-01-20T19:00:00Z",
+  "event_endDate": "2026-01-20T19:00:00Z",
+  "event_id": "163906",
+  "event_startDate": "2026-01-14T15:03:11.93736Z",
+  "event_updatedAt": "2026-01-14T18:23:06.855651Z",
+  "folder_dt_utc": "2026-01-14T15:00:14.596101Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1182906"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "10371"
+  ],
+  "series_len": 1,
+  "series_slug": "euroleague-basketball"
+}

@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-14T14:56:27.600987Z",
+  "event_creationDate": "2026-01-14T15:01:01.419025Z",
+  "event_endDate": "2026-01-16T00:00:00Z",
+  "event_id": "163894",
+  "event_startDate": "2026-01-14T15:01:01.419029Z",
+  "event_updatedAt": "2026-01-14T18:21:09.989848Z",
+  "folder_dt_utc": "2026-01-14T14:56:27.600987Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1182895"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "10890"
+  ],
+  "series_len": 1,
+  "series_slug": "khamenei-public-appearance"
+}
