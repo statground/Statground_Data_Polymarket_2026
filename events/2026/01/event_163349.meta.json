@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-14T08:30:05.923895Z",
+  "event_creationDate": "2026-01-20T20:00:00Z",
+  "event_endDate": "2026-01-27T20:00:00Z",
+  "event_id": "163349",
+  "event_startDate": "2026-01-14T08:31:28.296044Z",
+  "event_updatedAt": "2026-01-14T12:27:08.831759Z",
+  "folder_dt_utc": "2026-01-14T08:30:05.923895Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1181483"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "10879"
+  ],
+  "series_len": 1,
+  "series_slug": "basketball-champions-league"
+}

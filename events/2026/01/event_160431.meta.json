@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-12T21:27:47.298609Z",
+  "event_creationDate": "2026-01-13T16:04:59.731906Z",
+  "event_endDate": "2026-01-31T00:00:00Z",
+  "event_id": "160431",
+  "event_startDate": "2026-01-13T16:04:59.731908Z",
+  "event_updatedAt": "2026-01-14T12:27:09.819097Z",
+  "folder_dt_utc": "2026-01-12T21:27:47.298609Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1170477",
+    "1170478",
+    "1170479"
+  ],
+  "markets_len": 3,
+  "series_ids": [
+    "10791"
+  ],
+  "series_len": 1,
+  "series_slug": "ukraine-strikes-another-tanker-in-black-sea"
+}
