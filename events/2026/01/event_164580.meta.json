@@ -1,0 +1,26 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-14T21:48:30.846431Z",
+  "event_creationDate": "2026-01-14T22:42:10.332109Z",
+  "event_endDate": "2026-02-11T00:00:00Z",
+  "event_id": "164580",
+  "event_startDate": "2026-01-14T22:42:10.332121Z",
+  "event_updatedAt": "2026-01-15T01:01:20.244094Z",
+  "folder_dt_utc": "2026-01-14T21:48:30.846431Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1185716",
+    "1185718",
+    "1185719",
+    "1185720",
+    "1185721",
+    "1185717",
+    "1185722"
+  ],
+  "markets_len": 7,
+  "series_ids": [
+    "10007"
+  ],
+  "series_len": 1,
+  "series_slug": "us-annual-inflation"
+}
