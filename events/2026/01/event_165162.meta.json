@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-15T05:00:57.884769Z",
+  "event_creationDate": "2026-01-15T05:27:05.615348Z",
+  "event_endDate": "2026-01-29T04:00:00Z",
+  "event_id": "165162",
+  "event_startDate": "2026-01-15T05:27:05.615356Z",
+  "event_updatedAt": "2026-01-15T06:19:40.288271Z",
+  "folder_dt_utc": "2026-01-15T05:00:57.884769Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1187899",
+    "1187900",
+    "1187901"
+  ],
+  "markets_len": 3,
+  "series_ids": [
+    "10748"
+  ],
+  "series_len": 1,
+  "series_slug": "cricket-india"
+}
