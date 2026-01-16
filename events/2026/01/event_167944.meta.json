@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-16T13:00:04.724639Z",
+  "event_creationDate": "2026-01-20T14:30:00Z",
+  "event_endDate": "2026-01-20T21:00:00Z",
+  "event_id": "167944",
+  "event_startDate": "2026-01-16T13:02:07.965608Z",
+  "event_updatedAt": "2026-01-16T18:19:14.54595Z",
+  "folder_dt_utc": "2026-01-16T13:00:04.724639Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1198015"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "10379"
+  ],
+  "series_len": 1,
+  "series_slug": "msft-daily-up-down"
+}

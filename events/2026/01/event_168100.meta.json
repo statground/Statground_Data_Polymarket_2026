@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-16T14:41:56.376277Z",
+  "event_creationDate": "2026-01-16T14:45:01.531684Z",
+  "event_endDate": "2026-01-17T14:40:00Z",
+  "event_id": "168100",
+  "event_startDate": "2026-01-16T14:45:01.531686Z",
+  "event_updatedAt": "2026-01-16T18:17:32.351189Z",
+  "folder_dt_utc": "2026-01-16T14:41:56.376277Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1198417"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "10685"
+  ],
+  "series_len": 1,
+  "series_slug": "xrp-up-or-down-5m"
+}
