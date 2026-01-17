@@ -1,0 +1,30 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-16T23:00:24.77426Z",
+  "event_creationDate": "2026-01-16T23:29:21.946137Z",
+  "event_endDate": "2026-01-23T21:00:00Z",
+  "event_id": "168989",
+  "event_startDate": "2026-01-16T23:29:21.946148Z",
+  "event_updatedAt": "2026-01-17T06:17:37.850375Z",
+  "folder_dt_utc": "2026-01-16T23:00:24.774260Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1201370",
+    "1201371",
+    "1201372",
+    "1201373",
+    "1201374",
+    "1201376",
+    "1201379",
+    "1201381",
+    "1201383",
+    "1201385",
+    "1201387"
+  ],
+  "markets_len": 11,
+  "series_ids": [
+    "10641"
+  ],
+  "series_len": 1,
+  "series_slug": "open-neg-risk-weekly"
+}
