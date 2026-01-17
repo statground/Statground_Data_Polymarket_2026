@@ -1,0 +1,24 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-17T09:00:05.843798Z",
+  "event_creationDate": "2026-01-17T09:05:06.339192Z",
+  "event_endDate": "2026-01-31T03:06:00Z",
+  "event_id": "169792",
+  "event_startDate": "2026-01-17T09:05:06.339199Z",
+  "event_updatedAt": "2026-01-17T12:21:28.542548Z",
+  "folder_dt_utc": "2026-01-17T09:00:05.843798Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1205179",
+    "1205183",
+    "1205180",
+    "1205181",
+    "1205186"
+  ],
+  "markets_len": 5,
+  "series_ids": [
+    "10290"
+  ],
+  "series_len": 1,
+  "series_slug": "mex-2025"
+}
