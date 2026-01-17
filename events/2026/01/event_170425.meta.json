@@ -1,0 +1,30 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-17T16:00:01.534654Z",
+  "event_creationDate": "2026-01-17T16:03:11.534559Z",
+  "event_endDate": "2026-01-17T23:00:00Z",
+  "event_id": "170425",
+  "event_startDate": "2026-01-17T16:03:11.534563Z",
+  "event_updatedAt": "2026-01-17T18:17:23.445415Z",
+  "folder_dt_utc": "2026-01-17T16:00:01.534654Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1207575",
+    "1207577",
+    "1207580",
+    "1207583",
+    "1207587",
+    "1207591",
+    "1207595",
+    "1207596",
+    "1207597",
+    "1207589",
+    "1207593"
+  ],
+  "markets_len": 11,
+  "series_ids": [
+    "10433"
+  ],
+  "series_len": 1,
+  "series_slug": "rocket-league"
+}
