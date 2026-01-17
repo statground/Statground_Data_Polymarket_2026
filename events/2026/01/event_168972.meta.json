@@ -1,0 +1,30 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-16T23:00:01.025659Z",
+  "event_creationDate": "2026-01-16T23:22:08.975582Z",
+  "event_endDate": "2026-01-23T21:00:00Z",
+  "event_id": "168972",
+  "event_startDate": "2026-01-16T23:22:08.975599Z",
+  "event_updatedAt": "2026-01-17T00:59:15.776665Z",
+  "folder_dt_utc": "2026-01-16T23:00:01.025659Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1201192",
+    "1201194",
+    "1201196",
+    "1201198",
+    "1201199",
+    "1201201",
+    "1201204",
+    "1201206",
+    "1201208",
+    "1201210",
+    "1201203"
+  ],
+  "markets_len": 11,
+  "series_ids": [
+    "10632"
+  ],
+  "series_len": 1,
+  "series_slug": "aapl-neg-risk-weekly"
+}
