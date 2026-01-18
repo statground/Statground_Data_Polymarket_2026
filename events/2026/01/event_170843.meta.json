@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-17T21:00:03.436832Z",
+  "event_creationDate": "2026-01-17T21:03:22.052804Z",
+  "event_endDate": "2026-02-14T16:00:00Z",
+  "event_id": "170843",
+  "event_startDate": "2026-01-17T21:03:22.05281Z",
+  "event_updatedAt": "2026-01-18T01:07:08.504395Z",
+  "folder_dt_utc": "2026-01-17T21:00:03.436832Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1209368",
+    "1209369",
+    "1209370"
+  ],
+  "markets_len": 3,
+  "series_ids": [
+    "10363"
+  ],
+  "series_len": 1,
+  "series_slug": "denmark-superliga"
+}
