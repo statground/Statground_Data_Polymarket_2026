@@ -1,0 +1,24 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-19T08:00:06.604769Z",
+  "event_creationDate": "2026-01-19T08:03:46.512133Z",
+  "event_endDate": "2026-02-01T20:00:00Z",
+  "event_id": "174016",
+  "event_startDate": "2026-01-19T08:03:46.512153Z",
+  "event_updatedAt": "2026-01-19T12:28:01.341279Z",
+  "folder_dt_utc": "2026-01-19T08:00:06.604769Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1218557",
+    "1218558",
+    "1218559",
+    "1218560",
+    "1218561"
+  ],
+  "markets_len": 5,
+  "series_ids": [
+    "10193"
+  ],
+  "series_len": 1,
+  "series_slug": "la-liga-2025"
+}
