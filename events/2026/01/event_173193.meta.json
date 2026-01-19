@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-18T21:51:35.030629Z",
+  "event_creationDate": "2026-01-18T22:09:14.918705Z",
+  "event_endDate": "2026-01-27T07:00:00Z",
+  "event_id": "173193",
+  "event_startDate": "2026-01-18T22:09:14.91871Z",
+  "event_updatedAt": "2026-01-19T01:07:12.748643Z",
+  "folder_dt_utc": "2026-01-18T21:51:35.030629Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1215411",
+    "1215412",
+    "1215410"
+  ],
+  "markets_len": 3,
+  "series_ids": [
+    "10799"
+  ],
+  "series_len": 1,
+  "series_slug": "cricket-bangladesh"
+}
