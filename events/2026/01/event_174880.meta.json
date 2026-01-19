@@ -1,0 +1,30 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-19T17:00:08.723492Z",
+  "event_creationDate": "2026-01-19T17:13:00.956964Z",
+  "event_endDate": "2026-01-26T17:00:00Z",
+  "event_id": "174880",
+  "event_startDate": "2026-01-19T17:13:00.956968Z",
+  "event_updatedAt": "2026-01-19T18:17:41.92595Z",
+  "folder_dt_utc": "2026-01-19T17:00:08.723492Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1220988",
+    "1220989",
+    "1220990",
+    "1220991",
+    "1220992",
+    "1220993",
+    "1220994",
+    "1220995",
+    "1220996",
+    "1220997",
+    "1220998"
+  ],
+  "markets_len": 11,
+  "series_ids": [
+    "10247"
+  ],
+  "series_len": 1,
+  "series_slug": "xrp-neg-risk-weekly"
+}

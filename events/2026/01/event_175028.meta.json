@@ -1,0 +1,21 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-19T17:59:34.67666Z",
+  "event_creationDate": "2026-01-19T23:30:00Z",
+  "event_endDate": "2026-01-26T23:30:00Z",
+  "event_id": "175028",
+  "event_startDate": "2026-01-19T18:15:42.087561Z",
+  "event_updatedAt": "2026-01-19T18:17:37.697352Z",
+  "folder_dt_utc": "2026-01-19T17:59:34.676660Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1221536",
+    "1221537"
+  ],
+  "markets_len": 2,
+  "series_ids": [
+    "10909"
+  ],
+  "series_len": 1,
+  "series_slug": "womens-national-cricket-league"
+}
