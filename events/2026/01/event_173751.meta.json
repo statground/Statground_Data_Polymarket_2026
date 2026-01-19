@@ -1,0 +1,30 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-19T05:00:08.931Z",
+  "event_creationDate": "2026-01-19T05:07:08.528906Z",
+  "event_endDate": "2026-01-27T04:59:00Z",
+  "event_id": "173751",
+  "event_startDate": "2026-01-19T05:07:08.528917Z",
+  "event_updatedAt": "2026-01-19T06:25:57.658294Z",
+  "folder_dt_utc": "2026-01-19T05:00:08.931000Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1217494",
+    "1217496",
+    "1217497",
+    "1217498",
+    "1217499",
+    "1217500",
+    "1217501",
+    "1217502",
+    "1217503",
+    "1217504",
+    "1217506"
+  ],
+  "markets_len": 11,
+  "series_ids": [
+    "10811"
+  ],
+  "series_len": 1,
+  "series_slug": "counter-strike-doppler-index-multistrike-weekly"
+}

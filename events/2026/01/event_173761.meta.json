@@ -1,0 +1,30 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-19T05:00:14.743118Z",
+  "event_creationDate": "2026-01-19T05:07:08.628232Z",
+  "event_endDate": "2026-01-27T04:59:00Z",
+  "event_id": "173761",
+  "event_startDate": "2026-01-19T05:07:08.628246Z",
+  "event_updatedAt": "2026-01-19T06:25:57.657347Z",
+  "folder_dt_utc": "2026-01-19T05:00:14.743118Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1217563",
+    "1217564",
+    "1217565",
+    "1217566",
+    "1217567",
+    "1217568",
+    "1217569",
+    "1217570",
+    "1217571",
+    "1217572",
+    "1217573"
+  ],
+  "markets_len": 11,
+  "series_ids": [
+    "10813"
+  ],
+  "series_len": 1,
+  "series_slug": "counter-strike-gloves-index-multistrike-weekly"
+}
