@@ -1,0 +1,24 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-20T16:21:17.464795Z",
+  "event_creationDate": "2026-01-20T16:31:18.399087Z",
+  "event_endDate": "2026-01-31T00:00:00Z",
+  "event_id": "177015",
+  "event_startDate": "2026-01-20T16:31:18.399112Z",
+  "event_updatedAt": "2026-01-20T18:23:15.617213Z",
+  "folder_dt_utc": "2026-01-20T16:21:17.464795Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1228372",
+    "1228373",
+    "1228374",
+    "1228375",
+    "1228376"
+  ],
+  "markets_len": 5,
+  "series_ids": [
+    "10887"
+  ],
+  "series_len": 1,
+  "series_slug": "how-many-different-countries-will-the-us-strike"
+}

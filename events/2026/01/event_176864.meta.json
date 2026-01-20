@@ -1,0 +1,39 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-20T14:57:32.747528Z",
+  "event_creationDate": "2026-01-20T18:15:19.269856Z",
+  "event_endDate": "2026-01-27T00:00:00Z",
+  "event_id": "176864",
+  "event_startDate": "2026-01-20T18:15:19.26987Z",
+  "event_updatedAt": "2026-01-20T18:23:11.805054Z",
+  "folder_dt_utc": "2026-01-20T14:57:32.747528Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1227742",
+    "1227743",
+    "1227744",
+    "1227745",
+    "1227746",
+    "1227747",
+    "1227748",
+    "1227749",
+    "1227750",
+    "1227751",
+    "1227752",
+    "1227753",
+    "1227754",
+    "1227755",
+    "1227756",
+    "1227757",
+    "1227758",
+    "1227759",
+    "1227760",
+    "1227761"
+  ],
+  "markets_len": 20,
+  "series_ids": [
+    "10720"
+  ],
+  "series_len": 1,
+  "series_slug": "2-netflix-movie"
+}

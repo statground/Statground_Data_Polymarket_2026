@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-20T16:02:48.546498Z",
+  "event_creationDate": "2026-01-20T16:59:42.388152Z",
+  "event_endDate": "2026-02-28T00:00:00Z",
+  "event_id": "176990",
+  "event_startDate": "2026-01-20T16:59:42.388157Z",
+  "event_updatedAt": "2026-01-20T18:23:17.806011Z",
+  "folder_dt_utc": "2026-01-20T16:02:48.546498Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1228086"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "10914"
+  ],
+  "series_len": 1,
+  "series_slug": "fraukger-strike-iran"
+}

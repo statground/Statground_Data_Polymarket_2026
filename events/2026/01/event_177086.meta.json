@@ -1,0 +1,30 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-20T17:00:09.093064Z",
+  "event_creationDate": "2026-01-20T17:11:27.489823Z",
+  "event_endDate": "2026-01-27T17:00:00Z",
+  "event_id": "177086",
+  "event_startDate": "2026-01-20T17:11:27.489831Z",
+  "event_updatedAt": "2026-01-20T18:23:14.887414Z",
+  "folder_dt_utc": "2026-01-20T17:00:09.093064Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1228482",
+    "1228484",
+    "1228486",
+    "1228488",
+    "1228490",
+    "1228495",
+    "1228497",
+    "1228498",
+    "1228499",
+    "1228501",
+    "1228500"
+  ],
+  "markets_len": 11,
+  "series_ids": [
+    "45"
+  ],
+  "series_len": 1,
+  "series_slug": "btc-multi-strikes-weekly"
+}

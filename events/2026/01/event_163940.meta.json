@@ -5,7 +5,7 @@
   "event_endDate": "2026-01-21T00:00:00Z",
   "event_id": "163940",
   "event_startDate": "2026-01-14T15:04:55.581352Z",
-  "event_updatedAt": "2026-01-20T12:29:26.928205Z",
+  "event_updatedAt": "2026-01-20T18:23:12.27545Z",
   "folder_dt_utc": "2026-01-14T15:00:30.346349Z",
   "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
@@ -13,9 +13,11 @@
     "1224424",
     "1224425",
     "1224426",
-    "1224427"
+    "1224427",
+    "1227548",
+    "1227549"
   ],
-  "markets_len": 5,
+  "markets_len": 7,
   "series_ids": [
     "10470"
   ],
