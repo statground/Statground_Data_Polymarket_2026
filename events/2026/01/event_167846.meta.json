@@ -1,0 +1,21 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-16T11:38:51.249397Z",
+  "event_creationDate": "2026-01-19T20:35:43.415012Z",
+  "event_endDate": "2026-01-31T00:00:00Z",
+  "event_id": "167846",
+  "event_startDate": "2026-01-19T20:35:43.415015Z",
+  "event_updatedAt": "2026-01-20T00:59:08.297715Z",
+  "folder_dt_utc": "2026-01-16T11:38:51.249397Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1197802",
+    "1197803"
+  ],
+  "markets_len": 2,
+  "series_ids": [
+    "10707"
+  ],
+  "series_len": 1,
+  "series_slug": "russia-strike-on-kyiv"
+}

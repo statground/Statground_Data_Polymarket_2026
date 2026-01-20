@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-19T17:59:43.370836Z",
+  "event_creationDate": "2026-01-19T18:33:39.397928Z",
+  "event_endDate": "2026-01-29T03:15:00Z",
+  "event_id": "175031",
+  "event_startDate": "2026-01-19T18:33:39.39793Z",
+  "event_updatedAt": "2026-01-20T00:59:08.41686Z",
+  "folder_dt_utc": "2026-01-19T17:59:43.370836Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1221545",
+    "1221546",
+    "1221544"
+  ],
+  "markets_len": 3,
+  "series_ids": [
+    "10912"
+  ],
+  "series_len": 1,
+  "series_slug": "womens-t20-world-cup-qualifier"
+}

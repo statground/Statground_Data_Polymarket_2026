@@ -1,0 +1,38 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-19T17:12:04.938039Z",
+  "event_creationDate": "2026-01-19T20:35:38.170453Z",
+  "event_endDate": "2026-02-28T00:00:00Z",
+  "event_id": "174902",
+  "event_startDate": "2026-01-19T20:35:38.170459Z",
+  "event_updatedAt": "2026-01-20T00:59:08.179142Z",
+  "folder_dt_utc": "2026-01-19T17:12:04.938039Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1221057",
+    "1221060",
+    "1221062",
+    "1221046",
+    "1221048",
+    "1221053",
+    "1221055",
+    "1221047",
+    "1221051",
+    "1221059",
+    "1221049",
+    "1221050",
+    "1221052",
+    "1221064",
+    "1221054",
+    "1221056",
+    "1221058",
+    "1221061",
+    "1221063"
+  ],
+  "markets_len": 19,
+  "series_ids": [
+    "10344"
+  ],
+  "series_len": 1,
+  "series_slug": "trump-monthly-meeting"
+}

@@ -1,0 +1,26 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-19T17:57:58.238516Z",
+  "event_creationDate": "2026-01-19T18:37:39.85096Z",
+  "event_endDate": "2026-01-23T00:00:00Z",
+  "event_id": "174981",
+  "event_startDate": "2026-01-19T18:37:39.850964Z",
+  "event_updatedAt": "2026-01-20T00:59:05.514627Z",
+  "folder_dt_utc": "2026-01-19T17:57:58.238516Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1221428",
+    "1221430",
+    "1221427",
+    "1221426",
+    "1221429",
+    "1221432",
+    "1221433"
+  ],
+  "markets_len": 7,
+  "series_ids": [
+    "10759"
+  ],
+  "series_len": 1,
+  "series_slug": "mag-7-weekly"
+}
