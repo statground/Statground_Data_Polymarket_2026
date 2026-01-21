@@ -1,0 +1,26 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-08T01:53:27.709093Z",
+  "event_creationDate": "2026-01-21T12:18:02.84306Z",
+  "event_endDate": "2027-01-10T00:00:00Z",
+  "event_id": "150199",
+  "event_startDate": "2026-01-21T12:18:02.843069Z",
+  "event_updatedAt": "2026-01-21T12:29:08.803429Z",
+  "folder_dt_utc": "2026-01-08T01:53:27.709093Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1132822",
+    "1132823",
+    "1132827",
+    "1132825",
+    "1132820",
+    "1132824",
+    "1232504"
+  ],
+  "markets_len": 7,
+  "series_ids": [
+    "10889"
+  ],
+  "series_len": 1,
+  "series_slug": "inflation-argentina-annual"
+}
