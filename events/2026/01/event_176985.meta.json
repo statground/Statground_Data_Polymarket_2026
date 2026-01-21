@@ -1,0 +1,39 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-20T16:00:18.954719Z",
+  "event_creationDate": "2026-01-20T18:39:45.787474Z",
+  "event_endDate": "2026-01-27T00:00:00Z",
+  "event_id": "176985",
+  "event_startDate": "2026-01-20T18:39:45.787504Z",
+  "event_updatedAt": "2026-01-21T01:04:02.694602Z",
+  "folder_dt_utc": "2026-01-20T16:00:18.954719Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1228060",
+    "1228061",
+    "1228062",
+    "1228063",
+    "1228066",
+    "1228067",
+    "1228068",
+    "1228069",
+    "1228070",
+    "1228071",
+    "1228072",
+    "1228073",
+    "1228074",
+    "1228075",
+    "1228076",
+    "1228077",
+    "1228078",
+    "1228079",
+    "1228080",
+    "1228081"
+  ],
+  "markets_len": 20,
+  "series_ids": [
+    "10440"
+  ],
+  "series_len": 1,
+  "series_slug": "top-netflix-show-week"
+}
