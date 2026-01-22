@@ -1,0 +1,28 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-15T18:13:57.714504Z",
+  "event_creationDate": "2026-01-22T00:33:29.53146Z",
+  "event_endDate": "2027-01-31T00:00:00Z",
+  "event_id": "166465",
+  "event_startDate": "2026-01-22T00:33:29.531464Z",
+  "event_updatedAt": "2026-01-22T06:23:04.917406Z",
+  "folder_dt_utc": "2026-01-15T18:13:57.714504Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1193303",
+    "1193308",
+    "1193311",
+    "1193304",
+    "1193305",
+    "1193309",
+    "1193306",
+    "1193310",
+    "1193307"
+  ],
+  "markets_len": 9,
+  "series_ids": [
+    "10895"
+  ],
+  "series_len": 1,
+  "series_slug": "eurozone-gdp"
+}
