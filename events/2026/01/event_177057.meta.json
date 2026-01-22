@@ -1,0 +1,26 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-20T16:48:37.89787Z",
+  "event_creationDate": "2026-01-22T00:15:00.960516Z",
+  "event_endDate": "2026-04-17T00:00:00Z",
+  "event_id": "177057",
+  "event_startDate": "2026-01-22T00:15:00.96052Z",
+  "event_updatedAt": "2026-01-22T01:05:02.820309Z",
+  "folder_dt_utc": "2026-01-20T16:48:37.897870Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1228428",
+    "1228429",
+    "1228430",
+    "1228431",
+    "1228432",
+    "1228433",
+    "1228434"
+  ],
+  "markets_len": 7,
+  "series_ids": [
+    "10894"
+  ],
+  "series_len": 1,
+  "series_slug": "china-gdp"
+}

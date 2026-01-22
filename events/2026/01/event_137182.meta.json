@@ -1,0 +1,27 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-01T17:08:58.309121Z",
+  "event_creationDate": "2026-01-22T00:25:16.105481Z",
+  "event_endDate": "2027-01-18T00:00:00Z",
+  "event_id": "137182",
+  "event_startDate": "2026-01-22T00:25:16.105491Z",
+  "event_updatedAt": "2026-01-22T01:02:01.37942Z",
+  "folder_dt_utc": "2026-01-01T17:08:58.309121Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1082179",
+    "1082177",
+    "1082178",
+    "1082180",
+    "1082181",
+    "1082182",
+    "1236862",
+    "1236870"
+  ],
+  "markets_len": 8,
+  "series_ids": [
+    "10835"
+  ],
+  "series_len": 1,
+  "series_slug": "inflation-canada-annual"
+}

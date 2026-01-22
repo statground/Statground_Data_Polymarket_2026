@@ -5,14 +5,16 @@
   "event_endDate": "2026-01-31T00:00:00Z",
   "event_id": "175522",
   "event_startDate": "2026-01-20T19:17:50.093372Z",
-  "event_updatedAt": "2026-01-21T12:29:14.33869Z",
+  "event_updatedAt": "2026-01-22T01:02:01.423833Z",
   "folder_dt_utc": "2026-01-19T23:11:50.148611Z",
   "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1223572"
   ],
   "markets_len": 1,
-  "series_ids": [],
-  "series_len": 0,
-  "series_slug": null
+  "series_ids": [
+    "10955"
+  ],
+  "series_len": 1,
+  "series_slug": "hungary-pm-deriv"
 }

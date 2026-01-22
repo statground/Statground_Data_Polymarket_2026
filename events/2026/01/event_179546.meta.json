@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-21T19:40:41.887199Z",
+  "event_creationDate": "2026-01-21T23:01:29.168724Z",
+  "event_endDate": "2026-12-31T00:00:00Z",
+  "event_id": "179546",
+  "event_startDate": "2026-01-21T23:01:29.168727Z",
+  "event_updatedAt": "2026-01-22T01:02:02.470259Z",
+  "folder_dt_utc": "2026-01-21T19:40:41.887199Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1236459"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "10962"
+  ],
+  "series_len": 1,
+  "series_slug": "greenland-deal"
+}
