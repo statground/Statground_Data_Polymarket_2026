@@ -1,0 +1,24 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-22T19:00:07.15619Z",
+  "event_creationDate": "2026-01-22T19:03:29.094256Z",
+  "event_endDate": "2026-02-04T19:45:00Z",
+  "event_id": "181632",
+  "event_startDate": "2026-01-22T19:03:29.094262Z",
+  "event_updatedAt": "2026-01-23T01:19:12.125067Z",
+  "folder_dt_utc": "2026-01-22T19:00:07.156190Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1243649",
+    "1243650",
+    "1243651",
+    "1243652",
+    "1243653"
+  ],
+  "markets_len": 5,
+  "series_ids": [
+    "10317"
+  ],
+  "series_len": 1,
+  "series_slug": "dfb-pokal"
+}
