@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-22T16:56:10.355299Z",
+  "event_creationDate": "2026-01-23T15:28:06.689645Z",
+  "event_endDate": "2026-03-26T00:00:00Z",
+  "event_id": "181453",
+  "event_startDate": "2026-01-23T15:28:06.689652Z",
+  "event_updatedAt": "2026-01-23T18:19:33.36129Z",
+  "folder_dt_utc": "2026-01-22T16:56:10.355299Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1242883",
+    "1242884",
+    "1242885"
+  ],
+  "markets_len": 3,
+  "series_ids": [
+    "10963"
+  ],
+  "series_len": 1,
+  "series_slug": "south-africa-reserve-bank-decision"
+}

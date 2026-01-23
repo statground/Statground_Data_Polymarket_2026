@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-23T13:00:12.74312Z",
+  "event_creationDate": "2026-01-26T14:30:00Z",
+  "event_endDate": "2026-01-26T21:00:00Z",
+  "event_id": "183093",
+  "event_startDate": "2026-01-23T13:05:24.61773Z",
+  "event_updatedAt": "2026-01-23T18:19:37.160287Z",
+  "folder_dt_utc": "2026-01-23T13:00:12.743120Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1248851"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "10388"
+  ],
+  "series_len": 1,
+  "series_slug": "russell-2000-daily-up-or-down"
+}

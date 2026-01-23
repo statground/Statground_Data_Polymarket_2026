@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-23T15:02:17.920081Z",
+  "event_creationDate": "2026-01-23T15:11:28.801174Z",
+  "event_endDate": "2026-01-31T00:00:00Z",
+  "event_id": "183420",
+  "event_startDate": "2026-01-23T15:11:28.80118Z",
+  "event_updatedAt": "2026-01-23T18:19:34.775762Z",
+  "folder_dt_utc": "2026-01-23T15:02:17.920081Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1249557"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "10111"
+  ],
+  "series_len": 1,
+  "series_slug": "trump-approval-binary"
+}
