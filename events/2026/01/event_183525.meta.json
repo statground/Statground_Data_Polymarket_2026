@@ -1,0 +1,23 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-23T16:23:59.68782Z",
+  "event_creationDate": "2026-01-23T23:25:45.201545Z",
+  "event_endDate": "2026-04-28T00:00:00Z",
+  "event_id": "183525",
+  "event_startDate": "2026-01-23T23:25:45.201556Z",
+  "event_updatedAt": "2026-01-24T00:59:21.291436Z",
+  "folder_dt_utc": "2026-01-23T16:23:59.687820Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1249979",
+    "1249980",
+    "1249981",
+    "1249982"
+  ],
+  "markets_len": 4,
+  "series_ids": [
+    "10474"
+  ],
+  "series_len": 1,
+  "series_slug": "bank-of-japan"
+}

@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-23T18:48:27.116198Z",
+  "event_creationDate": "2026-01-23T20:39:18.007485Z",
+  "event_endDate": "2026-02-01T12:00:00Z",
+  "event_id": "183832",
+  "event_startDate": "2026-01-23T20:39:18.007494Z",
+  "event_updatedAt": "2026-01-24T01:01:29.716743Z",
+  "folder_dt_utc": "2026-01-23T18:48:27.116198Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1251097",
+    "1251098",
+    "1251099"
+  ],
+  "markets_len": 3,
+  "series_ids": [
+    "10970"
+  ],
+  "series_len": 1,
+  "series_slug": "czechia-1"
+}

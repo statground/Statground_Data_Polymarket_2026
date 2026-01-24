@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-23T18:50:41.158803Z",
+  "event_creationDate": "2026-01-23T20:41:24.133048Z",
+  "event_endDate": "2026-02-02T15:00:00Z",
+  "event_id": "183900",
+  "event_startDate": "2026-01-23T20:41:24.133061Z",
+  "event_updatedAt": "2026-01-24T01:01:27.59772Z",
+  "folder_dt_utc": "2026-01-23T18:50:41.158803Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1251292",
+    "1251293",
+    "1251294"
+  ],
+  "markets_len": 3,
+  "series_ids": [
+    "10968"
+  ],
+  "series_len": 1,
+  "series_slug": "morocco-1"
+}

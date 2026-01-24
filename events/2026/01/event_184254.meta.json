@@ -1,0 +1,24 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-23T21:29:40.799825Z",
+  "event_creationDate": "2026-01-23T21:35:46.944457Z",
+  "event_endDate": "2026-01-25T12:30:00Z",
+  "event_id": "184254",
+  "event_startDate": "2026-01-23T21:35:46.94446Z",
+  "event_updatedAt": "2026-01-24T00:59:22.255342Z",
+  "folder_dt_utc": "2026-01-23T21:29:40.799825Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1252826",
+    "1252828",
+    "1252827",
+    "1252829",
+    "1252830"
+  ],
+  "markets_len": 5,
+  "series_ids": [
+    "10971"
+  ],
+  "series_len": 1,
+  "series_slug": "romania-1"
+}
