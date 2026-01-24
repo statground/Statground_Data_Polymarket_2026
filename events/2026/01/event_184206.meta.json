@@ -1,0 +1,24 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-23T21:27:08.114271Z",
+  "event_creationDate": "2026-01-23T21:31:47.523763Z",
+  "event_endDate": "2026-02-05T15:00:00Z",
+  "event_id": "184206",
+  "event_startDate": "2026-01-23T21:31:47.52377Z",
+  "event_updatedAt": "2026-01-24T06:15:48.226615Z",
+  "folder_dt_utc": "2026-01-23T21:27:08.114271Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1252603",
+    "1252602",
+    "1252604",
+    "1252605",
+    "1252606"
+  ],
+  "markets_len": 5,
+  "series_ids": [
+    "10969"
+  ],
+  "series_len": 1,
+  "series_slug": "egypt-1"
+}
