@@ -1,0 +1,21 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-24T18:57:03.573802Z",
+  "event_creationDate": "2026-01-25T07:30:00Z",
+  "event_endDate": "2026-02-01T07:30:00Z",
+  "event_id": "186080",
+  "event_startDate": "2026-01-24T19:05:28.559263Z",
+  "event_updatedAt": "2026-01-25T01:08:57.476314Z",
+  "folder_dt_utc": "2026-01-24T18:57:03.573802Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1260020",
+    "1260021"
+  ],
+  "markets_len": 2,
+  "series_ids": [
+    "10907"
+  ],
+  "series_len": 1,
+  "series_slug": "cricket-u19-world-cup"
+}

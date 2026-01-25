@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-24T18:58:31.561192Z",
+  "event_creationDate": "2026-01-24T19:25:07.572051Z",
+  "event_endDate": "2026-02-01T04:30:00Z",
+  "event_id": "186123",
+  "event_startDate": "2026-01-24T19:25:07.572056Z",
+  "event_updatedAt": "2026-01-25T01:09:00.694148Z",
+  "folder_dt_utc": "2026-01-24T18:58:31.561192Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1260134",
+    "1260136",
+    "1260135"
+  ],
+  "markets_len": 3,
+  "series_ids": [
+    "10911"
+  ],
+  "series_len": 1,
+  "series_slug": "bhutan-tri-series"
+}
