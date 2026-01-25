@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-25T17:00:23.254834Z",
+  "event_creationDate": "2026-01-25T17:21:05.119542Z",
+  "event_endDate": "2026-02-22T03:30:00Z",
+  "event_id": "188325",
+  "event_startDate": "2026-01-25T17:21:05.119544Z",
+  "event_updatedAt": "2026-01-25T18:19:00.6653Z",
+  "folder_dt_utc": "2026-01-25T17:00:23.254834Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1266512",
+    "1266513",
+    "1266514"
+  ],
+  "markets_len": 3,
+  "series_ids": [
+    "10189"
+  ],
+  "series_len": 1,
+  "series_slug": "mls-2025"
+}
