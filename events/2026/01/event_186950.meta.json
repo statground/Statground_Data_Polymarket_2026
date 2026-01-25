@@ -1,0 +1,33 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-25T05:00:14.824917Z",
+  "event_creationDate": "2026-01-25T05:15:14.229275Z",
+  "event_endDate": "2026-03-01T04:59:59.999Z",
+  "event_id": "186950",
+  "event_startDate": "2026-01-25T05:15:14.229289Z",
+  "event_updatedAt": "2026-01-25T06:17:44.899753Z",
+  "folder_dt_utc": "2026-01-25T05:00:14.824917Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1262824",
+    "1262825",
+    "1262826",
+    "1262827",
+    "1262828",
+    "1262829",
+    "1262830",
+    "1262831",
+    "1262832",
+    "1262833",
+    "1262834",
+    "1262835",
+    "1262836",
+    "1262837"
+  ],
+  "markets_len": 14,
+  "series_ids": [
+    "10481"
+  ],
+  "series_len": 1,
+  "series_slug": "tesla-hit-price-monthly"
+}

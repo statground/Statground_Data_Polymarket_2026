@@ -1,0 +1,33 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-25T05:00:20.817048Z",
+  "event_creationDate": "2026-01-25T05:17:06.451495Z",
+  "event_endDate": "2026-03-01T04:59:59.999Z",
+  "event_id": "186966",
+  "event_startDate": "2026-01-25T05:17:06.451498Z",
+  "event_updatedAt": "2026-01-25T06:15:45.85021Z",
+  "folder_dt_utc": "2026-01-25T05:00:20.817048Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1262900",
+    "1262901",
+    "1262902",
+    "1262903",
+    "1262904",
+    "1262905",
+    "1262906",
+    "1262907",
+    "1262908",
+    "1262909",
+    "1262910",
+    "1262911",
+    "1262912",
+    "1262914"
+  ],
+  "markets_len": 14,
+  "series_ids": [
+    "10485"
+  ],
+  "series_len": 1,
+  "series_slug": "opendoor-hit-price-monthly"
+}

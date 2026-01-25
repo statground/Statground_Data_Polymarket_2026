@@ -1,0 +1,33 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-25T05:00:08.994361Z",
+  "event_creationDate": "2026-01-25T05:03:29.949447Z",
+  "event_endDate": "2026-03-01T04:59:59.999Z",
+  "event_id": "186927",
+  "event_startDate": "2026-01-25T05:03:29.949452Z",
+  "event_updatedAt": "2026-01-25T06:17:44.088336Z",
+  "folder_dt_utc": "2026-01-25T05:00:08.994361Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1262727",
+    "1262728",
+    "1262731",
+    "1262733",
+    "1262734",
+    "1262736",
+    "1262737",
+    "1262738",
+    "1262739",
+    "1262740",
+    "1262741",
+    "1262742",
+    "1262743",
+    "1262745"
+  ],
+  "markets_len": 14,
+  "series_ids": [
+    "10477"
+  ],
+  "series_len": 1,
+  "series_slug": "microsoft-hit-price-monthly"
+}
