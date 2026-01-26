@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-25T20:00:16.260783Z",
+  "event_creationDate": "2026-01-25T20:15:24.301788Z",
+  "event_endDate": "2026-02-08T23:00:00Z",
+  "event_id": "188591",
+  "event_startDate": "2026-01-25T20:15:24.301792Z",
+  "event_updatedAt": "2026-01-26T01:07:43.344719Z",
+  "folder_dt_utc": "2026-01-25T20:00:16.260783Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1267365",
+    "1267366",
+    "1267367"
+  ],
+  "markets_len": 3,
+  "series_ids": [
+    "10967"
+  ],
+  "series_len": 1,
+  "series_slug": "liga-1"
+}
