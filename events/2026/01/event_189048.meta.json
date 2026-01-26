@@ -1,0 +1,33 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-26T05:00:12.507163Z",
+  "event_creationDate": "2026-01-26T05:15:14.315223Z",
+  "event_endDate": "2026-02-02T05:00:00Z",
+  "event_id": "189048",
+  "event_startDate": "2026-01-26T05:15:14.315228Z",
+  "event_updatedAt": "2026-01-26T06:23:29.087541Z",
+  "folder_dt_utc": "2026-01-26T05:00:12.507163Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1269741",
+    "1269742",
+    "1269743",
+    "1269745",
+    "1269746",
+    "1269748",
+    "1269749",
+    "1269751",
+    "1269752",
+    "1269753",
+    "1269754",
+    "1269755",
+    "1269756",
+    "1269757"
+  ],
+  "markets_len": 14,
+  "series_ids": [
+    "10170"
+  ],
+  "series_len": 1,
+  "series_slug": "solana-hit-price-weekly"
+}

@@ -1,0 +1,33 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-26T05:00:10.17978Z",
+  "event_creationDate": "2026-01-26T05:15:14.296153Z",
+  "event_endDate": "2026-02-02T05:00:00Z",
+  "event_id": "189030",
+  "event_startDate": "2026-01-26T05:15:14.296157Z",
+  "event_updatedAt": "2026-01-26T06:23:28.683989Z",
+  "folder_dt_utc": "2026-01-26T05:00:10.179780Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1269693",
+    "1269696",
+    "1269681",
+    "1269683",
+    "1269692",
+    "1269712",
+    "1269686",
+    "1269690",
+    "1269694",
+    "1269699",
+    "1269705",
+    "1269708",
+    "1269710",
+    "1269714"
+  ],
+  "markets_len": 14,
+  "series_ids": [
+    "10152"
+  ],
+  "series_len": 1,
+  "series_slug": "ethereum-hit-price-weekly"
+}
