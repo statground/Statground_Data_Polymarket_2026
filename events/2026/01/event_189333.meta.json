@@ -1,0 +1,24 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-26T13:00:11.103799Z",
+  "event_creationDate": "2026-01-27T14:30:00Z",
+  "event_endDate": "2026-01-27T21:00:00Z",
+  "event_id": "189333",
+  "event_startDate": "2026-01-26T13:04:58.350982Z",
+  "event_updatedAt": "2026-01-26T18:20:03.78854Z",
+  "folder_dt_utc": "2026-01-26T13:00:11.103799Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1270999",
+    "1271000",
+    "1271001",
+    "1271003",
+    "1271004"
+  ],
+  "markets_len": 5,
+  "series_ids": [
+    "10948"
+  ],
+  "series_len": 1,
+  "series_slug": "amzn-multi-strikes-weekly"
+}
