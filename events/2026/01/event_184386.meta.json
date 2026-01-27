@@ -1,0 +1,30 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-23T23:00:11.035175Z",
+  "event_creationDate": "2026-01-26T19:01:28.129912Z",
+  "event_endDate": "2026-01-30T21:00:00Z",
+  "event_id": "184386",
+  "event_startDate": "2026-01-26T19:01:28.129918Z",
+  "event_updatedAt": "2026-01-27T01:05:06.474279Z",
+  "folder_dt_utc": "2026-01-23T23:00:11.035175Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1253330",
+    "1253331",
+    "1253334",
+    "1253336",
+    "1253337",
+    "1253338",
+    "1253339",
+    "1253340",
+    "1253341",
+    "1253342",
+    "1253343"
+  ],
+  "markets_len": 11,
+  "series_ids": [
+    "10636"
+  ],
+  "series_len": 1,
+  "series_slug": "meta-neg-risk-weekly"
+}

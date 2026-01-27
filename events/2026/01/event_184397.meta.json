@@ -1,0 +1,26 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-23T23:01:09.634417Z",
+  "event_creationDate": "2026-01-23T23:01:09.628Z",
+  "event_endDate": "2026-01-30T21:00:00Z",
+  "event_id": "184397",
+  "event_startDate": "2026-01-23T23:01:09.628Z",
+  "event_updatedAt": "2026-01-27T01:05:06.082001Z",
+  "folder_dt_utc": "2026-01-23T23:01:09.634417Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1253579",
+    "1253584",
+    "1253589",
+    "1253594",
+    "1253599",
+    "1253604",
+    "1253609"
+  ],
+  "markets_len": 7,
+  "series_ids": [
+    "10499"
+  ],
+  "series_len": 1,
+  "series_slug": "nvidia-multi-strikes-weekly"
+}

@@ -1,0 +1,25 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-26T01:47:54.589328Z",
+  "event_creationDate": "2026-01-26T23:03:23.45868Z",
+  "event_endDate": "2026-02-17T00:00:00Z",
+  "event_id": "188924",
+  "event_startDate": "2026-01-26T23:03:23.458686Z",
+  "event_updatedAt": "2026-01-27T01:05:06.533542Z",
+  "folder_dt_utc": "2026-01-26T01:47:54.589328Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1269103",
+    "1269108",
+    "1269104",
+    "1269106",
+    "1269105",
+    "1269107"
+  ],
+  "markets_len": 6,
+  "series_ids": [
+    "10783"
+  ],
+  "series_len": 1,
+  "series_slug": "unemployment-rate-uk"
+}

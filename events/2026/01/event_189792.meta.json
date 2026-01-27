@@ -1,0 +1,33 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-26T21:56:24.620122Z",
+  "event_creationDate": "2026-01-26T22:57:15.50331Z",
+  "event_endDate": "2026-02-28T00:00:00Z",
+  "event_id": "189792",
+  "event_startDate": "2026-01-26T22:57:15.503327Z",
+  "event_updatedAt": "2026-01-27T01:05:06.568886Z",
+  "folder_dt_utc": "2026-01-26T21:56:24.620122Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1273327",
+    "1273329",
+    "1273331",
+    "1273333",
+    "1273335",
+    "1273339",
+    "1273341",
+    "1273328",
+    "1273330",
+    "1273332",
+    "1273334",
+    "1273336",
+    "1273338",
+    "1273340"
+  ],
+  "markets_len": 14,
+  "series_ids": [
+    "10802"
+  ],
+  "series_len": 1,
+  "series_slug": "what-will-gold-gc-hit"
+}

@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-26T20:00:12.450734Z",
+  "event_creationDate": "2026-01-26T20:09:52.415854Z",
+  "event_endDate": "2026-02-23T01:20:00Z",
+  "event_id": "189729",
+  "event_startDate": "2026-01-26T20:09:52.415856Z",
+  "event_updatedAt": "2026-01-27T01:05:07.144491Z",
+  "folder_dt_utc": "2026-01-26T20:00:12.450734Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1272763",
+    "1272766",
+    "1272761"
+  ],
+  "markets_len": 3,
+  "series_ids": [
+    "10964"
+  ],
+  "series_len": 1,
+  "series_slug": "primera-a"
+}

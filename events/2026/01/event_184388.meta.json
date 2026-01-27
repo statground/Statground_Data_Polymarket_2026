@@ -1,0 +1,30 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-23T23:00:13.433546Z",
+  "event_creationDate": "2026-01-26T18:57:15.384563Z",
+  "event_endDate": "2026-01-30T21:00:00Z",
+  "event_id": "184388",
+  "event_startDate": "2026-01-26T18:57:15.384577Z",
+  "event_updatedAt": "2026-01-27T01:05:06.254239Z",
+  "folder_dt_utc": "2026-01-23T23:00:13.433546Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1253361",
+    "1253362",
+    "1253363",
+    "1253364",
+    "1253365",
+    "1253366",
+    "1253367",
+    "1253368",
+    "1253369",
+    "1253370",
+    "1253371"
+  ],
+  "markets_len": 11,
+  "series_ids": [
+    "10638"
+  ],
+  "series_len": 1,
+  "series_slug": "nvda-neg-risk-weekly"
+}
