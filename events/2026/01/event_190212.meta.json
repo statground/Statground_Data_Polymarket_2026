@@ -1,0 +1,26 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-27T11:00:25.010383Z",
+  "event_creationDate": "2026-01-27T11:21:24.472516Z",
+  "event_endDate": "2026-01-29T12:00:00Z",
+  "event_id": "190212",
+  "event_startDate": "2026-01-27T11:21:24.472527Z",
+  "event_updatedAt": "2026-01-27T12:23:23.694808Z",
+  "folder_dt_utc": "2026-01-27T11:00:25.010383Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1276593",
+    "1276594",
+    "1276595",
+    "1276596",
+    "1276597",
+    "1276598",
+    "1276599"
+  ],
+  "markets_len": 7,
+  "series_ids": [
+    "10727"
+  ],
+  "series_len": 1,
+  "series_slug": "dallas-daily-weather"
+}
