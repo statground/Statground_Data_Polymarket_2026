@@ -1,0 +1,28 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-27T05:00:10.151916Z",
+  "event_creationDate": "2026-01-28T00:00:00Z",
+  "event_endDate": "2026-02-11T00:00:00Z",
+  "event_id": "190000",
+  "event_startDate": "2026-01-27T05:03:37.019034Z",
+  "event_updatedAt": "2026-01-27T06:20:09.372882Z",
+  "folder_dt_utc": "2026-01-27T05:00:10.151916Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1275238",
+    "1275471",
+    "1275473",
+    "1275475",
+    "1275472",
+    "1275474",
+    "1275476",
+    "1275470",
+    "1275469"
+  ],
+  "markets_len": 9,
+  "series_ids": [
+    "10366"
+  ],
+  "series_len": 1,
+  "series_slug": "wta"
+}
