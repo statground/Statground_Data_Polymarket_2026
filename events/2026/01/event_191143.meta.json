@@ -1,0 +1,26 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-28T11:00:42.942611Z",
+  "event_creationDate": "2026-01-28T11:19:02.848376Z",
+  "event_endDate": "2026-01-30T12:00:00Z",
+  "event_id": "191143",
+  "event_startDate": "2026-01-28T11:19:02.848389Z",
+  "event_updatedAt": "2026-01-28T12:29:55.08442Z",
+  "folder_dt_utc": "2026-01-28T11:00:42.942611Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1282100",
+    "1282101",
+    "1282102",
+    "1282103",
+    "1282104",
+    "1282105",
+    "1282106"
+  ],
+  "markets_len": 7,
+  "series_ids": [
+    "10900"
+  ],
+  "series_len": 1,
+  "series_slug": "ankara-daily-weather"
+}
