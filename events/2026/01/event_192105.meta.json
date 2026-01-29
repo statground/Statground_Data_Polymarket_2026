@@ -1,0 +1,32 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-29T02:12:54.378179Z",
+  "event_creationDate": "2026-01-29T02:57:09.995473Z",
+  "event_endDate": "2026-03-01T05:00:00Z",
+  "event_id": "192105",
+  "event_startDate": "2026-01-29T02:57:09.995486Z",
+  "event_updatedAt": "2026-01-29T06:35:16.302012Z",
+  "folder_dt_utc": "2026-01-29T02:12:54.378179Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1289200",
+    "1289201",
+    "1289202",
+    "1289203",
+    "1289192",
+    "1289191",
+    "1289193",
+    "1289194",
+    "1289195",
+    "1289196",
+    "1289197",
+    "1289198",
+    "1289199"
+  ],
+  "markets_len": 13,
+  "series_ids": [
+    "10935"
+  ],
+  "series_len": 1,
+  "series_slug": "sga-prizm-184-multistrike-monthly"
+}

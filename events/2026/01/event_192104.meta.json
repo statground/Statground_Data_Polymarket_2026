@@ -1,0 +1,32 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-29T02:12:47.415698Z",
+  "event_creationDate": "2026-01-29T02:59:03.46049Z",
+  "event_endDate": "2026-03-01T05:00:00Z",
+  "event_id": "192104",
+  "event_startDate": "2026-01-29T02:59:03.460502Z",
+  "event_updatedAt": "2026-01-29T06:35:07.648686Z",
+  "folder_dt_utc": "2026-01-29T02:12:47.415698Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1289181",
+    "1289183",
+    "1289185",
+    "1289186",
+    "1289189",
+    "1289178",
+    "1289179",
+    "1289180",
+    "1289182",
+    "1289184",
+    "1289187",
+    "1289188",
+    "1289190"
+  ],
+  "markets_len": 13,
+  "series_ids": [
+    "10932"
+  ],
+  "series_len": 1,
+  "series_slug": "ohtani-bowman-49-multistrike-monthly"
+}

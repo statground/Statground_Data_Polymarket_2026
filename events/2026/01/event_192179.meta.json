@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-29T05:00:18.458939Z",
+  "event_creationDate": "2026-01-29T05:11:32.846244Z",
+  "event_endDate": "2026-02-12T02:30:00Z",
+  "event_id": "192179",
+  "event_startDate": "2026-01-29T05:11:32.846248Z",
+  "event_updatedAt": "2026-01-29T06:35:13.648685Z",
+  "folder_dt_utc": "2026-01-29T05:00:18.458939Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1290014",
+    "1290015",
+    "1290016"
+  ],
+  "markets_len": 3,
+  "series_ids": [
+    "10752"
+  ],
+  "series_len": 1,
+  "series_slug": "cricket-australia"
+}

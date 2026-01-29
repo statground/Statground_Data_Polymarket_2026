@@ -1,0 +1,35 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-28T01:01:22.538575Z",
+  "event_creationDate": "2026-01-29T03:31:09.291455Z",
+  "event_endDate": "2026-02-14T00:00:00Z",
+  "event_id": "190791",
+  "event_startDate": "2026-01-29T03:31:09.291469Z",
+  "event_updatedAt": "2026-01-29T06:35:11.551812Z",
+  "folder_dt_utc": "2026-01-28T01:01:22.538575Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1280363",
+    "1280369",
+    "1280372",
+    "1280371",
+    "1280373",
+    "1280362",
+    "1280366",
+    "1280368",
+    "1280359",
+    "1280360",
+    "1280361",
+    "1280364",
+    "1280365",
+    "1280367",
+    "1280370",
+    "1280374"
+  ],
+  "markets_len": 16,
+  "series_ids": [
+    "10982"
+  ],
+  "series_len": 1,
+  "series_slug": "grok-4pt20-release-on"
+}

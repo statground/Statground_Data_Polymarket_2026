@@ -1,0 +1,32 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-29T02:12:40.079327Z",
+  "event_creationDate": "2026-01-29T02:57:07.318361Z",
+  "event_endDate": "2026-03-01T05:00:00Z",
+  "event_id": "192103",
+  "event_startDate": "2026-01-29T02:57:07.318371Z",
+  "event_updatedAt": "2026-01-29T06:35:12.317572Z",
+  "folder_dt_utc": "2026-01-29T02:12:40.079327Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1289165",
+    "1289166",
+    "1289167",
+    "1289168",
+    "1289169",
+    "1289170",
+    "1289171",
+    "1289172",
+    "1289173",
+    "1289174",
+    "1289175",
+    "1289176",
+    "1289177"
+  ],
+  "markets_len": 13,
+  "series_ids": [
+    "10934"
+  ],
+  "series_len": 1,
+  "series_slug": "jokic-prizm-335-multistrike-monthly"
+}

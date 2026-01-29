@@ -1,0 +1,24 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-29T06:00:22.852606Z",
+  "event_creationDate": "2026-01-29T06:09:04.706281Z",
+  "event_endDate": "2026-02-11T19:30:00Z",
+  "event_id": "192213",
+  "event_startDate": "2026-01-29T06:09:04.70629Z",
+  "event_updatedAt": "2026-01-29T06:35:16.269131Z",
+  "folder_dt_utc": "2026-01-29T06:00:22.852606Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1290391",
+    "1290394",
+    "1290395",
+    "1290396",
+    "1290397"
+  ],
+  "markets_len": 5,
+  "series_ids": [
+    "10188"
+  ],
+  "series_len": 1,
+  "series_slug": "premier-league-2025"
+}
