@@ -1,0 +1,24 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-28T13:00:20.524426Z",
+  "event_creationDate": "2026-01-29T14:30:00Z",
+  "event_endDate": "2026-01-29T21:00:00Z",
+  "event_id": "191225",
+  "event_startDate": "2026-01-28T13:05:03.784352Z",
+  "event_updatedAt": "2026-01-29T01:09:13.47899Z",
+  "folder_dt_utc": "2026-01-28T13:00:20.524426Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1282334",
+    "1282335",
+    "1282336",
+    "1282337",
+    "1282338"
+  ],
+  "markets_len": 5,
+  "series_ids": [
+    "10953"
+  ],
+  "series_len": 1,
+  "series_slug": "nvda-multi-strikes-weekly"
+}

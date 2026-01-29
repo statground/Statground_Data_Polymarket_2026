@@ -1,0 +1,30 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-28T16:45:05.826872Z",
+  "event_creationDate": "2026-01-29T01:07:21.197645Z",
+  "event_endDate": "2026-03-01T05:00:00Z",
+  "event_id": "191769",
+  "event_startDate": "2026-01-29T01:07:21.197666Z",
+  "event_updatedAt": "2026-01-29T01:09:14.8312Z",
+  "folder_dt_utc": "2026-01-28T16:45:05.826872Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1285715",
+    "1285716",
+    "1285717",
+    "1285718",
+    "1285719",
+    "1285720",
+    "1285721",
+    "1285722",
+    "1285723",
+    "1285724",
+    "1285725"
+  ],
+  "markets_len": 11,
+  "series_ids": [
+    "10938"
+  ],
+  "series_len": 1,
+  "series_slug": "counter-strike-knife-index-multistrike-monthly"
+}
