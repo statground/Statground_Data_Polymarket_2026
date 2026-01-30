@@ -1,0 +1,24 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-30T00:30:09.251468Z",
+  "event_creationDate": "2026-01-30T00:33:11.847299Z",
+  "event_endDate": "2026-02-11T19:45:00Z",
+  "event_id": "192974",
+  "event_startDate": "2026-01-30T00:33:11.847308Z",
+  "event_updatedAt": "2026-01-30T01:08:07.827179Z",
+  "folder_dt_utc": "2026-01-30T00:30:09.251468Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1297012",
+    "1297013",
+    "1297014",
+    "1297015",
+    "1297016"
+  ],
+  "markets_len": 5,
+  "series_ids": [
+    "10674"
+  ],
+  "series_len": 1,
+  "series_slug": "scottish-premiership"
+}

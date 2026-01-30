@@ -5,14 +5,16 @@
   "event_endDate": "2026-02-03T14:00:00Z",
   "event_id": "177585",
   "event_startDate": "2026-01-20T21:09:54.315404Z",
-  "event_updatedAt": "2026-01-29T18:31:23.850776Z",
+  "event_updatedAt": "2026-01-30T01:08:04.502442Z",
   "folder_dt_utc": "2026-01-20T21:03:39.610421Z",
   "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1230453"
   ],
   "markets_len": 1,
-  "series_ids": [],
-  "series_len": 0,
-  "series_slug": null
+  "series_ids": [
+    "10995"
+  ],
+  "series_len": 1,
+  "series_slug": "mpc-earnings"
 }
