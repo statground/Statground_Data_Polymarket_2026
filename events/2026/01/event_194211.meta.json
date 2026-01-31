@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-31T05:00:53.640195Z",
+  "event_creationDate": "2026-01-31T05:15:17.569977Z",
+  "event_endDate": "2026-02-12T11:30:00Z",
+  "event_id": "194211",
+  "event_startDate": "2026-01-31T05:15:17.569982Z",
+  "event_updatedAt": "2026-01-31T06:25:36.732519Z",
+  "folder_dt_utc": "2026-01-31T05:00:53.640195Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1304560",
+    "1304561",
+    "1304562"
+  ],
+  "markets_len": 3,
+  "series_ids": [
+    "10528"
+  ],
+  "series_len": 1,
+  "series_slug": "international-cricket"
+}

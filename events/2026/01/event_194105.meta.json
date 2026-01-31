@@ -1,0 +1,38 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-31T02:13:32.21609Z",
+  "event_creationDate": "2026-01-31T02:27:12.2391Z",
+  "event_endDate": "2026-03-01T05:00:00Z",
+  "event_id": "194105",
+  "event_startDate": "2026-01-31T02:27:12.239116Z",
+  "event_updatedAt": "2026-01-31T06:25:39.581767Z",
+  "folder_dt_utc": "2026-01-31T02:13:32.216090Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1303416",
+    "1303356",
+    "1303360",
+    "1303409",
+    "1303364",
+    "1303394",
+    "1303368",
+    "1303371",
+    "1303375",
+    "1303398",
+    "1303391",
+    "1303378",
+    "1303401",
+    "1303388",
+    "1303382",
+    "1303405",
+    "1303415",
+    "1303385",
+    "1303412"
+  ],
+  "markets_len": 19,
+  "series_ids": [
+    "10039"
+  ],
+  "series_len": 1,
+  "series_slug": "xrp-hit-price-monthly"
+}

@@ -1,0 +1,25 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-31T03:26:35.378547Z",
+  "event_creationDate": "2026-01-31T03:31:30.483406Z",
+  "event_endDate": "2026-03-01T05:00:00Z",
+  "event_id": "194136",
+  "event_startDate": "2026-01-31T03:31:30.483426Z",
+  "event_updatedAt": "2026-01-31T06:25:30.374645Z",
+  "folder_dt_utc": "2026-01-31T03:26:35.378547Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1303949",
+    "1303951",
+    "1303947",
+    "1303950",
+    "1303948",
+    "1303952"
+  ],
+  "markets_len": 6,
+  "series_ids": [
+    "10075"
+  ],
+  "series_len": 1,
+  "series_slug": "dogecoin-hit-price-monthly"
+}

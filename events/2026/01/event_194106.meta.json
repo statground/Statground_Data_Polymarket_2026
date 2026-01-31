@@ -1,0 +1,39 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-31T02:13:32.22547Z",
+  "event_creationDate": "2026-01-31T02:17:18.976356Z",
+  "event_endDate": "2026-03-01T05:00:00Z",
+  "event_id": "194106",
+  "event_startDate": "2026-01-31T02:17:18.976393Z",
+  "event_updatedAt": "2026-01-31T06:25:32.673444Z",
+  "folder_dt_utc": "2026-01-31T02:13:32.225470Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1303353",
+    "1303399",
+    "1303393",
+    "1303357",
+    "1303390",
+    "1303373",
+    "1303411",
+    "1303363",
+    "1303366",
+    "1303414",
+    "1303370",
+    "1303402",
+    "1303408",
+    "1303376",
+    "1303379",
+    "1303383",
+    "1303386",
+    "1303404",
+    "1303396",
+    "1303413"
+  ],
+  "markets_len": 20,
+  "series_ids": [
+    "10017"
+  ],
+  "series_len": 1,
+  "series_slug": "ethereum-hit-price-monthly"
+}
