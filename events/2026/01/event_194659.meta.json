@@ -1,0 +1,30 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-31T17:00:09.582434Z",
+  "event_creationDate": "2026-01-31T17:06:08.549615Z",
+  "event_endDate": "2026-02-07T17:00:00Z",
+  "event_id": "194659",
+  "event_startDate": "2026-01-31T17:06:08.549624Z",
+  "event_updatedAt": "2026-01-31T18:19:30.938934Z",
+  "folder_dt_utc": "2026-01-31T17:00:09.582434Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1308400",
+    "1308402",
+    "1308407",
+    "1308411",
+    "1308398",
+    "1308416",
+    "1308419",
+    "1308395",
+    "1308409",
+    "1308414",
+    "1308421"
+  ],
+  "markets_len": 11,
+  "series_ids": [
+    "10065"
+  ],
+  "series_len": 1,
+  "series_slug": "ethereum-neg-risk-weekly"
+}

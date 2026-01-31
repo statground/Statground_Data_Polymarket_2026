@@ -1,0 +1,30 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-31T17:00:15.408613Z",
+  "event_creationDate": "2026-01-31T17:09:28.891775Z",
+  "event_endDate": "2026-02-07T17:00:00Z",
+  "event_id": "194669",
+  "event_startDate": "2026-01-31T17:09:28.89178Z",
+  "event_updatedAt": "2026-01-31T18:19:30.459441Z",
+  "folder_dt_utc": "2026-01-31T17:00:15.408613Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1308449",
+    "1308427",
+    "1308428",
+    "1308444",
+    "1308430",
+    "1308433",
+    "1308434",
+    "1308436",
+    "1308439",
+    "1308441",
+    "1308447"
+  ],
+  "markets_len": 11,
+  "series_ids": [
+    "10107"
+  ],
+  "series_len": 1,
+  "series_slug": "solana-neg-risk-weekly"
+}

@@ -1,0 +1,24 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-31T15:00:16.486821Z",
+  "event_creationDate": "2026-01-31T15:05:35.870438Z",
+  "event_endDate": "2026-02-14T11:30:00Z",
+  "event_id": "194574",
+  "event_startDate": "2026-01-31T15:05:35.870445Z",
+  "event_updatedAt": "2026-01-31T18:19:25.767806Z",
+  "folder_dt_utc": "2026-01-31T15:00:16.486821Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1307691",
+    "1307692",
+    "1307695",
+    "1307697",
+    "1307689"
+  ],
+  "markets_len": 5,
+  "series_ids": [
+    "10292"
+  ],
+  "series_len": 1,
+  "series_slug": "tur-2025"
+}
