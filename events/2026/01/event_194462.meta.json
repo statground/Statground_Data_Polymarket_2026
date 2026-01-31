@@ -1,0 +1,26 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-31T11:00:24.485635Z",
+  "event_creationDate": "2026-01-31T11:09:19.363221Z",
+  "event_endDate": "2026-02-02T12:00:00Z",
+  "event_id": "194462",
+  "event_startDate": "2026-01-31T11:09:19.363229Z",
+  "event_updatedAt": "2026-01-31T12:25:37.160821Z",
+  "folder_dt_utc": "2026-01-31T11:00:24.485635Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1306544",
+    "1306545",
+    "1306546",
+    "1306548",
+    "1306550",
+    "1306547",
+    "1306549"
+  ],
+  "markets_len": 7,
+  "series_ids": [
+    "10734"
+  ],
+  "series_len": 1,
+  "series_slug": "seattle-daily-weather"
+}
