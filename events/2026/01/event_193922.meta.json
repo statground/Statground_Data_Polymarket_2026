@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-30T22:57:57.92437Z",
+  "event_creationDate": "2026-01-31T00:25:16.44252Z",
+  "event_endDate": "2026-02-28T00:00:00Z",
+  "event_id": "193922",
+  "event_startDate": "2026-01-31T00:25:16.442525Z",
+  "event_updatedAt": "2026-01-31T01:05:27.059396Z",
+  "folder_dt_utc": "2026-01-30T22:57:57.924370Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1301551"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "11010"
+  ],
+  "series_len": 1,
+  "series_slug": "france-uk-or-germany-strike-iran"
+}

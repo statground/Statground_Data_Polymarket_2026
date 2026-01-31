@@ -1,0 +1,26 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-30T18:43:15.11267Z",
+  "event_creationDate": "2026-01-30T23:41:11.01639Z",
+  "event_endDate": "2026-02-28T00:00:00Z",
+  "event_id": "193772",
+  "event_startDate": "2026-01-30T23:41:11.016394Z",
+  "event_updatedAt": "2026-01-31T01:05:23.350181Z",
+  "folder_dt_utc": "2026-01-30T18:43:15.112670Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1300289",
+    "1300291",
+    "1300293",
+    "1300295",
+    "1300290",
+    "1300292",
+    "1300294"
+  ],
+  "markets_len": 7,
+  "series_ids": [
+    "11000"
+  ],
+  "series_len": 1,
+  "series_slug": "spacex-monthly-launches"
+}

@@ -1,0 +1,30 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-30T23:00:13.280476Z",
+  "event_creationDate": "2026-01-30T23:27:49.820508Z",
+  "event_endDate": "2026-02-06T21:00:00Z",
+  "event_id": "193942",
+  "event_startDate": "2026-01-30T23:27:49.820526Z",
+  "event_updatedAt": "2026-01-31T01:05:24.894715Z",
+  "folder_dt_utc": "2026-01-30T23:00:13.280476Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1301666",
+    "1301668",
+    "1301670",
+    "1301662",
+    "1301664",
+    "1301671",
+    "1301672",
+    "1301674",
+    "1301680",
+    "1301676",
+    "1301678"
+  ],
+  "markets_len": 11,
+  "series_ids": [
+    "10634"
+  ],
+  "series_len": 1,
+  "series_slug": "amzn-neg-risk-weekly"
+}

@@ -1,0 +1,26 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-30T21:20:45.400734Z",
+  "event_creationDate": "2026-01-31T00:05:06.122085Z",
+  "event_endDate": "2026-04-30T00:00:00Z",
+  "event_id": "193857",
+  "event_startDate": "2026-01-31T00:05:06.122087Z",
+  "event_updatedAt": "2026-01-31T01:05:24.350072Z",
+  "folder_dt_utc": "2026-01-30T21:20:45.400734Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1301007",
+    "1301017",
+    "1301006",
+    "1301014",
+    "1301011",
+    "1301019",
+    "1301013"
+  ],
+  "markets_len": 7,
+  "series_ids": [
+    "11001"
+  ],
+  "series_len": 1,
+  "series_slug": "mexico-gdp"
+}

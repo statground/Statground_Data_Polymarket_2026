@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-30T23:16:17.537783Z",
+  "event_creationDate": "2026-01-31T00:25:10.777694Z",
+  "event_endDate": "2026-03-31T00:00:00Z",
+  "event_id": "194014",
+  "event_startDate": "2026-01-31T00:25:10.777698Z",
+  "event_updatedAt": "2026-01-31T01:05:24.001506Z",
+  "folder_dt_utc": "2026-01-30T23:16:17.537783Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1302119"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "11014"
+  ],
+  "series_len": 1,
+  "series_slug": "rsf-capture-el-obeid"
+}

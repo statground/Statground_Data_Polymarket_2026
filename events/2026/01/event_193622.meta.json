@@ -1,0 +1,25 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-30T15:39:15.296631Z",
+  "event_creationDate": "2026-01-30T22:59:21.837807Z",
+  "event_endDate": "2026-02-28T00:00:00Z",
+  "event_id": "193622",
+  "event_startDate": "2026-01-30T22:59:21.837816Z",
+  "event_updatedAt": "2026-01-31T01:05:24.152959Z",
+  "folder_dt_utc": "2026-01-30T15:39:15.296631Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1299197",
+    "1299199",
+    "1299201",
+    "1299198",
+    "1299200",
+    "1299202"
+  ],
+  "markets_len": 6,
+  "series_ids": [
+    "10997"
+  ],
+  "series_len": 1,
+  "series_slug": "ny-precipitation"
+}

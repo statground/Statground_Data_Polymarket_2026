@@ -5,14 +5,16 @@
   "event_endDate": "2026-01-31T00:00:00Z",
   "event_id": "140957",
   "event_startDate": "2026-01-03T15:45:32.569046Z",
-  "event_updatedAt": "2026-01-30T18:29:17.955758Z",
+  "event_updatedAt": "2026-01-31T01:05:28.219268Z",
   "folder_dt_utc": "2026-01-03T15:09:30.764774Z",
   "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1097003"
   ],
   "markets_len": 1,
-  "series_ids": [],
-  "series_len": 0,
-  "series_slug": null
+  "series_ids": [
+    "11008"
+  ],
+  "series_len": 1,
+  "series_slug": "us-recognizes-machado"
 }

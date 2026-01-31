@@ -1,0 +1,32 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-30T23:00:45.759519Z",
+  "event_creationDate": "2026-02-01T05:00:00Z",
+  "event_endDate": "2026-02-27T21:00:00Z",
+  "event_id": "193989",
+  "event_startDate": "2026-01-30T23:29:49.426648Z",
+  "event_updatedAt": "2026-01-31T01:05:23.813988Z",
+  "folder_dt_utc": "2026-01-30T23:00:45.759519Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1301939",
+    "1301945",
+    "1301947",
+    "1301949",
+    "1301951",
+    "1301953",
+    "1301956",
+    "1301958",
+    "1301960",
+    "1301940",
+    "1301943",
+    "1301962",
+    "1301964"
+  ],
+  "markets_len": 13,
+  "series_ids": [
+    "10513"
+  ],
+  "series_len": 1,
+  "series_slug": "palantir-multi-strikes-monthly"
+}

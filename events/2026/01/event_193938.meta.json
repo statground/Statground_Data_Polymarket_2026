@@ -1,0 +1,27 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-30T23:00:10.731385Z",
+  "event_creationDate": "2026-01-30T23:25:28.136463Z",
+  "event_endDate": "2026-02-01T03:30:00Z",
+  "event_id": "193938",
+  "event_startDate": "2026-01-30T23:25:28.13648Z",
+  "event_updatedAt": "2026-01-31T01:05:26.739246Z",
+  "folder_dt_utc": "2026-01-30T23:00:10.731385Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1301652",
+    "1301655",
+    "1301658",
+    "1301633",
+    "1301640",
+    "1301644",
+    "1301647",
+    "1301627"
+  ],
+  "markets_len": 8,
+  "series_ids": [
+    "10427"
+  ],
+  "series_len": 1,
+  "series_slug": "call-of-duty"
+}

@@ -1,0 +1,26 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-30T15:44:40.932661Z",
+  "event_creationDate": "2026-01-30T23:02:14.579579Z",
+  "event_endDate": "2026-02-28T00:00:00Z",
+  "event_id": "193623",
+  "event_startDate": "2026-01-30T23:02:14.579591Z",
+  "event_updatedAt": "2026-01-31T01:05:24.512722Z",
+  "folder_dt_utc": "2026-01-30T15:44:40.932661Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1299204",
+    "1299206",
+    "1299208",
+    "1299210",
+    "1299205",
+    "1299207",
+    "1299209"
+  ],
+  "markets_len": 7,
+  "series_ids": [
+    "10998"
+  ],
+  "series_len": 1,
+  "series_slug": "seattle-precipitation"
+}

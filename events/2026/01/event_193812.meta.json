@@ -1,0 +1,25 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-30T20:00:13.835532Z",
+  "event_creationDate": "2026-01-30T20:03:29.688424Z",
+  "event_endDate": "2026-02-13T19:45:00Z",
+  "event_id": "193812",
+  "event_startDate": "2026-01-30T20:03:29.688434Z",
+  "event_updatedAt": "2026-01-31T01:09:30.800848Z",
+  "folder_dt_utc": "2026-01-30T20:00:13.835532Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1300597",
+    "1300598",
+    "1300599",
+    "1300600",
+    "1300601",
+    "1300602"
+  ],
+  "markets_len": 6,
+  "series_ids": [
+    "10314"
+  ],
+  "series_len": 1,
+  "series_slug": "fa-cup"
+}

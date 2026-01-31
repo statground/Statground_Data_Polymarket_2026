@@ -1,0 +1,32 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-30T23:00:36.603778Z",
+  "event_creationDate": "2026-02-01T05:00:00Z",
+  "event_endDate": "2026-02-27T21:00:00Z",
+  "event_id": "193971",
+  "event_startDate": "2026-01-30T23:15:10.05773Z",
+  "event_updatedAt": "2026-01-31T01:05:25.051151Z",
+  "folder_dt_utc": "2026-01-30T23:00:36.603778Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1301821",
+    "1301823",
+    "1301825",
+    "1301827",
+    "1301846",
+    "1301850",
+    "1301855",
+    "1301831",
+    "1301834",
+    "1301837",
+    "1301840",
+    "1301843",
+    "1301853"
+  ],
+  "markets_len": 13,
+  "series_ids": [
+    "10510"
+  ],
+  "series_len": 1,
+  "series_slug": "tesla-multi-strikes-monthly"
+}

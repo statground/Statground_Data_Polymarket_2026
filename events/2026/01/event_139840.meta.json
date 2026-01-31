@@ -5,14 +5,16 @@
   "event_endDate": "2026-01-31T00:00:00Z",
   "event_id": "139840",
   "event_startDate": "2026-01-03T02:41:25.089868Z",
-  "event_updatedAt": "2026-01-30T18:29:17.004344Z",
+  "event_updatedAt": "2026-01-31T01:05:23.399922Z",
   "folder_dt_utc": "2026-01-03T01:39:40.871966Z",
   "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1092204"
   ],
   "markets_len": 1,
-  "series_ids": [],
-  "series_len": 0,
-  "series_slug": null
+  "series_ids": [
+    "11009"
+  ],
+  "series_len": 1,
+  "series_slug": "us-evacuates-baghdad-embassy"
 }

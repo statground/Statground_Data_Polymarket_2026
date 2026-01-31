@@ -1,0 +1,32 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-30T23:00:10.086388Z",
+  "event_creationDate": "2026-02-01T05:00:00Z",
+  "event_endDate": "2026-02-27T21:00:00Z",
+  "event_id": "193936",
+  "event_startDate": "2026-01-30T23:07:31.770145Z",
+  "event_updatedAt": "2026-01-31T01:05:26.573845Z",
+  "folder_dt_utc": "2026-01-30T23:00:10.086388Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1301649",
+    "1301659",
+    "1301660",
+    "1301616",
+    "1301618",
+    "1301622",
+    "1301626",
+    "1301632",
+    "1301642",
+    "1301637",
+    "1301646",
+    "1301653",
+    "1301656"
+  ],
+  "markets_len": 13,
+  "series_ids": [
+    "10506"
+  ],
+  "series_len": 1,
+  "series_slug": "microsoft-multi-strikes-monthly"
+}
