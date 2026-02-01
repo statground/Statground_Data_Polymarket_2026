@@ -5,14 +5,16 @@
   "event_endDate": "2026-02-04T22:00:00Z",
   "event_id": "184531",
   "event_startDate": "2026-01-24T00:37:15.838452Z",
-  "event_updatedAt": "2026-01-31T18:19:32.075545Z",
+  "event_updatedAt": "2026-02-01T01:25:21.552181Z",
   "folder_dt_utc": "2026-01-24T00:34:15.097599Z",
   "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1254527"
   ],
   "markets_len": 1,
-  "series_ids": [],
-  "series_len": 0,
-  "series_slug": null
+  "series_ids": [
+    "11037"
+  ],
+  "series_len": 1,
+  "series_slug": "all-earnings"
 }

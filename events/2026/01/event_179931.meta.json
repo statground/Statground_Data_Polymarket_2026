@@ -5,14 +5,16 @@
   "event_endDate": "2026-02-04T14:00:00Z",
   "event_id": "179931",
   "event_startDate": "2026-01-22T00:25:18.835925Z",
-  "event_updatedAt": "2026-01-31T18:19:29.220565Z",
+  "event_updatedAt": "2026-02-01T01:19:26.786108Z",
   "folder_dt_utc": "2026-01-22T00:21:25.879720Z",
   "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1238098"
   ],
   "markets_len": 1,
-  "series_ids": [],
-  "series_len": 0,
-  "series_slug": null
+  "series_ids": [
+    "11028"
+  ],
+  "series_len": 1,
+  "series_slug": "uber-earnings"
 }

@@ -5,14 +5,16 @@
   "event_endDate": "2026-02-05T14:00:00Z",
   "event_id": "184516",
   "event_startDate": "2026-01-24T00:29:39.526955Z",
-  "event_updatedAt": "2026-01-31T18:19:31.23296Z",
+  "event_updatedAt": "2026-02-01T01:25:20.64391Z",
   "folder_dt_utc": "2026-01-24T00:25:13.044039Z",
   "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1254472"
   ],
   "markets_len": 1,
-  "series_ids": [],
-  "series_len": 0,
-  "series_slug": null
+  "series_ids": [
+    "11039"
+  ],
+  "series_len": 1,
+  "series_slug": "cop-earnings"
 }

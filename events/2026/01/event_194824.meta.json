@@ -1,0 +1,26 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-31T20:08:02.758441Z",
+  "event_creationDate": "2026-01-31T20:21:40.431819Z",
+  "event_endDate": "2026-02-01T00:00:00Z",
+  "event_id": "194824",
+  "event_startDate": "2026-01-31T20:21:40.431828Z",
+  "event_updatedAt": "2026-02-01T01:19:25.831506Z",
+  "folder_dt_utc": "2026-01-31T20:08:02.758441Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1309751",
+    "1309749",
+    "1309754",
+    "1309750",
+    "1309752",
+    "1309753",
+    "1309755"
+  ],
+  "markets_len": 7,
+  "series_ids": [
+    "10005"
+  ],
+  "series_len": 1,
+  "series_slug": "nyc-daily-weather"
+}

@@ -5,14 +5,16 @@
   "event_endDate": "2026-02-05T22:00:00Z",
   "event_id": "188894",
   "event_startDate": "2026-01-26T00:51:10.090459Z",
-  "event_updatedAt": "2026-01-31T18:19:29.273995Z",
+  "event_updatedAt": "2026-02-01T01:19:26.624889Z",
   "folder_dt_utc": "2026-01-26T00:39:02.827966Z",
   "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1268877"
   ],
   "markets_len": 1,
-  "series_ids": [],
-  "series_len": 0,
-  "series_slug": null
+  "series_ids": [
+    "11043"
+  ],
+  "series_len": 1,
+  "series_slug": "rblx-earnings"
 }
