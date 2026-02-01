@@ -1,0 +1,24 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-01T06:00:17.146887Z",
+  "event_creationDate": "2026-02-01T06:06:01.722746Z",
+  "event_endDate": "2026-02-14T16:00:00Z",
+  "event_id": "195119",
+  "event_startDate": "2026-02-01T06:06:01.722752Z",
+  "event_updatedAt": "2026-02-01T06:35:34.14718Z",
+  "folder_dt_utc": "2026-02-01T06:00:17.146887Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1311818",
+    "1311823",
+    "1311815",
+    "1311816",
+    "1311825"
+  ],
+  "markets_len": 5,
+  "series_ids": [
+    "10195"
+  ],
+  "series_len": 1,
+  "series_slug": "ligue-1-2025"
+}
