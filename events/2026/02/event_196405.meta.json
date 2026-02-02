@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-02T08:30:15.951979Z",
+  "event_creationDate": "2026-02-08T16:00:00Z",
+  "event_endDate": "2026-02-15T16:00:00Z",
+  "event_id": "196405",
+  "event_startDate": "2026-02-02T08:35:22.430116Z",
+  "event_updatedAt": "2026-02-02T12:35:34.899417Z",
+  "folder_dt_utc": "2026-02-02T08:30:15.951979Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1318137"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "10877"
+  ],
+  "series_len": 1,
+  "series_slug": "basketball-series-a"
+}
