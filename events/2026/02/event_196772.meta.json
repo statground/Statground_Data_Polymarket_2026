@@ -1,0 +1,29 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-02T17:00:03.753395Z",
+  "event_creationDate": "2026-02-02T17:07:34.253414Z",
+  "event_endDate": "2026-02-07T17:00:00Z",
+  "event_id": "196772",
+  "event_startDate": "2026-02-02T17:07:34.253419Z",
+  "event_updatedAt": "2026-02-02T18:29:50.4054Z",
+  "folder_dt_utc": "2026-02-02T17:00:03.753395Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1320343",
+    "1320350",
+    "1320363",
+    "1320346",
+    "1320355",
+    "1320359",
+    "1320367",
+    "1320372",
+    "1320375",
+    "1320378"
+  ],
+  "markets_len": 10,
+  "series_ids": [
+    "10816"
+  ],
+  "series_len": 1,
+  "series_slug": "elon-tweets-48h"
+}

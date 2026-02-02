@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-02T13:00:02.195455Z",
+  "event_creationDate": "2026-02-04T14:00:00Z",
+  "event_endDate": "2026-02-04T23:00:00Z",
+  "event_id": "196553",
+  "event_startDate": "2026-02-02T13:05:11.994444Z",
+  "event_updatedAt": "2026-02-02T18:31:47.481267Z",
+  "folder_dt_utc": "2026-02-02T13:00:02.195455Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1319042"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "10410"
+  ],
+  "series_len": 1,
+  "series_slug": "bitcoin-etf-flows-daily"
+}
