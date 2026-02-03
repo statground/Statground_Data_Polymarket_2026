@@ -1,0 +1,29 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-02T21:19:33.04399Z",
+  "event_creationDate": "2026-02-02T21:33:39.611878Z",
+  "event_endDate": "2026-03-01T05:00:00Z",
+  "event_id": "196964",
+  "event_startDate": "2026-02-02T21:33:39.611906Z",
+  "event_updatedAt": "2026-02-03T01:15:19.721602Z",
+  "folder_dt_utc": "2026-02-02T21:19:33.043990Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1322029",
+    "1322024",
+    "1322025",
+    "1322028",
+    "1322021",
+    "1322022",
+    "1322030",
+    "1322023",
+    "1322026",
+    "1322027"
+  ],
+  "markets_len": 10,
+  "series_ids": [
+    "10688"
+  ],
+  "series_len": 1,
+  "series_slug": "bnb-hit-price-monthly"
+}

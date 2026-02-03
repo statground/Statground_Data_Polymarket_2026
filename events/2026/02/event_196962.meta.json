@@ -1,0 +1,28 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-02T21:19:18.666442Z",
+  "event_creationDate": "2026-02-02T21:39:25.252903Z",
+  "event_endDate": "2026-03-01T05:00:00Z",
+  "event_id": "196962",
+  "event_startDate": "2026-02-02T21:39:25.252915Z",
+  "event_updatedAt": "2026-02-03T01:15:27.105344Z",
+  "folder_dt_utc": "2026-02-02T21:19:18.666442Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1322018",
+    "1322015",
+    "1322010",
+    "1322011",
+    "1322012",
+    "1322013",
+    "1322014",
+    "1322017",
+    "1322019"
+  ],
+  "markets_len": 9,
+  "series_ids": [
+    "10668"
+  ],
+  "series_len": 1,
+  "series_slug": "ethena-hit-price-monthly"
+}
