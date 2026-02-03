@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-03T13:00:01.777238Z",
+  "event_creationDate": "2026-02-04T14:30:00Z",
+  "event_endDate": "2026-02-04T21:00:00Z",
+  "event_id": "197448",
+  "event_startDate": "2026-02-03T13:03:25.716304Z",
+  "event_updatedAt": "2026-02-03T18:39:33.553414Z",
+  "folder_dt_utc": "2026-02-03T13:00:01.777238Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1325809"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "10457"
+  ],
+  "series_len": 1,
+  "series_slug": "comex-gold-futures-daily-up-or-down"
+}

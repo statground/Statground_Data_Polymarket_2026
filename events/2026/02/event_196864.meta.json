@@ -5,14 +5,16 @@
   "event_endDate": "2026-02-05T14:00:00Z",
   "event_id": "196864",
   "event_startDate": "2026-02-02T19:05:25.148574Z",
-  "event_updatedAt": "2026-02-03T12:35:37.732822Z",
+  "event_updatedAt": "2026-02-03T18:39:34.947162Z",
   "folder_dt_utc": "2026-02-02T19:01:24.132899Z",
   "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1321186"
   ],
   "markets_len": 1,
-  "series_ids": [],
-  "series_len": 0,
-  "series_slug": null
+  "series_ids": [
+    "11096"
+  ],
+  "series_len": 1,
+  "series_slug": "pton-earnings"
 }

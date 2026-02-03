@@ -1,0 +1,24 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-03T13:00:14.727417Z",
+  "event_creationDate": "2026-02-04T14:30:00Z",
+  "event_endDate": "2026-02-04T21:00:00Z",
+  "event_id": "197460",
+  "event_startDate": "2026-02-03T13:05:56.205147Z",
+  "event_updatedAt": "2026-02-03T18:39:34.832964Z",
+  "folder_dt_utc": "2026-02-03T13:00:14.727417Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1325838",
+    "1325836",
+    "1325837",
+    "1325834",
+    "1325835"
+  ],
+  "markets_len": 5,
+  "series_ids": [
+    "10947"
+  ],
+  "series_len": 1,
+  "series_slug": "msft-multi-strikes-weekly"
+}

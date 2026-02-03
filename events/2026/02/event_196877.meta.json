@@ -5,14 +5,16 @@
   "event_endDate": "2026-02-09T22:00:00Z",
   "event_id": "196877",
   "event_startDate": "2026-02-02T19:31:57.862256Z",
-  "event_updatedAt": "2026-02-03T12:31:29.411397Z",
+  "event_updatedAt": "2026-02-03T18:39:31.720297Z",
   "folder_dt_utc": "2026-02-02T19:26:24.446502Z",
   "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1321400"
   ],
   "markets_len": 1,
-  "series_ids": [],
-  "series_len": 0,
-  "series_slug": null
+  "series_ids": [
+    "11099"
+  ],
+  "series_len": 1,
+  "series_slug": "chgg-earnings"
 }

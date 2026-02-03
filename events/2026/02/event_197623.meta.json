@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-03T16:07:39.43454Z",
+  "event_creationDate": "2026-02-03T16:14:08.919758Z",
+  "event_endDate": "2026-02-17T14:00:00Z",
+  "event_id": "197623",
+  "event_startDate": "2026-02-03T16:14:08.919762Z",
+  "event_updatedAt": "2026-02-03T18:39:33.561816Z",
+  "folder_dt_utc": "2026-02-03T16:07:39.434540Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1326546"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "11081"
+  ],
+  "series_len": 1,
+  "series_slug": "sun-earnings"
+}
