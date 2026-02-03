@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-03T04:13:53.479844Z",
+  "event_creationDate": "2026-02-03T04:20:26.344007Z",
+  "event_endDate": "2026-02-10T14:00:00Z",
+  "event_id": "197189",
+  "event_startDate": "2026-02-03T04:20:26.344013Z",
+  "event_updatedAt": "2026-02-03T06:37:30.047109Z",
+  "folder_dt_utc": "2026-02-03T04:13:53.479844Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1324088",
+    "1324087",
+    "1324089"
+  ],
+  "markets_len": 3,
+  "series_ids": [
+    "10908"
+  ],
+  "series_len": 1,
+  "series_slug": "cricket-women-premier-league"
+}
