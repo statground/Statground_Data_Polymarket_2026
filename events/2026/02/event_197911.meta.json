@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-03T23:09:15.384886Z",
+  "event_creationDate": "2026-02-03T23:27:26.33072Z",
+  "event_endDate": "2026-02-07T00:00:00Z",
+  "event_id": "197911",
+  "event_startDate": "2026-02-03T23:27:26.330725Z",
+  "event_updatedAt": "2026-02-04T00:45:40.256437Z",
+  "folder_dt_utc": "2026-02-03T23:09:15.384886Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1329583"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "10893"
+  ],
+  "series_len": 1,
+  "series_slug": "us-strike-on-somalia"
+}

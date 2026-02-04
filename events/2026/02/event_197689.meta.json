@@ -1,0 +1,32 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-03T17:49:33.251183Z",
+  "event_creationDate": "2026-02-03T23:17:23.483097Z",
+  "event_endDate": "2026-02-28T00:00:00Z",
+  "event_id": "197689",
+  "event_startDate": "2026-02-03T23:17:23.483108Z",
+  "event_updatedAt": "2026-02-04T00:45:40.197595Z",
+  "folder_dt_utc": "2026-02-03T17:49:33.251183Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1327169",
+    "1327171",
+    "1327172",
+    "1327178",
+    "1327180",
+    "1327181",
+    "1327170",
+    "1327174",
+    "1327176",
+    "1327173",
+    "1327175",
+    "1327177",
+    "1327179"
+  ],
+  "markets_len": 13,
+  "series_ids": [
+    "10820"
+  ],
+  "series_len": 1,
+  "series_slug": "crude-oil-cl-hit"
+}
