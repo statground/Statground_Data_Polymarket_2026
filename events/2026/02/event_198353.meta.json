@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-04T13:00:14.820593Z",
+  "event_creationDate": "2026-02-05T14:30:00Z",
+  "event_endDate": "2026-02-05T21:00:00Z",
+  "event_id": "198353",
+  "event_startDate": "2026-02-04T13:05:32.98021Z",
+  "event_updatedAt": "2026-02-04T18:29:21.765855Z",
+  "folder_dt_utc": "2026-02-04T13:00:14.820593Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1333027"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "10378"
+  ],
+  "series_len": 1,
+  "series_slug": "amzn-daily-up-down"
+}

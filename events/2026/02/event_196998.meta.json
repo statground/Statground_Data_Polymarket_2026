@@ -1,0 +1,30 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-02T22:09:30.023354Z",
+  "event_creationDate": "2026-02-04T18:23:16.319792Z",
+  "event_endDate": "2026-02-28T00:00:00Z",
+  "event_id": "196998",
+  "event_startDate": "2026-02-04T18:23:16.319797Z",
+  "event_updatedAt": "2026-02-04T18:36:07.165138Z",
+  "folder_dt_utc": "2026-02-02T22:09:30.023354Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1322354",
+    "1322362",
+    "1322356",
+    "1322360",
+    "1322355",
+    "1322359",
+    "1322363",
+    "1322353",
+    "1322357",
+    "1322361",
+    "1334700"
+  ],
+  "markets_len": 11,
+  "series_ids": [
+    "10854"
+  ],
+  "series_len": 1,
+  "series_slug": "sp-500-monthly-hit"
+}
