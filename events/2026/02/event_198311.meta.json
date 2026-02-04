@@ -1,0 +1,24 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-04T12:00:14.21861Z",
+  "event_creationDate": "2026-02-04T12:05:29.989635Z",
+  "event_endDate": "2026-02-04T21:20:00Z",
+  "event_id": "198311",
+  "event_startDate": "2026-02-04T12:05:29.98964Z",
+  "event_updatedAt": "2026-02-04T12:33:47.247518Z",
+  "folder_dt_utc": "2026-02-04T12:00:14.218610Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1332786",
+    "1332787",
+    "1332788",
+    "1332784",
+    "1332789"
+  ],
+  "markets_len": 5,
+  "series_ids": [
+    "10435"
+  ],
+  "series_len": 1,
+  "series_slug": "starcraft-2"
+}

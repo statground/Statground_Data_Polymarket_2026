@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-04T07:45:17.601184Z",
+  "event_creationDate": "2026-02-04T07:55:19.806762Z",
+  "event_endDate": "2026-03-07T17:30:00Z",
+  "event_id": "198155",
+  "event_startDate": "2026-02-04T07:55:19.806767Z",
+  "event_updatedAt": "2026-02-04T12:33:47.243708Z",
+  "folder_dt_utc": "2026-02-04T07:45:17.601184Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1331724",
+    "1331725",
+    "1331726"
+  ],
+  "markets_len": 3,
+  "series_ids": [
+    "10881"
+  ],
+  "series_len": 1,
+  "series_slug": "united-rugby-championship"
+}
