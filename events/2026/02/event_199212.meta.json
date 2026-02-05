@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-05T12:55:26.313505Z",
+  "event_creationDate": "2026-02-05T13:02:54.4657Z",
+  "event_endDate": "2026-02-18T14:00:00Z",
+  "event_id": "199212",
+  "event_startDate": "2026-02-05T13:02:54.465707Z",
+  "event_updatedAt": "2026-02-05T18:34:03.621932Z",
+  "folder_dt_utc": "2026-02-05T12:55:26.313505Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1339377"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "11114"
+  ],
+  "series_len": 1,
+  "series_slug": "mco-earnings"
+}
