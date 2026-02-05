@@ -1,0 +1,26 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-05T11:00:14.355648Z",
+  "event_creationDate": "2026-02-05T11:09:51.074976Z",
+  "event_endDate": "2026-02-07T12:00:00Z",
+  "event_id": "199149",
+  "event_startDate": "2026-02-05T11:09:51.074991Z",
+  "event_updatedAt": "2026-02-05T12:35:28.46877Z",
+  "folder_dt_utc": "2026-02-05T11:00:14.355648Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1338935",
+    "1338936",
+    "1338938",
+    "1338939",
+    "1338940",
+    "1338942",
+    "1338944"
+  ],
+  "markets_len": 7,
+  "series_ids": [
+    "10744"
+  ],
+  "series_len": 1,
+  "series_slug": "buenos-aires-daily-weather"
+}

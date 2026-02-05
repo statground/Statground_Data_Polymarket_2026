@@ -1,0 +1,24 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-05T10:00:11.502924Z",
+  "event_creationDate": "2026-02-05T10:03:14.221786Z",
+  "event_endDate": "2026-02-06T19:30:00Z",
+  "event_id": "199121",
+  "event_startDate": "2026-02-05T10:03:14.221794Z",
+  "event_updatedAt": "2026-02-05T12:38:11.695591Z",
+  "folder_dt_utc": "2026-02-05T10:00:11.502924Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1338724",
+    "1338726",
+    "1338727",
+    "1338728",
+    "1338729"
+  ],
+  "markets_len": 5,
+  "series_ids": [
+    "10432"
+  ],
+  "series_len": 1,
+  "series_slug": "rainbow-six-siege"
+}
