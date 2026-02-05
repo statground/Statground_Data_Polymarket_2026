@@ -1,0 +1,29 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-04T20:55:10.922625Z",
+  "event_creationDate": "2026-02-04T22:43:22.581104Z",
+  "event_endDate": "2026-02-28T00:00:00Z",
+  "event_id": "198727",
+  "event_startDate": "2026-02-04T22:43:22.581106Z",
+  "event_updatedAt": "2026-02-05T01:09:55.113765Z",
+  "folder_dt_utc": "2026-02-04T20:55:10.922625Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1335779",
+    "1335780",
+    "1335781",
+    "1335782",
+    "1335783",
+    "1335784",
+    "1335785",
+    "1335786",
+    "1335787",
+    "1335788"
+  ],
+  "markets_len": 10,
+  "series_ids": [
+    "10823"
+  ],
+  "series_len": 1,
+  "series_slug": "crude-oil-cl-above"
+}

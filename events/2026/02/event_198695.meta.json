@@ -1,0 +1,29 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-04T19:59:39.576121Z",
+  "event_creationDate": "2026-02-04T22:43:21.608836Z",
+  "event_endDate": "2026-02-28T00:00:00Z",
+  "event_id": "198695",
+  "event_startDate": "2026-02-04T22:43:21.60885Z",
+  "event_updatedAt": "2026-02-05T01:09:54.940335Z",
+  "folder_dt_utc": "2026-02-04T19:59:39.576121Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1335472",
+    "1335473",
+    "1335474",
+    "1335475",
+    "1335476",
+    "1335477",
+    "1335478",
+    "1335479",
+    "1335480",
+    "1335481"
+  ],
+  "markets_len": 10,
+  "series_ids": [
+    "10806"
+  ],
+  "series_len": 1,
+  "series_slug": "what-will-silver-si-settle-at"
+}

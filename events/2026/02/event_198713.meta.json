@@ -1,0 +1,31 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-04T20:31:06.650444Z",
+  "event_creationDate": "2026-02-04T22:43:21.63454Z",
+  "event_endDate": "2026-02-28T00:00:00Z",
+  "event_id": "198713",
+  "event_startDate": "2026-02-04T22:43:21.634549Z",
+  "event_updatedAt": "2026-02-05T01:09:55.036986Z",
+  "folder_dt_utc": "2026-02-04T20:31:06.650444Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1335730",
+    "1335731",
+    "1335732",
+    "1335733",
+    "1335734",
+    "1335735",
+    "1335736",
+    "1335737",
+    "1335738",
+    "1335739",
+    "1335740",
+    "1335741"
+  ],
+  "markets_len": 12,
+  "series_ids": [
+    "10801"
+  ],
+  "series_len": 1,
+  "series_slug": "gold-gc-above"
+}
