@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-06T16:30:06.839474Z",
+  "event_creationDate": "2026-02-12T16:30:00Z",
+  "event_endDate": "2026-02-12T16:30:00Z",
+  "event_id": "200464",
+  "event_startDate": "2026-02-06T16:35:21.893272Z",
+  "event_updatedAt": "2026-02-06T18:35:43.877422Z",
+  "folder_dt_utc": "2026-02-06T16:30:06.839474Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1345647"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "10700"
+  ],
+  "series_len": 1,
+  "series_slug": "khl-2026"
+}

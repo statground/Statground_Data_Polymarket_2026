@@ -1,0 +1,30 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-06T17:00:01.909132Z",
+  "event_creationDate": "2026-02-06T17:09:55.519384Z",
+  "event_endDate": "2026-02-13T17:00:00Z",
+  "event_id": "200488",
+  "event_startDate": "2026-02-06T17:09:55.519396Z",
+  "event_updatedAt": "2026-02-06T18:35:44.94194Z",
+  "folder_dt_utc": "2026-02-06T17:00:01.909132Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1345773",
+    "1345793",
+    "1345771",
+    "1345776",
+    "1345780",
+    "1345783",
+    "1345785",
+    "1345791",
+    "1345796",
+    "1345799",
+    "1345804"
+  ],
+  "markets_len": 11,
+  "series_ids": [
+    "10041"
+  ],
+  "series_len": 1,
+  "series_slug": "bitcoin-neg-risk-weekly"
+}
