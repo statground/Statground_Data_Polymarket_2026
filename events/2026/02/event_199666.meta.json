@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-05T20:38:58.245263Z",
+  "event_creationDate": "2026-02-12T20:10:00Z",
+  "event_endDate": "2026-02-12T22:59:59.999Z",
+  "event_id": "199666",
+  "event_startDate": "2026-02-05T20:41:58.657903Z",
+  "event_updatedAt": "2026-02-06T01:09:48.034208Z",
+  "folder_dt_utc": "2026-02-05T20:38:58.245263Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1342692"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "11136"
+  ],
+  "series_len": 1,
+  "series_slug": "mens-winter-olympics-hockey"
+}

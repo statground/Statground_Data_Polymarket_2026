@@ -1,0 +1,26 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-05T21:57:40.852568Z",
+  "event_creationDate": "2026-02-05T22:17:26.649755Z",
+  "event_endDate": "2026-02-06T00:00:00Z",
+  "event_id": "199733",
+  "event_startDate": "2026-02-05T22:17:26.64977Z",
+  "event_updatedAt": "2026-02-06T01:09:49.99706Z",
+  "folder_dt_utc": "2026-02-05T21:57:40.852568Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1343147",
+    "1343148",
+    "1343149",
+    "1343150",
+    "1343151",
+    "1343152",
+    "1343153"
+  ],
+  "markets_len": 7,
+  "series_ids": [
+    "11134"
+  ],
+  "series_len": 1,
+  "series_slug": "ipo-closing-market-cap"
+}

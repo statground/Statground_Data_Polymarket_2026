@@ -1,0 +1,25 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-05T19:15:03.604674Z",
+  "event_creationDate": "2026-02-05T19:20:05.840398Z",
+  "event_endDate": "2026-02-18T20:00:00Z",
+  "event_id": "199601",
+  "event_startDate": "2026-02-05T19:20:05.840408Z",
+  "event_updatedAt": "2026-02-06T01:09:50.776139Z",
+  "folder_dt_utc": "2026-02-05T19:15:03.604674Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1341344",
+    "1341345",
+    "1341346",
+    "1341347",
+    "1341348",
+    "1341349"
+  ],
+  "markets_len": 6,
+  "series_ids": [
+    "10204"
+  ],
+  "series_len": 1,
+  "series_slug": "ucl-2025"
+}
