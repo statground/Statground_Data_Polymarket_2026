@@ -1,0 +1,27 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-07T06:00:18.610652Z",
+  "event_creationDate": "2026-02-07T06:07:49.340247Z",
+  "event_endDate": "2026-02-10T18:00:00Z",
+  "event_id": "201045",
+  "event_startDate": "2026-02-07T06:07:49.340254Z",
+  "event_updatedAt": "2026-02-07T06:29:41.133668Z",
+  "folder_dt_utc": "2026-02-07T06:00:18.610652Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1350445",
+    "1350448",
+    "1350463",
+    "1350451",
+    "1350452",
+    "1350453",
+    "1350464",
+    "1350457"
+  ],
+  "markets_len": 8,
+  "series_ids": [
+    "10434"
+  ],
+  "series_len": 1,
+  "series_slug": "honor-of-kings"
+}
