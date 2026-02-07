@@ -1,0 +1,30 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-06T23:00:43.222015Z",
+  "event_creationDate": "2026-02-06T23:08:22.757467Z",
+  "event_endDate": "2026-02-13T21:00:00Z",
+  "event_id": "200816",
+  "event_startDate": "2026-02-06T23:08:22.757485Z",
+  "event_updatedAt": "2026-02-07T01:09:23.628822Z",
+  "folder_dt_utc": "2026-02-06T23:00:43.222015Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1349368",
+    "1349369",
+    "1349370",
+    "1349371",
+    "1349372",
+    "1349373",
+    "1349374",
+    "1349377",
+    "1349379",
+    "1349381",
+    "1349383"
+  ],
+  "markets_len": 11,
+  "series_ids": [
+    "10639"
+  ],
+  "series_len": 1,
+  "series_slug": "nflx-neg-risk-weekly"
+}

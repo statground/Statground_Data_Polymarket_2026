@@ -1,0 +1,26 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-05T23:41:33.98146Z",
+  "event_creationDate": "2026-02-06T22:27:25.751116Z",
+  "event_endDate": "2026-02-12T00:00:00Z",
+  "event_id": "199792",
+  "event_startDate": "2026-02-06T22:27:25.751124Z",
+  "event_updatedAt": "2026-02-07T01:09:22.046552Z",
+  "folder_dt_utc": "2026-02-05T23:41:33.981460Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1343755",
+    "1343756",
+    "1343757",
+    "1343758",
+    "1343759",
+    "1343760",
+    "1343761"
+  ],
+  "markets_len": 7,
+  "series_ids": [
+    "11138"
+  ],
+  "series_len": 1,
+  "series_slug": "weekly-jobless-claims"
+}

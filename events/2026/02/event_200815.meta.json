@@ -1,0 +1,32 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-06T23:00:40.756242Z",
+  "event_creationDate": "2026-02-06T23:00:40.658Z",
+  "event_endDate": "2026-02-13T21:00:00Z",
+  "event_id": "200815",
+  "event_startDate": "2026-02-06T23:00:40.658Z",
+  "event_updatedAt": "2026-02-07T01:09:21.049958Z",
+  "folder_dt_utc": "2026-02-06T23:00:40.756242Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1349348",
+    "1349350",
+    "1349352",
+    "1349354",
+    "1349356",
+    "1349358",
+    "1349360",
+    "1349362",
+    "1349363",
+    "1349364",
+    "1349365",
+    "1349366",
+    "1349367"
+  ],
+  "markets_len": 13,
+  "series_ids": [
+    "10498"
+  ],
+  "series_len": 1,
+  "series_slug": "tesla-multi-strikes-weekly"
+}

@@ -1,0 +1,30 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-06T23:00:20.388003Z",
+  "event_creationDate": "2026-02-06T23:11:24.559638Z",
+  "event_endDate": "2026-02-13T21:00:00Z",
+  "event_id": "200808",
+  "event_startDate": "2026-02-06T23:11:24.559651Z",
+  "event_updatedAt": "2026-02-07T01:09:23.630059Z",
+  "folder_dt_utc": "2026-02-06T23:00:20.388003Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1349284",
+    "1349286",
+    "1349287",
+    "1349288",
+    "1349289",
+    "1349290",
+    "1349291",
+    "1349293",
+    "1349294",
+    "1349296",
+    "1349298"
+  ],
+  "markets_len": 11,
+  "series_ids": [
+    "10635"
+  ],
+  "series_len": 1,
+  "series_slug": "googl-neg-risk-weekly"
+}

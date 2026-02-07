@@ -1,0 +1,23 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-01-05T21:05:48.891955Z",
+  "event_creationDate": "2026-02-06T23:20:01.84211Z",
+  "event_endDate": "2026-01-31T00:00:00Z",
+  "event_id": "145805",
+  "event_startDate": "2026-02-06T23:20:01.842123Z",
+  "event_updatedAt": "2026-02-07T01:09:17.097737Z",
+  "folder_dt_utc": "2026-01-05T21:05:48.891955Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1116323",
+    "1116321",
+    "1116320",
+    "1116322"
+  ],
+  "markets_len": 4,
+  "series_ids": [
+    "10850"
+  ],
+  "series_len": 1,
+  "series_slug": "what-will-bitcoin-outperform"
+}
