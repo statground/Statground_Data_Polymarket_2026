@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-08T07:45:05.900376Z",
+  "event_creationDate": "2026-02-08T07:49:09.393868Z",
+  "event_endDate": "2026-03-14T08:35:00Z",
+  "event_id": "201979",
+  "event_startDate": "2026-02-08T07:49:09.393874Z",
+  "event_updatedAt": "2026-02-08T12:24:15.884595Z",
+  "folder_dt_utc": "2026-02-08T07:45:05.900376Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1354853",
+    "1354854",
+    "1354855"
+  ],
+  "markets_len": 3,
+  "series_ids": [
+    "10883"
+  ],
+  "series_len": 1,
+  "series_slug": "super-rugby-pacific"
+}
