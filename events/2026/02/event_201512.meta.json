@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-07T18:45:02.725784Z",
+  "event_creationDate": "2026-02-07T18:51:42.166128Z",
+  "event_endDate": "2026-02-27T20:45:00Z",
+  "event_id": "201512",
+  "event_startDate": "2026-02-07T18:51:42.166135Z",
+  "event_updatedAt": "2026-02-08T01:43:59.659131Z",
+  "folder_dt_utc": "2026-02-07T18:45:02.725784Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1352807",
+    "1352808",
+    "1352809"
+  ],
+  "markets_len": 3,
+  "series_ids": [
+    "10330"
+  ],
+  "series_len": 1,
+  "series_slug": "primeira-liga"
+}

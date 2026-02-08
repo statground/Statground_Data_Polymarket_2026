@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-07T18:30:05.857199Z",
+  "event_creationDate": "2026-02-07T18:36:18.670704Z",
+  "event_endDate": "2026-03-05T20:10:00Z",
+  "event_id": "201500",
+  "event_startDate": "2026-02-07T18:36:18.67071Z",
+  "event_updatedAt": "2026-02-08T01:44:00.504071Z",
+  "folder_dt_utc": "2026-02-07T18:30:05.857199Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1352776",
+    "1352778",
+    "1352780"
+  ],
+  "markets_len": 3,
+  "series_ids": [
+    "10315"
+  ],
+  "series_len": 1,
+  "series_slug": "coupe-de-france"
+}
