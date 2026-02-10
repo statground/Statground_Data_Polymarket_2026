@@ -1,0 +1,26 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-10T11:00:21.613999Z",
+  "event_creationDate": "2026-02-10T11:07:21.241567Z",
+  "event_endDate": "2026-02-12T12:00:00Z",
+  "event_id": "204117",
+  "event_startDate": "2026-02-10T11:07:21.241574Z",
+  "event_updatedAt": "2026-02-10T12:50:00.78527Z",
+  "folder_dt_utc": "2026-02-10T11:00:21.613999Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1362548",
+    "1362550",
+    "1362551",
+    "1362544",
+    "1362545",
+    "1362546",
+    "1362547"
+  ],
+  "markets_len": 7,
+  "series_ids": [
+    "10743"
+  ],
+  "series_len": 1,
+  "series_slug": "toronto-daily-weather"
+}
