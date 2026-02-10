@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-09T19:39:01.64395Z",
+  "event_creationDate": "2026-02-09T19:45:25.55297Z",
+  "event_endDate": "2026-02-18T14:00:00Z",
+  "event_id": "203685",
+  "event_startDate": "2026-02-09T19:45:25.552977Z",
+  "event_updatedAt": "2026-02-10T01:23:59.074501Z",
+  "folder_dt_utc": "2026-02-09T19:39:01.643950Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1360933"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "11157"
+  ],
+  "series_len": 1,
+  "series_slug": "wix-earnings"
+}

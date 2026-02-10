@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-09T19:31:40.072966Z",
+  "event_creationDate": "2026-02-09T19:36:16.030622Z",
+  "event_endDate": "2026-02-23T22:00:00Z",
+  "event_id": "203679",
+  "event_startDate": "2026-02-09T19:36:16.030629Z",
+  "event_updatedAt": "2026-02-10T01:24:04.369432Z",
+  "folder_dt_utc": "2026-02-09T19:31:40.072966Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1360922"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "11159"
+  ],
+  "series_len": 1,
+  "series_slug": "hims-earnings"
+}

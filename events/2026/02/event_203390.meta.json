@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-09T14:49:19.721971Z",
+  "event_creationDate": "2026-02-09T15:19:30.67598Z",
+  "event_endDate": "2026-02-11T00:00:00Z",
+  "event_id": "203390",
+  "event_startDate": "2026-02-09T15:19:30.675986Z",
+  "event_updatedAt": "2026-02-10T01:24:02.877194Z",
+  "folder_dt_utc": "2026-02-09T14:49:19.721971Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1359602"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "11148"
+  ],
+  "series_len": 1,
+  "series_slug": "trump-and-netanyahu-hug"
+}

@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-09T15:03:21.169162Z",
+  "event_creationDate": "2026-02-09T15:15:39.676801Z",
+  "event_endDate": "2026-02-12T00:00:00Z",
+  "event_id": "203468",
+  "event_startDate": "2026-02-09T15:15:39.67682Z",
+  "event_updatedAt": "2026-02-10T01:24:04.691008Z",
+  "folder_dt_utc": "2026-02-09T15:03:21.169162Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1359695"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "11150"
+  ],
+  "series_len": 1,
+  "series_slug": "trump-meet-with-netanyahu"
+}

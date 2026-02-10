@@ -1,0 +1,21 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-09T19:04:46.248114Z",
+  "event_creationDate": "2026-02-09T23:57:41.320876Z",
+  "event_endDate": "2026-02-28T00:00:00Z",
+  "event_id": "203657",
+  "event_startDate": "2026-02-09T23:57:41.320882Z",
+  "event_updatedAt": "2026-02-10T01:24:01.162661Z",
+  "folder_dt_utc": "2026-02-09T19:04:46.248114Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1360788",
+    "1360789"
+  ],
+  "markets_len": 2,
+  "series_ids": [
+    "10897"
+  ],
+  "series_len": 1,
+  "series_slug": "us-forces-seize-another-oil-ship"
+}
