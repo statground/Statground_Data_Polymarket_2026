@@ -1,0 +1,27 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-10T13:55:08.76606Z",
+  "event_creationDate": "2026-02-10T18:41:25.242509Z",
+  "event_endDate": "2026-02-11T00:00:00Z",
+  "event_id": "204241",
+  "event_startDate": "2026-02-10T18:41:25.242523Z",
+  "event_updatedAt": "2026-02-10T18:49:42.384173Z",
+  "folder_dt_utc": "2026-02-10T13:55:08.766060Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1362829",
+    "1362833",
+    "1362826",
+    "1362827",
+    "1362828",
+    "1362831",
+    "1362830",
+    "1362832"
+  ],
+  "markets_len": 8,
+  "series_ids": [
+    "10061"
+  ],
+  "series_len": 1,
+  "series_slug": "mrbeast-views-day-1"
+}

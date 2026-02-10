@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-10T13:00:21.06675Z",
+  "event_creationDate": "2026-02-11T14:30:00Z",
+  "event_endDate": "2026-02-11T21:00:00Z",
+  "event_id": "204184",
+  "event_startDate": "2026-02-10T13:05:27.105898Z",
+  "event_updatedAt": "2026-02-10T18:49:43.202358Z",
+  "folder_dt_utc": "2026-02-10T13:00:21.066750Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1362708"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "10381"
+  ],
+  "series_len": 1,
+  "series_slug": "ndx-daily-up-or-down"
+}

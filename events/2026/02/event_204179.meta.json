@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-10T13:00:18.135365Z",
+  "event_creationDate": "2026-02-11T14:30:00Z",
+  "event_endDate": "2026-02-11T21:00:00Z",
+  "event_id": "204179",
+  "event_startDate": "2026-02-10T13:05:26.293829Z",
+  "event_updatedAt": "2026-02-10T18:49:45.938791Z",
+  "folder_dt_utc": "2026-02-10T13:00:18.135365Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1362698"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "10458"
+  ],
+  "series_len": 1,
+  "series_slug": "comex-silver-futures-daily-up-or-down"
+}
