@@ -1,0 +1,26 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-11T11:00:53.218769Z",
+  "event_creationDate": "2026-02-11T11:09:29.087608Z",
+  "event_endDate": "2026-02-13T12:00:00Z",
+  "event_id": "204926",
+  "event_startDate": "2026-02-11T11:09:29.087618Z",
+  "event_updatedAt": "2026-02-11T12:43:45.724587Z",
+  "folder_dt_utc": "2026-02-11T11:00:53.218769Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1365656",
+    "1365657",
+    "1365658",
+    "1365659",
+    "1365660",
+    "1365661",
+    "1365662"
+  ],
+  "markets_len": 7,
+  "series_ids": [
+    "10902"
+  ],
+  "series_len": 1,
+  "series_slug": "wellington-daily-weather"
+}
