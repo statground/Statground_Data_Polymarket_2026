@@ -1,0 +1,37 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-10T15:52:27.257833Z",
+  "event_creationDate": "2026-02-11T00:07:27.696271Z",
+  "event_endDate": "2026-02-17T00:00:00Z",
+  "event_id": "204329",
+  "event_startDate": "2026-02-11T00:07:27.69629Z",
+  "event_updatedAt": "2026-02-11T01:23:50.357739Z",
+  "folder_dt_utc": "2026-02-10T15:52:27.257833Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1363074",
+    "1363075",
+    "1363076",
+    "1363078",
+    "1363079",
+    "1363080",
+    "1363081",
+    "1363084",
+    "1363086",
+    "1363089",
+    "1363090",
+    "1363082",
+    "1363087",
+    "1363088",
+    "1363077",
+    "1363083",
+    "1363085",
+    "1363091"
+  ],
+  "markets_len": 18,
+  "series_ids": [
+    "10865"
+  ],
+  "series_len": 1,
+  "series_slug": "billboard-1-album"
+}

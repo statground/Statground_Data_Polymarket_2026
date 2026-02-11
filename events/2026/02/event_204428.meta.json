@@ -1,0 +1,26 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-10T18:12:08.434855Z",
+  "event_creationDate": "2026-02-10T23:52:15.800958Z",
+  "event_endDate": "2026-02-17T00:00:00Z",
+  "event_id": "204428",
+  "event_startDate": "2026-02-10T23:52:15.800969Z",
+  "event_updatedAt": "2026-02-11T01:23:53.573813Z",
+  "folder_dt_utc": "2026-02-10T18:12:08.434855Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1363610",
+    "1363611",
+    "1363607",
+    "1363609",
+    "1363612",
+    "1363608",
+    "1363613"
+  ],
+  "markets_len": 7,
+  "series_ids": [
+    "10779"
+  ],
+  "series_len": 1,
+  "series_slug": "tsa-daily"
+}

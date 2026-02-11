@@ -1,0 +1,38 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-10T16:21:40.971219Z",
+  "event_creationDate": "2026-02-10T23:49:51.225229Z",
+  "event_endDate": "2026-02-17T00:00:00Z",
+  "event_id": "204343",
+  "event_startDate": "2026-02-10T23:49:51.225251Z",
+  "event_updatedAt": "2026-02-11T01:23:47.670598Z",
+  "folder_dt_utc": "2026-02-10T16:21:40.971219Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1363218",
+    "1363221",
+    "1363222",
+    "1363223",
+    "1363224",
+    "1363225",
+    "1363209",
+    "1363210",
+    "1363217",
+    "1363219",
+    "1363227",
+    "1363228",
+    "1363230",
+    "1363213",
+    "1363214",
+    "1363220",
+    "1363231",
+    "1363226",
+    "1363229"
+  ],
+  "markets_len": 19,
+  "series_ids": [
+    "10441"
+  ],
+  "series_len": 1,
+  "series_slug": "top-netflix-movie-week"
+}
