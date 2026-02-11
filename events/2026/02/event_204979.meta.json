@@ -1,0 +1,24 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-11T13:00:01.324373Z",
+  "event_creationDate": "2026-02-12T14:30:00Z",
+  "event_endDate": "2026-02-12T21:00:00Z",
+  "event_id": "204979",
+  "event_startDate": "2026-02-11T13:03:39.653394Z",
+  "event_updatedAt": "2026-02-11T18:49:25.588641Z",
+  "folder_dt_utc": "2026-02-11T13:00:01.324373Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1365926",
+    "1365927",
+    "1365928",
+    "1365929",
+    "1365930"
+  ],
+  "markets_len": 5,
+  "series_ids": [
+    "10946"
+  ],
+  "series_len": 1,
+  "series_slug": "aapl-multi-strikes-weekly"
+}

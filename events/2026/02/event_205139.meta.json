@@ -1,0 +1,27 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-11T16:04:51.608488Z",
+  "event_creationDate": "2026-02-11T18:27:21.720994Z",
+  "event_endDate": "2026-03-06T00:00:00Z",
+  "event_id": "205139",
+  "event_startDate": "2026-02-11T18:27:21.721001Z",
+  "event_updatedAt": "2026-02-11T18:49:21.478004Z",
+  "folder_dt_utc": "2026-02-11T16:04:51.608488Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1366274",
+    "1366275",
+    "1366278",
+    "1366280",
+    "1366276",
+    "1366279",
+    "1366281",
+    "1366277"
+  ],
+  "markets_len": 8,
+  "series_ids": [
+    "10028"
+  ],
+  "series_len": 1,
+  "series_slug": "jobs-added"
+}

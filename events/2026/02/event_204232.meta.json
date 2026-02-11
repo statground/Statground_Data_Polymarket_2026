@@ -2,20 +2,21 @@
   "entity": "event",
   "event_createdAt": "2026-02-10T13:30:07.900262Z",
   "event_creationDate": "2026-02-10T13:34:01.188526Z",
-  "event_endDate": "2026-02-12T00:00:00Z",
+  "event_endDate": "2026-02-12T00:10:00Z",
   "event_id": "204232",
   "event_startDate": "2026-02-10T13:34:01.188537Z",
-  "event_updatedAt": "2026-02-11T12:45:53.751941Z",
+  "event_updatedAt": "2026-02-11T18:51:24.80624Z",
   "folder_dt_utc": "2026-02-10T13:30:07.900262Z",
   "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
+    "1366812",
     "1362812",
     "1362813",
     "1362814",
     "1362815",
     "1362816"
   ],
-  "markets_len": 5,
+  "markets_len": 6,
   "series_ids": [
     "10310"
   ],
