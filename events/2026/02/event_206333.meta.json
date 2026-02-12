@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-12T13:53:37.628333Z",
+  "event_creationDate": "2026-02-12T13:59:42.0415Z",
+  "event_endDate": "2026-02-26T22:00:00Z",
+  "event_id": "206333",
+  "event_startDate": "2026-02-12T13:59:42.041504Z",
+  "event_updatedAt": "2026-02-12T18:49:05.541455Z",
+  "folder_dt_utc": "2026-02-12T13:53:37.628333Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1369373"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "11182"
+  ],
+  "series_len": 1,
+  "series_slug": "dell-earnings"
+}

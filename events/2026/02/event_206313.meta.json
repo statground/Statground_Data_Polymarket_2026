@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-12T13:23:14.740563Z",
+  "event_creationDate": "2026-02-12T13:29:28.849512Z",
+  "event_endDate": "2026-02-26T22:00:00Z",
+  "event_id": "206313",
+  "event_startDate": "2026-02-12T13:29:28.849519Z",
+  "event_updatedAt": "2026-02-12T18:49:10.257125Z",
+  "folder_dt_utc": "2026-02-12T13:23:14.740563Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1369345"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "11177"
+  ],
+  "series_len": 1,
+  "series_slug": "adsk-earnings"
+}

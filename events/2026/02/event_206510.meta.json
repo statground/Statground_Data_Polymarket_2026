@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-12T15:23:33.325852Z",
+  "event_creationDate": "2026-02-12T15:29:19.261666Z",
+  "event_endDate": "2026-02-26T14:00:00Z",
+  "event_id": "206510",
+  "event_startDate": "2026-02-12T15:29:19.26167Z",
+  "event_updatedAt": "2026-02-12T18:49:06.872035Z",
+  "folder_dt_utc": "2026-02-12T15:23:33.325852Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1369672"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "11189"
+  ],
+  "series_len": 1,
+  "series_slug": "pzza-earnings"
+}
