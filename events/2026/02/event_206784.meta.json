@@ -1,0 +1,28 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-12T19:45:05.746067Z",
+  "event_creationDate": "2026-02-12T19:52:00.494514Z",
+  "event_endDate": "2026-02-26T17:45:00Z",
+  "event_id": "206784",
+  "event_startDate": "2026-02-12T19:52:00.494526Z",
+  "event_updatedAt": "2026-02-13T01:21:28.867554Z",
+  "folder_dt_utc": "2026-02-12T19:45:05.746067Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1370570",
+    "1370572",
+    "1370574",
+    "1370576",
+    "1370578",
+    "1370580",
+    "1370582",
+    "1370584",
+    "1370586"
+  ],
+  "markets_len": 9,
+  "series_ids": [
+    "10209"
+  ],
+  "series_len": 1,
+  "series_slug": "uel-2025"
+}
