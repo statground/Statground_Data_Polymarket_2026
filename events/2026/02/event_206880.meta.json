@@ -1,0 +1,21 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-12T21:22:20.10132Z",
+  "event_creationDate": "2026-02-13T00:31:53.70322Z",
+  "event_endDate": "2026-02-20T00:00:00Z",
+  "event_id": "206880",
+  "event_startDate": "2026-02-13T00:31:53.703226Z",
+  "event_updatedAt": "2026-02-13T06:49:46.06854Z",
+  "folder_dt_utc": "2026-02-12T21:22:20.101320Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1370894",
+    "1370895"
+  ],
+  "markets_len": 2,
+  "series_ids": [
+    "11194"
+  ],
+  "series_len": 1,
+  "series_slug": "judy-shelton-fed-chair-nomination-odds"
+}

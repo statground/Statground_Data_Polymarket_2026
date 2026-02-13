@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-12T20:00:06.99672Z",
+  "event_creationDate": "2026-02-12T20:09:22.348537Z",
+  "event_endDate": "2026-02-26T17:45:00Z",
+  "event_id": "206805",
+  "event_startDate": "2026-02-12T20:09:22.348552Z",
+  "event_updatedAt": "2026-02-13T06:47:12.224949Z",
+  "folder_dt_utc": "2026-02-12T20:00:06.996720Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1370669",
+    "1370671",
+    "1370672"
+  ],
+  "markets_len": 3,
+  "series_ids": [
+    "10437"
+  ],
+  "series_len": 1,
+  "series_slug": "europa-conference-league"
+}
