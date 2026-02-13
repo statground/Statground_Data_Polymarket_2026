@@ -1,0 +1,28 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-13T11:00:11.5391Z",
+  "event_creationDate": "2026-02-13T11:05:16.390856Z",
+  "event_endDate": "2026-02-26T22:30:00Z",
+  "event_id": "207432",
+  "event_startDate": "2026-02-13T11:05:16.390867Z",
+  "event_updatedAt": "2026-02-13T12:35:05.944065Z",
+  "folder_dt_utc": "2026-02-13T11:00:11.539100Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1371989",
+    "1371999",
+    "1371984",
+    "1371992",
+    "1371996",
+    "1371986",
+    "1371993",
+    "1371994",
+    "1371995"
+  ],
+  "markets_len": 9,
+  "series_ids": [
+    "10312"
+  ],
+  "series_len": 1,
+  "series_slug": "primera-divisin-argentina"
+}
