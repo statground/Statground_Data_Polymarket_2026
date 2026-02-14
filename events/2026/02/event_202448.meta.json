@@ -5,15 +5,17 @@
   "event_endDate": "2026-02-14T22:00:00Z",
   "event_id": "202448",
   "event_startDate": "2026-02-08T15:07:38.711905Z",
-  "event_updatedAt": "2026-02-14T12:28:01.689526Z",
+  "event_updatedAt": "2026-02-14T18:20:09.243043Z",
   "folder_dt_utc": "2026-02-08T15:03:01.221684Z",
   "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "1375627",
     "1375631",
+    "1377353",
+    "1377355",
     "1355882"
   ],
-  "markets_len": 3,
+  "markets_len": 5,
   "series_ids": [
     "10470"
   ],
