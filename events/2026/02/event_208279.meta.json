@@ -1,0 +1,32 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-13T23:00:00.899265Z",
+  "event_creationDate": "2026-02-13T23:00:00.425Z",
+  "event_endDate": "2026-02-20T21:00:00Z",
+  "event_id": "208279",
+  "event_startDate": "2026-02-13T23:00:00.425Z",
+  "event_updatedAt": "2026-02-14T01:14:04.892657Z",
+  "folder_dt_utc": "2026-02-13T23:00:00.899265Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1374569",
+    "1374571",
+    "1374572",
+    "1374574",
+    "1374576",
+    "1374584",
+    "1374596",
+    "1374578",
+    "1374581",
+    "1374587",
+    "1374589",
+    "1374591",
+    "1374593"
+  ],
+  "markets_len": 13,
+  "series_ids": [
+    "10493"
+  ],
+  "series_len": 1,
+  "series_slug": "apple-multi-strikes-weekly"
+}

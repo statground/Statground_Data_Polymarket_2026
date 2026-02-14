@@ -1,0 +1,26 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-13T16:32:27.528454Z",
+  "event_creationDate": "2026-02-13T21:37:53.718049Z",
+  "event_endDate": "2026-02-22T00:00:00Z",
+  "event_id": "207920",
+  "event_startDate": "2026-02-13T21:37:53.718058Z",
+  "event_updatedAt": "2026-02-14T01:14:01.049399Z",
+  "folder_dt_utc": "2026-02-13T16:32:27.528454Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1373440",
+    "1373442",
+    "1373445",
+    "1373439",
+    "1373441",
+    "1373444",
+    "1373443"
+  ],
+  "markets_len": 7,
+  "series_ids": [
+    "10716"
+  ],
+  "series_len": 1,
+  "series_slug": "tsa-passengers"
+}

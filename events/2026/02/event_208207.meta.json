@@ -1,0 +1,28 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-13T21:28:59.336037Z",
+  "event_creationDate": "2026-02-13T22:05:30.310782Z",
+  "event_endDate": "2026-04-03T00:00:00Z",
+  "event_id": "208207",
+  "event_startDate": "2026-02-13T22:05:30.310798Z",
+  "event_updatedAt": "2026-02-14T01:14:04.091635Z",
+  "folder_dt_utc": "2026-02-13T21:28:59.336037Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1374351",
+    "1374353",
+    "1374357",
+    "1374352",
+    "1374354",
+    "1374358",
+    "1374355",
+    "1374350",
+    "1374356"
+  ],
+  "markets_len": 9,
+  "series_ids": [
+    "10044"
+  ],
+  "series_len": 1,
+  "series_slug": "unemployment"
+}

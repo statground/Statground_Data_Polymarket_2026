@@ -1,0 +1,32 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-13T23:00:26.090661Z",
+  "event_creationDate": "2026-02-13T23:00:25.992Z",
+  "event_endDate": "2026-02-20T21:00:00Z",
+  "event_id": "208314",
+  "event_startDate": "2026-02-13T23:00:25.992Z",
+  "event_updatedAt": "2026-02-14T01:14:04.808674Z",
+  "folder_dt_utc": "2026-02-13T23:00:26.090661Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1374772",
+    "1374774",
+    "1374776",
+    "1374778",
+    "1374780",
+    "1374782",
+    "1374784",
+    "1374786",
+    "1374788",
+    "1374790",
+    "1374791",
+    "1374792",
+    "1374793"
+  ],
+  "markets_len": 13,
+  "series_ids": [
+    "10500"
+  ],
+  "series_len": 1,
+  "series_slug": "netflix-multi-strikes-weekly"
+}

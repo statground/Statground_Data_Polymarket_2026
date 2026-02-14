@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-13T21:30:01.878561Z",
+  "event_creationDate": "2026-02-13T21:40:10.221787Z",
+  "event_endDate": "2026-03-13T08:00:00Z",
+  "event_id": "208208",
+  "event_startDate": "2026-02-13T21:40:10.221791Z",
+  "event_updatedAt": "2026-02-14T01:14:02.334227Z",
+  "folder_dt_utc": "2026-02-13T21:30:01.878561Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1374359",
+    "1374360",
+    "1374361"
+  ],
+  "markets_len": 3,
+  "series_ids": [
+    "10438"
+  ],
+  "series_len": 1,
+  "series_slug": "a-league-soccer"
+}

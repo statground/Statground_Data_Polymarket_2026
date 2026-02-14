@@ -1,0 +1,28 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-14T00:00:24.1502Z",
+  "event_creationDate": "2026-02-14T00:09:27.577544Z",
+  "event_endDate": "2026-02-21T18:00:00Z",
+  "event_id": "208358",
+  "event_startDate": "2026-02-14T00:09:27.577554Z",
+  "event_updatedAt": "2026-02-14T01:11:46.477368Z",
+  "folder_dt_utc": "2026-02-14T00:00:24.150200Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1375067",
+    "1375068",
+    "1375069",
+    "1375070",
+    "1375071",
+    "1375072",
+    "1375064",
+    "1375065",
+    "1375066"
+  ],
+  "markets_len": 9,
+  "series_ids": [
+    "10361"
+  ],
+  "series_len": 1,
+  "series_slug": "saudi-professional-league"
+}
