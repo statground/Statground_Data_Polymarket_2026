@@ -1,0 +1,30 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-13T23:00:25.976382Z",
+  "event_creationDate": "2026-02-13T23:17:39.667207Z",
+  "event_endDate": "2026-02-20T21:00:00Z",
+  "event_id": "208313",
+  "event_startDate": "2026-02-13T23:17:39.667217Z",
+  "event_updatedAt": "2026-02-14T12:25:40.394705Z",
+  "folder_dt_utc": "2026-02-13T23:00:25.976382Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1374770",
+    "1374771",
+    "1374773",
+    "1374777",
+    "1374775",
+    "1374779",
+    "1374781",
+    "1374783",
+    "1374785",
+    "1374787",
+    "1374789"
+  ],
+  "markets_len": 11,
+  "series_ids": [
+    "10640"
+  ],
+  "series_len": 1,
+  "series_slug": "pltr-neg-risk-weekly"
+}
