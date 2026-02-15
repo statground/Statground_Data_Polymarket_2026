@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-14T20:45:01.894065Z",
+  "event_creationDate": "2026-02-14T20:49:45.091658Z",
+  "event_endDate": "2026-03-14T17:00:00Z",
+  "event_id": "209335",
+  "event_startDate": "2026-02-14T20:49:45.091665Z",
+  "event_updatedAt": "2026-02-15T01:20:04.727502Z",
+  "folder_dt_utc": "2026-02-14T20:45:01.894065Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1378431",
+    "1378432",
+    "1378433"
+  ],
+  "markets_len": 3,
+  "series_ids": [
+    "10362"
+  ],
+  "series_len": 1,
+  "series_slug": "norway-eliteserien"
+}
