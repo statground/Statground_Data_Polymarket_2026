@@ -1,0 +1,30 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-15T17:00:08.763652Z",
+  "event_creationDate": "2026-02-15T17:06:55.910567Z",
+  "event_endDate": "2026-02-22T17:00:00Z",
+  "event_id": "210702",
+  "event_startDate": "2026-02-15T17:06:55.91058Z",
+  "event_updatedAt": "2026-02-15T18:21:56.451892Z",
+  "folder_dt_utc": "2026-02-15T17:00:08.763652Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1382299",
+    "1382302",
+    "1382305",
+    "1382308",
+    "1382310",
+    "1382312",
+    "1382315",
+    "1382318",
+    "1382321",
+    "1382323",
+    "1382325"
+  ],
+  "markets_len": 11,
+  "series_ids": [
+    "10022"
+  ],
+  "series_len": 1,
+  "series_slug": "solana-multi-strikes-weekly"
+}

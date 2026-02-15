@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-15T16:30:14.699934Z",
+  "event_creationDate": "2026-02-21T00:05:00Z",
+  "event_endDate": "2026-02-21T00:05:00Z",
+  "event_id": "210656",
+  "event_startDate": "2026-02-15T16:35:17.088702Z",
+  "event_updatedAt": "2026-02-15T18:19:57.349741Z",
+  "folder_dt_utc": "2026-02-15T16:30:14.699934Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1382153"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "10699"
+  ],
+  "series_len": 1,
+  "series_slug": "ahl-2026"
+}
