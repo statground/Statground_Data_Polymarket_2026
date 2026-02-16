@@ -1,0 +1,28 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-16T11:00:09.35008Z",
+  "event_creationDate": "2026-02-16T16:00:00Z",
+  "event_endDate": "2026-02-23T16:00:00Z",
+  "event_id": "211522",
+  "event_startDate": "2026-02-16T11:03:56.938615Z",
+  "event_updatedAt": "2026-02-16T12:33:32.474548Z",
+  "folder_dt_utc": "2026-02-16T11:00:09.350080Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1384843",
+    "1385092",
+    "1385089",
+    "1385091",
+    "1385090",
+    "1385093",
+    "1385094",
+    "1385095",
+    "1385096"
+  ],
+  "markets_len": 9,
+  "series_ids": [
+    "10365"
+  ],
+  "series_len": 1,
+  "series_slug": "atp"
+}

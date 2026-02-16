@@ -1,0 +1,28 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-16T11:00:13.552113Z",
+  "event_creationDate": "2026-02-16T11:09:28.03666Z",
+  "event_endDate": "2026-02-18T12:00:00Z",
+  "event_id": "211531",
+  "event_startDate": "2026-02-16T11:09:28.036672Z",
+  "event_updatedAt": "2026-02-16T12:33:33.747773Z",
+  "folder_dt_utc": "2026-02-16T11:00:13.552113Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1384878",
+    "1384880",
+    "1384882",
+    "1384884",
+    "1384886",
+    "1384888",
+    "1384889",
+    "1384890",
+    "1384891"
+  ],
+  "markets_len": 9,
+  "series_ids": [
+    "11169"
+  ],
+  "series_len": 1,
+  "series_slug": "sao-paulo-daily-weather"
+}
