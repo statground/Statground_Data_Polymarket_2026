@@ -1,0 +1,28 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-15T21:00:09.126223Z",
+  "event_creationDate": "2026-02-15T21:05:23.654143Z",
+  "event_endDate": "2026-02-28T13:00:00Z",
+  "event_id": "210926",
+  "event_startDate": "2026-02-15T21:05:23.654149Z",
+  "event_updatedAt": "2026-02-16T01:17:51.071474Z",
+  "folder_dt_utc": "2026-02-15T21:00:09.126223Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1383185",
+    "1383187",
+    "1383189",
+    "1383191",
+    "1383193",
+    "1383194",
+    "1383195",
+    "1383196",
+    "1383197"
+  ],
+  "markets_len": 9,
+  "series_ids": [
+    "10675"
+  ],
+  "series_len": 1,
+  "series_slug": "ligue-2"
+}
