@@ -1,0 +1,28 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-16T14:30:01.911658Z",
+  "event_creationDate": "2026-02-16T14:33:38.864368Z",
+  "event_endDate": "2026-03-01T12:30:00Z",
+  "event_id": "211671",
+  "event_startDate": "2026-02-16T14:33:38.864384Z",
+  "event_updatedAt": "2026-02-16T18:29:13.981296Z",
+  "folder_dt_utc": "2026-02-16T14:30:01.911658Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1385375",
+    "1385376",
+    "1385377",
+    "1385378",
+    "1385379",
+    "1385380",
+    "1385382",
+    "1385384",
+    "1385386"
+  ],
+  "markets_len": 9,
+  "series_ids": [
+    "10670"
+  ],
+  "series_len": 1,
+  "series_slug": "bundesliga-2"
+}
