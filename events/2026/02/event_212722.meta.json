@@ -1,0 +1,28 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-17T11:00:50.880462Z",
+  "event_creationDate": "2026-02-17T11:16:13.785459Z",
+  "event_endDate": "2026-02-19T12:00:00Z",
+  "event_id": "212722",
+  "event_startDate": "2026-02-17T11:16:13.785469Z",
+  "event_updatedAt": "2026-02-17T12:37:59.422281Z",
+  "folder_dt_utc": "2026-02-17T11:00:50.880462Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1388363",
+    "1388364",
+    "1388365",
+    "1388366",
+    "1388367",
+    "1388368",
+    "1388369",
+    "1388370",
+    "1388371"
+  ],
+  "markets_len": 9,
+  "series_ids": [
+    "10728"
+  ],
+  "series_len": 1,
+  "series_slug": "miami-daily-weather"
+}
