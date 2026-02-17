@@ -1,0 +1,28 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-16T20:00:16.378158Z",
+  "event_creationDate": "2026-02-16T20:06:52.339931Z",
+  "event_endDate": "2026-03-01T15:15:00Z",
+  "event_id": "212072",
+  "event_startDate": "2026-02-16T20:06:52.339939Z",
+  "event_updatedAt": "2026-02-17T01:15:49.527719Z",
+  "folder_dt_utc": "2026-02-16T20:00:16.378158Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1386718",
+    "1386719",
+    "1386720",
+    "1386721",
+    "1386723",
+    "1386724",
+    "1386725",
+    "1386726",
+    "1386727"
+  ],
+  "markets_len": 9,
+  "series_ids": [
+    "10672"
+  ],
+  "series_len": 1,
+  "series_slug": "la-liga-2"
+}
