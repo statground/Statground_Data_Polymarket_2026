@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-17T14:04:21.915672Z",
+  "event_creationDate": "2026-02-17T16:27:31.21986Z",
+  "event_endDate": "2026-02-28T00:00:00Z",
+  "event_id": "212884",
+  "event_startDate": "2026-02-17T16:27:31.219867Z",
+  "event_updatedAt": "2026-02-17T18:41:37.95635Z",
+  "folder_dt_utc": "2026-02-17T14:04:21.915672Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1388717"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "11209"
+  ],
+  "series_len": 1,
+  "series_slug": "chatgpt-outage"
+}

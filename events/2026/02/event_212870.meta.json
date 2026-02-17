@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-17T13:52:19.461141Z",
+  "event_creationDate": "2026-02-17T16:17:41.579245Z",
+  "event_endDate": "2026-02-28T00:00:00Z",
+  "event_id": "212870",
+  "event_startDate": "2026-02-17T16:17:41.579253Z",
+  "event_updatedAt": "2026-02-17T18:41:37.866252Z",
+  "folder_dt_utc": "2026-02-17T13:52:19.461141Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1388694",
+    "1389075",
+    "1388695"
+  ],
+  "markets_len": 3,
+  "series_ids": [
+    "11145"
+  ],
+  "series_len": 1,
+  "series_slug": "us-x-iran-diplomatic-meeting"
+}

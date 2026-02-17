@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-17T18:05:55.378401Z",
+  "event_creationDate": "2026-02-19T13:40:00Z",
+  "event_endDate": "2026-02-19T22:59:59.999Z",
+  "event_id": "213116",
+  "event_startDate": "2026-02-17T18:11:49.131082Z",
+  "event_updatedAt": "2026-02-17T18:41:38.523852Z",
+  "folder_dt_utc": "2026-02-17T18:05:55.378401Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1389600"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "11137"
+  ],
+  "series_len": 1,
+  "series_slug": "womens-winter-olympics-hockey"
+}
