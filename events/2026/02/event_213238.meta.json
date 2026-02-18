@@ -1,0 +1,37 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-17T20:47:09.526072Z",
+  "event_creationDate": "2026-02-17T23:26:52.985964Z",
+  "event_endDate": "2026-02-24T00:00:00Z",
+  "event_id": "213238",
+  "event_startDate": "2026-02-17T23:26:52.985991Z",
+  "event_updatedAt": "2026-02-18T01:17:36.35247Z",
+  "folder_dt_utc": "2026-02-17T20:47:09.526072Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1389938",
+    "1389939",
+    "1389945",
+    "1389950",
+    "1389955",
+    "1389943",
+    "1389949",
+    "1389953",
+    "1389954",
+    "1389942",
+    "1389944",
+    "1389946",
+    "1389947",
+    "1389948",
+    "1389940",
+    "1389941",
+    "1389951",
+    "1389952"
+  ],
+  "markets_len": 18,
+  "series_ids": [
+    "10773"
+  ],
+  "series_len": 1,
+  "series_slug": "2-us-netflix-show"
+}
