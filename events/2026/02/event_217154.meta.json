@@ -1,0 +1,24 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-19T16:30:11.026696Z",
+  "event_creationDate": "2026-03-18T23:00:00Z",
+  "event_endDate": "2026-03-18T23:00:00Z",
+  "event_id": "217154",
+  "event_startDate": "2026-02-19T16:35:54.815895Z",
+  "event_updatedAt": "2026-02-19T18:39:38.899871Z",
+  "folder_dt_utc": "2026-02-19T16:30:11.026696Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1398010",
+    "1398011",
+    "1398008",
+    "1398009",
+    "1398012"
+  ],
+  "markets_len": 5,
+  "series_ids": [
+    "10346"
+  ],
+  "series_len": 1,
+  "series_slug": "nhl-2026"
+}

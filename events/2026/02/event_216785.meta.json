@@ -1,0 +1,24 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-19T13:00:15.748722Z",
+  "event_creationDate": "2026-02-20T14:30:00Z",
+  "event_endDate": "2026-02-20T21:00:00Z",
+  "event_id": "216785",
+  "event_startDate": "2026-02-19T13:05:53.727135Z",
+  "event_updatedAt": "2026-02-19T18:39:40.999741Z",
+  "folder_dt_utc": "2026-02-19T13:00:15.748722Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1397417",
+    "1397418",
+    "1397419",
+    "1397420",
+    "1397421"
+  ],
+  "markets_len": 5,
+  "series_ids": [
+    "10952"
+  ],
+  "series_len": 1,
+  "series_slug": "tsla-multi-strikes-weekly"
+}
