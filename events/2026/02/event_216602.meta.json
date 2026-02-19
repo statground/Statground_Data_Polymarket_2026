@@ -1,0 +1,28 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-19T11:00:52.257266Z",
+  "event_creationDate": "2026-02-19T11:17:47.407086Z",
+  "event_endDate": "2026-02-21T12:00:00Z",
+  "event_id": "216602",
+  "event_startDate": "2026-02-19T11:17:47.407097Z",
+  "event_updatedAt": "2026-02-19T12:37:57.920801Z",
+  "folder_dt_utc": "2026-02-19T11:00:52.257266Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1397076",
+    "1397077",
+    "1397078",
+    "1397079",
+    "1397080",
+    "1397081",
+    "1397082",
+    "1397083",
+    "1397084"
+  ],
+  "markets_len": 9,
+  "series_ids": [
+    "10726"
+  ],
+  "series_len": 1,
+  "series_slug": "chicago-daily-weather"
+}

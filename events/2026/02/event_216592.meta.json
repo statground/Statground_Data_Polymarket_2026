@@ -1,0 +1,28 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-19T11:00:08.837819Z",
+  "event_creationDate": "2026-02-19T11:19:47.516812Z",
+  "event_endDate": "2026-02-21T12:00:00Z",
+  "event_id": "216592",
+  "event_startDate": "2026-02-19T11:19:47.516832Z",
+  "event_updatedAt": "2026-02-19T12:41:24.876212Z",
+  "folder_dt_utc": "2026-02-19T11:00:08.837819Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1396983",
+    "1396984",
+    "1396985",
+    "1396986",
+    "1396987",
+    "1396988",
+    "1396989",
+    "1396990",
+    "1396991"
+  ],
+  "markets_len": 9,
+  "series_ids": [
+    "11168"
+  ],
+  "series_len": 1,
+  "series_slug": "paris-daily-weather"
+}
