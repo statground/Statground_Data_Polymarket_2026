@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-19T22:00:07.576901Z",
+  "event_creationDate": "2026-02-19T22:06:20.869957Z",
+  "event_endDate": "2026-03-18T10:30:00Z",
+  "event_id": "217701",
+  "event_startDate": "2026-02-19T22:06:20.869964Z",
+  "event_updatedAt": "2026-02-20T12:35:34.02769Z",
+  "folder_dt_utc": "2026-02-19T22:00:07.576901Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1399483",
+    "1399485",
+    "1399488"
+  ],
+  "markets_len": 3,
+  "series_ids": [
+    "10444"
+  ],
+  "series_len": 1,
+  "series_slug": "k-league"
+}
