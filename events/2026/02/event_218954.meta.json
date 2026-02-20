@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-20T13:00:15.862964Z",
+  "event_creationDate": "2026-02-23T14:30:00Z",
+  "event_endDate": "2026-02-23T21:00:00Z",
+  "event_id": "218954",
+  "event_startDate": "2026-02-20T13:05:18.607452Z",
+  "event_updatedAt": "2026-02-20T18:33:18.056707Z",
+  "folder_dt_utc": "2026-02-20T13:00:15.862964Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1402039"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "10390"
+  ],
+  "series_len": 1,
+  "series_slug": "nflx-daily-up-or-down"
+}

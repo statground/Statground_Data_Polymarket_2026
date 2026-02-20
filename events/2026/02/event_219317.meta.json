@@ -1,0 +1,28 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-20T16:00:11.329672Z",
+  "event_creationDate": "2026-02-20T16:05:36.796516Z",
+  "event_endDate": "2026-03-06T00:30:00Z",
+  "event_id": "219317",
+  "event_startDate": "2026-02-20T16:05:36.796522Z",
+  "event_updatedAt": "2026-02-20T18:33:17.97169Z",
+  "folder_dt_utc": "2026-02-20T16:00:11.329672Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1402624",
+    "1402625",
+    "1402626",
+    "1402627",
+    "1402628",
+    "1402629",
+    "1402630",
+    "1402631",
+    "1402632"
+  ],
+  "markets_len": 9,
+  "series_ids": [
+    "10291"
+  ],
+  "series_len": 1,
+  "series_slug": "sud-2025"
+}
