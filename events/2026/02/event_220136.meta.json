@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-21T00:34:40.709571Z",
+  "event_creationDate": "2026-02-21T00:38:05.909966Z",
+  "event_endDate": "2026-02-22T17:00:00Z",
+  "event_id": "220136",
+  "event_startDate": "2026-02-21T00:38:05.909976Z",
+  "event_updatedAt": "2026-02-21T01:06:55.652283Z",
+  "folder_dt_utc": "2026-02-21T00:34:40.709571Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1404776"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "10085"
+  ],
+  "series_len": 1,
+  "series_slug": "hyperliquid-up-or-down-daily"
+}
