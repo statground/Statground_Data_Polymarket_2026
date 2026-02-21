@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-21T16:30:05.422973Z",
+  "event_creationDate": "2026-02-27T18:45:00Z",
+  "event_endDate": "2026-02-27T18:45:00Z",
+  "event_id": "221532",
+  "event_startDate": "2026-02-21T16:36:02.98217Z",
+  "event_updatedAt": "2026-02-21T18:16:50.863211Z",
+  "folder_dt_utc": "2026-02-21T16:30:05.422973Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1408245"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "10703"
+  ],
+  "series_len": 1,
+  "series_slug": "snhl-2026"
+}
