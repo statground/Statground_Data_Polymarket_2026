@@ -1,0 +1,30 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-21T05:00:01.078111Z",
+  "event_creationDate": "2026-02-21T05:07:05.232772Z",
+  "event_endDate": "2026-03-03T17:00:00Z",
+  "event_id": "220472",
+  "event_startDate": "2026-02-21T05:07:05.232793Z",
+  "event_updatedAt": "2026-02-21T06:27:58.477364Z",
+  "folder_dt_utc": "2026-02-21T05:00:01.078111Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1405303",
+    "1405305",
+    "1405309",
+    "1405312",
+    "1405315",
+    "1405317",
+    "1405320",
+    "1405323",
+    "1405326",
+    "1405330",
+    "1405333"
+  ],
+  "markets_len": 11,
+  "series_ids": [
+    "11108"
+  ],
+  "series_len": 1,
+  "series_slug": "trump-truth-social"
+}
