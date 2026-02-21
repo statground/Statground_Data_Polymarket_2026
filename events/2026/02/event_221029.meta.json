@@ -1,0 +1,28 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-21T11:00:27.138754Z",
+  "event_creationDate": "2026-02-21T11:15:39.508675Z",
+  "event_endDate": "2026-02-23T12:00:00Z",
+  "event_id": "221029",
+  "event_startDate": "2026-02-21T11:15:39.508683Z",
+  "event_updatedAt": "2026-02-21T12:23:38.192916Z",
+  "folder_dt_utc": "2026-02-21T11:00:27.138754Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1407171",
+    "1407172",
+    "1407173",
+    "1407174",
+    "1407176",
+    "1407177",
+    "1407178",
+    "1407179",
+    "1407180"
+  ],
+  "markets_len": 9,
+  "series_ids": [
+    "10742"
+  ],
+  "series_len": 1,
+  "series_slug": "seoul-daily-weather"
+}

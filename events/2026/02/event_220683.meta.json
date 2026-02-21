@@ -1,0 +1,28 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-21T07:00:04.978345Z",
+  "event_creationDate": "2026-02-21T07:08:02.423564Z",
+  "event_endDate": "2026-03-06T19:00:00Z",
+  "event_id": "220683",
+  "event_startDate": "2026-02-21T07:08:02.423575Z",
+  "event_updatedAt": "2026-02-21T12:26:09.759537Z",
+  "folder_dt_utc": "2026-02-21T07:00:04.978345Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1406457",
+    "1406458",
+    "1406461",
+    "1406466",
+    "1406470",
+    "1406473",
+    "1406474",
+    "1406475",
+    "1406476"
+  ],
+  "markets_len": 9,
+  "series_ids": [
+    "10286"
+  ],
+  "series_len": 1,
+  "series_slug": "ere-2025"
+}

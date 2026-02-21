@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-21T11:00:49.707758Z",
+  "event_creationDate": "2026-02-22T05:45:00Z",
+  "event_endDate": "2026-03-01T05:45:00Z",
+  "event_id": "221054",
+  "event_startDate": "2026-02-21T11:06:21.506399Z",
+  "event_updatedAt": "2026-02-21T12:26:18.585051Z",
+  "folder_dt_utc": "2026-02-21T11:00:49.707758Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1407236"
+  ],
+  "markets_len": 1,
+  "series_ids": [
+    "11199"
+  ],
+  "series_len": 1,
+  "series_slug": "wtt-womens-singles"
+}
