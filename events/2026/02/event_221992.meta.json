@@ -1,0 +1,36 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-21T21:00:06.659565Z",
+  "event_creationDate": "2026-02-21T21:05:42.33343Z",
+  "event_endDate": "2026-02-22T23:30:00Z",
+  "event_id": "221992",
+  "event_startDate": "2026-02-21T21:05:42.333435Z",
+  "event_updatedAt": "2026-02-22T01:16:23.371919Z",
+  "folder_dt_utc": "2026-02-21T21:00:06.659565Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1410178",
+    "1410180",
+    "1410310",
+    "1410313",
+    "1410314",
+    "1410316",
+    "1410318",
+    "1410320",
+    "1410311",
+    "1410312",
+    "1410315",
+    "1410317",
+    "1410319",
+    "1410321",
+    "1410174",
+    "1410176",
+    "1410183"
+  ],
+  "markets_len": 17,
+  "series_ids": [
+    "10311"
+  ],
+  "series_len": 1,
+  "series_slug": "league-of-legends"
+}

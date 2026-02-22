@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-21T18:45:01.369901Z",
+  "event_creationDate": "2026-02-21T18:50:00.728471Z",
+  "event_endDate": "2026-03-21T10:45:00Z",
+  "event_id": "221805",
+  "event_startDate": "2026-02-21T18:50:00.728478Z",
+  "event_updatedAt": "2026-02-22T01:16:18.84181Z",
+  "folder_dt_utc": "2026-02-21T18:45:01.369901Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1409712",
+    "1409713",
+    "1409714"
+  ],
+  "markets_len": 3,
+  "series_ids": [
+    "10313"
+  ],
+  "series_len": 1,
+  "series_slug": "russian-premier-league"
+}

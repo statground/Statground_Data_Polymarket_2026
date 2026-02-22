@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_createdAt": "2026-02-21T20:00:08.093501Z",
+  "event_creationDate": "2026-02-21T20:07:24.654253Z",
+  "event_endDate": "2026-03-21T19:00:00Z",
+  "event_id": "221905",
+  "event_startDate": "2026-02-21T20:07:24.654259Z",
+  "event_updatedAt": "2026-02-22T01:16:26.040947Z",
+  "folder_dt_utc": "2026-02-21T20:00:08.093501Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "market_ids": [
+    "1409936",
+    "1409938",
+    "1409941"
+  ],
+  "markets_len": 3,
+  "series_ids": [
+    "10359"
+  ],
+  "series_len": 1,
+  "series_slug": "brazil-serie-a"
+}
